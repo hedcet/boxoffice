@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Trivandrum,"BMS|SreeKaleeswarySreeSaraswathy2K3DKaliyikkav",Malayalam,11:00,RoyalCircle,₹150,87,2
+Kerala,Thodupuzha,"BMS|SilverHillsCinemas4KLaser3DDolby71",Malayalam,11:45,Silver,₹130,172,0
+Kerala,Trivandrum,"BMS|PvrLuluTrivandrum",Malayalam,13:05,Recliner,₹300,8,0
+Kerala,Trivandrum,"BMS|PvrLuluTrivandrum",Malayalam,13:05,Prime,₹160,34,4
+Kerala,Trivandrum,"BMS|PvrLuluTrivandrum",Malayalam,13:05,Classic,₹140,65,0
+Kerala,Trivandrum,"BMS|SreeKaleeswarySreeSaraswathy2K3DKaliyikkav",Malayalam,14:30,RoyalCircle,₹150,87,0
+Kerala,Thodupuzha,"BMS|SilverHillsCinemas4KLaser3DDolby71",Malayalam,14:30,Silver,₹130,172,2
+Kerala,Trivandrum,"BMS|SreeKaleeswarySreeSaraswathy2K3DKaliyikkav",Malayalam,18:15,RoyalCircle,₹150,87,0
+Kerala,Trivandrum,"BMS|NewTheatre4KRgbLaserDolbyAtmosTrivandrum",Malayalam,18:30,Elite,₹150,173,4
+Kerala,Koppam,"BMS|SyndicateCinemasKoppam4KDolbyAtmosRgbLaser",Malayalam,19:00,Platinum,₹250,16,0
+Kerala,Koppam,"BMS|SyndicateCinemasKoppam4KDolbyAtmosRgbLaser",Malayalam,19:00,Gold,₹129,166,7
+Kerala,Koppam,"BMS|SyndicateCinemasKoppam4KDolbyAtmosRgbLaser",Malayalam,19:00,PlatinumCouple,₹250,4,0
+Kerala,Trivandrum,"BMS|SreeKaleeswarySreeSaraswathy2K3DKaliyikkav",Malayalam,21:45,RoyalCircle,₹150,87,0
