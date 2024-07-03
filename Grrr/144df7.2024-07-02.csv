@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Thrissur,"BMS|InoxSobhaCityMall",Malayalam,13:20,RoyalRecliner,₹199,10,0
+Kerala,Thrissur,"BMS|InoxSobhaCityMall",Malayalam,13:20,Club,₹99,63,0
+Kerala,Thrissur,"BMS|InoxSobhaCityMall",Malayalam,13:20,Executive,₹99,22,0
+Kerala,Thrissur,"BMS|InoxSobhaCityMall",Malayalam,13:20,Royal,₹99,28,14
+Kerala,Trivandrum,"BMS|PvrLuluTrivandrum",Malayalam,13:30,Recliner,₹199,8,3
+Kerala,Trivandrum,"BMS|PvrLuluTrivandrum",Malayalam,13:30,Classic,₹99,60,0
+Kerala,Trivandrum,"BMS|PvrLuluTrivandrum",Malayalam,13:30,Prime,₹99,39,8
