@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kochi,"BMS|PadmaCinemaKochi",Malayalam,15:00,Platinum,₹160,178,178
+Kerala,Kochi,"BMS|PvrLuluKochi",Malayalam,16:25,Recliner,₹300,9,3
+Kerala,Kochi,"BMS|PvrLuluKochi",Malayalam,16:25,Prime,₹160,64,11
+Kerala,Kochi,"BMS|PvrLuluKochi",Malayalam,16:25,ClassicPlus,₹140,91,10
+Kerala,Kochi,"BMS|PvrLuluKochi",Malayalam,16:25,Classic,₹110,39,1
+Kerala,Kochi,"BMS|PadmaCinemaKochi",Malayalam,17:15,Platinum,₹160,178,16
+Kerala,Irinjalakuda,"BMS|JkCinemas4KDolbyAtmosKizhuthani",Malayalam,18:45,Diamond,₹130,53,0
+Kerala,Irinjalakuda,"BMS|JkCinemas4KDolbyAtmosKizhuthani",Malayalam,18:45,Gold,₹125,157,0
+Kerala,Irinjalakuda,"BMS|JkCinemas4KDolbyAtmosKizhuthani",Malayalam,21:30,Diamond,₹130,53,0
+Kerala,Irinjalakuda,"BMS|JkCinemas4KDolbyAtmosKizhuthani",Malayalam,21:30,Gold,₹125,157,0
+Kerala,Kochi,"BMS|PvrForumMallKochi",Malayalam,22:40,Recliner,₹350,8,8
+Kerala,Kochi,"BMS|PvrForumMallKochi",Malayalam,22:40,Elite,₹170,125,67
+Kerala,Kochi,"BMS|PvrForumMallKochi",Malayalam,22:40,Classic,₹150,14,0
