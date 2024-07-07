@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kochi,PadmaCinemaKochi,Malayalam,14:45,Platinum,₹160,178,28
+Kerala,Kochi,PvrLuluKochi,Malayalam,16:25,Recliner,₹350,9,5
+Kerala,Kochi,PvrLuluKochi,Malayalam,16:25,Prime,₹160,64,20
+Kerala,Kochi,PvrLuluKochi,Malayalam,16:25,ClassicPlus,₹140,91,33
+Kerala,Kochi,PvrLuluKochi,Malayalam,16:25,Classic,₹110,39,0
+Kerala,Irinjalakuda,JkCinemas4KDolbyAtmosKizhuthani,Malayalam,18:45,Diamond,₹130,53,0
+Kerala,Irinjalakuda,JkCinemas4KDolbyAtmosKizhuthani,Malayalam,18:45,Gold,₹125,157,0
+Kerala,Irinjalakuda,JkCinemas4KDolbyAtmosKizhuthani,Malayalam,21:30,Diamond,₹130,53,2
+Kerala,Irinjalakuda,JkCinemas4KDolbyAtmosKizhuthani,Malayalam,21:30,Gold,₹125,157,0
+Kerala,Kochi,PvrForumMallKochi,Malayalam,22:40,Recliner,₹350,8,6
+Kerala,Kochi,PvrForumMallKochi,Malayalam,22:40,Elite,₹170,125,77
+Kerala,Kochi,PvrForumMallKochi,Malayalam,22:40,Classic,₹150,14,1
