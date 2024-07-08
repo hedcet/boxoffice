@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Ernakulam,PadmaCinemaKochi,Malayalam,12:00,Platinum,₹160,178,178
+Kerala,Ernakulam,PadmaCinemaKochi,Malayalam,12:00,Platinum,₹160,178,18
+Kerala,Ernakulam,PvrLuluKochi,Malayalam,16:25,Recliner,₹300,9,0
+Kerala,Ernakulam,PvrLuluKochi,Malayalam,16:25,Prime,₹160,64,5
+Kerala,Ernakulam,PvrLuluKochi,Malayalam,16:25,ClassicPlus,₹140,91,6
+Kerala,Ernakulam,PvrLuluKochi,Malayalam,16:25,Classic,₹110,39,0
+Kerala,Thrissur,JkCinemas4KDolbyAtmosKizhuthani,Malayalam,18:45,Diamond,₹130,53,0
+Kerala,Thrissur,JkCinemas4KDolbyAtmosKizhuthani,Malayalam,18:45,Gold,₹125,157,0
+Kerala,Thrissur,JkCinemas4KDolbyAtmosKizhuthani,Malayalam,21:30,Diamond,₹130,53,4
+Kerala,Thrissur,JkCinemas4KDolbyAtmosKizhuthani,Malayalam,21:30,Gold,₹125,157,0
+Kerala,Ernakulam,PvrForumMallKochi,Malayalam,22:40,Recliner,₹350,8,0
+Kerala,Ernakulam,PvrForumMallKochi,Malayalam,22:40,Elite,₹170,125,42
+Kerala,Ernakulam,PvrForumMallKochi,Malayalam,22:40,Classic,₹150,14,1
+Kerala,Kottayam,PuthettuCinemasPala,,17:00,GoldsofaSlider,₹254,44,0
+Kerala,Kottayam,PuthettuCinemasPala,,17:00,DiamondfamilyCouch,₹304,12,0
+Kerala,Kottayam,PuthettuCinemasPala,,17:00,Silver,₹204,128,0
