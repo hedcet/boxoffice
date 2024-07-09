@@ -1,0 +1,6 @@
+District,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Malappuram,AlankarCinemasACPonnani,Malayalam,18:15,Diamond,₹120,153,0
+Malappuram,AlankarCinemasACPonnani,Malayalam,21:30,Diamond,₹120,153,15
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,Malayalam,15:00,Platinum,₹150,22,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,Malayalam,15:00,Gold,₹129,144,37
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,21:30,Platinum,₹125,262,34
