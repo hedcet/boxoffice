@@ -1,0 +1,9 @@
+District,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,ArtechCinemasTrivandrum,Malayalam,11:00,Platinum,₹190,106,17
+Trivandrum,ArtechCinemasTrivandrum,Malayalam,11:00,Silver,₹170,90,0
+Ernakulam,LakshmiCinemasCantonMallMuvattupuzha,Malayalam,14:45,Gold,₹150,121,0
+Ernakulam,SangeetaCinemaKochi,Malayalam,15:00,BlueCircle,₹150,187,18
+Kasaragod,MoviemaxCircleKasaragod,Malayalam,16:30,Max2,₹129.8,195,0
+Palakkad,NewAromaTheatrePalakkad,Malayalam,18:00,PlatinumCircle,₹129,200,3
+Palakkad,NewAromaTheatrePalakkad,Malayalam,18:00,DiamondCircle,₹110,229,4
+Alappuzha,SnTheatreHaripad,Malayalam,18:15,Screen1,₹110,175,0
