@@ -1,0 +1,7 @@
+District,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kottayam,RajansMetroACErattupetta,Malayalam,14:30,FamilyBox,₹160,16,0
+Kottayam,RajansMetroACErattupetta,Malayalam,14:30,Platinum,₹140,62,0
+Kottayam,RajansMetroACErattupetta,Malayalam,14:30,Gold,₹110,256,34
+Kottayam,RajansMetroACChristieErattupetta,Malayalam,18:15,FamilyBox,₹160,16,0
+Kottayam,RajansMetroACChristieErattupetta,Malayalam,18:15,Platinum,₹140,62,0
+Kottayam,RajansMetroACChristieErattupetta,Malayalam,18:15,Gold,₹110,256,34
