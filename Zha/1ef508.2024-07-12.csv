@@ -1,0 +1,17 @@
+District,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,ShivasakthiCinemasDolbyAtmos,Malayalam,11:00,Executive,₹110,324,0
+Palakkad,NewAromaTheatrePalakkad,Malayalam,11:15,PlatinumCircle,₹129,200,0
+Palakkad,NewAromaTheatrePalakkad,Malayalam,11:15,DiamondCircle,₹110,229,10
+Trivandrum,SaMultiplex4KDolbyAtmosPulluvila,Malayalam,11:30,Platinum,₹250,20,0
+Trivandrum,SaMultiplex4KDolbyAtmosPulluvila,Malayalam,11:30,Gold,₹150,114,0
+Ernakulam,VanithaCineplexRgbLaser4K3DAtmosEdappally,Malayalam,12:00,Screen4,₹180,154,110
+Ernakulam,VanithaCineplexRgbLaser4K3DAtmosEdappally,Malayalam,12:00,Screen4Sofa,₹260,15,0
+Trivandrum,GreenfieldMoviemaxCinemasTrivandrum,Malayalam,13:00,Executive,₹150,132,7
+Kollam,MyCinemasHJComplexKarunagapally,Malayalam,13:20,ClassicOffline,₹150,118,0
+Palakkad,SyndicateCinemasKoppam4KDolbyAtmosRgbLaser,Malayalam,15:00,Platinum,₹250,16,0
+Palakkad,SyndicateCinemasKoppam4KDolbyAtmosRgbLaser,Malayalam,15:00,Gold,₹129,166,1
+Palakkad,SyndicateCinemasKoppam4KDolbyAtmosRgbLaser,Malayalam,15:00,PlatinumCouple,₹250,4,0
+Ernakulam,SangeetaCinemaKochi,Malayalam,15:00,BlueCircle,₹150,187,22
+Ernakulam,SaritaCinemasKacheripady,Malayalam,15:00,BlueCircle,₹150,681,654
+Kozhikode,RegalCinemasKozhikode,Malayalam,17:45,FirstclassSc1,₹200,95,95
+Kozhikode,SandhyaCineHouseBalussery,Malayalam,17:00,Class1,₹150,156,40
