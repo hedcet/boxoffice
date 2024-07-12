@@ -1,0 +1,17 @@
+District,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Malappuram,VismayaCinemas4KDolbyAtmosPerinthalmanna,Malayalam,10:00,Platinum,₹100,151,22
+Kannur,SumangaliCinemasAnnurRoad,Malayalam,10:30,DiamondCircle,₹130,141,0
+Kasaragod,DeepthiCinemasAC2KDolbyAtmosKanhangad,Malayalam,10:45,Gold,₹150,204,17
+Kasaragod,MoviemaxCircleKasaragod,Malayalam,13:30,Max2,₹129.8,195,2
+Kannur,SumangaliCinemasAnnurRoad,Malayalam,13:30,DiamondCircle,₹130,423,0
+Malappuram,LadderCinemasIndianMall,Malayalam,14:30,Executive,₹150,222,0
+Kasaragod,MoviemaxCircleKasaragod,Malayalam,16:30,Max2,₹129.8,195,2
+Kannur,SumangaliCinemasAnnurRoad,Malayalam,16:30,DiamondCircle,₹130,282,0
+Malappuram,LadderCinemasIndianMall,Malayalam,18:30,Executive,₹150,74,0
+Trivandrum,PvrLuluTrivandrum,Malayalam,19:20,Recliner,₹300,8,4
+Trivandrum,PvrLuluTrivandrum,Malayalam,19:20,Prime,₹160,39,34
+Trivandrum,PvrLuluTrivandrum,Malayalam,19:20,Classic,₹140,60,4
+Kannur,SumangaliCinemasAnnurRoad,Malayalam,19:30,DiamondCircle,₹130,423,0
+Palakkad,AromaScreen2Palakkad,Malayalam,21:00,KingCircle,₹129,235,235
+Malappuram,VismayaCinemas4KDolbyAtmosPerinthalmanna,Malayalam,22:00,Platinum,₹100,333,157
+Kannur,SavithaTheatreKannur,Malayalam,17:30,Melody,₹177,249,0
