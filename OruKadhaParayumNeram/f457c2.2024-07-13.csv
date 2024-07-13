@@ -1,0 +1,5 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Alappuzha,CCinemasChengannur,Malayalam,13:20,Chirry,₹150,101,22
+Pathanamthitta,ChilankaCinemasThiruvalla,Malayalam,18:15,Balcony,₹129.78,277,20
+Pathanamthitta,ChilankaCinemasThiruvalla,Malayalam,18:15,FirstClass,₹129.78,198,0
+Alappuzha,GanamTheatreComplexACKattanam,Malayalam,18:30,FirstClass,₹140,129,0
