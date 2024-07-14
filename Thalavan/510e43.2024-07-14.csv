@@ -1,0 +1,13 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kottayam,JoSAC2K3D71DolbySoundPala,Malayalam,11:30,RoyalCircle,₹150,286,7
+Kasaragod,VgmMultiplexAC2K71Dolby,Malayalam,12:15,VgmRed,₹190,161,21
+Kannur,SumangaliCinemasAnnurRoad,Malayalam,13:30,PlatinumCircle,₹130,322,0
+Kottayam,AshaTheatreKottayam,Malayalam,14:15,Gold,₹130,187,37
+Kottayam,AshaTheatreKottayam,Malayalam,14:15,Silver,₹110,33,0
+Kottayam,JoSAC2K3D71DolbySoundPala,Malayalam,14:30,RoyalCircle,₹150,286,0
+Kannur,SumangaliCinemasAnnurRoad,Malayalam,16:30,PlatinumCircle,₹130,322,0
+Kottayam,JoSAC2K3D71DolbySoundPala,Malayalam,18:00,RoyalCircle,₹150,286,15
+Kannur,SumangaliCinemasAnnurRoad,Malayalam,19:30,PlatinumCircle,₹130,483,11
+Kottayam,JoSAC2K3D71DolbySoundPala,Malayalam,21:00,RoyalCircle,₹150,286,10
+Kottayam,UgmCinemasEttumanoor,Malayalam,21:30,Platinum,₹250,16,0
+Kottayam,UgmCinemasEttumanoor,Malayalam,21:30,Gold,₹150,171,37
