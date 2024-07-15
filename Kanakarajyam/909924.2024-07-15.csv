@@ -1,0 +1,4 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,12:30,Recliner,₹300,27,1
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,12:30,Premium,₹150,165,2
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,12:30,Executive,₹100,40,0
