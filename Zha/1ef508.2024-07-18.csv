@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,NewAromaTheatrePalakkad,Malayalam,11:15,PlatinumCircle,₹129,200,0
+Palakkad,NewAromaTheatrePalakkad,Malayalam,11:15,DiamondCircle,₹110,229,0
+Trivandrum,GreenfieldMoviemaxCinemasTrivandrum,Malayalam,14:00,Executive,₹150,132,7
+Ernakulam,SangeetaCinemaKochi,Malayalam,15:00,BlueCircle,₹150,187,18
+Ernakulam,SaritaCinemasKacheripady,Malayalam,15:00,BlueCircle,₹150,681,654
+Kozhikode,RegalCinemasKozhikode,Malayalam,17:45,FirstclassSc1,₹200,95,22
