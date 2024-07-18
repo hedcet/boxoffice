@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,15:00,Gold,₹250,33,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,15:00,Executive,₹150,426,21
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,15:00,Economy,₹100,48,0
+Ernakulam,SaritaCinemasKacheripady,Malayalam,18:00,BlueCircle,₹150,454,436
+Ernakulam,SaritaCinemasKacheripady,Malayalam,21:00,BlueCircle,₹150,681,654
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,22:00,Gold,₹250,11,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,22:00,Executive,₹150,142,56
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,22:00,Economy,₹100,16,0
+Ernakulam,VanithaCineplexRgbLaser4K3DAtmosEdappally,Malayalam,15:30,Screen3,₹160,234,24
+Ernakulam,VanithaCineplexRgbLaser4K3DAtmosEdappally,Malayalam,15:30,BalconySofa,₹240,63,21
+Trivandrum,ArtechCinemasTrivandrum,Malayalam,16:30,Gold,₹300,13,0
+Trivandrum,ArtechCinemasTrivandrum,Malayalam,16:30,Platinum,₹190,112,33
+Trivandrum,ArtechCinemasTrivandrum,Malayalam,16:30,Silver,₹170,68,12
+Ernakulam,SangeetaCinemaKochi,Malayalam,18:00,BlueCircle,₹150,187,73
+Ernakulam,SangeetaCinemaKochi,Malayalam,21:00,BlueCircle,₹150,187,84
