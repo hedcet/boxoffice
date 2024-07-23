@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,JassCinema2K71SurroundOttapalam,Tamil,11:00,GoldCircle,₹129.8,352,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,11:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,11:00,Platinum,₹110,154,22
+Palakkad,JassCinema2K71SurroundOttapalam,Tamil,14:00,GoldCircle,₹129.8,352,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,14:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,14:00,Platinum,₹110,154,24
+Palakkad,KrvMoviesKottayi,Tamil,14:30,FirstClass,₹110,125,1
+Palakkad,JassCinema2K71SurroundOttapalam,Tamil,18:00,GoldCircle,₹129.8,352,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,18:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,18:00,Platinum,₹110,154,22
+Palakkad,KrvMoviesKottayi,Tamil,18:15,FirstClass,₹110,125,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,21:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,21:00,Platinum,₹110,154,22
+Palakkad,JassCinema2K71SurroundOttapalam,Tamil,21:15,GoldCircle,₹129.8,352,0
+Palakkad,KrvMoviesKottayi,Tamil,21:30,FirstClass,₹110,125,1
