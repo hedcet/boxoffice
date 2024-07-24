@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,12:35,Normal,₹99,20,3
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,12:35,Executive,₹99,43,3
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,12:35,Premium,₹99,44,27
+Palakkad,RavirajComplexACKozhinjampara,Malayalam,14:00,FirstClass,₹110,172,77
+Palakkad,RavirajComplexACKozhinjampara,Malayalam,18:00,FirstClass,₹110,172,77
+Ernakulam,KripaMovies4KLaserEnhancedDolby71SurroundKurumassery,Malayalam,18:15,GoldCircle,₹110,500,102
+Palakkad,RavirajComplexACKozhinjampara,Malayalam,21:00,FirstClass,₹110,172,77
+Ernakulam,KripaMovies4KLaserEnhancedDolby71SurroundKurumassery,Malayalam,21:30,GoldCircle,₹110,250,51
