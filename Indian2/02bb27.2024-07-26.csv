@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,CinepolisCentreSquareMallKochi,Tamil,12:45,Normal,₹140,13,13
+Ernakulam,CinepolisCentreSquareMallKochi,Tamil,12:45,Executive,₹160,26,26
+Ernakulam,CinepolisCentreSquareMallKochi,Tamil,12:45,Premium,₹180,67,67
+Palakkad,NewAromaTheatrePalakkad,Tamil,21:00,PlatinumCircle,₹129,200,0
+Palakkad,NewAromaTheatrePalakkad,Tamil,21:00,DiamondCircle,₹110,229,0
