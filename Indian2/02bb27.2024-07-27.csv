@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,SangeetaCinemaKochi,Tamil,12:00,BlueCircle,₹150,187,19
+Ernakulam,CinepolisCentreSquareMallKochi,Tamil,12:45,Normal,₹140,13,0
+Ernakulam,CinepolisCentreSquareMallKochi,Tamil,12:45,Executive,₹160,26,0
+Ernakulam,CinepolisCentreSquareMallKochi,Tamil,12:45,Premium,₹180,67,1
+Ernakulam,SaritaCinemasKacheripady,Tamil,12:00,BlueCircle,₹150,227,218
