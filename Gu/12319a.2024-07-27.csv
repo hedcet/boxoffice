@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,SaritaCinemasKacheripady,Malayalam,18:00,BlueCircle,₹150,227,218
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,18:45,Gold,₹150,153,98
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,18:45,Executive,₹130,456,54
+Ernakulam,SaritaCinemasKacheripady,Malayalam,21:00,BlueCircle,₹150,681,654
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,15:30,Recliner,₹450,27,1
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,15:30,Premium,₹220,146,18
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,15:30,Executive,₹150,25,0
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,15:30,Lounger,₹250,22,0
+Ernakulam,SangeetaCinemaKochi,Malayalam,18:00,BlueCircle,₹150,187,44
+Ernakulam,SangeetaCinemaKochi,Malayalam,21:00,BlueCircle,₹150,187,42
