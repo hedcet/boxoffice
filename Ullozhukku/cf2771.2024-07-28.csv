@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,CinepolisMotTrivandrum,Malayalam,12:45,PlatinumExecutive,₹200,32,21
+Trivandrum,CinepolisMotTrivandrum,Malayalam,12:45,PlatinumPremium,₹250,33,16
+Trivandrum,PvrLuluTrivandrum,Malayalam,16:40,Recliner,₹450,8,8
+Trivandrum,PvrLuluTrivandrum,Malayalam,16:40,Prime,₹240,34,34
+Trivandrum,PvrLuluTrivandrum,Malayalam,16:40,Classic,₹150,65,40
+Ernakulam,PvrLuluKochi,Malayalam,17:30,Recliner,₹400,9,7
+Ernakulam,PvrLuluKochi,Malayalam,17:30,Prime,₹180,64,58
+Ernakulam,PvrLuluKochi,Malayalam,17:30,ClassicPlus,₹140,91,40
+Ernakulam,PvrLuluKochi,Malayalam,17:30,Classic,₹110,39,0
+Kottayam,AshaTheatreKottayam,Malayalam,18:00,Gold,₹130,187,31
+Kottayam,AshaTheatreKottayam,Malayalam,18:00,Silver,₹110,33,0
+Ernakulam,ShenoysKochi,Malayalam,19:30,Diamond,₹220,71,21
+Ernakulam,PvrForumMallKochi,Malayalam,22:20,Recliner,₹350,10,4
+Ernakulam,PvrForumMallKochi,Malayalam,22:20,Elite,₹180,111,30
+Ernakulam,PvrForumMallKochi,Malayalam,22:20,Classic,₹160,24,0
