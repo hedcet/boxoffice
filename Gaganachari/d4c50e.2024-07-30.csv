@@ -1,0 +1,12 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,Kanoos2KRavipuram,Malayalam,12:00,Diamond,₹110,186,0
+Ernakulam,PvrLuluKochi,Malayalam,12:00,Recliner,₹199,10,7
+Ernakulam,PvrLuluKochi,Malayalam,12:00,Classic,₹99,39,0
+Ernakulam,PvrLuluKochi,Malayalam,12:00,ClassicPlus,₹99,91,3
+Ernakulam,PvrLuluKochi,Malayalam,12:00,Prime,₹99,68,12
+Ernakulam,Kanoos2KRavipuram,Malayalam,15:00,Diamond,₹110,186,0
+Trivandrum,PvrLuluTrivandrum,Malayalam,17:30,Recliner,₹199,7,3
+Trivandrum,PvrLuluTrivandrum,Malayalam,17:30,Classic,₹99,70,0
+Trivandrum,PvrLuluTrivandrum,Malayalam,17:30,Prime,₹99,51,20
+Ernakulam,Kanoos2KRavipuram,Malayalam,19:00,Diamond,₹110,186,0
+Ernakulam,Kanoos2KRavipuram,Malayalam,21:50,Diamond,₹110,186,2
