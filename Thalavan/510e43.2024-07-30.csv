@@ -1,0 +1,5 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kannur,RajadhaniCinemas,Malayalam,10:30,PlatinumCircle,₹130,88,0
+Kannur,RajadhaniCinemas,Malayalam,13:30,PlatinumCircle,₹130,264,0
+Kannur,RajadhaniCinemas,Malayalam,16:30,PlatinumCircle,₹130,176,0
+Kannur,RajadhaniCinemas,Malayalam,19:30,PlatinumCircle,₹130,264,0
