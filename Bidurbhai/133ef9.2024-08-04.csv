@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PvrLuluKochi,Assamese,19:30,Recliner,₹350,10,9
+Ernakulam,PvrLuluKochi,Assamese,19:30,Prime,₹180,68,68
+Ernakulam,PvrLuluKochi,Assamese,19:30,ClassicPlus,₹160,91,91
+Ernakulam,PvrLuluKochi,Assamese,19:30,Classic,₹140,39,38
+Ernakulam,PvrLuluKochi,Assamese,22:30,Recliner,₹300,10,2
+Ernakulam,PvrLuluKochi,Assamese,22:30,Prime,₹180,68,34
+Ernakulam,PvrLuluKochi,Assamese,22:30,ClassicPlus,₹160,91,3
+Ernakulam,PvrLuluKochi,Assamese,22:30,Classic,₹140,39,1
