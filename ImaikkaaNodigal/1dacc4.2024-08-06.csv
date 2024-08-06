@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Alappuzha,GanamTheatreComplexACKattanam,Tamil,11:00,FirstClass,₹140,129,67
+Idukki,SilverHillsCinemas4KLaser3DDolby71,Tamil,11:15,Silver,₹130,80,0
+Ernakulam,Kanoos2KRavipuram,Tamil,12:00,Diamond,₹110,186,0
+Alappuzha,GanamTheatreComplexACKattanam,Tamil,14:30,FirstClass,₹140,129,67
+Alappuzha,GanamTheatreComplexACKattanam,Tamil,18:15,FirstClass,₹140,129,67
+Alappuzha,GanamTheatreComplexACKattanam,Tamil,21:30,FirstClass,₹140,129,67
+Ernakulam,Kanoos2KRavipuram,Tamil,21:50,Diamond,₹110,186,0
+Idukki,SilverHillsCinemas4KLaser3DDolby71,Tamil,22:00,Silver,₹130,80,0
