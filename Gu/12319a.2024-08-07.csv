@@ -1,0 +1,13 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,11:30,Gold,₹150,51,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,11:30,Executive,₹130,152,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,18:30,Gold,₹150,102,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,18:30,Executive,₹130,304,48
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,21:30,Gold,₹150,51,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,21:30,Executive,₹130,152,15
+Ernakulam,SangeetaCinemaKochi,Malayalam,15:00,BlueCircle,₹150,187,42
+Ernakulam,SavitaCinemaKochi,Malayalam,18:00,Deluxe,₹150,555,50
+Ernakulam,VanithaCineplexRgbLaser4K3DAtmosEdappally,Malayalam,19:00,Screen4,₹160,154,76
+Ernakulam,VanithaCineplexRgbLaser4K3DAtmosEdappally,Malayalam,19:00,Screen4Sofa,₹240,15,4
+Kozhikode,ArcCoronation4KDolbyAtmos,Malayalam,20:15,Elite,₹160,146,57
+Ernakulam,SavitaCinemaKochi,Malayalam,21:00,Deluxe,₹150,555,57
