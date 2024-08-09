@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kasaragod,MagicFramesMehboobTheatreComplex4KKasaragod,Kannada,13:30,Executive,₹129.7,351,4
+Kasaragod,MagicFramesMehboobTheatreComplex4KKasaragod,Kannada,16:30,Executive,₹129.7,351,9
+Kasaragod,MagicFramesMehboobTheatreComplex4KKasaragod,Kannada,19:30,Executive,₹129.7,351,3
+Ernakulam,CinepolisCentreSquareMallKochi,Kannada,22:40,Normal,₹99,30,12
+Ernakulam,CinepolisCentreSquareMallKochi,Kannada,22:40,Executive,₹99,45,0
+Ernakulam,CinepolisCentreSquareMallKochi,Kannada,22:40,Premium,₹99,96,8
