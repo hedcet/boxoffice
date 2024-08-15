@@ -1,0 +1,13 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kannur,AlinkeelCinemas2KAtmos71Taliparamba,Malayalam,10:45,Reserved,₹129.8,190,7
+Kollam,GmaxCinemasJerome3D71JblKollam,Malayalam,11:30,Blue,₹160,170,0
+Kannur,AlinkeelCinemas2KAtmos71Taliparamba,Malayalam,13:45,Reserved,₹129.8,190,7
+Kollam,GmaxCinemasJerome3D71JblKollam,Malayalam,14:30,Blue,₹160,170,0
+Kannur,AlinkeelCinemas2KAtmos71Taliparamba,Malayalam,16:45,Reserved,₹129.8,190,7
+Kollam,GmaxCinemasJerome3D71JblKollam,Malayalam,18:30,Blue,₹180,170,18
+Kannur,AlinkeelCinemas2KAtmos71Taliparamba,Malayalam,19:45,Reserved,₹129.8,190,7
+Kollam,GmaxCinemasJerome3D71JblKollam,Malayalam,21:30,Blue,₹180,170,18
+Trivandrum,PvrLuluTrivandrum,Malayalam,22:00,Recliner,₹300,8,1
+Trivandrum,PvrLuluTrivandrum,Malayalam,22:00,Prime,₹180,39,2
+Trivandrum,PvrLuluTrivandrum,Malayalam,22:00,Classic,₹150,60,1
+Palakkad,KamMoviesVadakkenchery,Malayalam,23:59,Platinum,₹120,423,0
