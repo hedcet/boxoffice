@@ -1,0 +1,15 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,MridhangaCineplex4KDolbyAtmosPoovar,Malayalam,11:00,Balcony,₹200,72,0
+Trivandrum,MridhangaCineplex4KDolbyAtmosPoovar,Malayalam,11:00,Executive,₹150,282,0
+Kottayam,DhanyaRemyaChanganassery,Malayalam,11:00,Dhanya,₹135,423,0
+Kottayam,DhanyaRemyaKottayam,Malayalam,11:00,Dhanya,₹135,465,0
+Kollam,GmaxCinemasJerome3D71JblKollam,Malayalam,11:00,Red,₹160,279,19
+Kollam,GmaxCinemasJerome3D71JblKollam,Malayalam,14:45,Red,₹160,279,0
+Trivandrum,MridhangaCineplex4KDolbyAtmosPoovar,Malayalam,16:30,Balcony,₹200,72,0
+Trivandrum,MridhangaCineplex4KDolbyAtmosPoovar,Malayalam,16:30,Executive,₹150,282,0
+Trivandrum,MridhangaCineplex4KDolbyAtmosPoovar,Malayalam,18:45,Balcony,₹200,72,0
+Trivandrum,MridhangaCineplex4KDolbyAtmosPoovar,Malayalam,18:45,Executive,₹150,282,0
+Trivandrum,ThapasyaCineHouseAttingal,Malayalam,18:45,Circle,₹130,436,51
+Kollam,GmaxCinemasJerome3D71JblKollam,Malayalam,18:45,Red,₹180,279,17
+Trivandrum,ThapasyaCineHouseAttingal,Malayalam,21:15,Circle,₹130,436,49
+Kollam,GmaxCinemasJerome3D71JblKollam,Malayalam,21:45,Red,₹180,279,17
