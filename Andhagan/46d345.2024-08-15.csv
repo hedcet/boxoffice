@@ -1,0 +1,15 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,NewAromaTheatrePalakkad,Tamil,11:15,PlatinumCircle,₹129,200,0
+Palakkad,NewAromaTheatrePalakkad,Tamil,11:15,DiamondCircle,₹110,229,0
+Palakkad,CityCinema2KACAnaikatti,Tamil,11:30,Premium,₹100,236,90
+Palakkad,NewAromaTheatrePalakkad,Tamil,14:15,PlatinumCircle,₹129,200,0
+Palakkad,NewAromaTheatrePalakkad,Tamil,14:15,DiamondCircle,₹110,229,0
+Palakkad,CityCinema2KACAnaikatti,Tamil,14:30,Premium,₹100,236,90
+Trivandrum,MridhangaCineplex4KDolbyAtmosPoovar,Tamil,16:30,Executive,₹150,130,0
+Palakkad,NewAromaTheatrePalakkad,Tamil,18:00,PlatinumCircle,₹129,200,0
+Palakkad,NewAromaTheatrePalakkad,Tamil,18:00,DiamondCircle,₹110,229,0
+Palakkad,CityCinema2KACAnaikatti,Tamil,18:30,Premium,₹100,236,90
+Trivandrum,MridhangaCineplex4KDolbyAtmosPoovar,Tamil,18:45,Executive,₹150,130,0
+Palakkad,NewAromaTheatrePalakkad,Tamil,21:00,PlatinumCircle,₹129,200,0
+Palakkad,NewAromaTheatrePalakkad,Tamil,21:00,DiamondCircle,₹110,229,0
+Palakkad,CityCinema2KACAnaikatti,Tamil,21:30,Premium,₹100,236,90
