@@ -1,0 +1,12 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Pathanamthitta,SmithaTheatreUfoDtsAdoor,Malayalam,11:00,Reserved,₹90,399,333
+Malappuram,KairaliCinemas4KDolbyAtmosManjeri,Malayalam,11:00,LuxusCircle,₹130,927,124
+Trivandrum,PvrLuluTrivandrum,Malayalam,12:35,Recliner,₹350,8,0
+Trivandrum,PvrLuluTrivandrum,Malayalam,12:35,Prime,₹210,39,10
+Trivandrum,PvrLuluTrivandrum,Malayalam,12:35,Classic,₹160,60,7
+Malappuram,KairaliCinemas4KDolbyAtmosManjeri,Malayalam,14:15,LuxusCircle,₹130,927,124
+Pathanamthitta,SmithaTheatreUfoDtsAdoor,Malayalam,14:30,Reserved,₹90,399,333
+Malappuram,KairaliCinemas4KDolbyAtmosManjeri,Malayalam,18:15,LuxusCircle,₹130,927,226
+Pathanamthitta,SmithaTheatreUfoDtsAdoor,Malayalam,18:30,Reserved,₹90,399,333
+Malappuram,KairaliCinemas4KDolbyAtmosManjeri,Malayalam,21:15,LuxusCircle,₹130,927,196
+Pathanamthitta,SmithaTheatreUfoDtsAdoor,Malayalam,21:30,Reserved,₹90,399,333
