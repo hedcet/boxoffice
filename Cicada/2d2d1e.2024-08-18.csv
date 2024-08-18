@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,SangeetaCinemaKochi,Malayalam,10:00,BlueCircle,₹150,187,26
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:30,Platinum,₹220,27,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:30,Gold,₹200,54,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,21:30,Executive,₹110,70,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,22:15,Executive,₹110,70,0
