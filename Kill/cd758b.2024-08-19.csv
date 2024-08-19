@@ -1,0 +1,4 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,PvrLuluTrivandrum,Hindi,14:05,Recliner,₹300,8,0
+Trivandrum,PvrLuluTrivandrum,Hindi,14:05,Prime,₹160,34,3
+Trivandrum,PvrLuluTrivandrum,Hindi,14:05,Classic,₹140,65,2
