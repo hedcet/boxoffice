@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PvrLuluKochi,English,11:10,Classic,₹430,116,28
+Trivandrum,PvrLuluTrivandrum,English,14:50,Prime,₹380,32,25
+Trivandrum,PvrLuluTrivandrum,English,14:50,Classic,₹330,48,25
+Ernakulam,PvrLuluKochi,English,16:20,Classic,₹430,116,30
+Trivandrum,PvrLuluTrivandrum,English,19:50,Prime,₹380,32,10
+Trivandrum,PvrLuluTrivandrum,English,19:50,Classic,₹330,48,12
