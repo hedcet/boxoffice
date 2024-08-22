@@ -1,0 +1,17 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Thrissur,InoxSobhaCityMall,Malayalam,12:10,RoyalRecliner,₹290,10,0
+Thrissur,InoxSobhaCityMall,Malayalam,12:10,Club,₹170,66,11
+Thrissur,InoxSobhaCityMall,Malayalam,12:10,Royal,₹170,28,17
+Thrissur,InoxSobhaCityMall,Malayalam,12:10,Executive,₹130,22,10
+Ernakulam,PvrForumMallKochi,Malayalam,13:20,Recliner,₹400,8,0
+Ernakulam,PvrForumMallKochi,Malayalam,13:20,Classic,₹180,14,10
+Ernakulam,PvrForumMallKochi,Malayalam,13:20,Elite,₹180,125,12
+Kannur,ShanthiCinemasPayyanur,Malayalam,13:30,Platinum,₹130,314,32
+Ernakulam,ManuDMaxCinemasPuthenvelikkara,Malayalam,15:00,Diamond,₹110,252,2
+Trivandrum,PvrLuluTrivandrum,Malayalam,16:30,Recliner,₹300,8,0
+Trivandrum,PvrLuluTrivandrum,Malayalam,16:30,Prime,₹160,34,4
+Trivandrum,PvrLuluTrivandrum,Malayalam,16:30,Classic,₹140,65,16
+Kannur,ShanthiCinemasPayyanur,Malayalam,16:30,Platinum,₹130,314,32
+Ernakulam,ManuDMaxCinemasPuthenvelikkara,Malayalam,18:30,Diamond,₹110,252,0
+Kannur,ShanthiCinemasPayyanur,Malayalam,19:30,Platinum,₹130,314,32
+Ernakulam,ManuDMaxCinemasPuthenvelikkara,Malayalam,21:30,Diamond,₹110,252,0
