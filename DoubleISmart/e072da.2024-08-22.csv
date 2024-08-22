@@ -1,0 +1,13 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kollam,SeemaCineplexPathanapuram,Tamil,11:00,Audi2,₹140,121,0
+Trivandrum,PvrLuluTrivandrum,Telugu,16:10,Recliner,₹300,7,0
+Trivandrum,PvrLuluTrivandrum,Telugu,16:10,Prime,₹180,60,0
+Trivandrum,PvrLuluTrivandrum,Telugu,16:10,Classic,₹150,77,0
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,17:00,Recliner,₹390,27,1
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,17:00,Premium,₹190,146,2
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,17:00,Executive,₹100,25,0
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,17:00,Lounger,₹210,22,0
+Kasaragod,MagicFramesMehboobTheatreComplex4KKasaragod,Malayalam,19:30,Executive,₹129.7,175,175
+Ernakulam,PvrForumMallKochi,Telugu,22:30,Recliner,₹400,8,0
+Ernakulam,PvrForumMallKochi,Telugu,22:30,Elite,₹200,125,15
+Ernakulam,PvrForumMallKochi,Telugu,22:30,Classic,₹180,14,0
