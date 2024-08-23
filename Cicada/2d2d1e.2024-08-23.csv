@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,DharsanaCinemaComplexPiravom,Malayalam,10:00,Platinum,₹160,25,0
+Ernakulam,DharsanaCinemaComplexPiravom,Malayalam,10:00,Gold,₹140,243,4
+Ernakulam,DharsanaCinemaComplexPiravom,Malayalam,10:00,Silver,₹80,26,4
+Wayanad,VarnaTheatreMananthavady,Malayalam,11:30,Diamond,₹120,224,0
+Ernakulam,Kanoos2KRavipuram,Malayalam,12:00,Diamond,₹110,186,0
+Thrissur,BavanaMoviesLaserDolbyAtmosKunnamkulam,Malayalam,16:30,Luxury,₹220,13,0
+Thrissur,BavanaMoviesLaserDolbyAtmosKunnamkulam,Malayalam,16:30,Platinum,₹129.76,159,8
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,19:00,Executive,₹110,70,24
