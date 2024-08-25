@@ -1,0 +1,14 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,15:15,Recliner,₹450,29,0
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,15:15,Premium,₹220,135,14
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,15:15,Executive,₹150,27,7
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,15:15,Lounger,₹250,24,1
+Kannur,SumangaliCinemasAnnurRoad,Malayalam,16:30,PlatinumCircle,₹130,161,0
+Ernakulam,PvrLuluKochi,Malayalam,17:15,Recliner,₹350,9,0
+Ernakulam,PvrLuluKochi,Malayalam,17:15,Prime,₹220,64,34
+Ernakulam,PvrLuluKochi,Malayalam,17:15,ClassicPlus,₹200,91,34
+Ernakulam,PvrLuluKochi,Malayalam,17:15,Classic,₹160,39,13
+Trivandrum,PvrLuluTrivandrum,Malayalam,18:10,Recliner,₹400,8,4
+Trivandrum,PvrLuluTrivandrum,Malayalam,18:10,Prime,₹210,39,11
+Trivandrum,PvrLuluTrivandrum,Malayalam,18:10,Classic,₹160,60,3
+Kannur,SumangaliCinemasAnnurRoad,Malayalam,19:30,PlatinumCircle,₹130,161,4
