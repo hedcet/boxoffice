@@ -1,0 +1,5 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,SaritaCinemasKacheripady,Telugu,18:00,Deluxe,₹150,555,531
+Ernakulam,SaritaCinemasKacheripady,Telugu,18:00,RoseCircle,₹150,0,0
+Ernakulam,CinepolisVipCentreSquareMallKochi,Telugu,14:20,VipExecutive,₹450,20,0
+Ernakulam,CinepolisVipCentreSquareMallKochi,Telugu,14:20,VipPremium,₹500,53,13
