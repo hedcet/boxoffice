@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Wayanad,VeenaVarnaTheatreMananthavadyAC2K3D,Malayalam,11:30,Diamond,₹120,224,17
+Ernakulam,Kanoos2KRavipuram,Malayalam,12:00,Diamond,₹110,186,11
+Thrissur,BavanaMoviesLaserDolbyAtmosKunnamkulam,Malayalam,16:30,Luxury,₹220,13,0
+Thrissur,BavanaMoviesLaserDolbyAtmosKunnamkulam,Malayalam,16:30,Platinum,₹129.76,159,8
+Ernakulam,DharsanaCinemaComplexPiravom,Malayalam,21:15,Platinum,₹160,74,0
+Ernakulam,DharsanaCinemaComplexPiravom,Malayalam,21:15,Gold,₹140,88,0
+Ernakulam,DharsanaCinemaComplexPiravom,Malayalam,21:15,Silver,₹80,22,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,21:30,Executive,₹110,70,18
