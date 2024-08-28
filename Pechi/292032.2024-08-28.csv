@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,SridarMarineDriveKochi,Tamil,12:45,GoldClass,₹160,150,13
+Ernakulam,SridarMarineDriveKochi,Tamil,12:45,ClubClass,₹140,267,0
+Kannur,ArchanaCineplexRgbLaser4K3DAtmosPayyanur,Tamil,13:30,Standard,₹129.7,125,0
+Kannur,ArchanaCineplexRgbLaser4K3DAtmosPayyanur,Tamil,16:30,Standard,₹129.7,125,0
+Trivandrum,ThapasyaCineHouseAttingal,Tamil,18:45,Circle,₹130,436,49
+Palakkad,SathyaMovieHouse3DDolbyAtmosPalakkad,Tamil,21:00,FirstClass,₹129,527,0
+Ernakulam,LakshmiCinemasCantonMallMuvattupuzha,Tamil,21:30,Gold,₹150,121,0
+Trivandrum,ThapasyaCineHouseAttingal,Tamil,21:45,Circle,₹130,436,49
