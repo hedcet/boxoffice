@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,PvrLuluTrivandrum,Japanese,15:30,Prime,₹350,32,7
+Trivandrum,PvrLuluTrivandrum,Japanese,15:30,Classic,₹250,48,4
+Ernakulam,CinepolisCentreSquareMallKochi,Japanese,17:30,Normal,₹140,13,0
+Ernakulam,CinepolisCentreSquareMallKochi,Japanese,17:30,Executive,₹160,26,2
+Ernakulam,CinepolisCentreSquareMallKochi,Japanese,17:30,Premium,₹190,67,23
+Ernakulam,PvrLuluKochi,Japanese,18:10,Classic,₹450,116,16
