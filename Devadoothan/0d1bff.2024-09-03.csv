@@ -1,0 +1,14 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,GeethaCinemax2K3DKozhinjampara,Malayalam,11:00,Standard,₹110,231,0
+Palakkad,DreamaxCinemas2K71SurroundMayannur,Malayalam,11:30,Executive,₹129.8,200,0
+Palakkad,GeethaCinemax2K3DKozhinjampara,Malayalam,14:15,Standard,₹110,231,0
+Palakkad,DreamaxCinemas2K71SurroundMayannur,Malayalam,14:30,Executive,₹129.8,200,13
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,16:40,Normal,₹140,20,3
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,16:40,Executive,₹160,43,5
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,16:40,Premium,₹180,44,24
+Palakkad,GeethaCinemax2K3DKozhinjampara,Malayalam,18:00,Standard,₹110,231,0
+Palakkad,DreamaxCinemas2K71SurroundMayannur,Malayalam,18:30,Executive,₹129.8,200,6
+Palakkad,GeethaCinemax2K3DKozhinjampara,Malayalam,21:15,Standard,₹110,231,0
+Palakkad,DreamaxCinemas2K71SurroundMayannur,Malayalam,21:30,Executive,₹129.8,200,0
+Malappuram,FairylandCinemasNilambur,,14:15,MinPrice,₹160,456,2
+Malappuram,FairylandCinemasNilambur,,18:00,MinPrice,₹160,143,8
