@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,14:00,Gold,₹250,4,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,14:00,Executive,₹150,139,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,14:00,Economy,₹100,13,0
+Kollam,MyCinemasHJComplexKarunagapally,Malayalam,17:30,ClassicOffline,₹150,194,14
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,19:00,Gold,₹250,4,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,19:00,Executive,₹150,139,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,19:00,Economy,₹100,13,0
+Kannur,AlakodeFilmCity4KDolbyAtmos,Malayalam,19:00,Chandra,₹160,151,0
+Kannur,AuraCinemasPeravoor,Malayalam,19:00,Screen2,₹130,145,1
+Alappuzha,CCinemasChengannur,Malayalam,21:00,Chirry,₹150,101,6
