@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,CinepolisCentreSquareMallKochi,Telugu,13:25,Normal,₹140,30,5
+Ernakulam,CinepolisCentreSquareMallKochi,Telugu,13:25,Executive,₹160,45,0
+Ernakulam,CinepolisCentreSquareMallKochi,Telugu,13:25,Premium,₹190,95,1
+Trivandrum,PvrLuluTrivandrum,Telugu,22:00,Recliner,₹199,9,0
+Trivandrum,PvrLuluTrivandrum,Telugu,22:00,Classic,₹99,105,0
+Trivandrum,PvrLuluTrivandrum,Telugu,22:00,Prime,₹99,76,0
+Ernakulam,PvrLuluKochi,Telugu,22:45,Recliner,₹350,13,0
+Ernakulam,PvrLuluKochi,Telugu,22:45,Prime,₹200,92,0
+Ernakulam,PvrLuluKochi,Telugu,22:45,ClassicPlus,₹180,126,0
+Ernakulam,PvrLuluKochi,Telugu,22:45,Classic,₹160,54,0
