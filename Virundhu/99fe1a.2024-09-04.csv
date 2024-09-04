@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,11:00,Platinum,₹110,189,0
+Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Tamil,11:00,RoyalCircle,₹150,87,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,14:00,Platinum,₹110,189,0
+Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Tamil,14:30,RoyalCircle,₹150,87,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,18:00,Platinum,₹110,189,0
+Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Tamil,21:30,RoyalCircle,₹150,87,0
