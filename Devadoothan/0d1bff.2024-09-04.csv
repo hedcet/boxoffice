@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,16:00,Normal,₹99,20,3
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,16:00,Executive,₹99,43,4
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,16:00,Premium,₹99,44,24
+Malappuram,FairylandCinemasNilambur,,14:15,MinPrice,₹160,456,1
+Malappuram,FairylandCinemasNilambur,,18:00,MinPrice,₹160,143,8
