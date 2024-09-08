@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,CinepolisVipCentreSquareMallKochi,Telugu,22:30,VipExecutive,₹400,20,0
+Ernakulam,CinepolisVipCentreSquareMallKochi,Telugu,22:30,VipPremium,₹450,53,14
+Ernakulam,CinepolisCentreSquareMallKochi,Telugu,22:35,Normal,₹140,20,3
+Ernakulam,CinepolisCentreSquareMallKochi,Telugu,22:35,Executive,₹160,43,5
+Ernakulam,CinepolisCentreSquareMallKochi,Telugu,22:35,Premium,₹190,44,11
