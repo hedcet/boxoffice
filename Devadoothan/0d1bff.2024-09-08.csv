@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,14:20,Normal,₹140,13,0
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,14:20,Executive,₹160,26,4
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,14:20,Premium,₹180,67,59
+Kannur,MagicFramesDowntownMallThalassery,Malayalam,16:00,Gold,₹160,136,0
+Kozhikode,MagicFramesCinemas4KDolbyAtmosKunnamangalam,Malayalam,19:00,Gold,₹180,177,0
