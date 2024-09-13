@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kasaragod,VgmMultiplexAC2K71Dolby,Malayalam,10:30,VgmGreen,₹190,160,43
+Ernakulam,SridarMarineDriveKochi,Malayalam,12:00,GoldClass,₹160,150,43
+Ernakulam,SridarMarineDriveKochi,Malayalam,12:00,ClubClass,₹140,267,60
+Ernakulam,PvrForumMallKochi,Malayalam,13:20,Recliner,₹450,8,0
+Ernakulam,PvrForumMallKochi,Malayalam,13:20,Classic,₹220,28,10
+Ernakulam,PvrForumMallKochi,Malayalam,13:20,Elite,₹220,111,36
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,14:00,Executive,₹110,70,20
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:15,Platinum,₹220,31,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:15,Gold,₹200,67,20
+Idukki,SilverHillsCinemas4KLaser3DDolby71,Malayalam,16:45,Silver,₹160,172,24
+Ernakulam,SridarMarineDriveKochi,Malayalam,18:30,GoldClass,₹160,150,23
+Ernakulam,SridarMarineDriveKochi,Malayalam,18:30,ClubClass,₹140,267,70
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,21:00,Platinum,₹220,31,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,21:00,Gold,₹200,67,40
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,21:30,Executive,₹110,70,20
