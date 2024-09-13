@@ -1,0 +1,12 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,Kanoos2KRavipuram,Tamil,12:00,Diamond,₹110,186,0
+Malappuram,AlankarCinemasACPonnani,Tamil,14:30,Diamond,₹120,153,0
+Ernakulam,Kanoos2KRavipuram,Tamil,15:00,Diamond,₹110,186,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,18:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,18:00,Classic,₹110,154,22
+Malappuram,AlankarCinemasACPonnani,Tamil,18:15,Diamond,₹120,153,0
+Ernakulam,Kanoos2KRavipuram,Tamil,19:00,Diamond,₹110,186,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,21:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,21:00,Classic,₹110,154,22
+Malappuram,AlankarCinemasACPonnani,Tamil,21:30,Diamond,₹120,153,0
+Ernakulam,Kanoos2KRavipuram,Tamil,21:50,Diamond,₹110,186,0
