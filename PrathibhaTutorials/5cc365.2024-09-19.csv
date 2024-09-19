@@ -1,0 +1,12 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Malappuram,AiswaryaMoviesAC4KDolby3DPonnani,Malayalam,11:15,Platinum,₹110,158,28
+Trivandrum,PvrLuluTrivandrum,Malayalam,12:10,Recliner,₹400,8,4
+Trivandrum,PvrLuluTrivandrum,Malayalam,12:10,Prime,₹210,39,13
+Trivandrum,PvrLuluTrivandrum,Malayalam,12:10,Classic,₹180,60,0
+Malappuram,AiswaryaMoviesAC4KDolby3DPonnani,Malayalam,14:30,Platinum,₹110,158,28
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,14:45,Executive,₹110,70,0
+Ernakulam,PvrLuluKochi,Malayalam,16:55,Recliner,₹350,9,2
+Ernakulam,PvrLuluKochi,Malayalam,16:55,Prime,₹200,64,4
+Ernakulam,PvrLuluKochi,Malayalam,16:55,ClassicPlus,₹180,91,1
+Ernakulam,PvrLuluKochi,Malayalam,16:55,Classic,₹160,39,1
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,21:45,Executive,₹110,70,0
