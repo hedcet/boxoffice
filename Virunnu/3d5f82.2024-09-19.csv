@@ -1,0 +1,10 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,SridarMarineDriveKochi,Malayalam,12:00,GoldClass,₹160,150,13
+Ernakulam,SridarMarineDriveKochi,Malayalam,12:00,ClubClass,₹140,267,0
+Ernakulam,PvrForumMallKochi,Malayalam,13:20,Recliner,₹450,8,0
+Ernakulam,PvrForumMallKochi,Malayalam,13:20,Elite,₹220,111,1
+Ernakulam,PvrForumMallKochi,Malayalam,13:20,Classic,₹200,28,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,14:15,Executive,₹110,70,0
+Ernakulam,SridarMarineDriveKochi,Malayalam,15:00,GoldClass,₹160,150,13
+Ernakulam,SridarMarineDriveKochi,Malayalam,15:00,ClubClass,₹140,267,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,22:00,Executive,₹110,70,0
