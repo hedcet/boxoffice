@@ -1,0 +1,17 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,PvrLuluTrivandrum,Indonesian,15:10,Recliner,₹400,16,0
+Trivandrum,PvrLuluTrivandrum,Indonesian,15:10,Prime,₹250,121,0
+Trivandrum,PvrLuluTrivandrum,Indonesian,15:10,Classic,₹200,138,0
+Ernakulam,PvrForumMallKochi,Indonesian,18:40,Recliner,₹199,8,0
+Ernakulam,PvrForumMallKochi,Indonesian,18:40,Classic,₹99,28,0
+Ernakulam,PvrForumMallKochi,Indonesian,18:40,Elite,₹99,111,6
+Ernakulam,CinepolisCentreSquareMallKochi,Indonesian,19:55,Normal,₹140,13,0
+Ernakulam,CinepolisCentreSquareMallKochi,Indonesian,19:55,Executive,₹160,26,0
+Ernakulam,CinepolisCentreSquareMallKochi,Indonesian,19:55,Premium,₹190,67,1
+Ernakulam,PvrLuluKochi,Indonesian,22:40,Recliner,₹350,9,0
+Ernakulam,PvrLuluKochi,Indonesian,22:40,Prime,₹200,64,4
+Ernakulam,PvrLuluKochi,Indonesian,22:40,ClassicPlus,₹180,91,1
+Ernakulam,PvrLuluKochi,Indonesian,22:40,Classic,₹160,39,1
+Trivandrum,PvrLuluTrivandrum,Indonesian,22:45,Recliner,₹450,8,0
+Trivandrum,PvrLuluTrivandrum,Indonesian,22:45,Prime,₹230,39,0
+Trivandrum,PvrLuluTrivandrum,Indonesian,22:45,Classic,₹210,60,0
