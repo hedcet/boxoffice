@@ -1,0 +1,10 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,ShenoysKochi,Malayalam,11:00,Luxe,₹440,68,28
+Ernakulam,ShenoysKochi,Malayalam,13:30,Luxe,₹440,68,25
+Ernakulam,ShenoysKochi,Malayalam,16:30,Lounge,₹330,34,34
+Ernakulam,ShenoysKochi,Malayalam,16:30,Diamond,₹220,200,148
+Ernakulam,ShenoysKochi,Malayalam,19:25,Lounge,₹330,34,30
+Ernakulam,ShenoysKochi,Malayalam,19:25,Diamond,₹220,200,126
+Ernakulam,ShenoysKochi,Malayalam,20:00,Diamond,₹220,71,51
+Ernakulam,ShenoysKochi,Malayalam,22:20,Lounge,₹330,24,10
+Ernakulam,ShenoysKochi,Malayalam,22:20,Diamond,₹220,243,80
