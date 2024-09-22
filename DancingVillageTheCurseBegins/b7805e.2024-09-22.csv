@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PvrForumMallKochi,Indonesian,18:40,Recliner,₹500,8,2
+Ernakulam,PvrForumMallKochi,Indonesian,18:40,Elite,₹240,111,16
+Ernakulam,PvrForumMallKochi,Indonesian,18:40,Classic,₹220,28,0
+Ernakulam,CinepolisCentreSquareMallKochi,Indonesian,20:00,Normal,₹140,13,13
+Ernakulam,CinepolisCentreSquareMallKochi,Indonesian,20:00,Executive,₹160,26,26
+Ernakulam,CinepolisCentreSquareMallKochi,Indonesian,20:00,Premium,₹190,67,67
+Ernakulam,PvrLuluKochi,Indonesian,22:40,Recliner,₹350,9,0
+Ernakulam,PvrLuluKochi,Indonesian,22:40,Prime,₹200,64,0
+Ernakulam,PvrLuluKochi,Indonesian,22:40,ClassicPlus,₹180,91,3
+Ernakulam,PvrLuluKochi,Indonesian,22:40,Classic,₹160,39,0
