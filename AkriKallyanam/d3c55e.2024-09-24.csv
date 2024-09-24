@@ -1,0 +1,14 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,10:00,Recliner,₹400,27,0
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,10:00,Premium,₹99,165,10
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,10:00,Executive,₹99,40,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,11:00,Platinum,₹220,27,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,11:00,Gold,₹200,54,15
+Palakkad,MagicFramesCinemas4KLesar3DDolbyAtmos,Malayalam,14:25,Gold,₹150,137,0
+Kozhikode,SurabhiCinemasKozhikode,Malayalam,15:00,RedRuby,₹180,106,34
+Palakkad,RavirajComplexACKozhinjampara,Malayalam,16:15,Recliner,₹250,36,12
+Palakkad,RavirajComplexACKozhinjampara,Malayalam,16:15,FirstClass,₹110,228,88
+Idukki,SilverHillsCinemas4KLaser3DDolby71,Malayalam,16:45,Silver,₹130,80,0
+Kozhikode,MallikaPlexDolbyAtmosCalicut,Malayalam,11:45,Executive,₹140,162,21
+Malappuram,LadderCinemasIndianMall,Malayalam,18:00,Executive,₹150,74,0
+Malappuram,LadderCinemasIndianMall,Malayalam,18:00,Executive,₹150,74,25
