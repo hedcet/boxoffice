@@ -1,0 +1,8 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,English,10:15,Recliner,₹400,27,1
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,English,10:15,Premium,₹180,146,20
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,English,10:15,Executive,₹100,25,0
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,English,10:15,Lounger,₹200,22,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,English,11:00,Executive,₹110,70,20
+Ernakulam,Kanoos2KRavipuram,English,12:00,Diamond,₹110,186,2
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,English,19:00,Executive,₹110,70,10
