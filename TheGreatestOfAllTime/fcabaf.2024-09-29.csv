@@ -1,0 +1,15 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,CinepolisCentreSquareMallKochi,Tamil,09:35,Normal,₹140,13,0
+Ernakulam,CinepolisCentreSquareMallKochi,Tamil,09:35,Executive,₹160,26,4
+Ernakulam,CinepolisCentreSquareMallKochi,Tamil,09:35,Premium,₹190,67,7
+Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Tamil,11:00,RoyalCircle,₹150,87,17
+Trivandrum,NewTheatre4KRgbLaserDolbyAtmosTrivandrum,Tamil,14:30,Elite,₹150,173,35
+Ernakulam,PvrForumMallKochi,Tamil,15:10,Recliner,₹450,8,4
+Ernakulam,PvrForumMallKochi,Tamil,15:10,Elite,₹220,125,34
+Ernakulam,PvrForumMallKochi,Tamil,15:10,Classic,₹200,14,0
+Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Tamil,18:15,RoyalCircle,₹150,87,46
+Trivandrum,CinepolisMotTrivandrum,Tamil,18:25,VipExecutive,₹300,18,5
+Trivandrum,CinepolisMotTrivandrum,Tamil,18:25,VipPremium,₹300,18,12
+Trivandrum,PvrLuluTrivandrum,Tamil,22:50,Recliner,₹450,7,6
+Trivandrum,PvrLuluTrivandrum,Tamil,22:50,Prime,₹210,51,16
+Trivandrum,PvrLuluTrivandrum,Tamil,22:50,Classic,₹190,70,7
