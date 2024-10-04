@@ -1,0 +1,17 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PvrLuluKochi,Malayalam,12:35,Recliner,₹400,14,2
+Ernakulam,PvrLuluKochi,Malayalam,12:35,Prime,₹200,125,22
+Ernakulam,PvrLuluKochi,Malayalam,12:35,ClassicPlus,₹180,108,3
+Ernakulam,PvrLuluKochi,Malayalam,12:35,Classic,₹160,54,0
+Thrissur,GirijaTheatreThrissur,,15:00,Recliner,₹325,10,0
+Thrissur,GirijaTheatreThrissur,,15:00,Luxury,₹215,103,6
+Thrissur,GirijaTheatreThrissur,,15:00,StadiumClass,₹135,328,34
+Ernakulam,PvrOberonMallKochi,Malayalam,16:10,ClassicPlus,₹160,81,15
+Ernakulam,PvrOberonMallKochi,Malayalam,16:10,Classic,₹140,36,0
+Trivandrum,PvrLuluTrivandrum,Malayalam,16:15,Recliner,₹400,8,0
+Trivandrum,PvrLuluTrivandrum,Malayalam,16:15,Prime,₹210,84,12
+Trivandrum,PvrLuluTrivandrum,Malayalam,16:15,Classic,₹180,88,6
+Thrissur,InoxSobhaCityMall,Malayalam,16:25,RoyalRecliner,₹360,10,0
+Thrissur,InoxSobhaCityMall,Malayalam,16:25,Club,₹200,66,0
+Thrissur,InoxSobhaCityMall,Malayalam,16:25,Royal,₹200,28,4
+Thrissur,InoxSobhaCityMall,Malayalam,16:25,Executive,₹140,22,1
