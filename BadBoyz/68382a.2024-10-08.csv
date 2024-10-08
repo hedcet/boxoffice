@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PvrLuluKochi,Malayalam,12:50,Recliner,₹350,9,0
+Ernakulam,PvrLuluKochi,Malayalam,12:50,Prime,₹200,64,16
+Ernakulam,PvrLuluKochi,Malayalam,12:50,ClassicPlus,₹180,91,3
+Ernakulam,PvrLuluKochi,Malayalam,12:50,Classic,₹160,39,2
+Trivandrum,NewTheatre4KRgbLaserDolbyAtmosTrivandrum,Malayalam,18:30,Elite,₹150,173,127
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,18:45,Platinum,₹220,31,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,18:45,Gold,₹200,67,40
+Ernakulam,SangeetaCinemaKochi,Malayalam,21:00,BlueCircle,₹150,187,90
