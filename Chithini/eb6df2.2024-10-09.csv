@@ -1,0 +1,17 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,PriyadarsiniCinema,Malayalam,11:25,Executive,₹180,68,0
+Palakkad,PriyadarsiniCinema,Malayalam,11:25,Dress,₹110,368,0
+Trivandrum,PvrLuluTrivandrum,Malayalam,14:50,Recliner,₹300,8,1
+Trivandrum,PvrLuluTrivandrum,Malayalam,14:50,Prime,₹180,39,5
+Trivandrum,PvrLuluTrivandrum,Malayalam,14:50,Classic,₹150,60,1
+Ernakulam,PvrForumMallKochi,Malayalam,15:25,Elite,₹170,85,8
+Ernakulam,PvrForumMallKochi,Malayalam,15:25,Classic,₹150,22,0
+Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,21:00,SreeGold,₹150,311,0
+Thrissur,InoxSobhaCityMall,Malayalam,22:00,RoyalRecliner,₹310,10,0
+Thrissur,InoxSobhaCityMall,Malayalam,22:00,Club,₹210,155,0
+Thrissur,InoxSobhaCityMall,Malayalam,22:00,Royal,₹210,32,12
+Thrissur,InoxSobhaCityMall,Malayalam,22:00,Executive,₹130,26,0
+Ernakulam,PvrLuluKochi,Malayalam,22:25,Recliner,₹350,9,0
+Ernakulam,PvrLuluKochi,Malayalam,22:25,Prime,₹200,64,0
+Ernakulam,PvrLuluKochi,Malayalam,22:25,ClassicPlus,₹180,91,7
+Ernakulam,PvrLuluKochi,Malayalam,22:25,Classic,₹160,39,0
