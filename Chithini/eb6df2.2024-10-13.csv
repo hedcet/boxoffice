@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PvrLuluKochi,Malayalam,11:30,Recliner,₹400,10,0
+Ernakulam,PvrLuluKochi,Malayalam,11:30,Prime,₹200,68,1
+Ernakulam,PvrLuluKochi,Malayalam,11:30,ClassicPlus,₹180,91,0
+Ernakulam,PvrLuluKochi,Malayalam,11:30,Classic,₹160,39,0
+Kozhikode,ChithraCineplex4KDtsXKozhikodeMannurValavu,Malayalam,16:30,Gold,₹129.8,142,2
