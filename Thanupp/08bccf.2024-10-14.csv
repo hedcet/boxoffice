@@ -1,0 +1,14 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kannur,SjGCinemas4KDolbyAtmosUlikkal,Malayalam,10:30,Standard,₹130,140,6
+Kasaragod,VinayakaTheaterComplex2KACDolby71,Malayalam,14:30,NewVinayaka2Executive,₹150,300,48
+Kasaragod,VinayakaTheaterComplex2KACDolby71,Malayalam,17:30,NewVinayaka2Executive,₹150,300,48
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,18:45,Executive,₹110,70,16
+Kannur,DevCinemasKanichar,Malayalam,19:00,Screen3,₹129.8,152,0
+Ernakulam,VanithaCineplexRgbLaser4K3DAtmosEdappally,Malayalam,19:00,Screen4,₹170,154,40
+Ernakulam,VanithaCineplexRgbLaser4K3DAtmosEdappally,Malayalam,19:00,Screen4Sofa,₹250,15,4
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,20:00,Recliner,₹390,29,0
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,20:00,Premium,₹190,135,12
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,20:00,Executive,₹100,27,1
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,20:00,Lounger,₹210,24,5
+Kasaragod,VinayakaTheaterComplex2KACDolby71,Malayalam,20:00,NewVinayaka2Executive,₹150,300,48
+Kannur,DevCinemasKanichar,Malayalam,21:15,Screen3,₹129.8,152,0
