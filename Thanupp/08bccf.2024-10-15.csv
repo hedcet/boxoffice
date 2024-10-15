@@ -1,0 +1,12 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Alappuzha,CCinemasChengannur,Malayalam,14:00,Chirry,₹150,101,0
+Alappuzha,GanamTheatreComplexACKattanam,Malayalam,18:30,FirstClass,₹140,129,67
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Malayalam,18:45,Executive,₹110,70,11
+Ernakulam,VanithaCineplexRgbLaser4K3DAtmosEdappally,Malayalam,19:00,Screen4,₹170,154,34
+Ernakulam,VanithaCineplexRgbLaser4K3DAtmosEdappally,Malayalam,19:00,Screen4Sofa,₹250,15,0
+Kannur,DevCinemasKanichar,Malayalam,19:00,Screen3,₹129.8,152,0
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,20:00,Recliner,₹390,29,0
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,20:00,Premium,₹190,135,15
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,20:00,Executive,₹100,27,4
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,20:00,Lounger,₹210,24,1
+Kannur,DevCinemasKanichar,Malayalam,21:15,Screen3,₹129.8,152,0
