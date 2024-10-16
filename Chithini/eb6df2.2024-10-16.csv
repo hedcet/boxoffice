@@ -1,0 +1,5 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PvrLuluKochi,Malayalam,11:30,Recliner,₹350,10,0
+Ernakulam,PvrLuluKochi,Malayalam,11:30,Prime,₹200,68,7
+Ernakulam,PvrLuluKochi,Malayalam,11:30,ClassicPlus,₹180,91,6
+Ernakulam,PvrLuluKochi,Malayalam,11:30,Classic,₹160,39,0
