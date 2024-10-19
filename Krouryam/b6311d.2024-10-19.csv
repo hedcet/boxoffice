@@ -1,0 +1,10 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Wayanad,MaruthiECinemas4KAtmosMananthavady,Malayalam,09:30,Sofa,₹150,30,0
+Wayanad,MaruthiECinemas4KAtmosMananthavady,Malayalam,09:30,Executive,₹120,149,0
+Wayanad,MaruthiECinemas4KAtmosMananthavady,Malayalam,09:45,Sofa,₹150,30,0
+Wayanad,MaruthiECinemas4KAtmosMananthavady,Malayalam,09:45,Executive,₹120,149,0
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,10:15,Recliner,₹400,29,0
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,10:15,Premium,₹180,135,12
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,10:15,Executive,₹150,27,1
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,10:15,Lounger,₹200,24,1
+Kannur,SjGCinemas4KDolbyAtmosUlikkal,Malayalam,10:30,Standard,₹130,140,0
