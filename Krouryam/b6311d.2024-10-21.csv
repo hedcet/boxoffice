@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,10:15,Recliner,₹300,29,0
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,10:15,Premium,₹150,135,1
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,10:15,Executive,₹100,27,1
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,10:15,Lounger,₹180,24,1
+Wayanad,MaruthiECinemas4KAtmosMananthavady,Malayalam,12:00,Sofa,₹150,30,0
+Wayanad,MaruthiECinemas4KAtmosMananthavady,Malayalam,12:00,Executive,₹120,149,0
