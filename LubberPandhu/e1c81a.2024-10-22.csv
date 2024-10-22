@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,KadankavilCinemas2KLaserVadakkenchery,Tamil,11:30,Recliner,₹400,12,0
+Palakkad,KadankavilCinemas2KLaserVadakkenchery,Tamil,11:30,Platinum,₹180,84,0
+Palakkad,KadankavilCinemas2KLaserVadakkenchery,Tamil,11:30,Diamond,₹110,198,0
+Palakkad,KadankavilCinemas2KLaserVadakkenchery,Tamil,14:30,Recliner,₹400,12,0
+Palakkad,KadankavilCinemas2KLaserVadakkenchery,Tamil,14:30,Platinum,₹180,84,0
+Palakkad,KadankavilCinemas2KLaserVadakkenchery,Tamil,14:30,Diamond,₹110,198,0
+Palakkad,KadankavilCinemas2KLaserVadakkenchery,Tamil,18:30,Recliner,₹400,12,0
+Palakkad,KadankavilCinemas2KLaserVadakkenchery,Tamil,18:30,Platinum,₹180,84,0
+Palakkad,KadankavilCinemas2KLaserVadakkenchery,Tamil,18:30,Diamond,₹110,198,0
+Palakkad,KadankavilCinemas2KLaserVadakkenchery,Tamil,21:30,Recliner,₹400,12,0
+Palakkad,KadankavilCinemas2KLaserVadakkenchery,Tamil,21:30,Platinum,₹180,84,0
+Palakkad,KadankavilCinemas2KLaserVadakkenchery,Tamil,21:30,Diamond,₹110,198,0
+Trivandrum,PvrLuluTrivandrum,Tamil,22:50,Recliner,₹500,7,2
+Trivandrum,PvrLuluTrivandrum,Tamil,22:50,Prime,₹250,60,11
+Trivandrum,PvrLuluTrivandrum,Tamil,22:50,Classic,₹190,77,6
