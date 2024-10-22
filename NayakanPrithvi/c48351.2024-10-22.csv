@@ -1,0 +1,8 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,₹150,187,18
+Alappuzha,KairaliSreeTheaterAlappuzha,Malayalam,14:15,Platinum,₹125,305,0
+Ernakulam,KairaliSreeTheaterNorthParvur,Malayalam,14:30,Platinum,₹105,245,0
+Kollam,GmaxCinemasJerome3D71JblKollam,Malayalam,14:45,Green,₹160,86,7
+Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,18:00,SreeGold,₹150,311,0
+Trivandrum,KairaliSreeNilaRgbLaser4KDolbyAtmos,Malayalam,18:15,Platinum,₹125,443,11
+Kollam,GmaxCinemasJerome3D71JblKollam,Malayalam,21:45,Green,₹180,86,7
