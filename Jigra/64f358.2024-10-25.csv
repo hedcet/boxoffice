@@ -1,0 +1,8 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PvrForumMallKochi,Hindi,16:35,Recliner,₹400,8,0
+Ernakulam,PvrForumMallKochi,Hindi,16:35,Elite,₹180,111,19
+Ernakulam,PvrForumMallKochi,Hindi,16:35,Classic,₹160,28,0
+Ernakulam,CinepolisVipCentreSquareMallKochi,Hindi,22:50,VipExecutive,₹400,20,0
+Ernakulam,CinepolisVipCentreSquareMallKochi,Hindi,22:50,VipPremium,₹450,53,10
+Ernakulam,CinepolisVipCentreSquareMallKochi,Hindi,22:50,VipExecutive,₹400,20,0
+Ernakulam,CinepolisVipCentreSquareMallKochi,Hindi,22:50,VipPremium,₹450,53,10
