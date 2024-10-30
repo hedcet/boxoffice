@@ -1,0 +1,10 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PvrOberonMallKochi,Odia,18:45,Recliner,₹310,14,1
+Ernakulam,PvrOberonMallKochi,Odia,18:45,ClassicPlus,₹170,115,1
+Ernakulam,PvrOberonMallKochi,Odia,18:45,Classic,₹140,53,0
+Trivandrum,PvrLuluTrivandrum,Odia,19:05,Recliner,₹400,7,0
+Trivandrum,PvrLuluTrivandrum,Odia,19:05,Prime,₹210,51,0
+Trivandrum,PvrLuluTrivandrum,Odia,19:05,Classic,₹180,70,0
+Ernakulam,PvrForumMallKochi,Odia,22:30,Recliner,₹400,8,0
+Ernakulam,PvrForumMallKochi,Odia,22:30,Elite,₹180,111,14
+Ernakulam,PvrForumMallKochi,Odia,22:30,Classic,₹160,28,0
