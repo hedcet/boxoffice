@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,11:15,ExecutiveClass,₹160,11,0
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,11:15,ExecutiveClass1,₹150,86,0
+Palakkad,KrvMoviesKottayi,Malayalam,11:30,FirstClass,₹129.8,125,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,18:45,Platinum,₹220,27,2
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,18:45,Gold,₹200,60,4
