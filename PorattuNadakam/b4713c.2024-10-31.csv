@@ -1,0 +1,8 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,Kanoos2KRavipuram,Malayalam,12:00,Diamond,₹110,186,0
+Ernakulam,Kanoos2KRavipuram,Malayalam,15:00,Diamond,₹110,186,1
+Ernakulam,ManuDMaxCinemasPuthenvelikkara,Malayalam,15:00,Diamond,₹110,252,0
+Ernakulam,ManuDMaxCinemasPuthenvelikkara,Malayalam,18:30,Diamond,₹110,252,0
+Ernakulam,Kanoos2KRavipuram,Malayalam,19:00,Diamond,₹110,186,0
+Ernakulam,ManuDMaxCinemasPuthenvelikkara,Malayalam,21:30,Diamond,₹110,252,0
+Ernakulam,Kanoos2KRavipuram,Malayalam,21:50,Diamond,₹110,186,0
