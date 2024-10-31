@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,StarCinemaDolby71Varkala,Malayalam,11:00,SpecialClass,₹140,236,2
+Trivandrum,KalabhavanTheatreTripleBeam3DTrivandrum,Malayalam,14:30,Platinum,₹125,135,57
+Trivandrum,KalabhavanTheatreTripleBeam3DTrivandrum,Malayalam,14:30,Gold,₹105,275,63
+Trivandrum,StarCinemaDolby71Varkala,Malayalam,15:00,SpecialClass,₹140,236,3
+Trivandrum,StarCinemaDolby71Varkala,Malayalam,18:45,SpecialClass,₹140,236,0
+Malappuram,AiswaryaMoviesAC4KDolby3DPonnani,Malayalam,14:45,Platinum,₹110,158,28
+Malappuram,AiswaryaMoviesAC4KDolby3DPonnani,Malayalam,18:30,Platinum,₹110,158,28
+Malappuram,AiswaryaMoviesAC4KDolby3DPonnani,Malayalam,21:30,Platinum,₹110,158,28
