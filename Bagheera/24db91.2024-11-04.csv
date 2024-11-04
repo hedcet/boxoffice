@@ -1,0 +1,13 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kasaragod,MagicFramesMehboobTheatreComplex4KKasaragod,Kannada,16:30,Executive,₹129.7,222,4
+Trivandrum,PvrLuluTrivandrum,Kannada,21:40,Recliner,₹400,8,5
+Trivandrum,PvrLuluTrivandrum,Kannada,21:40,Prime,₹220,34,19
+Trivandrum,PvrLuluTrivandrum,Kannada,21:40,Classic,₹190,65,15
+Ernakulam,PvrLuluKochi,Kannada,22:10,Recliner,₹350,10,1
+Ernakulam,PvrLuluKochi,Kannada,22:10,Prime,₹200,68,20
+Ernakulam,PvrLuluKochi,Kannada,22:10,ClassicPlus,₹180,91,11
+Ernakulam,PvrLuluKochi,Kannada,22:10,Classic,₹160,39,0
+Kasaragod,MagicFramesMehboobTheatreComplex4KKasaragod,Kannada,22:30,Executive,₹129.7,222,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Kannada,11:30,Gold,₹250,4,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Kannada,11:30,Executive,₹150,139,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Kannada,11:30,Economy,₹100,13,0
