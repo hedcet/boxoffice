@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,VCinemasSreeDeviDurgaPalakkad,Tamil,11:30,Standard,₹129.8,126,17
+Trivandrum,PvrLuluTrivandrum,Tamil,12:55,Recliner,₹350,8,5
+Trivandrum,PvrLuluTrivandrum,Tamil,12:55,Prime,₹190,34,6
+Trivandrum,PvrLuluTrivandrum,Tamil,12:55,Classic,₹170,65,0
+Idukki,SagaraTheatre4KAtmosKattappana,Tamil,15:00,Royal,₹129,158,0
+Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Tamil,18:00,RoyalCircle,₹150,87,0
+Idukki,SagaraTheatre4KAtmosKattappana,Tamil,18:30,Royal,₹129,158,0
+Palakkad,VCinemasSreeDeviDurgaPalakkad,Tamil,21:00,Standard,₹129.8,126,16
