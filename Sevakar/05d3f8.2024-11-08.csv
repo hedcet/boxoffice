@@ -1,0 +1,14 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,11:00,FirstClass,₹110,189,0
+Pathanamthitta,SCinemasKonni,Tamil,11:00,Platinum,₹150,81,20
+Pathanamthitta,SCinemasKonni,Tamil,11:00,Gold,₹110,368,22
+Kollam,GmaxCinemasJerome3D71JblKollam,Tamil,11:15,Green,₹160,86,7
+Ernakulam,Kanoos2KRavipuram,Tamil,12:00,Diamond,₹110,186,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,14:00,FirstClass,₹110,189,0
+Pathanamthitta,SCinemasKonni,Tamil,14:30,Platinum,₹150,81,20
+Pathanamthitta,SCinemasKonni,Tamil,14:30,Gold,₹110,368,12
+Idukki,SilverHillsCinemas4KLaser3DDolby71,Tamil,17:00,Silver,₹160,80,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,18:00,FirstClass,₹110,189,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,21:00,FirstClass,₹110,189,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Tamil,11:30,Executive,₹110,70,0
+Trivandrum,AriesplexSlCinemasCinionicDolbyAtmosTrivandrum,Tamil,21:30,Executive,₹110,70,4
