@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,13:20,Normal,₹150,20,3
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,13:20,Executive,₹170,43,6
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,13:20,Premium,₹190,44,13
+Palakkad,MagicFramesCinemas4KLaser3DDolbyAtmos,Malayalam,16:30,Recliner3D,₹320,14,0
+Palakkad,MagicFramesCinemas4KLaser3DDolbyAtmos,Malayalam,16:30,Gold3D,₹170,246,14
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,19:00,Recliner,₹450,23,0
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,19:00,Premium,₹220,88,19
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,19:00,Executive,₹150,17,7
+Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,19:00,Lounger,₹250,14,0
+Trivandrum,PvrLuluTrivandrum,Malayalam,19:20,Recliner,₹480,8,7
+Trivandrum,PvrLuluTrivandrum,Malayalam,19:20,Prime,₹260,39,37
+Trivandrum,PvrLuluTrivandrum,Malayalam,19:20,Classic,₹240,60,39
+Ernakulam,PvrForumMallKochi,Malayalam,22:25,Recliner,₹430,10,9
+Ernakulam,PvrForumMallKochi,Malayalam,22:25,Elite,₹210,111,94
+Ernakulam,PvrForumMallKochi,Malayalam,22:25,Classic,₹170,24,0
