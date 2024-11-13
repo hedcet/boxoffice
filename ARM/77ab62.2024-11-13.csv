@@ -1,0 +1,13 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,MagicFramesCinemas4KLesar3DDolbyAtmos,Malayalam,16:30,Recliner3D,₹320,14,0
+Palakkad,MagicFramesCinemas4KLesar3DDolbyAtmos,Malayalam,16:30,Gold3D,₹170,246,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,19:00,Recliner,₹390,23,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,19:00,Premium,₹190,88,6
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,19:00,Executive,₹100,17,5
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,19:00,Lounger,₹210,14,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,19:20,Recliner,₹480,8,3
+Trivandrum,PVRLuluTrivandrum,Malayalam,19:20,Prime,₹240,39,9
+Trivandrum,PVRLuluTrivandrum,Malayalam,19:20,Classic,₹200,60,9
+Ernakulam,PVRForumMallKochi,Malayalam,21:50,Recliner,₹330,10,3
+Ernakulam,PVRForumMallKochi,Malayalam,21:50,Elite,₹190,111,20
+Ernakulam,PVRForumMallKochi,Malayalam,21:50,Classic,₹170,24,0
