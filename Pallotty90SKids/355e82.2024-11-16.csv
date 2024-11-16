@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PVRLuluKochi,Malayalam,13:05,Recliner,₹350,10,10
+Ernakulam,PVRLuluKochi,Malayalam,13:05,Prime,₹200,68,68
+Ernakulam,PVRLuluKochi,Malayalam,13:05,ClassicPlus,₹180,91,31
+Ernakulam,PVRLuluKochi,Malayalam,13:05,Classic,₹160,39,2
+Thrissur,INOXSobhaCityMall,Malayalam,16:05,RoyalRecliner,₹360,10,4
+Thrissur,INOXSobhaCityMall,Malayalam,16:05,Club,₹200,66,19
+Thrissur,INOXSobhaCityMall,Malayalam,16:05,Royal,₹200,28,13
+Thrissur,INOXSobhaCityMall,Malayalam,16:05,Executive,₹140,22,18
+Ernakulam,PVRForumMallKochi,Malayalam,16:15,Elite,₹220,85,37
+Ernakulam,PVRForumMallKochi,Malayalam,16:15,Classic,₹180,22,0
+Thrissur,MasMoviesIrinjalakuda,Malayalam,17:00,Silver,₹129,207,24
+Trivandrum,PVRLuluTrivandrum,Malayalam,18:55,Recliner,₹500,8,4
+Trivandrum,PVRLuluTrivandrum,Malayalam,18:55,Prime,₹250,34,28
+Trivandrum,PVRLuluTrivandrum,Malayalam,18:55,Classic,₹210,65,18
+Thrissur,ChembakasseryCinemas4K3DDolbyAtmosTempleRoadIrinjalakuda,Malayalam,18:00,RoyalCircle,₹129.8,270,39
