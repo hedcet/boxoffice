@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Pathanamthitta,ChilankaCinemasThiruvalla,Malayalam,13:00,Balcony,₹129.78,277,12
+Pathanamthitta,ChilankaCinemasThiruvalla,Malayalam,13:00,FirstClass,₹129.78,198,0
+Ernakulam,Kanoos2KRavipuram,Malayalam,15:00,Diamond,₹110,186,3
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:30,Platinum,₹220,27,26
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:30,Gold,₹200,54,54
