@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,11:00,SreeGold,₹150,311,0
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,14:30,Platinum,₹125,262,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,16:00,Recliner,₹350,7,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,16:00,Prime,₹190,60,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,16:00,Classic,₹160,77,2
+Ernakulam,PVRLuluKochi,Malayalam,16:10,Recliner,₹350,9,0
+Ernakulam,PVRLuluKochi,Malayalam,16:10,Prime,₹200,64,22
+Ernakulam,PVRLuluKochi,Malayalam,16:10,ClassicPlus,₹180,91,1
+Ernakulam,PVRLuluKochi,Malayalam,16:10,Classic,₹160,39,0
+Kannur,ArchanaCineplexRGBLaser4K3DATMOSPayyanur,Malayalam,16:30,Standard,₹129.7,125,0
+Trivandrum,KairaliSreeNilaRGBLaser4KDolbyAtmos,Malayalam,18:00,Platinum,₹125,259,6
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,18:15,Platinum,₹125,262,0
+Malappuram,AiswaryaMoviesAC4KDolby3DPonnaniBiyyam,Malayalam,14:45,Platinum,₹110,158,32
+Malappuram,AiswaryaMoviesAC4KDolby3DPonnani,Malayalam,18:15,Platinum,₹110,158,28
+Malappuram,AiswaryaMoviesAC4KDolby3DPonnani,Malayalam,21:30,Platinum,₹110,158,28
