@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,PriyadarsiniCinema,Punjabi,11:30,Executive,₹150,115,0
+Palakkad,PriyadarsiniCinema,Punjabi,11:30,Dress,₹110,470,0
+Palakkad,PriyadarsiniCinema,Punjabi,14:30,Executive,₹150,115,0
+Palakkad,PriyadarsiniCinema,Punjabi,14:30,Dress,₹110,470,0
+Palakkad,PriyadarsiniCinema,Punjabi,18:00,Executive,₹150,115,0
+Palakkad,PriyadarsiniCinema,Punjabi,18:00,Dress,₹110,470,0
+Palakkad,PriyadarsiniCinema,Punjabi,21:00,Executive,₹150,115,0
+Palakkad,PriyadarsiniCinema,Punjabi,21:00,Dress,₹110,470,1
