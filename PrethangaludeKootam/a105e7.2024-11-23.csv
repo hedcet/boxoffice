@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Alappuzha,EVMGRANDRGBLaser4K3DDOLBYCherthala,Malayalam,11:45,Platinum,₹170,52,0
+Alappuzha,EVMGRANDRGBLaser4K3DDOLBYCherthala,Malayalam,11:45,Gold,₹150,308,22
+Ernakulam,SavitaCinemaKochi,Malayalam,12:00,Deluxe,₹150,555,49
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:30,Platinum,₹220,27,10
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:30,Gold,₹200,60,10
+Kottayam,VelvetViewCinemasKumarakom,Malayalam,16:45,Platinum,₹250,14,0
+Kottayam,VelvetViewCinemasKumarakom,Malayalam,16:45,Gold,₹150,96,15
+Kottayam,VelvetViewCinemasKumarakom,Malayalam,16:45,Silver,₹130,28,0
+Kottayam,VelvetViewCinemasKumarakom,Malayalam,17:00,Platinum,₹250,14,14
+Kottayam,VelvetViewCinemasKumarakom,Malayalam,17:00,Gold,₹150,96,96
+Kottayam,VelvetViewCinemasKumarakom,Malayalam,17:00,Silver,₹130,28,28
+Palakkad,VrindavanTheatreKozhinjampara,Malayalam,18:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Malayalam,18:00,Classic,₹110,154,37
+Ernakulam,SaritaCinemasKacheripady,Malayalam,12:00,Deluxe,₹150,555,531
+Ernakulam,SaritaCinemasKacheripady,Malayalam,12:00,RoseCircle,₹150,0,0
