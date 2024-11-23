@@ -1,0 +1,8 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,PVRLuluTrivandrum,English,16:40,Recliner,₹450,8,6
+Trivandrum,PVRLuluTrivandrum,English,16:40,Prime,₹260,39,36
+Trivandrum,PVRLuluTrivandrum,English,16:40,Classic,₹240,60,44
+Ernakulam,PVRForumMallKochi,English,16:45,Recliner,₹430,10,8
+Ernakulam,PVRForumMallKochi,English,16:45,Elite,₹210,111,80
+Ernakulam,PVRForumMallKochi,English,16:45,Classic,₹170,24,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,English,19:30,Recliner,₹499,102,11
