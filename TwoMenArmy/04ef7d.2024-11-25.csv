@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,10:15,Recliner,₹300,23,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,10:15,Premium,₹150,88,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,10:15,Executive,₹100,17,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,10:15,Lounger,₹180,14,0
+Kottayam,MYCinemasThalayolaparambuKerala,Malayalam,13:00,Gold,₹110,144,6
+Ernakulam,STCinemasGoldenMallMattoor,Malayalam,13:30,Premium,₹150,142,0
