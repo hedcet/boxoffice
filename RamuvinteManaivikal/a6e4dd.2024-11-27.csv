@@ -1,0 +1,12 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Idukki,SILVERHILLSCINEMAS4KLaser3DDOLBY7Point1,Malayalam,10:00,Silver,₹130,80,0
+Ernakulam,Kanoos2KRavipuram,Malayalam,12:00,Diamond,₹110,186,0
+Ernakulam,PVRForumMallKochi,Malayalam,13:30,Elite,₹200,85,11
+Ernakulam,PVRForumMallKochi,Malayalam,13:30,Classic,₹180,22,0
+Idukki,SILVERHILLSCINEMAS4KLaser3DDOLBY7Point1,Malayalam,16:30,Silver,₹130,80,0
+Palakkad,GowriMovieHouse2KDolby7Point1Kollengode,Malayalam,10:50,FirstClass,₹110,129,0
+Alappuzha,GanamTheatreComplexACKPRoadKattanam,Malayalam,11:00,FirstClass,₹140,129,67
+Malappuram,MallikaPlexChithralayaAngadipuramPerinthalmanna,Malayalam,11:00,Sofa,₹150,14,0
+Malappuram,MallikaPlexChithralayaAngadipuramPerinthalmanna,Malayalam,11:00,Executive,₹100,180,0
+Alappuzha,GanamTheatreComplexACKPRoadKattanam,Malayalam,14:30,FirstClass,₹140,129,67
+Malappuram,LadderCinemasIndianMall,Malayalam,19:00,Executive,₹150,74,0
