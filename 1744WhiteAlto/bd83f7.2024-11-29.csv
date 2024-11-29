@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,AjantaTheatre4KWideTrivandrum,Malayalam,14:30,GrandA,₹350,6,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,Malayalam,14:30,GrandB,₹350,9,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,Malayalam,14:30,Royale,₹250,22,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,Malayalam,14:30,Premium,₹150,264,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,Malayalam,21:30,GrandA,₹350,6,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,Malayalam,21:30,GrandB,₹350,9,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,Malayalam,21:30,Royale,₹250,22,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,Malayalam,21:30,Premium,₹150,264,0
