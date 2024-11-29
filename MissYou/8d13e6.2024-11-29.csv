@@ -1,0 +1,10 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,RavirajComplexACKozhinjampara,Tamil,11:00,FirstClass,₹110,172,77
+Palakkad,RavirajComplexACKozhinjampara,Tamil,14:00,FirstClass,₹110,172,77
+Ernakulam,PVRForumMallKochi,Tamil,16:05,Classic,₹99,22,0
+Ernakulam,PVRForumMallKochi,Tamil,16:05,Elite,₹99,85,11
+Palakkad,RavirajComplexACKozhinjampara,Tamil,18:00,FirstClass,₹110,172,77
+Kozhikode,CinepolisGokulamGalleriaMall,Tamil,19:30,Normal,₹220,27,27
+Kozhikode,CinepolisGokulamGalleriaMall,Tamil,19:30,Executive,₹240,74,74
+Kozhikode,CinepolisGokulamGalleriaMall,Tamil,19:30,Premium,₹260,41,41
+Palakkad,RavirajComplexACKozhinjampara,Tamil,21:00,FirstClass,₹110,172,77
