@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,English,12:30,Recliner,₹499,102,3
+Trivandrum,PVRLuluTrivandrum,English,16:35,Recliner,₹430,8,7
+Trivandrum,PVRLuluTrivandrum,English,16:35,Prime,₹240,39,39
+Trivandrum,PVRLuluTrivandrum,English,16:35,Classic,₹220,60,23
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,English,18:00,Recliner,₹499,102,11
