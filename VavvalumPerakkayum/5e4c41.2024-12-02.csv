@@ -1,0 +1,10 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,10:30,Recliner,₹300,27,1
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,10:30,Premium,₹150,146,10
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,10:30,Executive,₹100,25,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,10:30,Lounger,₹180,22,0
+Thrissur,JKCinemas4KDolbyAtmosKizhuthani,Malayalam,12:00,Diamond,₹130,53,0
+Thrissur,JKCinemas4KDolbyAtmosKizhuthani,Malayalam,12:00,Gold,₹125,173,0
+Palakkad,VrindavanTheatreKozhinjampara,Malayalam,21:00,FirstClass,₹110,189,0
+Ernakulam,STCinemasGoldenMallMattoor,Malayalam,14:30,Premium,₹150,142,0
+Kozhikode,MagicFramesCinemas4KDolbyAtmosKunnamangalam,Malayalam,16:15,Gold,₹180,130,0
