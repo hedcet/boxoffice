@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,11:00,SreeGold,₹150,311,8
+Ernakulam,KairaliSreeTheaterNorthParvur,Malayalam,14:30,Platinum,₹105,245,7
+Trivandrum,KairaliSreeNilaRGBLaser4KDolbyAtmos,Malayalam,14:30,Platinum,₹125,259,0
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,18:00,Platinum,₹125,388,2
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,18:45,ExecutiveClass,₹160,11,5
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,18:45,ExecutiveClass1,₹150,86,19
+Alappuzha,SwathyScreensNooranad,Malayalam,19:30,Premium,₹150,140,27
+Alappuzha,SwathyScreensNooranad,Malayalam,19:30,GoldPlus,₹200,12,0
