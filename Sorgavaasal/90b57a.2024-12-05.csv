@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kollam,TNPTheatreKarunagappally,Tamil,10:30,SpecialClass,₹90,445,205
+Kollam,TNPTheatreKarunagappally,Tamil,14:30,SpecialClass,₹90,445,205
+Trivandrum,KairaliSreeNilaRGBLaser4KDolbyAtmos,Tamil,18:00,Platinum,₹125,259,0
+Kollam,TNPTheatreKarunagappally,Tamil,18:30,SpecialClass,₹90,445,205
+Ernakulam,KairaliSreeTheaterNorthParvur,Tamil,18:30,Platinum,₹105,245,0
+Ernakulam,PVRForumMallKochi,Tamil,18:50,Elite,₹190,85,14
+Ernakulam,PVRForumMallKochi,Tamil,18:50,Classic,₹170,22,1
+Trivandrum,KairaliSreeNilaRGBLaser4KDolbyAtmos,Tamil,21:00,Platinum,₹125,259,0
+Kollam,TNPTheatreKarunagappally,Tamil,21:30,SpecialClass,₹90,445,205
+Ernakulam,KairaliSreeTheaterNorthParvur,Tamil,21:30,Platinum,₹105,245,0
+Ernakulam,PVRForumMallKochi,Tamil,21:35,Elite,₹190,85,11
+Ernakulam,PVRForumMallKochi,Tamil,21:35,Classic,₹170,22,0
+Trivandrum,PVRLuluTrivandrum,Tamil,21:40,Recliner,₹350,8,5
+Trivandrum,PVRLuluTrivandrum,Tamil,21:40,Prime,₹190,34,17
+Trivandrum,PVRLuluTrivandrum,Tamil,21:40,Classic,₹170,65,0
