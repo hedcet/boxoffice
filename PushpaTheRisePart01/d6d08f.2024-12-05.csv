@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Wayanad,MaruthiECinemas4KAtmosMananthavady,Malayalam,10:30,Sofa,₹150,42,21
+Wayanad,MaruthiECinemas4KAtmosMananthavady,Malayalam,10:30,Executive,₹120,156,26
+Wayanad,MaruthiECinemas4KAtmosMananthavady,Malayalam,14:00,Sofa,₹150,42,36
+Wayanad,MaruthiECinemas4KAtmosMananthavady,Malayalam,14:00,Executive,₹120,156,81
+Wayanad,MaruthiECinemas4KAtmosMananthavady,Malayalam,17:45,Sofa,₹150,42,42
+Wayanad,MaruthiECinemas4KAtmosMananthavady,Malayalam,17:45,Executive,₹120,156,111
+Wayanad,MaruthiECinemas4KAtmosMananthavady,Malayalam,21:30,Sofa,₹150,42,42
+Wayanad,MaruthiECinemas4KAtmosMananthavady,Malayalam,21:30,Executive,₹120,156,149
