@@ -1,0 +1,13 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kollam,GmaxCinemasJerome3D7Point1JBLKollam,Malayalam,11:00,Blue,₹160,170,19
+Ernakulam,PVRLuluKochi,Malayalam,12:25,Recliner,₹350,9,0
+Ernakulam,PVRLuluKochi,Malayalam,12:25,Prime,₹200,64,8
+Ernakulam,PVRLuluKochi,Malayalam,12:25,ClassicPlus,₹180,91,8
+Ernakulam,PVRLuluKochi,Malayalam,12:25,Classic,₹160,39,2
+Ernakulam,PVRForumMallKochi,Malayalam,16:15,Recliner,₹400,10,4
+Ernakulam,PVRForumMallKochi,Malayalam,16:15,Elite,₹190,111,20
+Ernakulam,PVRForumMallKochi,Malayalam,16:15,Classic,₹170,24,0
+Kollam,GmaxCinemasJerome3D7Point1JBLKollam,Malayalam,18:00,Blue,₹180,170,18
+Trivandrum,PVRLuluTrivandrum,Malayalam,18:35,Recliner,₹400,7,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,18:35,Prime,₹210,51,2
+Trivandrum,PVRLuluTrivandrum,Malayalam,18:35,Classic,₹190,70,1
