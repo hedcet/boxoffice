@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Pathanamthitta,TrinityMovieMaxPathanamthitta,Tamil,11:00,Special,₹150,110,12
+Thrissur,INOXSobhaCityMall,Tamil,12:35,RoyalRecliner,₹310,10,0
+Thrissur,INOXSobhaCityMall,Tamil,12:35,Club,₹210,63,0
+Thrissur,INOXSobhaCityMall,Tamil,12:35,Royal,₹210,28,12
+Thrissur,INOXSobhaCityMall,Tamil,12:35,Executive,₹130,22,0
+Ernakulam,PVRForumMallKochi,Tamil,14:45,Recliner,₹400,8,0
+Ernakulam,PVRForumMallKochi,Tamil,14:45,Elite,₹190,125,10
+Ernakulam,PVRForumMallKochi,Tamil,14:45,Classic,₹170,14,0
+Trivandrum,PVRLuluTrivandrum,Tamil,21:30,Recliner,₹400,7,0
+Trivandrum,PVRLuluTrivandrum,Tamil,21:30,Prime,₹210,51,14
+Trivandrum,PVRLuluTrivandrum,Tamil,21:30,Classic,₹190,70,11
+Ernakulam,PVRLuluKochi,Tamil,22:45,Recliner,₹350,9,0
+Ernakulam,PVRLuluKochi,Tamil,22:45,Prime,₹200,64,13
+Ernakulam,PVRLuluKochi,Tamil,22:45,ClassicPlus,₹180,91,13
+Ernakulam,PVRLuluKochi,Tamil,22:45,Classic,₹160,39,1
