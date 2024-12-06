@@ -1,0 +1,12 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,AromaScreen2Palakkad,Malayalam,11:15,KingCircle,₹129.8,235,2
+Wayanad,PentaCinemasPulpally,Malayalam,11:15,GoldClass,₹110,154,4
+Ernakulam,Kanoos2KRavipuram,Malayalam,12:00,Diamond,₹110,186,0
+Wayanad,PentaCinemasPulpally,Malayalam,14:30,GoldClass,₹110,154,4
+Ernakulam,Kanoos2KRavipuram,Malayalam,15:00,Diamond,₹110,186,0
+Ernakulam,Kanoos2KRavipuram,Malayalam,19:00,Diamond,₹110,186,1
+Thrissur,INOXSobhaCityMall,Malayalam,21:30,RoyalRecliner,₹360,10,6
+Thrissur,INOXSobhaCityMall,Malayalam,21:30,Club,₹200,63,5
+Thrissur,INOXSobhaCityMall,Malayalam,21:30,Royal,₹200,28,18
+Thrissur,INOXSobhaCityMall,Malayalam,21:30,Executive,₹140,22,0
+Ernakulam,Kanoos2KRavipuram,Malayalam,21:50,Diamond,₹110,186,2
