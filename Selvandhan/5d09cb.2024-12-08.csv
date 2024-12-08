@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kannur,RajadhaniCinemasNearNewBusStandPayyanur,Tamil,10:30,PlatinumCircle,₹130,88,0
+Kannur,RajadhaniCinemasNearNewBusStandPayyanur,Tamil,13:30,PlatinumCircle,₹130,88,0
+Kannur,RajadhaniCinemasNearNewBusStandPayyanur,Tamil,16:30,PlatinumCircle,₹130,88,0
+Malappuram,KarthikaMoviesAC4KDolbyAtmosValanchery,Tamil,18:15,DiamondCircle,₹110,232,0
+Kannur,RajadhaniCinemasNearNewBusStandPayyanur,Tamil,19:30,PlatinumCircle,₹130,88,0
+Malappuram,KarthikaMoviesAC4KDolbyAtmosValanchery,Tamil,21:30,DiamondCircle,₹110,232,2
