@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kollam,ArchanaCinemasACDolbyAtmosAnchalKerala,Malayalam,11:00,Recliner,₹250,9,9
+Kollam,ArchanaCinemasACDolbyAtmosAnchalKerala,Malayalam,11:00,MovieMax,₹130,272,272
+Kollam,ArchanaCinemasACDolbyAtmosAnchalKerala,Malayalam,14:30,Recliner,₹250,9,9
+Kollam,ArchanaCinemasACDolbyAtmosAnchalKerala,Malayalam,14:30,MovieMax,₹130,272,272
+Kollam,ArchanaCinemasACDolbyAtmosAnchalKerala,Malayalam,18:15,Recliner,₹250,9,9
+Kollam,ArchanaCinemasACDolbyAtmosAnchalKerala,Malayalam,18:15,MovieMax,₹130,272,272
+Kollam,ArchanaCinemasACDolbyAtmosAnchalKerala,Malayalam,21:30,Recliner,₹250,9,9
+Kollam,ArchanaCinemasACDolbyAtmosAnchalKerala,Malayalam,21:30,MovieMax,₹130,272,272
