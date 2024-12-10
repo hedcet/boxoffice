@@ -1,0 +1,15 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Thrissur,INOXSobhaCityMall,Tamil,12:20,RoyalRecliner,₹199,10,10
+Thrissur,INOXSobhaCityMall,Tamil,12:20,Club,₹99,63,0
+Thrissur,INOXSobhaCityMall,Tamil,12:20,Executive,₹99,22,0
+Thrissur,INOXSobhaCityMall,Tamil,12:20,Royal,₹99,28,9
+Trivandrum,CinepolisMOTTrivandrum,Tamil,13:00,Normal,₹160,34,0
+Trivandrum,CinepolisMOTTrivandrum,Tamil,13:00,Executive,₹180,85,6
+Trivandrum,CinepolisMOTTrivandrum,Tamil,13:00,PlatinumPremium,₹200,50,9
+Trivandrum,PVRLuluTrivandrum,Tamil,21:30,Recliner,₹450,7,6
+Trivandrum,PVRLuluTrivandrum,Tamil,21:30,Prime,₹190,51,7
+Trivandrum,PVRLuluTrivandrum,Tamil,21:30,Classic,₹170,70,0
+Ernakulam,PVRLuluKochi,Tamil,22:35,Recliner,₹199,9,7
+Ernakulam,PVRLuluKochi,Tamil,22:35,Classic,₹99,39,0
+Ernakulam,PVRLuluKochi,Tamil,22:35,ClassicPlus,₹99,91,3
+Ernakulam,PVRLuluKochi,Tamil,22:35,Prime,₹99,64,31
