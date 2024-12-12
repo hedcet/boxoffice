@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Wayanad,PentaCinemasPulpally,Malayalam,11:15,GoldClass,₹110,154,4
+Palakkad,AromaScreen2Palakkad,Malayalam,11:15,KingCircle,₹129.8,235,3
+Kannur,LibertyParadiseThalassery,Malayalam,11:30,Mini,₹129.8,250,177
+Ernakulam,Kanoos2KRavipuram,Malayalam,12:00,Diamond,₹110,186,0
+Wayanad,PentaCinemasPulpally,Malayalam,14:30,GoldClass,₹110,154,4
+Kannur,LibertyParadiseThalassery,Malayalam,14:45,Mini,₹129.8,250,175
+Ernakulam,Kanoos2KRavipuram,Malayalam,15:00,Diamond,₹110,186,2
+Wayanad,PentaCinemasPulpally,Malayalam,17:30,GoldClass,₹110,154,4
+Ernakulam,Kanoos2KRavipuram,Malayalam,19:00,Diamond,₹110,186,3
+Ernakulam,Kanoos2KRavipuram,Malayalam,21:50,Diamond,₹110,186,0
