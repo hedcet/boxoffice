@@ -1,0 +1,15 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,SangeetaCinemaKochi,Malayalam,10:20,BlueCircle,₹150,187,26
+Kottayam,MYCinemasThalayolaparambuKerala,Malayalam,11:00,Gold,₹110,204,8
+Alappuzha,PANCinemasAlappuzha,Malayalam,13:20,Platinum,₹250,34,0
+Alappuzha,PANCinemasAlappuzha,Malayalam,13:20,Gold,₹180,138,10
+Kottayam,AshaTheatreKottayam,Malayalam,14:00,Gold,₹130,187,40
+Kottayam,AshaTheatreKottayam,Malayalam,14:00,Silver,₹110,33,0
+Kottayam,AnchaniCinemas4KDolbyAtmosPallickathodu,Malayalam,14:30,Platinum,₹250,12,0
+Kottayam,AnchaniCinemas4KDolbyAtmosPallickathodu,Malayalam,14:30,Gold,₹150,117,3
+Kottayam,RDCinemasMundakayam,Malayalam,14:30,Executive,₹140,150,7
+Kottayam,RDCinemasMundakayam,Malayalam,14:30,Economy,₹100,16,10
+Kottayam,UGMCinemasEttumanoor,Malayalam,14:45,Platinum,₹250,16,1
+Kottayam,UGMCinemasEttumanoor,Malayalam,14:45,Gold,₹150,171,0
+Kottayam,AshaTheatreKottayam,Malayalam,18:00,Gold,₹130,187,3
+Kottayam,AshaTheatreKottayam,Malayalam,18:00,Silver,₹110,33,0
