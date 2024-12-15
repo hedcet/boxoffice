@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Wayanad,PentaCinemasPulpally,Malayalam,11:15,GoldClass,₹110,154,4
+Palakkad,NewAromaTheatrePalakkad,Malayalam,11:15,PlatinumCircle,₹129.8,200,3
+Palakkad,NewAromaTheatrePalakkad,Malayalam,11:15,DiamondCircle,₹110,229,8
+Wayanad,PentaCinemasPulpally,Malayalam,14:30,GoldClass,₹110,154,4
+Wayanad,PentaCinemasPulpally,Malayalam,17:30,GoldClass,₹110,154,4
+Palakkad,AromaScreen2Palakkad,Malayalam,18:30,KingCircle,₹129.8,235,20
