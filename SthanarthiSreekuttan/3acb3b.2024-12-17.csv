@@ -1,0 +1,13 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PVRLuluKochi,Malayalam,12:40,Recliner,₹199,10,10
+Ernakulam,PVRLuluKochi,Malayalam,12:40,Classic,₹99,39,1
+Ernakulam,PVRLuluKochi,Malayalam,12:40,ClassicPlus,₹99,91,23
+Ernakulam,PVRLuluKochi,Malayalam,12:40,Prime,₹99,68,68
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:35,Recliner,₹350,7,1
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:35,Prime,₹190,60,2
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:35,Classic,₹160,77,8
+Ernakulam,ManuDMaxCinemasPuthenvelikkara,Malayalam,15:00,Diamond,₹110,252,0
+Ernakulam,ManuDMaxCinemasPuthenvelikkara,Malayalam,18:30,Diamond,₹110,252,0
+Thrissur,AshokaTheatreVadanappally,Malayalam,18:30,Gold,₹130,264,0
+Ernakulam,ManuDMaxCinemasPuthenvelikkara,Malayalam,21:30,Diamond,₹110,252,0
+Thrissur,AshokaTheatreVadanappally,Malayalam,21:30,Gold,₹130,264,0
