@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kottayam,DhanyaRemyaKottayam,Malayalam,14:00,Remya,₹135,251,10
+Kottayam,DhanyaRemyaChanganassery,Malayalam,14:00,Remya,₹135,196,0
+Idukki,AashirvadCineplexxThodupuzha,Malayalam,14:45,Platinum,₹210,19,0
+Idukki,AashirvadCineplexxThodupuzha,Malayalam,14:45,Gold,₹185,73,5
+Idukki,AashirvadCineplexxThodupuzha,Malayalam,14:45,Silver,₹155,124,0
+Idukki,AashirvadCineplexxThodupuzha,Malayalam,16:15,Gold,₹185,11,0
+Idukki,AashirvadCineplexxThodupuzha,Malayalam,16:15,Silver,₹155,91,0
+Ernakulam,GCinemasKothamangalam4K3DDolbyAtmos,Malayalam,18:30,Standard,₹150,162,58
