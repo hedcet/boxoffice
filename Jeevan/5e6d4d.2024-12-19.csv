@@ -1,0 +1,14 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Alappuzha,SandraVallakaliCineComplex,Malayalam,10:45,PlatinumFamilyClass,₹130,114,22
+Alappuzha,SandraVallakaliCineComplex,Malayalam,10:45,GoldBalcony,₹110,143,22
+Alappuzha,MLalCineplexxAashirvadHaripad,Malayalam,14:15,Recliner,₹340,17,0
+Alappuzha,MLalCineplexxAashirvadHaripad,Malayalam,14:15,Platinum,₹160,45,1
+Alappuzha,MLalCineplexxAashirvadHaripad,Malayalam,14:15,Gold,₹129,149,1
+Alappuzha,MLalCineplexxAashirvadHaripad,Malayalam,14:15,Silver,₹80,21,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,16:30,Recliner,₹390,29,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,16:30,Premium,₹190,135,13
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,16:30,Executive,₹100,27,1
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,16:30,Lounger,₹210,24,1
+Trivandrum,ThapasyaCineHouseAttingal,Malayalam,18:30,Balcony,₹150,188,1
+Trivandrum,ThapasyaCineHouseAttingal,Malayalam,18:30,Circle,₹130,451,31
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosTrivandrum,Malayalam,21:30,Executive,₹110,70,2
