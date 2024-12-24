@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kasaragod,MoviemaxCircleKasaragod,Kannada,10:30,Max2,₹129.8,195,0
+Ernakulam,PVRLuluKochi,Tamil,16:15,Recliner,₹350,10,10
+Ernakulam,PVRLuluKochi,Tamil,16:15,Prime,₹200,68,68
+Ernakulam,PVRLuluKochi,Tamil,16:15,ClassicPlus,₹180,91,1
+Ernakulam,PVRLuluKochi,Tamil,16:15,Classic,₹160,39,0
+Trivandrum,CinepolisMOTTrivandrum,Kannada,19:55,PlatinumExecutive,₹200,32,4
+Trivandrum,CinepolisMOTTrivandrum,Kannada,19:55,PlatinumPremium,₹250,33,4
+Ernakulam,CinepolisCentreSquareKochi,Kannada,22:30,Normal,₹190,13,0
+Ernakulam,CinepolisCentreSquareKochi,Kannada,22:30,Executive,₹200,26,3
+Ernakulam,CinepolisCentreSquareKochi,Kannada,22:30,Premium,₹210,67,4
