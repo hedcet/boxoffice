@@ -1,0 +1,13 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,11:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,11:00,Classic,₹110,154,26
+Palakkad,AromaScreen2Palakkad,Tamil,11:15,KingCircle,₹129.8,235,3
+Ernakulam,Kanoos2KRavipuram,Tamil,12:00,Diamond,₹110,186,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,14:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,14:00,Classic,₹110,154,29
+Palakkad,AromaScreen2Palakkad,Tamil,14:15,KingCircle,₹129.8,235,13
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,18:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,18:00,Classic,₹110,154,29
+Ernakulam,Kanoos2KRavipuram,Tamil,19:00,Diamond,₹110,186,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,21:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,21:00,Classic,₹110,154,26
