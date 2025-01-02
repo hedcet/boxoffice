@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,PriyadarsiniCinemaPriyadarsiniRoadPalakkad,Persian,11:15,Executive,₹150,115,5
+Palakkad,PriyadarsiniCinemaPriyadarsiniRoadPalakkad,Persian,11:15,Dress,₹110,470,47
+Palakkad,PriyadarsiniCinema,Persian,14:25,Executive,₹150,115,12
+Palakkad,PriyadarsiniCinema,Persian,14:25,Dress,₹110,470,28
+Palakkad,PriyadarsiniCinemaPriyadarsiniRoadPalakkad,Persian,17:45,Executive,₹150,115,9
+Palakkad,PriyadarsiniCinemaPriyadarsiniRoadPalakkad,Persian,17:45,Dress,₹110,470,14
+Palakkad,PriyadarsiniCinemaPriyadarsiniRoadPalakkad,Persian,21:00,Executive,₹150,115,0
+Palakkad,PriyadarsiniCinemaPriyadarsiniRoadPalakkad,Persian,21:00,Dress,₹110,470,12
