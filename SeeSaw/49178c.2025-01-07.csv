@@ -1,0 +1,14 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,Kanoos2KRavipuram,Tamil,12:00,Diamond,₹110,186,0
+Trivandrum,PVRLuluTrivandrum,Tamil,13:00,Recliner,₹350,8,5
+Trivandrum,PVRLuluTrivandrum,Tamil,13:00,Prime,₹190,34,21
+Trivandrum,PVRLuluTrivandrum,Tamil,13:00,Classic,₹170,65,0
+Ernakulam,Kanoos2KRavipuram,Tamil,15:00,Diamond,₹110,186,0
+Ernakulam,Kanoos2KRavipuram,Tamil,19:00,Diamond,₹110,186,0
+Ernakulam,Kanoos2KRavipuram,Tamil,21:50,Diamond,₹110,186,0
+Ernakulam,PVRForumMallKochi,Tamil,22:45,Elite,₹190,85,11
+Ernakulam,PVRForumMallKochi,Tamil,22:45,Classic,₹170,22,0
+Kannur,SumangaliCinemasAnnurRoad,Tamil,10:30,PlatinumCircle,₹130,161,0
+Palakkad,GowriMovieHouse2KDolby7Point1OotraKollengode,Tamil,10:50,FirstClass,₹110,129,0
+Alappuzha,GanamTheatreComplexACKattanam,Tamil,11:00,FirstClass,₹140,129,67
+Alappuzha,GanamTheatreComplexACKattanam,Tamil,14:30,FirstClass,₹140,129,67
