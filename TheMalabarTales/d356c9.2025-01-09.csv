@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PVRForumMallKochi,Malayalam,13:50,Recliner,₹400,10,0
+Ernakulam,PVRForumMallKochi,Malayalam,13:50,Elite,₹190,111,16
+Ernakulam,PVRForumMallKochi,Malayalam,13:50,Classic,₹170,24,0
+Thrissur,INOXSobhaCityMall,Malayalam,13:50,RoyalRecliner,₹290,10,0
+Thrissur,INOXSobhaCityMall,Malayalam,13:50,Club,₹170,66,0
+Thrissur,INOXSobhaCityMall,Malayalam,13:50,Royal,₹170,28,15
+Thrissur,INOXSobhaCityMall,Malayalam,13:50,Executive,₹130,22,0
+Kozhikode,RegalCinemasKozhikode,Malayalam,17:00,FirstclassSc1,₹200,95,27
+Kozhikode,CrownTheatreDolbyAtmosTownHallRoadCalicut,Malayalam,13:00,Audi2,₹180,148,22
+Kozhikode,CrownTheatreDolbyAtmosTownHallRoadCalicut,Malayalam,21:00,Audi2,₹180,148,27
