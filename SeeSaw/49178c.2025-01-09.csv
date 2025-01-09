@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,Kanoos2KRavipuram,Tamil,12:00,Diamond,₹110,186,0
+Ernakulam,Kanoos2KRavipuram,Tamil,15:00,Diamond,₹110,186,0
+Trivandrum,PVRLuluTrivandrum,Tamil,15:40,Recliner,₹400,8,0
+Trivandrum,PVRLuluTrivandrum,Tamil,15:40,Prime,₹210,34,0
+Trivandrum,PVRLuluTrivandrum,Tamil,15:40,Classic,₹180,65,0
+Ernakulam,Kanoos2KRavipuram,Tamil,19:00,Diamond,₹110,186,0
+Ernakulam,PVRForumMallKochi,Tamil,22:20,Elite,₹190,85,11
+Ernakulam,PVRForumMallKochi,Tamil,22:20,Classic,₹170,22,0
