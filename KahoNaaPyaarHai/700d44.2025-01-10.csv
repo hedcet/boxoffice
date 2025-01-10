@@ -1,0 +1,17 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,CinepolisGokulamGalleriaMall,Hindi,13:00,Normal,₹200,27,4
+Kozhikode,CinepolisGokulamGalleriaMall,Hindi,13:00,Executive,₹220,74,1
+Kozhikode,CinepolisGokulamGalleriaMall,Hindi,13:00,Premium,₹240,41,6
+Ernakulam,CinepolisCentreSquareKochi,Hindi,16:00,Normal,₹190,25,25
+Ernakulam,CinepolisCentreSquareKochi,Hindi,16:00,Executive,₹200,39,39
+Ernakulam,CinepolisCentreSquareKochi,Hindi,16:00,Premium,₹210,84,84
+Trivandrum,CinepolisMOTTrivandrum,Hindi,19:10,VipExecutive,₹300,18,2
+Trivandrum,CinepolisMOTTrivandrum,Hindi,19:10,VipPremium,₹300,18,3
+Ernakulam,PVRForumMallKochi,Hindi,22:25,Recliner,₹400,8,1
+Ernakulam,PVRForumMallKochi,Hindi,22:25,Elite,₹200,111,36
+Ernakulam,PVRForumMallKochi,Hindi,22:25,Classic,₹170,28,0
+Trivandrum,PVRLuluTrivandrum,Hindi,22:50,Recliner,₹350,7,0
+Trivandrum,PVRLuluTrivandrum,Hindi,22:50,Prime,₹190,51,5
+Trivandrum,PVRLuluTrivandrum,Hindi,22:50,Classic,₹170,70,6
+Ernakulam,CinepolisVIPCentreSquareMallKochi,Hindi,22:50,VipExecutive,₹500,22,22
+Ernakulam,CinepolisVIPCentreSquareMallKochi,Hindi,22:50,VipPremium,₹550,54,54
