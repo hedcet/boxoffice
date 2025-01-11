@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,CinepolisCentreSquareKochi,Malayalam,10:20,Normal,₹190,13,10
+Ernakulam,CinepolisCentreSquareKochi,Malayalam,10:20,Executive,₹200,26,10
+Ernakulam,CinepolisCentreSquareKochi,Malayalam,10:20,Premium,₹210,67,3
+Kottayam,AnaswaraTheatre2KTripleBeam3DKottayam,Malayalam,18:00,GrandCircle,₹135,422,5
+Kottayam,MYCinemasThalayolaparambuKerala,Malayalam,18:30,Gold,₹110,144,0
+Kottayam,VelvetViewCinemasKumarakom,Malayalam,18:45,Platinum,₹250,14,0
+Kottayam,VelvetViewCinemasKumarakom,Malayalam,18:45,Gold,₹150,96,44
+Kottayam,VelvetViewCinemasKumarakom,Malayalam,18:45,Silver,₹130,28,0
