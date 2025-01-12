@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kottayam,AnaswaraTheatre2KTripleBeam3DKottayam,Malayalam,18:00,GrandCircle,₹135,422,5
+Kottayam,MYCinemasThalayolaparambuKerala,Malayalam,18:30,Gold,₹110,144,8
+Kottayam,VelvetViewCinemasKumarakom,Malayalam,19:00,Platinum,₹250,14,0
+Kottayam,VelvetViewCinemasKumarakom,Malayalam,19:00,Gold,₹150,96,7
+Kottayam,VelvetViewCinemasKumarakom,Malayalam,19:00,Silver,₹130,28,0
