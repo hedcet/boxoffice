@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,AromaTheatrePalakkad,Tamil,18:00,Red,₹30,246,179
+Palakkad,AromaTheatrePalakkad,Tamil,18:00,Blue,₹30,320,27
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Tamil,18:00,Platinum,₹50,42,42
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Tamil,18:00,Gold,₹50,293,215
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Tamil,18:00,Executive,₹50,365,109
