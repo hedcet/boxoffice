@@ -1,0 +1,5 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,CityMallCinemasThamarassery,Malayalam,16:30,Platinum,₹260,8,8
+Kozhikode,CityMallCinemasThamarassery,Malayalam,16:30,Gold,₹160,102,98
+Kannur,DevCinemasKanichar,Malayalam,16:45,Screen2,₹129.8,189,0
+Kozhikode,SandhyaCineHouseBalussery,Malayalam,22:30,Class1,₹150,156,36
