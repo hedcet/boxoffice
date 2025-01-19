@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kottayam,MYCinemasThalayolaparambuKerala,Malayalam,11:00,Gold,₹110,144,6
+Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,11:00,Platinum,₹250,14,0
+Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,11:00,Gold,₹130,131,0
+Idukki,SILVERHILLSCINEMAS4KLaser3DDOLBY7Point1,Malayalam,12:00,Silver,₹160,172,0
+Kollam,GmaxCinemasJerome3D7Point1JBLKollam,Malayalam,14:45,Green,₹160,86,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,14:45,Recliner,₹450,27,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,14:45,Premium,₹220,165,12
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,14:45,Executive,₹150,40,0
+Pathanamthitta,ChilankaCinemasThiruvalla,Malayalam,15:30,Balcony,₹129.78,277,0
+Pathanamthitta,ChilankaCinemasThiruvalla,Malayalam,15:30,FirstClass,₹129.78,198,0
+Kasaragod,MagicFramesMehboobTheatreComplex4KKasaragod,Malayalam,16:30,Executive,₹129.7,351,351
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Malayalam,11:30,Gold,₹150,51,0
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Malayalam,11:30,Executive,₹130,152,0
+Thrissur,ChembakasseryCinemas4K3DDolbyAtmosTempleRoadIrinjalakuda,Malayalam,17:00,RoyalCircle,₹129.8,270,0
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosTrivandrum,Malayalam,18:30,Executive,₹110,70,0
