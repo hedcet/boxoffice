@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kottayam,MYCinemasThalayolaparambuKerala,Malayalam,11:00,Gold,₹110,144,0
+Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,11:00,Platinum,₹250,14,0
+Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,11:00,Gold,₹130,131,0
+Idukki,SILVERHILLSCINEMAS4KLaser3DDOLBY7Point1,Malayalam,12:00,Silver,₹130,172,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,14:45,Recliner,₹390,27,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,14:45,Premium,₹190,165,24
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,14:45,Executive,₹150,40,0
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Malayalam,18:30,Executive,₹110,70,0
