@@ -1,0 +1,14 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,ThapasyaCineHouseAttingal,Malayalam,11:00,Circle,₹130,436,14
+Pathanamthitta,TrinityMovieMaxPathanamthitta,Malayalam,11:15,Special,₹150,110,19
+Trivandrum,KalabhavanTheatreTripleBeam3DTrivandrum,Malayalam,11:30,Platinum,₹125,135,73
+Trivandrum,KalabhavanTheatreTripleBeam3DTrivandrum,Malayalam,11:30,Gold,₹105,275,63
+Kottayam,MYCinemasThalayolaparambuKerala,Malayalam,13:00,Gold,₹110,144,0
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,14:45,ExecutiveClass,₹160,11,0
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,14:45,ExecutiveClass1,₹150,86,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Malayalam,18:00,Platinum,₹150,22,16
+Trivandrum,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Malayalam,18:00,Gold,₹129,144,1
+Pathanamthitta,ChilankaCinemasThiruvalla,Malayalam,18:00,Balcony,₹129.78,277,5
+Pathanamthitta,ChilankaCinemasThiruvalla,Malayalam,18:00,FirstClass,₹129.78,198,0
+Trivandrum,ThapasyaCineHouseAttingal,Malayalam,18:30,Circle,₹130,436,14
+Alappuzha,GanamTheatreComplexACKPRoadKattanam,Malayalam,14:30,FirstClass,₹140,129,0
