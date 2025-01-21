@@ -1,0 +1,5 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,15:00,Recliner,₹400,27,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,15:00,Premium,₹99,165,13
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,15:00,Executive,₹99,40,0
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Malayalam,18:30,Executive,₹110,70,1
