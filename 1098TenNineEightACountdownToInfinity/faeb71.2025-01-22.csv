@@ -1,0 +1,15 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kollam,MYCinemasHJComplexKarunagapally,Malayalam,11:30,Classic,₹110,118,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,12:30,Recliner,₹300,27,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,12:30,Premium,₹170,165,1
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,12:30,Executive,₹150,40,0
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,13:40,VipExecutive,₹250,18,18
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,13:40,VipPremium,₹300,18,18
+Kannur,LibertyCinemaKannurAmbiliTheatre,Malayalam,16:45,Platinum,₹129.8,230,119
+Kannur,AlinkeelCinemas2KAtmos7Point1Taliparamba,Malayalam,16:45,Reserved,₹129.8,190,1
+Kannur,AlakodeFilmCity4KDolbyAtmos,Malayalam,19:00,Chandra,₹160,151,4
+Kannur,AlinkeelCinemas2KAtmos7Point1Taliparamba,Malayalam,19:45,Reserved,₹129.8,190,11
+Ernakulam,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Malayalam,10:30,Premium,₹150,142,0
+Malappuram,AiswaryaMoviesAC4KDolby3DPonnani,Malayalam,14:45,Platinum,₹110,158,31
+Kannur,SumangaliCinemasAnnurRoad,Malayalam,16:30,PlatinumCircle,₹130,161,0
+Malappuram,AiswaryaMoviesAC4KDolby3DPonnani,Malayalam,18:30,Platinum,₹110,158,31
