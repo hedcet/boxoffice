@@ -1,0 +1,8 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kannur,AlakodeFilmCity4KDolbyAtmos,Malayalam,16:00,Chandra,₹160,151,0
+Kannur,AlinkeelCinemas2KAtmos7Point1Taliparamba,Malayalam,16:45,Reserved,₹129.8,190,8
+Kannur,LibertyCinemaKannurAmbiliTheatre,Malayalam,17:00,Platinum,₹129.8,230,118
+Kannur,AlinkeelCinemas2KAtmos7Point1Taliparamba,Malayalam,19:45,Reserved,₹129.8,190,24
+Malappuram,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Malayalam,14:45,Platinum,₹110,158,31
+Kannur,SumangaliCinemasAnnurRoadPayyanur,Malayalam,16:30,PlatinumCircle,₹130,161,0
+Malappuram,AiswaryaMoviesAC4KDolby3DPonnaniBiyyam,Malayalam,18:30,Platinum,₹110,158,31
