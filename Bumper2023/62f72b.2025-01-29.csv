@@ -1,0 +1,15 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Tamil,10:00,Recliner,₹300,27,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Tamil,10:00,Premium,₹170,146,10
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Tamil,10:00,Executive,₹150,25,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Tamil,10:00,Lounger,₹180,22,0
+Palakkad,SathyaMovieHouse3DDolbyAtmosPalakkad,Tamil,11:00,FirstClass,₹129.8,527,10
+Idukki,SILVERHILLSCINEMAS4KLaser3DDOLBY7Point1,Tamil,11:15,Silver,₹130,80,0
+Thrissur,SreelakshmiCinemaAmballur4K2KLaserProjection,Tamil,12:30,Gold,₹150,145,0
+Palakkad,SathyaMovieHouse3DDolbyAtmosPalakkad,Tamil,18:00,FirstClass,₹129.8,527,10
+Palakkad,GowriMovieHouse2KDolby7Point1PudunagaramKollengode,Tamil,10:50,FirstClass,₹110,129,0
+Thrissur,BavanaMoviesLaserDolbyAtmosNearNewBusStandKunnamkulam,Tamil,12:00,Luxury,₹220,13,0
+Thrissur,BavanaMoviesLaserDolbyAtmosNearNewBusStandKunnamkulam,Tamil,12:00,Platinum,₹129.76,159,0
+Palakkad,JassCinema2K7Point1SurroundOttapalam,Tamil,14:00,GoldCircle,₹129.8,352,0
+Palakkad,JassCinema2K7Point1SurroundPalakkadPonnaniRoadOttapalam,Tamil,18:00,GoldCircle,₹129.8,352,0
+Palakkad,JassCinema2K7Point1SurroundPalakkadPonnaniRoadOttapalam,Tamil,21:00,GoldCircle,₹129.8,352,0
