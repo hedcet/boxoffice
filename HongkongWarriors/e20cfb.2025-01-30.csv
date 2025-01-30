@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,11:00,FirstClass,₹110,189,0
+Palakkad,KAMMoviesVadakkenchery,Tamil,11:30,Platinum,₹120,423,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,14:00,FirstClass,₹110,189,0
+Palakkad,KAMMoviesVadakkenchery,Tamil,14:30,Platinum,₹120,423,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,18:00,FirstClass,₹110,189,0
+Palakkad,KAMMoviesVadakkenchery,Tamil,18:30,Platinum,₹120,423,0
+Thrissur,AshokaTheatreVadanappally,Tamil,18:30,Gold,₹130,264,6
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,21:00,FirstClass,₹110,189,0
+Palakkad,KAMMoviesVadakkenchery,Tamil,21:30,Platinum,₹120,423,0
+Thrissur,AshokaTheatreVadanappally,Tamil,21:30,Gold,₹130,264,5
