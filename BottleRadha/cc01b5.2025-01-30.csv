@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,11:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,11:00,Classic,₹110,154,22
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,14:00,Box,₹120,45,19
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,14:00,Classic,₹110,154,22
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,18:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,18:00,Classic,₹110,154,22
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,21:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,21:00,Classic,₹110,154,22
+Palakkad,CityCinema2KACAnaikatti,Tamil,14:30,Premium,₹100,236,90
+Palakkad,CityCinema2KACAnaikatti,Tamil,18:30,Premium,₹100,236,90
