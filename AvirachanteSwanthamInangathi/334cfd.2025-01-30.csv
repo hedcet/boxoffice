@@ -1,0 +1,17 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,CinepolisCentreSquareKochi,Malayalam,11:00,Normal,₹150,19,12
+Ernakulam,CinepolisCentreSquareKochi,Malayalam,11:00,Executive,₹170,43,0
+Ernakulam,CinepolisCentreSquareKochi,Malayalam,11:00,Premium,₹190,44,10
+Kottayam,AnaswaraTheatre2KTripleBeam3DKottayam,Malayalam,11:00,GrandCircle,₹135,422,38
+Pathanamthitta,NewJacobsCinemasThiruvalla,Malayalam,11:00,Platinum,₹120,98,1
+Pathanamthitta,NewJacobsCinemasThiruvalla,Malayalam,11:00,Gold,₹110,188,12
+Ernakulam,PVRLuluKochi,Malayalam,11:25,Recliner,₹300,10,10
+Ernakulam,PVRLuluKochi,Malayalam,11:25,Prime,₹160,68,68
+Ernakulam,PVRLuluKochi,Malayalam,11:25,ClassicPlus,₹140,91,12
+Ernakulam,PVRLuluKochi,Malayalam,11:25,Classic,₹110,39,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:25,Recliner,₹450,8,3
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:25,Classic,₹210,65,10
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:25,Prime,₹210,34,1
+Idukki,SILVERHILLSCINEMAS4KLaser3DDOLBY7Point1,Malayalam,14:00,Silver,₹130,80,10
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,14:15,Platinum,₹125,388,10
+Palakkad,JassCinema2K7Point1SurroundPalakkadPonnaniRoadOttapalam,Malayalam,11:00,GoldCircle,₹129.8,352,0
