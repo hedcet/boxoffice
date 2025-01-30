@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Pathanamthitta,SCinemasKonni,Malayalam,11:00,Platinum,₹150,81,20
+Pathanamthitta,SCinemasKonni,Malayalam,11:00,Gold,₹110,368,12
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,11:15,ExecutiveClass,₹160,11,0
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,11:15,ExecutiveClass1,₹150,86,4
+Pathanamthitta,SCinemasKonni,Malayalam,14:30,Platinum,₹150,81,20
+Pathanamthitta,SCinemasKonni,Malayalam,14:30,Gold,₹110,368,12
+Pathanamthitta,AiswaryaTheatrePathanamthitta,Malayalam,14:30,Special,₹150,392,27
+Pathanamthitta,SCinemasKonni,Malayalam,18:15,Platinum,₹150,81,20
+Pathanamthitta,SCinemasKonni,Malayalam,18:15,Gold,₹110,368,17
+Pathanamthitta,AiswaryaTheatrePathanamthitta,Malayalam,18:30,Special,₹150,392,42
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,18:45,ExecutiveClass,₹160,11,0
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,18:45,ExecutiveClass1,₹150,86,0
+Pathanamthitta,AiswaryaTheatrePathanamthitta,Malayalam,21:15,Special,₹150,392,23
+Pathanamthitta,SCinemasKonni,Malayalam,21:30,Platinum,₹150,81,20
+Pathanamthitta,SCinemasKonni,Malayalam,21:30,Gold,₹110,368,12
