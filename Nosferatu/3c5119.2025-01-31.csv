@@ -1,0 +1,14 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,PVRLuluTrivandrum,English,16:55,Recliner,₹450,7,2
+Trivandrum,PVRLuluTrivandrum,English,16:55,Prime,₹210,60,4
+Trivandrum,PVRLuluTrivandrum,English,16:55,Classic,₹190,77,2
+Kannur,CinepolisSecuraCentreKannur,English,18:50,Normal,₹100,26,0
+Kannur,CinepolisSecuraCentreKannur,English,18:50,Executive,₹100,81,2
+Kannur,CinepolisSecuraCentreKannur,English,18:50,Premium,₹100,43,17
+Kannur,CinepolisSecuraCentreKannur,English,21:40,Normal,₹100,26,0
+Kannur,CinepolisSecuraCentreKannur,English,21:40,Executive,₹100,81,7
+Kannur,CinepolisSecuraCentreKannur,English,21:40,Premium,₹100,43,18
+Ernakulam,PVRLuluKochi,English,22:50,Recliner,₹350,10,10
+Ernakulam,PVRLuluKochi,English,22:50,Prime,₹200,68,68
+Ernakulam,PVRLuluKochi,English,22:50,ClassicPlus,₹180,91,17
+Ernakulam,PVRLuluKochi,English,22:50,Classic,₹160,39,1
