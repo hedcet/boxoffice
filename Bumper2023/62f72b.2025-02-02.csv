@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,KavithaTheatre4K3DDolby7Point1Ernakulam,Tamil,12:10,GoldCircle,₹170,306,19
+Ernakulam,KavithaTheatre4K3DDolby7Point1Ernakulam,Tamil,12:10,SilverCircle,₹150,770,24
+Ernakulam,KavithaTheatre4K3DDolby7Point1Ernakulam,Tamil,12:10,Sofa,₹250,23,0
+Palakkad,SathyaMovieHouse3DDolbyAtmosPalakkad,Tamil,14:00,FirstClass,₹129.8,527,0
+Ernakulam,SangeetaCinemaKochi,Tamil,15:00,BlueCircle,₹160,187,18
+Palakkad,SathyaMovieHouse3DDolbyAtmosPalakkad,Tamil,18:00,FirstClass,₹129.8,527,0
+Palakkad,SathyaMovieHouse3DDolbyAtmosPalakkad,Tamil,21:00,FirstClass,₹129.8,527,0
+Ernakulam,SaritaCinemasKacheripady,Tamil,15:00,BlueCircle,₹160,227,218
