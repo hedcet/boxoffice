@@ -1,0 +1,12 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kottayam,UniversalTheatreAC4K3DDolby7Point1SoundPala,Tamil,14:30,RoyalCircle,₹150,413,0
+Idukki,EVMCinemasKumily,Tamil,15:00,RoyalCircle,₹129.19,330,0
+Trivandrum,PVRLuluTrivandrum,Tamil,16:00,Recliner,₹350,8,0
+Trivandrum,PVRLuluTrivandrum,Tamil,16:00,Prime,₹190,34,0
+Trivandrum,PVRLuluTrivandrum,Tamil,16:00,Classic,₹170,65,0
+Kottayam,UniversalTheatreAC4K3DDolby7Point1SoundPala,Tamil,18:00,RoyalCircle,₹150,413,0
+Idukki,EVMCinemasKumily,Tamil,18:30,RoyalCircle,₹129.19,330,0
+Thrissur,ShadowCinemasPazhayannur,Tamil,21:00,Platinum,₹200,16,0
+Thrissur,ShadowCinemasPazhayannur,Tamil,21:00,Gold,₹140,192,0
+Kottayam,UniversalTheatreAC4K3DDolby7Point1SoundPala,Tamil,21:00,RoyalCircle,₹150,413,0
+Idukki,EVMCinemasKumily,Tamil,21:30,RoyalCircle,₹129.19,330,0
