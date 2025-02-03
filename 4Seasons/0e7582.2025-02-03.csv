@@ -1,0 +1,17 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,VCinemasSreeDeviDurgaPalakkad,Malayalam,11:00,Standard,₹129.8,126,0
+Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,11:00,SreeGold,₹150,311,0
+Trivandrum,KairaliSreeNilaRGBLaser4KDolbyAtmos,Malayalam,11:15,Platinum,₹125,259,12
+Ernakulam,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,₹160,187,28
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,13:45,Platinum,₹220,27,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,13:45,Gold,₹200,54,0
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,14:30,Platinum,₹125,262,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Malayalam,18:00,Platinum,₹150,22,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Malayalam,18:00,Gold,₹129,144,10
+Ernakulam,KairaliSreeTheaterNorthParvur,Malayalam,18:30,Platinum,₹105,245,0
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,21:30,Platinum,₹125,262,0
+Ernakulam,STCinemasGoldenMallMattoor,Malayalam,10:00,Premium,₹150,142,0
+Ernakulam,SaritaCinemasKacheripadyKochi,Malayalam,12:00,BlueCircle,₹160,227,218
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosTrivandrum,Malayalam,14:45,Gold,₹250,4,0
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosTrivandrum,Malayalam,14:45,Executive,₹150,139,13
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosTrivandrum,Malayalam,14:45,Economy,₹100,13,0
