@@ -1,0 +1,8 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Pathanamthitta,TrinityMovieMaxPathanamthitta,Malayalam,11:15,Special,₹150,110,8
+Pathanamthitta,SCinemasKonni,Malayalam,14:30,Platinum,₹150,81,20
+Pathanamthitta,SCinemasKonni,Malayalam,14:30,Gold,₹110,368,62
+Pathanamthitta,SCinemasKonni,Malayalam,18:15,Platinum,₹150,81,20
+Pathanamthitta,SCinemasKonni,Malayalam,18:15,Gold,₹110,368,15
+Pathanamthitta,SCinemasKonni,Malayalam,21:30,Platinum,₹150,81,20
+Pathanamthitta,SCinemasKonni,Malayalam,21:30,Gold,₹110,368,12
