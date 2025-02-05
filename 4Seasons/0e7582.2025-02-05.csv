@@ -1,0 +1,13 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,KairaliSreeNilaRGBLaser4KDolbyAtmos,Malayalam,11:15,Platinum,₹125,259,0
+Ernakulam,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,₹160,187,18
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,13:45,Platinum,₹220,27,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,13:45,Gold,₹200,54,10
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,14:30,Platinum,₹125,262,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Malayalam,18:00,Platinum,₹150,22,4
+Trivandrum,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Malayalam,18:00,Gold,₹129,144,0
+Ernakulam,KairaliSreeTheaterNorthParvur,Malayalam,18:30,Platinum,₹105,245,0
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,21:30,Platinum,₹125,262,0
+Ernakulam,STCinemasGoldenMallMattoor,Malayalam,10:00,Premium,₹150,142,0
+Ernakulam,SaritaCinemasKacheripadyKochi,Malayalam,12:00,BlueCircle,₹160,227,218
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosTrivandrum,Malayalam,14:45,Executive,₹110,70,0
