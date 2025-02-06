@@ -1,0 +1,12 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PVRLuluKochi,Hindi,10:50,Recliner,₹199,9,4
+Ernakulam,PVRLuluKochi,Hindi,10:50,Classic,₹129,39,0
+Ernakulam,PVRLuluKochi,Hindi,10:50,ClassicPlus,₹129,91,13
+Ernakulam,PVRLuluKochi,Hindi,10:50,Prime,₹129,64,23
+Trivandrum,PVRLuluTrivandrum,Hindi,12:35,Recliner,₹350,8,0
+Trivandrum,PVRLuluTrivandrum,Hindi,12:35,Prime,₹190,39,5
+Trivandrum,PVRLuluTrivandrum,Hindi,12:35,Classic,₹170,60,0
+Kozhikode,MirajCinemasBlueDiamondMallCalicut,Hindi,13:45,Silver,₹99,28,0
+Kozhikode,MirajCinemasBlueDiamondMallCalicut,Hindi,13:45,Gold,₹99,84,23
+Kozhikode,MirajCinemasBlueDiamondMallCalicut,Hindi,13:45,Platinum,₹99,42,17
+Kozhikode,MirajCinemasBlueDiamondMallCalicut,Hindi,13:45,Recliner,₹199,12,0
