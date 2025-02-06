@@ -1,0 +1,15 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:20,Recliner,₹350,8,1
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:20,Prime,₹190,34,4
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:20,Classic,₹170,65,0
+Thrissur,INOXSobhaCityMall,Malayalam,21:35,RoyalRecliner,₹290,10,0
+Thrissur,INOXSobhaCityMall,Malayalam,21:35,Club,₹170,66,5
+Thrissur,INOXSobhaCityMall,Malayalam,21:35,Royal,₹170,28,20
+Thrissur,INOXSobhaCityMall,Malayalam,21:35,Executive,₹130,22,0
+Palakkad,GowriMovieHouse2KDolby7Point1PudunagaramKollengode,Malayalam,10:55,FirstClass,₹110,129,0
+Palakkad,GowriMovieHouseAC2KDolby7Point1OotraKollengode,Malayalam,10:55,FirstClass,₹110,129,0
+Palakkad,GowriMovieHouse2KDolby7Point1PudunagaramKollengode,Malayalam,13:55,FirstClass,₹110,129,0
+Palakkad,GowriMovieHouse2KDolby7Point1OotraKollengode,Malayalam,13:55,FirstClass,₹110,129,0
+Palakkad,GowriMovieHouseAC2KDolby7Point1OotraKollengode,Malayalam,17:50,FirstClass,₹110,129,0
+Palakkad,GowriMovieHouseAC2KDolby7Point1OotraKollengode,Malayalam,17:55,FirstClass,₹110,129,0
+Palakkad,GowriMovieHouseAC2KDolby7Point1OotraKollengode,Malayalam,20:55,FirstClass,₹110,129,0
