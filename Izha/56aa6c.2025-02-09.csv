@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kannur,RajadhaniCinemas,Malayalam,10:30,PlatinumCircle,₹130,88,0
+Kannur,RajadhaniCinemas,Malayalam,13:30,PlatinumCircle,₹130,88,0
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Malayalam,13:45,Executive,₹110,70,0
+Kannur,RajadhaniCinemasNearNewBusStandPayyanur,Malayalam,16:30,PlatinumCircle,₹130,88,5
+Kannur,RajadhaniCinemasNearNewBusStandPayyanur,Malayalam,19:30,PlatinumCircle,₹130,88,0
