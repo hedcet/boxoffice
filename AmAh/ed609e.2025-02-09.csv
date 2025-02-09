@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Idukki,AashirvadCineplexxThodupuzha,Malayalam,16:30,Gold,₹200,11,3
+Idukki,AashirvadCineplexxThodupuzha,Malayalam,16:30,Silver,₹165,91,40
+Ernakulam,SangeetaCinemaKochi,Malayalam,17:30,BlueCircle,₹160,187,65
+Idukki,AashirvadCineplexxThodupuzha,Malayalam,21:30,Gold,₹200,11,5
+Idukki,AashirvadCineplexxThodupuzha,Malayalam,21:30,Silver,₹165,91,15
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Malayalam,19:00,Executive,₹110,70,28
