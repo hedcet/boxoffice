@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PVRLuluKochi,Malayalam,13:20,Recliner,₹300,9,4
+Ernakulam,PVRLuluKochi,Malayalam,13:20,Prime,₹160,64,1
+Ernakulam,PVRLuluKochi,Malayalam,13:20,ClassicPlus,₹140,91,5
+Ernakulam,PVRLuluKochi,Malayalam,13:20,Classic,₹110,39,5
+Kasaragod,MagicFramesMehboobTheatreComplex4KKasaragod,Malayalam,13:30,Executive,₹129.7,258,0
+Kannur,MagicFramesDowntownMallThalassery,Malayalam,14:45,Gold,₹160,131,18
+Ernakulam,PVRForumMallKochi,Malayalam,16:10,Recliner,₹199,10,7
+Ernakulam,PVRForumMallKochi,Malayalam,16:10,Classic,₹129,24,0
+Ernakulam,PVRForumMallKochi,Malayalam,16:10,Elite,₹129,111,14
+Kozhikode,MagicFramesCinemas4KDolbyAtmosWayanadRoadKunnamangalam,Malayalam,17:20,Gold,₹180,177,0
