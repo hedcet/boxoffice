@@ -1,0 +1,8 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PVRLuluKochi,Hindi,10:00,Recliner,₹300,9,2
+Ernakulam,PVRLuluKochi,Hindi,10:00,Prime,₹180,64,16
+Ernakulam,PVRLuluKochi,Hindi,10:00,ClassicPlus,₹160,91,2
+Ernakulam,PVRLuluKochi,Hindi,10:00,Classic,₹140,39,1
+Kannur,CinepolisSecuraCentreKannur,Hindi,21:00,Normal,₹150,20,0
+Kannur,CinepolisSecuraCentreKannur,Hindi,21:00,Executive,₹150,62,0
+Kannur,CinepolisSecuraCentreKannur,Hindi,21:00,Premium,₹150,30,8
