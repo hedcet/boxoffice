@@ -1,0 +1,15 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PVRForumMallKochi,Malayalam,11:00,Elite,₹170,85,6
+Ernakulam,PVRForumMallKochi,Malayalam,11:00,Classic,₹150,22,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,14:45,Platinum,₹220,27,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,14:45,Gold,₹200,60,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,17:30,Recliner,₹390,23,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,17:30,Premium,₹190,88,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,17:30,Executive,₹150,17,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,17:30,Lounger,₹210,14,0
+Ernakulam,EVMCinemaAC4KRGBLaser3DPerumbavoor,Malayalam,18:15,Executive1,₹179.25,14,0
+Ernakulam,EVMCinemaAC4KRGBLaser3DPerumbavoor,Malayalam,18:15,Deluxe,₹159.15,128,0
+Ernakulam,ZeenathTheatre2KACAluva,Malayalam,18:30,Balcony,₹170,55,21
+Ernakulam,ZeenathTheatre2KACAluva,Malayalam,18:30,EmeraldRing,₹130,124,7
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,21:00,Platinum,₹220,27,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,21:00,Gold,₹200,60,0
