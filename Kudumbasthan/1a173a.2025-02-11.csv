@@ -1,0 +1,13 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PVRForumMallKochi,Tamil,13:30,Classic,₹99,22,0
+Ernakulam,PVRForumMallKochi,Tamil,13:30,Elite,₹99,85,15
+Trivandrum,PVRLuluTrivandrum,Tamil,15:25,Recliner,₹199,8,8
+Trivandrum,PVRLuluTrivandrum,Tamil,15:25,Classic,₹99,65,17
+Trivandrum,PVRLuluTrivandrum,Tamil,15:25,Prime,₹99,34,28
+Ernakulam,PVRLuluKochi,Tamil,16:00,Recliner,₹199,14,2
+Ernakulam,PVRLuluKochi,Tamil,16:00,Classic,₹99,54,2
+Ernakulam,PVRLuluKochi,Tamil,16:00,ClassicPlus,₹99,108,2
+Ernakulam,PVRLuluKochi,Tamil,16:00,Prime,₹99,125,16
+Trivandrum,PVRLuluTrivandrum,Tamil,21:50,Recliner,₹199,7,4
+Trivandrum,PVRLuluTrivandrum,Tamil,21:50,Classic,₹99,104,3
+Trivandrum,PVRLuluTrivandrum,Tamil,21:50,Prime,₹99,68,45
