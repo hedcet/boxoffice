@@ -1,0 +1,14 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kasaragod,MagicFramesMehboobTheatreComplex4KKasaragod,Hindi,13:30,Executive,₹129.7,175,0
+Kasaragod,MagicFramesMehboobTheatreComplex4KKasaragod,Hindi,16:30,Executive,₹129.7,175,0
+Kannur,ArchanaCineplexRGBLaser4K3DATMOSPayyanur,Hindi,16:30,Standard,₹129.7,196,0
+Trivandrum,CinepolisMOTTrivandrum,Hindi,16:35,VipExecutive,₹300,18,0
+Trivandrum,CinepolisMOTTrivandrum,Hindi,16:35,VipPremium,₹300,18,6
+Ernakulam,PVRLuluKochi,Hindi,22:40,Recliner,₹350,9,0
+Ernakulam,PVRLuluKochi,Hindi,22:40,Prime,₹200,64,18
+Ernakulam,PVRLuluKochi,Hindi,22:40,ClassicPlus,₹180,91,2
+Ernakulam,PVRLuluKochi,Hindi,22:40,Classic,₹160,39,0
+Thrissur,INOXSobhaCityMall,Hindi,22:40,RoyalRecliner,₹350,10,0
+Thrissur,INOXSobhaCityMall,Hindi,22:40,Club,₹190,63,0
+Thrissur,INOXSobhaCityMall,Hindi,22:40,Royal,₹190,28,13
+Thrissur,INOXSobhaCityMall,Hindi,22:40,Executive,₹130,22,0
