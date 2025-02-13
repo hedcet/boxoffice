@@ -1,0 +1,10 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Pathanamthitta,SCinemasKonni,Malayalam,14:35,Platinum,₹150,81,20
+Pathanamthitta,SCinemasKonni,Malayalam,14:35,Gold,₹110,368,12
+Trivandrum,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Malayalam,15:00,Platinum,₹150,22,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Malayalam,15:00,Gold,₹129,144,0
+Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,16:30,SreeGold,₹150,311,0
+Pathanamthitta,SCinemasKonni,Malayalam,18:20,Platinum,₹150,81,20
+Pathanamthitta,SCinemasKonni,Malayalam,18:20,Gold,₹110,368,12
+Pathanamthitta,SCinemasKonni,Malayalam,21:35,Platinum,₹150,81,20
+Pathanamthitta,SCinemasKonni,Malayalam,21:35,Gold,₹110,368,12
