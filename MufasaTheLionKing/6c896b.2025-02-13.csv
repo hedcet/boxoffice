@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PVRLuluKochi,English,13:55,Classic,₹229,116,16
+Kannur,CinepolisSecuraCentreKannur,English,14:15,Normal,₹140,26,0
+Kannur,CinepolisSecuraCentreKannur,English,14:15,Executive,₹140,81,0
+Kannur,CinepolisSecuraCentreKannur,English,14:15,Premium,₹140,43,8
+Kannur,CinepolisSecuraCentreKannur,English,16:50,Normal,₹140,26,0
+Kannur,CinepolisSecuraCentreKannur,English,16:50,Executive,₹140,81,3
+Kannur,CinepolisSecuraCentreKannur,English,16:50,Premium,₹140,43,8
+Kannur,CinepolisSecuraCentreKannur,English,19:20,Normal,₹140,26,0
+Kannur,CinepolisSecuraCentreKannur,English,19:20,Executive,₹140,81,5
+Kannur,CinepolisSecuraCentreKannur,English,19:20,Premium,₹140,43,13
