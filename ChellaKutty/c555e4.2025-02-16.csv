@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kottayam,DhanyaRemyaKottayam,Tamil,11:00,Remya,₹135,251,0
+Kottayam,DhanyaRemyaChanganassery,Tamil,11:00,Remya,₹135,196,0
+Kollam,DhanyaRemyaKollam,Tamil,11:00,Platinum,₹135,200,24
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,11:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,11:00,Classic,₹110,154,22
+Trivandrum,SriKalidasMPlex4KRGBLaserAtmosKattakkada,Tamil,11:00,Sofa,₹200,4,0
+Trivandrum,SriKalidasMPlex4KRGBLaserAtmosKattakkada,Tamil,11:00,Gold,₹150,173,0
+Pathanamthitta,DhanyaRemyaPathanamthitta,Tamil,11:00,RemyaCircle,₹135,197,54
+Kottayam,DhanyaRemyaKottayam,Tamil,14:00,Remya,₹135,251,0
+Kottayam,DhanyaRemyaChanganassery,Tamil,14:00,Remya,₹135,196,0
+Kollam,DhanyaRemyaKollam,Tamil,14:00,Platinum,₹135,200,24
+Pathanamthitta,DhanyaRemyaPathanamthitta,Tamil,14:00,RemyaCircle,₹135,197,54
+Kozhikode,AashirvadCineplexxKozhikode,Tamil,16:00,Platinum,₹220,27,0
+Kozhikode,AashirvadCineplexxKozhikode,Tamil,16:00,Gold,₹200,60,0
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Tamil,14:45,Executive,₹110,70,0
