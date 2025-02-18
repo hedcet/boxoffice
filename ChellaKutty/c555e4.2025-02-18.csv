@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kottayam,DhanyaRemyaKottayam,Tamil,11:00,Remya,₹135,251,0
+Kottayam,DhanyaRemyaChanganassery,Tamil,11:00,Remya,₹135,196,196
+Kottayam,DhanyaRemyaKottayam,Tamil,14:00,Remya,₹135,251,0
+Kottayam,DhanyaRemyaChanganassery,Tamil,14:00,Remya,₹135,196,196
+Kozhikode,AashirvadCineplexxKozhikode,Tamil,16:00,Platinum,₹220,27,0
+Kozhikode,AashirvadCineplexxKozhikode,Tamil,16:00,Gold,₹200,60,0
