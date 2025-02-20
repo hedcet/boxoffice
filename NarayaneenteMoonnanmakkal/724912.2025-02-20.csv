@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,AromaScreen2Palakkad,Malayalam,11:30,KingCircle,₹129.8,235,4
+Ernakulam,PVRForumMallKochi,Malayalam,13:05,Elite,₹190,85,10
+Ernakulam,PVRForumMallKochi,Malayalam,13:05,Classic,₹170,22,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:25,Recliner,₹350,8,1
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:25,Prime,₹190,34,3
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:25,Classic,₹170,65,3
+Thrissur,INOXSobhaCityMall,Malayalam,13:25,RoyalRecliner,₹220,10,2
+Thrissur,INOXSobhaCityMall,Malayalam,13:25,Club,₹150,66,3
+Thrissur,INOXSobhaCityMall,Malayalam,13:25,Royal,₹150,28,9
+Thrissur,INOXSobhaCityMall,Malayalam,13:25,Executive,₹120,22,0
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,13:50,Normal,₹140,13,0
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,13:50,Executive,₹160,26,1
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,13:50,Premium,₹180,67,12
+Palakkad,AromaScreen2Palakkad,Malayalam,14:15,KingCircle,₹129.8,235,0
+Alappuzha,GanamTheatreComplexACKattanam,Malayalam,11:00,FirstClass,₹140,129,0
