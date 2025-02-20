@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,CowmalyaTheatreKozhinjampara,Tamil,11:00,Gold,₹129.8,477,29
+Palakkad,CowmalyaTheatreKozhinjampara,Tamil,14:00,Gold,₹129.8,477,29
+Kottayam,DhanyaRemyaKottayam,Tamil,18:00,Remya,₹135,251,0
+Kottayam,DhanyaRemyaChanganassery,Tamil,18:00,Remya,₹135,196,196
+Palakkad,CowmalyaTheatreKozhinjampara,Tamil,18:00,Gold,₹129.8,477,29
+Kottayam,DhanyaRemyaKottayam,Tamil,21:00,Remya,₹135,251,0
+Kottayam,DhanyaRemyaChanganassery,Tamil,21:00,Remya,₹135,196,196
+Palakkad,CowmalyaTheatreKozhinjampara,Tamil,21:00,Gold,₹129.8,477,29
