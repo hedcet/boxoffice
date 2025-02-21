@@ -1,0 +1,8 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PVRLuluKochi,Korean,13:50,Recliner,₹300,9,7
+Ernakulam,PVRLuluKochi,Korean,13:50,Prime,₹180,64,6
+Ernakulam,PVRLuluKochi,Korean,13:50,ClassicPlus,₹160,91,2
+Ernakulam,PVRLuluKochi,Korean,13:50,Classic,₹140,39,2
+Trivandrum,PVRLuluTrivandrum,Korean,21:30,Recliner,₹500,7,2
+Trivandrum,PVRLuluTrivandrum,Korean,21:30,Prime,₹210,51,9
+Trivandrum,PVRLuluTrivandrum,Korean,21:30,Classic,₹180,70,1
