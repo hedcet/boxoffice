@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,11:00,Recliner,₹300,29,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,11:00,Premium,₹170,135,13
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,11:00,Executive,₹150,27,1
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,11:00,Lounger,₹180,24,1
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,11:15,Platinum,₹220,27,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,11:15,Gold,₹200,60,0
+Ernakulam,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,₹160,187,18
+Ernakulam,EVMCinemaACRGBLASER3DPerumbavoor,Malayalam,18:30,Executive1,₹179.25,14,0
+Ernakulam,EVMCinemaACRGBLASER3DPerumbavoor,Malayalam,18:30,Deluxe,₹159.15,128,0
+Palakkad,CityCinema2KACAnaikatti,Malayalam,10:00,Premium,₹100,236,0
+Kozhikode,MagicFramesCinemas4KDolbyAtmosKMallKakkattil,Malayalam,11:00,Platinum,₹250,10,0
+Kozhikode,MagicFramesCinemas4KDolbyAtmosKMallKakkattil,Malayalam,11:00,Gold,₹129.78,127,0
+Kozhikode,MagicFramesCinemas4KDolbyAtmosWayanadRoadKunnamangalam,Malayalam,14:00,Gold,₹180,107,0
+Malappuram,HariharFilmCityWandoor,Malayalam,17:00,Platinum,₹150,216,0
+Malappuram,HariharFilmCityWandoor,Malayalam,17:00,Platinum,₹150,216,50
