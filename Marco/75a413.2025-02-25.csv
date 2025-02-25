@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Wayanad,VarnaTheatreMananthavady,Malayalam,11:30,Diamond,₹120,224,0
+Wayanad,VarnaTheatreMananthavady,Malayalam,14:30,Diamond,₹120,224,0
+Wayanad,VarnaTheatreMananthavady,Malayalam,17:30,Diamond,₹120,224,0
+Wayanad,VeenaVarnaTheatreMananthavadyAC2K3D,Malayalam,20:30,Diamond,₹120,224,0
+Thrissur,DavisTheatreThrissur,,11:15,Gold,₹202,131,0
+Thrissur,DavisTheatreThrissur,,11:15,Gold,₹202,0,0
+Thrissur,DavisTheatreThrissur,,14:00,Gold,₹202,131,0
+Thrissur,DavisTheatreThrissur,,14:00,Gold,₹202,0,0
