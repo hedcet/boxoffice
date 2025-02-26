@@ -1,0 +1,5 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,GreenfieldMoviemaxCinemasTrivandrum,Malayalam,16:15,Executive,₹160,132,1
+Ernakulam,SangeetaCinemaKochi,Malayalam,18:00,BlueCircle,₹160,187,30
+Idukki,SILVERHILLSCINEMAS4KLaser3DDOLBY7Point1,Malayalam,19:00,Silver,₹160,80,13
+Idukki,SILVERHILLSCINEMAS4KLaser3DDOLBY7Point1,Malayalam,21:30,Silver,₹160,80,0
