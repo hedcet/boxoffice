@@ -1,0 +1,5 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,CinepolisMOTTrivandrum,Telugu,16:50,PlatinumExecutive,₹200,32,0
+Trivandrum,CinepolisMOTTrivandrum,Telugu,16:50,PlatinumPremium,₹200,33,12
+Ernakulam,PVRForumMallKochi,Telugu,22:35,Elite,₹180,85,0
+Ernakulam,PVRForumMallKochi,Telugu,22:35,Classic,₹160,22,0
