@@ -1,0 +1,17 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,CowmalyaTheatreKozhinjampara,Malayalam,10:55,Gold,₹129.8,207,12
+Kollam,MYCinemasHJComplexKarunagapally,Malayalam,12:20,Classic,₹150,194,12
+Ernakulam,PVRForumMallKochi,Malayalam,13:15,Recliner,₹400,8,0
+Ernakulam,PVRForumMallKochi,Malayalam,13:15,Elite,₹190,125,37
+Ernakulam,PVRForumMallKochi,Malayalam,13:15,Classic,₹160,14,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:45,Recliner,₹500,7,4
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:45,Prime,₹250,60,33
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:45,Classic,₹180,77,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:05,Platinum,₹220,31,2
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:05,Gold,₹200,67,10
+Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,18:30,Executive,₹400,24,0
+Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,18:30,Gold,₹150,195,10
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosTrivandrum,Malayalam,10:30,Economy,₹100,13,0
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosTrivandrum,Malayalam,10:30,Executive,₹150,139,0
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosTrivandrum,Malayalam,10:30,Gold,₹250,4,0
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Malayalam,18:30,Executive,₹110,70,13
