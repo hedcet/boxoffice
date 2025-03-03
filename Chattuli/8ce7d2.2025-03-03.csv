@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,SangeetaCinemaKochi,Malayalam,14:25,BlueCircle,₹160,187,58
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,18:45,Platinum,₹220,27,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,18:45,Gold,₹200,54,21
+Wayanad,AiswaryaAthulyaAiswaryaCineplexOppIssacsRegencyHotelSultanBathery,Malayalam,16:30,GoldClass,₹110,63,20
+Wayanad,AiswaryaAthulyaAiswaryaCineplexOppIssacsRegencyHotelSultanBathery,Malayalam,16:30,SofaSeat,₹180,44,0
+Kozhikode,ARCRoseCinePalaceTripleBeam3DMukkam,Malayalam,19:00,Executive,₹129.8,131,23
