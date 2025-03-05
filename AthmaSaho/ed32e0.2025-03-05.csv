@@ -1,0 +1,12 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PVRForumMallKochi,Malayalam,12:55,Recliner,₹300,8,0
+Ernakulam,PVRForumMallKochi,Malayalam,12:55,Elite,₹160,125,30
+Ernakulam,PVRForumMallKochi,Malayalam,12:55,Classic,₹140,14,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:45,Recliner,₹350,7,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:45,Classic,₹210,77,22
+Trivandrum,PVRLuluTrivandrum,Malayalam,13:45,Prime,₹190,60,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:05,Platinum,₹220,31,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:05,Gold,₹200,67,20
+Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,18:15,Executive,₹400,24,0
+Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,18:15,Gold,₹150,195,20
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosTrivandrum,Malayalam,18:30,Executive,₹110,70,3
