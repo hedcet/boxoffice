@@ -1,0 +1,17 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,11:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,11:00,Classic,₹110,154,22
+Ernakulam,SangeetaCinemaKochi,Tamil,12:00,BlueCircle,₹160,187,31
+Palakkad,SathyaMovieHouse3DDolbyAtmosPalakkad,Tamil,14:00,FirstClass,₹129.8,527,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,14:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,14:00,Classic,₹110,154,22
+Idukki,SILVERHILLSCINEMAS4KLaser3DDOLBY7Point1,Tamil,16:00,Silver,₹130,80,0
+Palakkad,SathyaMovieHouse3DDolbyAtmosPalakkad,Tamil,18:00,FirstClass,₹129.8,527,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,18:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,18:00,Classic,₹110,154,22
+Thrissur,INOXSobhaCityMall,Tamil,19:00,RoyalRecliner,₹290,10,1
+Thrissur,INOXSobhaCityMall,Tamil,19:00,Club,₹170,66,0
+Thrissur,INOXSobhaCityMall,Tamil,19:00,Royal,₹170,28,17
+Thrissur,INOXSobhaCityMall,Tamil,19:00,Executive,₹130,22,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,21:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,21:00,Classic,₹110,154,22
