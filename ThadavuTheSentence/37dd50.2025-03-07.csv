@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,KrishnaCineplex4KRGBLaser3DDolbyAtmos,Malayalam,17:00,SunCircle,₹200,34,0
+Palakkad,KrishnaCineplex4KRGBLaser3DDolbyAtmos,Malayalam,17:00,MoonCircle,₹130,302,0
+Palakkad,SyndicateCinemasKoppam4KDolbyAtmosRGBLaser,Malayalam,19:00,Platinum,₹250,16,0
+Palakkad,SyndicateCinemasKoppam4KDolbyAtmosRGBLaser,Malayalam,19:00,Gold,₹150,166,3
+Palakkad,SyndicateCinemasKoppam4KDolbyAtmosRGBLaser,Malayalam,19:00,PlatinumCouple,₹250,4,0
