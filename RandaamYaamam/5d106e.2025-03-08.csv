@@ -1,0 +1,15 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,11:00,Platinum,₹250,14,0
+Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,11:00,Gold,₹150,131,0
+Trivandrum,KairaliSreeNilaRGBLaser4KDolbyAtmos,Malayalam,11:00,Platinum,₹125,259,8
+Palakkad,BalaCinemasDolbyAtmosLaserTrippleBeam3D,Malayalam,14:30,Platinum,₹160,14,0
+Palakkad,BalaCinemasDolbyAtmosLaserTrippleBeam3D,Malayalam,14:30,Gold,₹110,133,20
+Trivandrum,GangaCineHouse4KDolbyAtmosAttingal,Malayalam,14:30,Yamuna,₹129.7,330,2
+Thrissur,DCINEMAAMUGHALMALLBARCO4KLASERKODUNGALLUR,Malayalam,15:15,Gold,₹150,225,41
+Ernakulam,SangeetaCinemaKochi,Malayalam,16:30,BlueCircle,₹160,187,50
+Trivandrum,GangaCineHouse4KDolbyAtmosAttingal,Malayalam,18:15,Yamuna,₹129.7,330,17
+Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,21:30,Platinum,₹250,14,0
+Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,21:30,Gold,₹150,131,0
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Malayalam,14:45,Executive,₹110,70,28
+Thrissur,BavanaMoviesLaserDolbyAtmosKunnamkulam,Malayalam,15:00,Platinum,₹129.76,159,30
+Thrissur,BavanaMoviesLaserDolbyAtmosKunnamkulam,Malayalam,15:00,Luxury,₹220,13,0
