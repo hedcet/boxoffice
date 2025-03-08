@@ -1,0 +1,14 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PVRLuluKochi,Malayalam,11:20,Recliner,₹300,9,2
+Ernakulam,PVRLuluKochi,Malayalam,11:20,Prime,₹180,64,21
+Ernakulam,PVRLuluKochi,Malayalam,11:20,ClassicPlus,₹160,91,15
+Ernakulam,PVRLuluKochi,Malayalam,11:20,Classic,₹140,39,3
+Trivandrum,PVRLuluTrivandrum,Malayalam,12:40,Recliner,₹300,8,5
+Trivandrum,PVRLuluTrivandrum,Malayalam,12:40,Prime,₹250,34,11
+Trivandrum,PVRLuluTrivandrum,Malayalam,12:40,Classic,₹160,65,14
+Thrissur,INOXSobhaCityMall,Malayalam,15:35,RoyalRecliner,₹200,10,1
+Thrissur,INOXSobhaCityMall,Malayalam,15:35,Club,₹130,66,2
+Thrissur,INOXSobhaCityMall,Malayalam,15:35,Royal,₹130,28,16
+Thrissur,INOXSobhaCityMall,Malayalam,15:35,Executive,₹100,22,0
+Ernakulam,PVRForumMallKochi,Malayalam,16:50,Classic,₹129,22,0
+Ernakulam,PVRForumMallKochi,Malayalam,16:50,Elite,₹129,85,28
