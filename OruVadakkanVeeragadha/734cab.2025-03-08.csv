@@ -1,0 +1,10 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,EVMCinemaACRGBLASER3DPerumbavoor,Malayalam,18:00,Executive1,₹179.25,23,0
+Ernakulam,EVMCinemaACRGBLASER3DPerumbavoor,Malayalam,18:00,Deluxe,₹159.15,456,57
+Ernakulam,EVMCinemaAC4KRGBLaser3DPerumbavoor,Malayalam,21:15,Executive1,₹179.25,23,0
+Ernakulam,EVMCinemaAC4KRGBLaser3DPerumbavoor,Malayalam,21:15,Deluxe,₹159.15,456,57
+Palakkad,EVMNewTheatrePudunagaram,Malayalam,14:00,Gold,₹109.11,207,80
+Kozhikode,MagicFramesRadha4K3DDolby7Point1UltraBassCalicut,Malayalam,14:30,FirstClass,₹129.78,635,135
+Kozhikode,MagicFramesRadha4K3DDolby7Point1UltraBassCalicut,Malayalam,14:30,Balcony,₹160,140,34
+Palakkad,EVMNewTheatrePudunagaram,Malayalam,18:00,Gold,₹109.11,207,82
+Palakkad,EVMNewTheatrePudunagaram,Malayalam,21:00,Gold,₹109.11,207,80
