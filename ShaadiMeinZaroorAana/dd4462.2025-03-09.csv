@@ -1,0 +1,8 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,CinepolisCentreSquareKochiWithIMAX,Hindi,14:15,Normal,₹140,25,2
+Ernakulam,CinepolisCentreSquareKochiWithIMAX,Hindi,14:15,Executive,₹170,39,2
+Ernakulam,CinepolisCentreSquareKochiWithIMAX,Hindi,14:15,Premium,₹200,84,6
+Trivandrum,CinepolisMOTTrivandrum,Hindi,15:30,VipExecutive,₹250,18,0
+Trivandrum,CinepolisMOTTrivandrum,Hindi,15:30,VipPremium,₹300,18,8
+Ernakulam,PVRForumMallKochi,Hindi,19:40,Elite,₹160,85,2
+Ernakulam,PVRForumMallKochi,Hindi,19:40,Classic,₹140,22,0
