@@ -1,0 +1,12 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,PVRLuluTrivandrum,Malayalam,16:25,Recliner,₹350,8,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,16:25,Prime,₹190,84,9
+Trivandrum,PVRLuluTrivandrum,Malayalam,16:25,Classic,₹170,88,9
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,22:30,Recliner,₹450,27,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,22:30,Premium,₹220,146,27
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,22:30,Executive,₹150,25,3
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,22:30,Lounger,₹250,22,0
+Palakkad,GowriMovieHouse2KDolby7Point1Kollengode,Malayalam,10:50,FirstClass,₹110,201,0
+Palakkad,GowriMovieHouse2KDolby7Point1Kollengode,Malayalam,13:50,FirstClass,₹110,201,0
+Palakkad,GowriMovieHouseAC2KDolby7Point1OotraKollengode,Malayalam,17:50,FirstClass,₹110,201,2
+Palakkad,GowriMovieHouse2KDolby7Point1PudunagaramKollengode,Malayalam,20:50,FirstClass,₹110,201,0
