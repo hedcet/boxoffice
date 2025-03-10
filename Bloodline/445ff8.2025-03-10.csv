@@ -1,0 +1,5 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,CinepolisCentreSquareKochiWithIMAX,Malayalam,14:40,Normal,₹140,27,27
+Ernakulam,CinepolisCentreSquareKochiWithIMAX,Malayalam,14:40,Executive,₹170,45,45
+Ernakulam,CinepolisCentreSquareKochiWithIMAX,Malayalam,14:40,Premium,₹200,94,94
+Kollam,MYCinemasHJComplexKarunagapally,Malayalam,17:00,Classic,₹150,118,0
