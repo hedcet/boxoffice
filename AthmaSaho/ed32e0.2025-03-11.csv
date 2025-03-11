@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:00,Platinum,₹220,27,0
+Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:00,Gold,₹200,60,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,18:30,Recliner,₹450,8,4
+Trivandrum,PVRLuluTrivandrum,Malayalam,18:30,Prime,₹230,39,17
+Trivandrum,PVRLuluTrivandrum,Malayalam,18:30,Classic,₹210,60,18
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosTrivandrum,Malayalam,18:30,Executive,₹110,70,2
