@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,KairaliSreeNilaRGBLaser4KDolbyAtmos,Malayalam,11:00,Platinum,₹125,259,0
+Ernakulam,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,₹160,187,18
+Palakkad,BalaCinemasDolbyAtmosLaserTrippleBeam3D,Malayalam,14:30,Platinum,₹160,14,0
+Palakkad,BalaCinemasDolbyAtmosLaserTrippleBeam3D,Malayalam,14:30,Gold,₹110,133,15
+Trivandrum,GangaCineHouse4KDolbyAtmosAttingal,Malayalam,18:15,Yamuna,₹129.7,330,0
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosTrivandrum,Malayalam,14:30,Executive,₹110,70,20
+Thrissur,BavanaMoviesLaserDolbyAtmosNearNewBusStandKunnamkulam,Malayalam,15:00,Platinum,₹129.76,159,0
+Thrissur,BavanaMoviesLaserDolbyAtmosNearNewBusStandKunnamkulam,Malayalam,15:00,Luxury,₹220,13,0
