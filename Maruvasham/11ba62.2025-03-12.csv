@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,KairaliSreeTheaterNorthParvur,Malayalam,11:15,Platinum,₹105,338,0
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,11:30,Platinum,₹125,262,0
+Thrissur,RamdasMovieHouseThrissur,Malayalam,12:00,DiamondCircle,₹150,51,0
+Thrissur,RamdasMovieHouseThrissur,Malayalam,12:00,PearlCircle,₹110,245,3
+Ernakulam,PVROberonMallKochi,Malayalam,16:45,ClassicPlus,₹140,81,10
+Ernakulam,PVROberonMallKochi,Malayalam,16:45,Classic,₹120,36,0
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,18:15,Platinum,₹125,262,0
+Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,21:00,SreeGold,₹150,311,0
+Ernakulam,KairaliSreeTheaterNorthParvur,Malayalam,21:15,Platinum,₹105,338,0
+Trivandrum,KairaliSreeNilaRGBLaser4KDolbyAtmos,Malayalam,21:30,Platinum,₹125,259,0
