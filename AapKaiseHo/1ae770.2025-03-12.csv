@@ -1,0 +1,14 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,SreePadmanabhaTheatreScreen2EastFort,Malayalam,14:30,Devipriya,₹150,186,0
+Kollam,MYCinemasRPMallKollamKerala,Malayalam,16:30,Sofa,₹250,8,0
+Kollam,MYCinemasRPMallKollamKerala,Malayalam,16:30,ExecutiveOffline,₹180,89,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,17:00,Recliner,₹350,7,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,17:00,Prime,₹190,60,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,17:00,Classic,₹170,77,0
+Ernakulam,CinepolisCentreSquareKochi,Malayalam,18:55,Normal,₹140,20,3
+Ernakulam,CinepolisCentreSquareKochi,Malayalam,18:55,Executive,₹170,43,0
+Ernakulam,CinepolisCentreSquareKochi,Malayalam,18:55,Premium,₹200,44,0
+Thrissur,INOXSobhaCityMall,Malayalam,21:50,RoyalRecliner,₹290,10,8
+Thrissur,INOXSobhaCityMall,Malayalam,21:50,Club,₹170,66,2
+Thrissur,INOXSobhaCityMall,Malayalam,21:50,Royal,₹170,28,16
+Thrissur,INOXSobhaCityMall,Malayalam,21:50,Executive,₹130,22,0
