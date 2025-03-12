@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Malappuram,JayaKeralaTheatreParappanangadi,Malayalam,10:30,Standard,₹80,546,0
+Malappuram,JayaKeralaTheatreParappanangadi,Malayalam,10:30,Executive,₹100,137,0
+Malappuram,JayaKeralaTheatreParappanangadi,Malayalam,14:15,Standard,₹80,546,0
+Malappuram,JayaKeralaTheatreParappanangadi,Malayalam,14:15,Executive,₹100,137,0
+Malappuram,JayaKeralaTheatreParappanangadi,Malayalam,18:00,Standard,₹80,546,0
+Malappuram,JayaKeralaTheatreParappanangadi,Malayalam,18:00,Executive,₹100,137,1
+Malappuram,JayaKeralaTheatreParappanangadi,Malayalam,21:15,Standard,₹80,546,0
+Malappuram,JayaKeralaTheatreParappanangadi,Malayalam,21:15,Executive,₹100,137,0
+Kozhikode,MagicFramesRadha4K3DDolby7Point1UltraBassSMStreetCalicut,Malayalam,15:00,FirstClass,₹129.78,635,135
+Kozhikode,MagicFramesRadha4K3DDolby7Point1UltraBassSMStreetCalicut,Malayalam,15:00,Balcony,₹160,140,34
