@@ -1,0 +1,5 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,₹160,187,18
+Palakkad,BalaCinemasDolbyAtmosLaserTrippleBeam3D,Malayalam,16:30,Platinum,₹160,14,0
+Palakkad,BalaCinemasDolbyAtmosLaserTrippleBeam3D,Malayalam,16:30,Gold,₹110,133,0
+Trivandrum,GangaCineHouse4KDolbyAtmosAttingal,Malayalam,18:15,Yamuna,₹129.7,330,0
