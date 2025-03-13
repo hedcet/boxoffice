@@ -1,0 +1,13 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kollam,MYCinemasRPMallKollamKerala,Malayalam,16:30,Sofa,₹250,8,0
+Kollam,MYCinemasRPMallKollamKerala,Malayalam,16:30,ExecutiveOffline,₹180,89,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,17:00,Recliner,₹350,7,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,17:00,Prime,₹210,60,14
+Trivandrum,PVRLuluTrivandrum,Malayalam,17:00,Classic,₹170,77,6
+Ernakulam,CinepolisCentreSquareKochi,Malayalam,18:40,Normal,₹140,20,4
+Ernakulam,CinepolisCentreSquareKochi,Malayalam,18:40,Executive,₹170,43,4
+Ernakulam,CinepolisCentreSquareKochi,Malayalam,18:40,Premium,₹200,44,1
+Thrissur,INOXSobhaCityMall,Malayalam,21:50,RoyalRecliner,₹290,10,1
+Thrissur,INOXSobhaCityMall,Malayalam,21:50,Club,₹170,66,5
+Thrissur,INOXSobhaCityMall,Malayalam,21:50,Royal,₹170,28,28
+Thrissur,INOXSobhaCityMall,Malayalam,21:50,Executive,₹130,22,0
