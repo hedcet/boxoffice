@@ -1,0 +1,13 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,11:00,FirstClass,₹130,189,0
+Palakkad,KrishnaCineplex4KRGBLaser3DDolbyAtmos,Tamil,11:30,StarCircle,₹110,123,0
+Idukki,SILVERHILLSCINEMAS4KLaser3DDOLBY7Point1,Tamil,11:45,Silver,₹160,80,0
+Palakkad,BalaCinemasDolbyAtmosLaserTrippleBeam3D,Tamil,14:15,Platinum,₹160,14,0
+Palakkad,BalaCinemasDolbyAtmosLaserTrippleBeam3D,Tamil,14:15,Gold,₹110,133,0
+Palakkad,JayabharathTheatreVadakkencherry,Tamil,14:30,UpperClass,₹150,311,107
+Kottayam,VelvetViewCinemasKumarakom,Tamil,14:45,Platinum,₹250,14,0
+Kottayam,VelvetViewCinemasKumarakom,Tamil,14:45,Gold,₹150,146,0
+Kottayam,VelvetViewCinemasKumarakom,Tamil,14:45,Silver,₹130,36,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,18:00,FirstClass,₹110,189,0
+Palakkad,KrishnaCineplex4KRGBLaser3DDolbyAtmos,Tamil,18:45,StarCircle,₹110,123,0
+Palakkad,JayabharathTheatreVadakkencherry,Tamil,21:30,UpperClass,₹150,311,107
