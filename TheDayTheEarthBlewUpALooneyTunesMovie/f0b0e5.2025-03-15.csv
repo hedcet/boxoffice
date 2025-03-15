@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,PVRLuluTrivandrum,English,13:45,Recliner,₹400,7,0
+Trivandrum,PVRLuluTrivandrum,English,13:45,Prime,₹210,51,1
+Trivandrum,PVRLuluTrivandrum,English,13:45,Classic,₹180,70,4
+Ernakulam,PVRLuluKochi,English,14:25,Recliner,₹300,13,0
+Ernakulam,PVRLuluKochi,English,14:25,Prime,₹180,92,2
+Ernakulam,PVRLuluKochi,English,14:25,ClassicPlus,₹160,126,5
+Ernakulam,PVRLuluKochi,English,14:25,Classic,₹140,54,0
+Ernakulam,PVRForumMallKochi,English,16:55,Recliner,₹400,8,5
+Ernakulam,PVRForumMallKochi,English,16:55,Elite,₹180,125,21
+Ernakulam,PVRForumMallKochi,English,16:55,Classic,₹160,14,0
