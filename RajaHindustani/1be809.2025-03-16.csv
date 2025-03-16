@@ -1,0 +1,10 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,MirajCinemasBlueDiamondMallCalicut,Hindi,16:00,Gold,₹150,65,0
+Kozhikode,MirajCinemasBlueDiamondMallCalicut,Hindi,16:00,Platinum,₹150,40,0
+Kozhikode,MirajCinemasBlueDiamondMallCalicut,Hindi,16:00,Silver,₹150,26,0
+Ernakulam,CinepolisCentreSquareMallKochi,Hindi,18:40,Normal,₹140,19,3
+Ernakulam,CinepolisCentreSquareMallKochi,Hindi,18:40,Executive,₹170,43,4
+Ernakulam,CinepolisCentreSquareMallKochi,Hindi,18:40,Premium,₹200,44,0
+Kozhikode,CinepolisGokulamGalleriaMall,Hindi,22:00,Normal,₹160,27,27
+Kozhikode,CinepolisGokulamGalleriaMall,Hindi,22:00,Executive,₹180,74,74
+Kozhikode,CinepolisGokulamGalleriaMall,Hindi,22:00,Premium,₹180,41,41
