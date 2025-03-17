@@ -1,0 +1,14 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,11:00,SreeGold,₹150,311,0
+Pathanamthitta,TrinityMovieMaxPathanamthitta,Malayalam,11:15,Special,₹150,110,6
+Alappuzha,SandraVallakaliCineComplex,Malayalam,13:45,PlatinumFamilyClass,₹130,114,22
+Alappuzha,SandraVallakaliCineComplex,Malayalam,13:45,GoldBalcony,₹110,143,22
+Ernakulam,KairaliSreeTheaterNorthParvur,Malayalam,14:15,Platinum,₹105,338,0
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,14:30,ExecutiveClass,₹160,31,0
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,14:30,ExecutiveClass1,₹150,127,0
+Kottayam,BoscoCinemasKuravilangad,Malayalam,14:30,Economy,₹100,14,0
+Kottayam,BoscoCinemasKuravilangad,Malayalam,14:30,Executive,₹150,123,0
+Kottayam,BoscoCinemasKuravilangad,Malayalam,14:30,Gold,₹200,6,0
+Ernakulam,PanCinemasNucleusMall,Malayalam,15:30,Platinum,₹240,7,0
+Ernakulam,PanCinemasNucleusMall,Malayalam,15:30,Gold,₹180,120,0
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,18:15,Platinum,₹125,262,0
