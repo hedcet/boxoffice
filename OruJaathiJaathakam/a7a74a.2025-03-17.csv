@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kannur,BabyCinemasKuthuparamba,Malayalam,16:00,Standard,₹130,168,2
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,17:00,Premium,₹190,223,17
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,17:00,Executive,₹150,51,5
+Kozhikode,AshokCNC4KDolbyAtmosTrippleBeam3DVadakara,Malayalam,19:30,Platinum,₹129.8,120,8
+Alappuzha,SwathyScreensNooranad,Malayalam,21:30,Premium,₹150,140,5
+Alappuzha,SwathyScreensNooranad,Malayalam,21:30,GoldPlus,₹200,12,0
