@@ -1,0 +1,12 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,11:15,ExecutiveClass,₹160,11,0
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,11:15,ExecutiveClass1,₹150,86,0
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,14:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,14:00,Classic,₹110,154,37
+Kollam,Gmax4KUtsavAradhanaComplex,Malayalam,14:45,Royal,₹150,333,15
+Kozhikode,AshokCNC4KDolbyAtmosTrippleBeam3DVadakara,Malayalam,16:30,Platinum,₹129.8,120,15
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,21:00,Box,₹120,45,18
+Palakkad,VrindavanTheatreKozhinjampara,Tamil,21:00,Classic,₹110,154,22
+Kannur,LibertyCinemaKannurAmbiliTheatre,Malayalam,21:30,Recliner,₹300,21,11
+Kannur,LibertyCinemaKannurAmbiliTheatre,Malayalam,21:30,Diamond,₹129.8,227,128
+Kozhikode,CrownTheatreDolbyAtmosTownHallRoadCalicut,Malayalam,20:00,Audi2,₹150,148,53
