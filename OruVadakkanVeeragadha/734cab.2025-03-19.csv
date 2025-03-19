@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kannur,BabyCinemasKuthuparamba,Malayalam,13:00,Standard,₹130,168,0
+Thrissur,SreelakshmiCinemaAmballur4K2KLaserProjection,Malayalam,18:15,Platinum,₹150,277,56
+Palakkad,DeviCinemasCherpulassery,Malayalam,18:30,Gold,₹125,399,0
+Kannur,BabyCinemasKuthuparamba,Malayalam,19:00,Standard,₹130,168,0
+Thrissur,SreelakshmiCinemaAmballur4K2KLaserProjection,Malayalam,21:15,Platinum,₹150,277,56
+Thrissur,BCinemasKunnamkulam,Malayalam,21:30,Luxury,₹250,19,0
+Thrissur,BCinemasKunnamkulam,Malayalam,21:30,Executive,₹150,276,10
+Palakkad,MagicFramesDeviCinemasCherpulassery,Malayalam,21:30,Gold,₹125,399,0
