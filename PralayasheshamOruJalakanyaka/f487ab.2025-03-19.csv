@@ -1,0 +1,5 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,14:30,SreeGold,₹139,311,0
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,18:00,Platinum,₹120,388,0
+Alappuzha,KairaliSreeTheaterAlappuzha,Malayalam,18:15,Platinum,₹120,305,0
+Trivandrum,KairaliSreeNilaRGBLaser4KDolbyAtmos,Malayalam,19:00,Platinum,₹120,259,0
