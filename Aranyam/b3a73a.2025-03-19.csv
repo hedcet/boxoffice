@@ -1,0 +1,12 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Pathanamthitta,AashirvadCineplexxKadappra,Malayalam,11:00,SofaSeat,₹265,21,0
+Pathanamthitta,AashirvadCineplexxKadappra,Malayalam,11:00,Platinum,₹165,68,0
+Pathanamthitta,AashirvadCineplexxKadappra,Malayalam,11:00,Gold,₹140,124,0
+Pathanamthitta,AashirvadCineplexxKadappra,Malayalam,11:00,Silver,₹90,20,0
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,13:35,PlatinumExecutive,₹200,32,32
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,13:35,PlatinumPremium,₹200,33,33
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,14:15,Platinum,₹125,388,0
+Pathanamthitta,AashirvadCineplexxKadappra,Malayalam,21:15,SofaSeat,₹265,21,0
+Pathanamthitta,AashirvadCineplexxKadappra,Malayalam,21:15,Platinum,₹165,68,0
+Pathanamthitta,AashirvadCineplexxKadappra,Malayalam,21:15,Gold,₹140,124,0
+Pathanamthitta,AashirvadCineplexxKadappra,Malayalam,21:15,Silver,₹90,20,0
