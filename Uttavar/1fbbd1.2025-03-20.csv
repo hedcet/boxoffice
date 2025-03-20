@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,11:00,Platinum,₹180,214,0
+Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,11:00,Gold,₹150,486,0
+Palakkad,AromaScreen2Palakkad,Malayalam,11:15,KingCircle,₹129.8,235,1
+Kottayam,MYCinemasThalayolaparambuKerala,Malayalam,13:30,Gold,₹110,144,0
+Trivandrum,KairaliSreeNilaRGBLaser4KDolbyAtmos,Malayalam,14:00,Platinum,₹125,259,4
+Kottayam,DhanyaRemyaKottayam,Malayalam,14:00,Remya,₹135,251,0
+Kottayam,DhanyaRemyaChanganassery,Malayalam,14:00,Remya,₹135,196,0
+Palakkad,AromaScreen2Palakkad,Malayalam,14:15,KingCircle,₹129.8,235,0
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,14:30,Platinum,₹125,262,0
+Kottayam,DhanyaRemyaKottayam,Malayalam,18:00,Remya,₹135,251,0
+Kottayam,DhanyaRemyaChanganassery,Malayalam,18:00,Remya,₹135,196,0
+Trivandrum,SwaramLayamCinemasKattakada,Malayalam,18:30,Layam,₹129.8,143,2
+Trivandrum,KairaliSreeNilaRGBLaser4KDolbyAtmos,Malayalam,21:30,Platinum,₹125,259,7
+Trivandrum,SwaramLayamCinemasKattakada,Malayalam,21:30,Layam,₹129.8,143,0
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,21:30,Platinum,₹125,262,0
