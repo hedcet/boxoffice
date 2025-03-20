@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,11:15,ExecutiveClass,₹160,11,0
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,11:15,ExecutiveClass1,₹150,86,0
+Wayanad,VeenaVarnaTheatreMananthavadyAC2K3D,Malayalam,17:30,Diamond,₹120,224,0
+Kannur,LibertyCinemaKannurAmbiliTheatre,Malayalam,21:30,Recliner,₹300,21,11
+Kannur,LibertyCinemaKannurAmbiliTheatre,Malayalam,21:30,Diamond,₹129.8,227,121
