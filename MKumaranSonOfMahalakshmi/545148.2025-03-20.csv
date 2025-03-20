@@ -1,0 +1,13 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,PVRLuluTrivandrum,Tamil,13:45,Recliner,₹300,7,0
+Trivandrum,PVRLuluTrivandrum,Tamil,13:45,Classic,₹129,77,0
+Trivandrum,PVRLuluTrivandrum,Tamil,13:45,Prime,₹129,60,8
+Ernakulam,EVMCinemaACRGBLASER3DPerumbavoor,Tamil,14:00,Executive1,₹179.25,4,0
+Ernakulam,EVMCinemaACRGBLASER3DPerumbavoor,Tamil,14:00,Deluxe,₹159.15,98,0
+Ernakulam,PVRForumMallKochi,Tamil,15:55,Recliner,₹400,10,0
+Ernakulam,PVRForumMallKochi,Tamil,15:55,Elite,₹180,111,1
+Ernakulam,PVRForumMallKochi,Tamil,15:55,Classic,₹160,24,0
+Palakkad,Priyadarsini3D2KACDolbyAtmosPalakkad,Tamil,21:00,Executive,₹180,68,0
+Palakkad,Priyadarsini3D2KACDolbyAtmosPalakkad,Tamil,21:00,DressCircle,₹110,344,0
+Ernakulam,EVMCinemaACRGBLASER3DPerumbavoor,Tamil,21:00,Executive1,₹179.25,4,0
+Ernakulam,EVMCinemaACRGBLASER3DPerumbavoor,Tamil,21:00,Deluxe,₹159.15,98,0
