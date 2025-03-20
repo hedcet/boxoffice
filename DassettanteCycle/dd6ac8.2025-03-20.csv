@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kottayam,DhanyaRemyaKottayam,Malayalam,11:00,Remya,₹135,251,0
+Kottayam,DhanyaRemyaChanganassery,Malayalam,11:00,Remya,₹135,196,0
+Kozhikode,ARCCoronation4KDolbyAtmos,Malayalam,17:00,Elite,₹160,146,5
+Kozhikode,ARCCoronation4KDolbyAtmos,Malayalam,19:45,Elite,₹160,146,18
+Kottayam,DhanyaRemyaKottayam,Malayalam,21:00,Remya,₹135,251,0
+Kottayam,DhanyaRemyaChanganassery,Malayalam,21:00,Remya,₹135,196,0
