@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,14:30,ExecutiveClass,₹160,31,0
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,14:30,ExecutiveClass1,₹150,127,0
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,18:15,Platinum,₹125,262,0
+Ernakulam,PanCinemasNucleusMallKochi,Malayalam,15:30,Gold,₹180,120,2
+Ernakulam,PanCinemasNucleusMallKochi,Malayalam,15:30,Platinum,₹240,7,0
