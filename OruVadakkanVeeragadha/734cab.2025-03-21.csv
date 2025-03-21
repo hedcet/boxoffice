@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,18:00,Platinum,₹180,214,0
+Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,18:00,Gold,₹150,486,1
+Palakkad,BalaCinemasDolbyAtmosLaserTrippleBeam3D,Malayalam,18:30,Platinum,₹160,14,0
+Palakkad,BalaCinemasDolbyAtmosLaserTrippleBeam3D,Malayalam,18:30,Gold,₹110,133,0
+Thrissur,BCinemasVylathoor4KRGBLaser3DDolbyAtmos,Malayalam,18:45,Luxury,₹250,19,0
+Thrissur,BCinemasVylathoor4KRGBLaser3DDolbyAtmos,Malayalam,18:45,Executive,₹150,276,0
+Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,21:00,Platinum,₹180,214,6
+Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,21:00,Gold,₹150,486,0
+Palakkad,BalaCinemasDolbyAtmosLaserTrippleBeam3D,Malayalam,21:30,Platinum,₹160,14,0
+Palakkad,BalaCinemasDolbyAtmosLaserTrippleBeam3D,Malayalam,21:30,Gold,₹110,133,0
