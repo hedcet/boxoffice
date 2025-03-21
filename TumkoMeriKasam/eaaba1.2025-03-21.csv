@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Hindi,16:30,Recliner,₹450,27,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Hindi,16:30,Premium,₹220,146,10
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Hindi,16:30,Executive,₹150,25,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Hindi,16:30,Lounger,₹250,22,0
+Trivandrum,CinepolisMOTTrivandrum,Hindi,19:10,Normal,₹160,32,0
+Trivandrum,CinepolisMOTTrivandrum,Hindi,19:10,Executive,₹180,128,0
+Trivandrum,CinepolisMOTTrivandrum,Hindi,19:10,Premium,₹200,76,0
+Trivandrum,CinepolisMOTTrivandrum,Hindi,19:10,Vip,₹400,12,0
+Kannur,CinepolisSecuraCentreKannur,Hindi,22:25,Normal,₹110,26,0
+Kannur,CinepolisSecuraCentreKannur,Hindi,22:25,Executive,₹110,94,0
+Kannur,CinepolisSecuraCentreKannur,Hindi,22:25,Premium,₹110,60,2
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Hindi,22:30,Recliner,₹450,27,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Hindi,22:30,Premium,₹220,146,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Hindi,22:30,Executive,₹150,25,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Hindi,22:30,Lounger,₹250,22,0
