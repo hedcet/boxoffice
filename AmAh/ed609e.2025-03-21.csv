@@ -1,0 +1,5 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kollam,MinervaEmpireCinemazChandamukkuKottarakara,Malayalam,14:30,Diamond,₹129.83,210,2
+Kollam,MinervaEmpireCinemazChandamukkuKottarakara,Malayalam,14:30,Executive,₹200,13,13
+Kollam,MinervaEmpireCinemazChandamukku,Malayalam,18:30,Diamond,₹129.83,210,0
+Kollam,MinervaEmpireCinemazChandamukku,Malayalam,18:30,Executive,₹200,13,13
