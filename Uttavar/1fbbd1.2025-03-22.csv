@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,KairaliSreeNilaRGBLaser4KDolbyAtmos,Malayalam,18:30,Platinum,₹125,259,4
+Ernakulam,PanCinemasArakkunnam,Malayalam,15:00,Gold,₹150,152,0
+Ernakulam,PanCinemasArakkunnam,Malayalam,15:00,Platinum,₹230,20,0
+Ernakulam,PanCinemasArakkunnam,Malayalam,19:00,Gold,₹150,152,4
+Ernakulam,PanCinemasArakkunnam,Malayalam,19:00,Platinum,₹230,20,0
