@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,KRVMoviesKottayi,Malayalam,14:30,Sofa,₹160,34,2
+Palakkad,KRVMoviesKottayi,Malayalam,14:30,FirstClass,₹129.8,130,7
+Palakkad,KRVMoviesKottayi,Malayalam,18:15,Sofa,₹160,34,0
+Palakkad,KRVMoviesKottayi,Malayalam,18:15,FirstClass,₹129.8,130,1
+Palakkad,KRVMoviesKottayi,Malayalam,21:30,Sofa,₹160,34,2
+Palakkad,KRVMoviesKottayi,Malayalam,21:30,FirstClass,₹129.8,130,1
