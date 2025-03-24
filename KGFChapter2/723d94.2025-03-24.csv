@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kottayam,NiceMovieHouseThalayolaparambu,Malayalam,11:00,Balcony,₹150,82,4
+Kottayam,NiceMovieHouseThalayolaparambu,Malayalam,11:00,FirstClass,₹110,404,1
+Kottayam,NiceMovieHouseThalayolaparambu,Malayalam,14:30,Balcony,₹150,82,4
+Kottayam,NiceMovieHouseThalayolaparambu,Malayalam,14:30,FirstClass,₹110,404,1
+Kottayam,NiceMovieHouseThalayolaparambu,Malayalam,18:45,Balcony,₹150,82,4
+Kottayam,NiceMovieHouseThalayolaparambu,Malayalam,18:45,FirstClass,₹110,404,1
+Kottayam,NiceMovieHouseThalayolaparambu,Malayalam,21:45,Balcony,₹150,82,4
+Kottayam,NiceMovieHouseThalayolaparambu,Malayalam,21:45,FirstClass,₹110,404,1
