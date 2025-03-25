@@ -1,0 +1,10 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,KAMMoviesVadakkenchery,Malayalam,11:30,Platinum,₹120,423,0
+Kollam,MYCinemasHJComplexKarunagapally,Malayalam,13:45,Classic,₹110,194,15
+Ernakulam,MYCinemasKSRTComplexAngamalyKerala,Malayalam,14:00,Gold,₹99,203,0
+Palakkad,KAMMoviesVadakkenchery,Malayalam,14:30,Platinum,₹120,423,0
+Palakkad,KAMMoviesVadakkenchery,Malayalam,18:30,Platinum,₹120,423,0
+Ernakulam,PVROberonMallKochi,Malayalam,18:30,Classic,₹99,36,0
+Ernakulam,PVROberonMallKochi,Malayalam,18:30,ClassicPlus,₹99,81,18
+Palakkad,KAMMoviesVadakkenchery,Malayalam,21:30,Platinum,₹120,423,2
+Trivandrum,GreenfieldMoviemaxCinemasTrivandrum,Malayalam,21:30,Executive,₹160,132,2
