@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Wayanad,VarnaTheatreMananthavady,Malayalam,11:30,Diamond,₹120,224,0
+Wayanad,VarnaTheatreMananthavady,Malayalam,14:30,Diamond,₹120,224,0
+Kannur,AlakodeFilmCity4KDolbyAtmos,Malayalam,16:00,Nakshatra,₹160,212,5
+Wayanad,VeenaVarnaTheatreMananthavadyAC2K3D,Malayalam,17:30,Diamond,₹120,224,0
+Kannur,SJGCinemas4KDolbyAtmosUlikkal,Malayalam,18:25,Standard,₹130,140,21
+Kannur,AlakodeFilmCity4KDolbyAtmos,Malayalam,19:00,Nakshatra,₹160,212,0
+Wayanad,VeenaVarnaTheatreMananthavadyAC2K3D,Malayalam,20:30,Diamond,₹120,224,0
+Kannur,SJGCinemas4KDolbyAtmosUlikkal,Malayalam,21:30,Standard,₹130,140,31
+Alappuzha,PanCinemasAlappuzha,Malayalam,15:00,Gold,₹180,138,0
+Alappuzha,PanCinemasAlappuzha,Malayalam,15:00,Platinum,₹250,34,0
