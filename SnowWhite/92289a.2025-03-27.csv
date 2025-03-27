@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,SathyaMovieHouse3DDolbyAtmosPalakkad,English,11:00,FirstClass,₹129.8,527,0
+Ernakulam,PVRLuluKochi,English,13:55,Classic,₹300,116,33
+Trivandrum,PVRLuluTrivandrum,English,16:40,Prime,₹350,32,6
+Trivandrum,PVRLuluTrivandrum,English,16:40,Classic,₹300,48,5
+Palakkad,SathyaMovieHouse3DDolbyAtmosPalakkad,English,18:00,FirstClass,₹129.8,527,0
+Ernakulam,PVRLuluKochi,English,19:35,Classic,₹300,116,14
+Trivandrum,PVRLuluTrivandrum,English,22:20,Prime,₹450,32,11
+Trivandrum,PVRLuluTrivandrum,English,22:20,Classic,₹300,48,5
