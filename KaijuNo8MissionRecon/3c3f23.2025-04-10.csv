@@ -1,0 +1,14 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PVRLuluKochi,Japanese,10:00,Recliner,₹300,10,0
+Ernakulam,PVRLuluKochi,Japanese,10:00,Prime,₹180,68,17
+Ernakulam,PVRLuluKochi,Japanese,10:00,ClassicPlus,₹160,91,0
+Ernakulam,PVRLuluKochi,Japanese,10:00,Classic,₹140,39,0
+Trivandrum,PVRLuluTrivandrum,Japanese,11:20,Recliner,₹400,8,0
+Trivandrum,PVRLuluTrivandrum,Japanese,11:20,Prime,₹210,34,1
+Trivandrum,PVRLuluTrivandrum,Japanese,11:20,Classic,₹190,65,0
+Ernakulam,PVRForumMallKochi,Japanese,15:50,Recliner,₹400,10,0
+Ernakulam,PVRForumMallKochi,Japanese,15:50,Elite,₹190,111,3
+Ernakulam,PVRForumMallKochi,Japanese,15:50,Classic,₹170,24,0
+Ernakulam,CinepolisCentreSquareMallKochi,Japanese,20:35,Normal,₹170,13,0
+Ernakulam,CinepolisCentreSquareMallKochi,Japanese,20:35,Executive,₹190,26,1
+Ernakulam,CinepolisCentreSquareMallKochi,Japanese,20:35,Premium,₹210,67,7
