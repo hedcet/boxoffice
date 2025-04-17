@@ -1,0 +1,15 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,KairaliSreeNilaRGBLaser4KDolbyAtmos,Tamil,11:00,Platinum,₹125,259,8
+Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Tamil,11:00,RoyalCircle,₹150,87,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Tamil,12:00,Recliner,₹450,23,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Tamil,12:00,Premium,₹220,88,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Tamil,12:00,Executive,₹170,17,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Tamil,12:00,Lounger,₹250,14,0
+Trivandrum,PVRLuluTrivandrum,Tamil,13:05,Recliner,₹400,8,0
+Trivandrum,PVRLuluTrivandrum,Tamil,13:05,Prime,₹220,39,11
+Trivandrum,PVRLuluTrivandrum,Tamil,13:05,Classic,₹180,60,10
+Trivandrum,GreenfieldMoviemaxCinemasTrivandrum,Tamil,19:00,Executive,₹160,119,9
+Ernakulam,PVRLuluKochi,Tamil,19:25,Recliner,₹400,10,1
+Ernakulam,PVRLuluKochi,Tamil,19:25,Prime,₹210,68,16
+Ernakulam,PVRLuluKochi,Tamil,19:25,ClassicPlus,₹180,91,30
+Ernakulam,PVRLuluKochi,Tamil,19:25,Classic,₹160,39,2
