@@ -1,0 +1,4 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,CinepolisCentreSquareMallKochi,Japanese,17:10,Normal,₹170,13,0
+Ernakulam,CinepolisCentreSquareMallKochi,Japanese,17:10,Executive,₹190,26,0
+Ernakulam,CinepolisCentreSquareMallKochi,Japanese,17:10,Premium,₹210,67,1
