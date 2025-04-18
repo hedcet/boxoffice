@@ -1,0 +1,12 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kollam,KhansCinemaACKarunagapally,Malayalam,10:30,Balcony,₹150,235,0
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,10:45,Normal,₹180,34,1
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,10:45,Executive,₹200,85,0
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,10:45,PlatinumPremium,₹280,50,0
+Kollam,KhansCinemaACKarunagapally,Malayalam,14:30,Balcony,₹150,235,0
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,16:25,Normal,₹180,34,34
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,16:25,Executive,₹200,85,85
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,16:25,PlatinumPremium,₹280,50,50
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,19:05,Normal,₹180,34,34
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,19:05,Executive,₹200,85,85
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,19:05,PlatinumPremium,₹280,50,50
