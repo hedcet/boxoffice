@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kottayam,ApsaraTheatreDolby7Point1Changanassery,Malayalam,11:00,KingsLounge,₹130,115,2
+Kottayam,ApsaraTheatreDolby7Point1Changanassery,Malayalam,11:00,RoyalLounge,₹140,160,2
+Kottayam,ApsaraTheatreDolby7Point1Changanassery,Malayalam,11:00,PrinceLounge,₹110,268,0
+Kollam,VarshaTheatreAnchal,Malayalam,16:30,Premium,₹250,15,0
+Kollam,VarshaTheatreAnchal,Malayalam,16:30,Executive,₹200,41,0
+Kollam,VarshaTheatreAnchal,Malayalam,16:30,Classic,₹150,375,0
+Trivandrum,KrishnaTheatreKazhakkoottam,Malayalam,16:45,Family,₹150,79,2
+Trivandrum,KrishnaTheatreKazhakkoottam,Malayalam,16:45,Friends,₹129.8,136,15
