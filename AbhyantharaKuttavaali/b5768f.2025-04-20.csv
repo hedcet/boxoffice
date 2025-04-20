@@ -1,0 +1,10 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,11:45,Normal,₹180,34,1
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,11:45,Executive,₹200,85,0
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,11:45,PlatinumPremium,₹280,50,10
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,17:25,Normal,₹180,34,1
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,17:25,Executive,₹200,85,0
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,17:25,PlatinumPremium,₹280,50,10
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,20:05,Normal,₹180,34,1
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,20:05,Executive,₹200,85,0
+Trivandrum,CinepolisMOTTrivandrum,Malayalam,20:05,PlatinumPremium,₹280,50,10
