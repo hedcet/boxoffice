@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,NewAromaTheatrePalakkad,Tamil,14:15,PlatinumCircle,₹129.8,200,5
+Palakkad,NewAromaTheatrePalakkad,Tamil,14:15,DiamondCircle,₹110,229,1
+Trivandrum,PVRLuluTrivandrum,Tamil,21:45,Recliner,₹350,8,0
+Trivandrum,PVRLuluTrivandrum,Tamil,21:45,Prime,₹230,34,14
+Trivandrum,PVRLuluTrivandrum,Tamil,21:45,Classic,₹170,65,15
