@@ -1,0 +1,7 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,11:00,SreeGold,₹150,311,0
+Kollam,VarshaMovies4KRGB64CHAtmosAnchal,Malayalam,16:30,Premium,₹250,15,0
+Kollam,VarshaMovies4KRGB64CHAtmosAnchal,Malayalam,16:30,Executive,₹200,41,0
+Kollam,VarshaMovies4KRGB64CHAtmosAnchal,Malayalam,16:30,Classic,₹150,375,0
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,18:00,Platinum,₹125,388,0
+Ernakulam,KairaliSreeTheaterNorthParvur,Malayalam,18:30,Platinum,₹105,245,4
