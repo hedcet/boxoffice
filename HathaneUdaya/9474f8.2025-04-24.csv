@@ -1,0 +1,15 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kannur,MagicFramesDowntownMallThalassery,Malayalam,10:45,Platinum,₹300,11,0
+Kannur,MagicFramesDowntownMallThalassery,Malayalam,10:45,Gold,₹180,135,0
+Ernakulam,PVRForumMallKochi,Malayalam,11:05,Elite,₹180,85,11
+Ernakulam,PVRForumMallKochi,Malayalam,11:05,Classic,₹160,22,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,11:45,Recliner,₹450,23,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,11:45,Premium,₹220,88,12
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,11:45,Executive,₹170,17,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,11:45,Lounger,₹250,14,0
+Kannur,ArchanaCineplexRGBLaser4K3DATMOSPayyanur,Malayalam,16:30,Standard,₹129.7,125,39
+Kasaragod,MagicFramesMehboobTheatreComplex4KKasaragod,Malayalam,16:30,Executive,₹129.7,175,10
+Kannur,ArchanaCineplexRGBLaser4K3DATMOSPayyanur,Malayalam,19:30,Standard,₹129.7,125,69
+Kasaragod,VGMMultiplexAC2K7Point1Dolby,Malayalam,20:00,VgmGreen,₹170,160,28
+Ernakulam,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Malayalam,10:45,Premium,₹150,141,0
+Kasaragod,PakkanarCinemas2K7Point1JBLCheruvathur,Malayalam,12:30,Executive,₹100,322,10
