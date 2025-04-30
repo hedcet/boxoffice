@@ -1,0 +1,13 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PVRForumMallKochi,Tamil,09:50,Elite,₹170,85,0
+Ernakulam,PVRForumMallKochi,Tamil,09:50,Classic,₹150,22,0
+Ernakulam,PVRForumMallKochi,Tamil,10:40,Elite,₹160,85,11
+Ernakulam,PVRForumMallKochi,Tamil,10:40,Classic,₹140,22,0
+Palakkad,NewAromaTheatrePalakkad,Tamil,11:15,PlatinumCircle,₹129.8,200,4
+Palakkad,NewAromaTheatrePalakkad,Tamil,11:15,DiamondCircle,₹110,229,0
+Trivandrum,PVRLuluTrivandrum,Tamil,12:40,Recliner,₹350,8,0
+Trivandrum,PVRLuluTrivandrum,Tamil,12:40,Prime,₹190,34,4
+Trivandrum,PVRLuluTrivandrum,Tamil,12:40,Classic,₹170,65,10
+Ernakulam,CinepolisCentreSquareKochiWithIMAX,Tamil,13:35,Normal,₹140,13,2
+Ernakulam,CinepolisCentreSquareKochiWithIMAX,Tamil,13:35,Executive,₹160,26,0
+Ernakulam,CinepolisCentreSquareKochiWithIMAX,Tamil,13:35,Premium,₹190,67,2
