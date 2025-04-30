@@ -1,0 +1,15 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Idukki,SILVERHILLSCINEMAS4KLaser3DDOLBY7Point1,Malayalam,09:45,Gold,₹230,16,0
+Idukki,SILVERHILLSCINEMAS4KLaser3DDOLBY7Point1,Malayalam,09:45,Silver,₹130,224,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,10:30,Recliner,₹450,23,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,10:30,Premium,₹220,88,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,10:30,Executive,₹170,17,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,10:30,Lounger,₹250,14,0
+Trivandrum,ThapasyaCineHouseAttingal,Malayalam,11:00,Circle,₹130,394,2
+Ernakulam,CinepolisCentreSquareKochi,Malayalam,11:30,Normal,₹150,19,2
+Ernakulam,CinepolisCentreSquareKochi,Malayalam,11:30,Executive,₹170,43,0
+Ernakulam,CinepolisCentreSquareKochi,Malayalam,11:30,Premium,₹200,44,10
+Idukki,SILVERHILLSCINEMAS4KLaser3DDOLBY7Point1,Malayalam,16:30,Gold,₹230,16,0
+Idukki,SILVERHILLSCINEMAS4KLaser3DDOLBY7Point1,Malayalam,16:30,Silver,₹130,224,0
+Ernakulam,STCinemasGoldenMallMattoor,Malayalam,10:30,Premium,₹150,142,0
+Alappuzha,GanamTheatreComplexACKPRoadKattanam,Malayalam,11:00,FirstClass,₹140,129,67
