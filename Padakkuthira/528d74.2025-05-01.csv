@@ -1,0 +1,8 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,14:00,ExecutiveClass,₹160,11,0
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,14:00,ExecutiveClass1,₹150,86,0
+Palakkad,VCinemasSreeDeviDurgaPalakkad,Malayalam,14:30,Standard,₹129.8,126,0
+Palakkad,VCinemasSreeDeviDurgaPalakkad,Malayalam,18:00,Standard,₹129.8,126,0
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,18:45,ExecutiveClass,₹160,11,0
+Pathanamthitta,ThrilokCinemasPandalam,Malayalam,18:45,ExecutiveClass1,₹150,86,0
+Palakkad,VCinemasSreeDeviDurgaPalakkad,Malayalam,21:00,Standard,₹129.8,126,0
