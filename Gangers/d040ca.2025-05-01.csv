@@ -1,0 +1,9 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Pathanamthitta,TrinityMovieMaxPathanamthitta,Tamil,11:00,Special,₹150,110,6
+Palakkad,NewAromaTheatrePalakkad,Tamil,14:15,PlatinumCircle,₹129.8,200,0
+Palakkad,NewAromaTheatrePalakkad,Tamil,14:15,DiamondCircle,₹110,229,0
+Pathanamthitta,TrinityMovieMaxPathanamthitta,Tamil,18:00,Special,₹150,110,6
+Palakkad,NewAromaTheatrePalakkad,Tamil,18:00,PlatinumCircle,₹129.8,200,0
+Palakkad,NewAromaTheatrePalakkad,Tamil,18:00,DiamondCircle,₹110,229,0
+Palakkad,NewAromaTheatrePalakkad,Tamil,21:00,PlatinumCircle,₹129.8,200,0
+Palakkad,NewAromaTheatrePalakkad,Tamil,21:00,DiamondCircle,₹110,229,0
