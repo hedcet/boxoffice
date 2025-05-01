@@ -1,0 +1,5 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,SangeetaCinemaKochi,Malayalam,18:00,BlueCircle,₹160,187,18
+Malappuram,LadderCinemasIndianMall,Malayalam,12:00,Executive,₹150,74,0
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Malayalam,18:00,Executive,₹110,70,31
+Trivandrum,AriesplexSLCinemasCinionicDolbyAtmosTrivandrum,Malayalam,18:30,Executive,₹110,70,0
