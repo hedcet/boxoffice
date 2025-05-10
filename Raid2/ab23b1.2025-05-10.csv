@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,SridarMarineDriveKochi,Hindi,15:00,GoldClass,₹160,150,17
+Ernakulam,SridarMarineDriveKochi,Hindi,15:00,ClubClass,₹140,267,0
+Trivandrum,PVRLuluTrivandrum,Hindi,16:40,Recliner,₹450,8,4
+Trivandrum,PVRLuluTrivandrum,Hindi,16:40,Prime,₹230,34,27
+Trivandrum,PVRLuluTrivandrum,Hindi,16:40,Classic,₹190,65,28
+Ernakulam,SridarMarineDriveKochi,Hindi,18:00,GoldClass,₹160,150,150
+Ernakulam,SridarMarineDriveKochi,Hindi,18:00,ClubClass,₹140,267,267
+Ernakulam,PVRForumMallKochi,Hindi,18:45,Recliner,₹400,8,8
+Ernakulam,PVRForumMallKochi,Hindi,18:45,Elite,₹200,111,54
+Ernakulam,PVRForumMallKochi,Hindi,18:45,Classic,₹130,28,0
