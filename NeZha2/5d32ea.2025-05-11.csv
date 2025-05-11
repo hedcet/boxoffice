@@ -1,0 +1,4 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,CinepolisCentreSquareMallKochi,Mandarin,16:30,Normal,₹220,13,0
+Ernakulam,CinepolisCentreSquareMallKochi,Mandarin,16:30,Executive,₹240,26,15
+Ernakulam,CinepolisCentreSquareMallKochi,Mandarin,16:30,Premium,₹260,67,55
