@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kollam,SeemaCineplexPathanapuram,Malayalam,11:00,Audi3,₹140,136,0
+Kottayam,AshaTheatreKottayam,Malayalam,11:15,Gold,₹140,187,12
+Kottayam,AshaTheatreKottayam,Malayalam,11:15,Silver,₹110,33,0
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,12:55,Normal,₹150,25,25
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,12:55,Executive,₹170,39,39
+Ernakulam,CinepolisCentreSquareMallKochi,Malayalam,12:55,Premium,₹200,84,84
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,16:15,Recliner,₹450,27,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,16:15,Premium,₹220,146,10
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,16:15,Executive,₹170,25,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Malayalam,16:15,Lounger,₹250,22,0
+Ernakulam,CinepolisCentreSquareKochiWithIMAX,Malayalam,17:40,Normal,₹150,25,2
+Ernakulam,CinepolisCentreSquareKochiWithIMAX,Malayalam,17:40,Executive,₹170,39,0
+Ernakulam,CinepolisCentreSquareKochiWithIMAX,Malayalam,17:40,Premium,₹200,84,7
+Palakkad,SathyaMovieHouse3DDolbyAtmosPalakkad,Malayalam,18:00,FirstClass,₹129.8,527,0
+Kollam,SeemaCineplexPathanapuram,Malayalam,18:30,Audi3,₹140,136,0
