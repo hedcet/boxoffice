@@ -1,0 +1,10 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kozhikode,DreamCinemaKallachi,English,11:00,Sofa,₹200,18,5
+Kozhikode,DreamCinemaKallachi,English,11:00,Platinum,₹129.7,144,11
+Kozhikode,DreamCinemaKallachi,English,11:00,Gold,₹110,116,3
+Wayanad,VeenaVarnaTheatreMananthavadyAC2K3D,English,11:30,Diamond,₹120,224,0
+Alappuzha,CCinemasChengannur,English,12:00,Chimmy,₹160,135,11
+Wayanad,VeenaVarnaTheatreMananthavadyAC2K3D,English,14:30,Diamond,₹120,224,0
+Wayanad,VarnaTheatreMananthavady,English,17:30,Diamond,₹120,224,1
+Alappuzha,CCinemasChengannur,English,18:00,Chimmy,₹160,135,11
+Wayanad,VarnaTheatreMananthavady,English,20:30,Diamond,₹120,224,0
