@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Idukki,SILVERHILLSCINEMAS4KLaser3DDOLBY7Point1,Tamil,11:15,Silver,₹130,80,0
+Ernakulam,PVRForumMallKochi,Tamil,13:45,Recliner,₹350,8,0
+Ernakulam,PVRForumMallKochi,Tamil,13:45,Elite,₹170,111,0
+Ernakulam,PVRForumMallKochi,Tamil,13:45,Classic,₹130,28,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Tamil,15:00,Recliner,₹450,23,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Tamil,15:00,Premium,₹220,88,5
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Tamil,15:00,Executive,₹170,17,4
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Tamil,15:00,Lounger,₹250,14,0
+Malappuram,SreekumarPavithraTheatreAC2KPattambiRoadValanchery,Tamil,11:30,FirstClass,₹110,137,0
+Kozhikode,CrownTheatreDolbyAtmosTownHallRoadCalicut,Tamil,16:10,Audi2,₹160,148,28
