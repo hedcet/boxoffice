@@ -1,0 +1,11 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Palakkad,KadankavilCinemas2KLaserVadakkenchery,Malayalam,10:00,Recliner,₹400,12,0
+Palakkad,KadankavilCinemas2KLaserVadakkenchery,Malayalam,10:00,Platinum,₹180,84,0
+Palakkad,KadankavilCinemas2KLaserVadakkenchery,Malayalam,10:00,Diamond,₹110,198,0
+Ernakulam,DharsanaCinemaComplexPiravom,Malayalam,10:00,Platinum,₹160,74,0
+Ernakulam,DharsanaCinemaComplexPiravom,Malayalam,10:00,Gold,₹140,88,0
+Ernakulam,DharsanaCinemaComplexPiravom,Malayalam,10:00,Silver,₹80,22,0
+Ernakulam,PVRForumMallKochi,Malayalam,11:20,Recliner,₹350,10,0
+Ernakulam,PVRForumMallKochi,Malayalam,11:20,Elite,₹170,111,16
+Ernakulam,PVRForumMallKochi,Malayalam,11:20,Classic,₹130,24,0
+Alappuzha,GanamTheatreComplexACKPRoadKattanam,Malayalam,11:00,FirstClass,₹140,129,67
