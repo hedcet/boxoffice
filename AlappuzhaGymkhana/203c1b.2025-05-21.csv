@@ -1,0 +1,16 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,PVRForumMallKochi,Malayalam,13:10,Recliner,₹350,10,0
+Ernakulam,PVRForumMallKochi,Malayalam,13:10,Elite,₹170,94,20
+Ernakulam,PVRForumMallKochi,Malayalam,13:10,Prime,₹150,48,1
+Ernakulam,PVRForumMallKochi,Malayalam,13:10,Classic,₹130,32,0
+Trivandrum,PVRLuluTrivandrum,Malayalam,15:35,Recliner,₹450,8,2
+Trivandrum,PVRLuluTrivandrum,Malayalam,15:35,Prime,₹210,84,14
+Trivandrum,PVRLuluTrivandrum,Malayalam,15:35,Classic,₹170,88,3
+Palakkad,Priyadarsini3D2KACDolbyAtmosPalakkad,Malayalam,18:00,Executive,₹180,68,2
+Palakkad,Priyadarsini3D2KACDolbyAtmosPalakkad,Malayalam,18:00,DressCircle,₹110,344,5
+Palakkad,Priyadarsini3D2KACDolbyAtmosPalakkad,Malayalam,21:00,Executive,₹180,68,0
+Palakkad,Priyadarsini3D2KACDolbyAtmosPalakkad,Malayalam,21:00,DressCircle,₹110,344,4
+Ernakulam,PVRLuluKochi,Malayalam,22:40,Recliner,₹400,9,6
+Ernakulam,PVRLuluKochi,Malayalam,22:40,Prime,₹200,64,29
+Ernakulam,PVRLuluKochi,Malayalam,22:40,ClassicPlus,₹180,91,8
+Ernakulam,PVRLuluKochi,Malayalam,22:40,Classic,₹150,39,0
