@@ -1,0 +1,6 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Idukki,SilverHillsNaxaCinemas,Tamil,11:15,Silver,₹130,80,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Tamil,15:30,Recliner,₹450,23,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Tamil,15:30,Premium,₹220,88,1
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Tamil,15:30,Executive,₹170,17,0
+Kozhikode,PalaxiCinemasHiLITEMALLKozhikode,Tamil,15:30,Lounger,₹250,14,0
