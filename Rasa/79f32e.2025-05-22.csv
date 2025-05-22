@@ -1,0 +1,5 @@
+City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ernakulam,DharsanaCinemaComplexPiravom,Malayalam,10:00,Platinum,₹160,74,0
+Ernakulam,DharsanaCinemaComplexPiravom,Malayalam,10:00,Gold,₹140,88,0
+Ernakulam,DharsanaCinemaComplexPiravom,Malayalam,10:00,Silver,₹80,22,0
+Alappuzha,GanamTheatreComplexACKattanam,Malayalam,11:00,FirstClass,₹140,129,67
