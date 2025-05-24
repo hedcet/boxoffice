@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,09:00,AiswaryaCinemasKattappana,Gold,₹129,311,20,Malayalam,
+Idukki,09:00,AiswaryaCinemasKattappana,Platinum,₹200,68,0,Malayalam,
+Kozhikode,11:15,AashirvadCineplexxKozhikode,Platinum,₹220,27,7,Malayalam,2D
+Kozhikode,11:15,AashirvadCineplexxKozhikode,Gold,₹200,60,25,Malayalam,2D
+Ernakulam,12:30,SangeetaCinemaKochi,BlueCircle,₹160,187,37,Malayalam,2D
+Idukki,16:00,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹160,80,30,Malayalam,2D
+Kannur,22:30,LibertyCinemaKannurAmbiliTheatre,Platinum,₹129.8,230,181,Malayalam,2D
+Trivandrum,16:15,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Executive,₹110,70,30,Malayalam,2D
