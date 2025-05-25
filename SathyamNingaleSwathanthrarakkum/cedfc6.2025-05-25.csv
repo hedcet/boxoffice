@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,09:45,KadankavilCinemas2KLaserVadakkenchery,Recliner,₹400,12,0,Malayalam,2D
+Palakkad,09:45,KadankavilCinemas2KLaserVadakkenchery,Platinum,₹180,84,0,Malayalam,2D
+Palakkad,09:45,KadankavilCinemas2KLaserVadakkenchery,Diamond,₹110,198,0,Malayalam,2D
+Trivandrum,10:30,PVRLuluTrivandrum,Recliner,₹350,8,0,Malayalam,2D
+Trivandrum,10:30,PVRLuluTrivandrum,Prime,₹190,34,3,Malayalam,2D
+Trivandrum,10:30,PVRLuluTrivandrum,Classic,₹170,65,2,Malayalam,2D
+Kannur,16:30,ShanthiCinemasPayyanur,Platinum,₹130,314,50,Malayalam,2D
+Idukki,21:45,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹160,80,80,Malayalam,
