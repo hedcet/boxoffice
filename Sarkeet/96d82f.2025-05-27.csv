@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹400,27,0,Malayalam,2D
+Kozhikode,10:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹99,146,18,Malayalam,2D
+Kozhikode,10:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹99,25,0,Malayalam,2D
+Kozhikode,10:00,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹200,22,0,Malayalam,2D
+Ernakulam,13:30,PVRForumMallKochi,Recliner,₹199,8,6,Malayalam,2D
+Ernakulam,13:30,PVRForumMallKochi,Classic,₹99,28,0,Malayalam,2D
+Ernakulam,13:30,PVRForumMallKochi,Elite,₹99,111,17,Malayalam,2D
+Trivandrum,13:40,PVRLuluTrivandrum,Recliner,₹500,7,2,Malayalam,2D
+Trivandrum,13:40,PVRLuluTrivandrum,Prime,₹230,51,9,Malayalam,2D
+Trivandrum,13:40,PVRLuluTrivandrum,Classic,₹190,70,6,Malayalam,2D
+Kozhikode,15:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹400,27,2,Malayalam,2D
+Kozhikode,15:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹99,146,60,Malayalam,2D
+Kozhikode,15:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹99,25,0,Malayalam,2D
+Kozhikode,15:00,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹200,22,0,Malayalam,2D
+Kozhikode,14:45,PeeCeeTalkies4KAtmosMukkam,Executive,₹110,139,18,Malayalam,2D
+Kozhikode,21:00,PeeCeeTalkies4KAtmosMukkam,Executive,₹110,139,17,Malayalam,2D
