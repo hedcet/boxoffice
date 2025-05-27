@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,22:15,PVRLuluTrivandrum,Recliner,₹500,8,4,Tamil,2D
+Trivandrum,22:15,PVRLuluTrivandrum,Prime,₹210,84,7,Tamil,2D
+Trivandrum,22:15,PVRLuluTrivandrum,Classic,₹190,88,12,Tamil,2D
