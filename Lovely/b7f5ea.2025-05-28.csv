@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,16:25,DevCinemasKanichar,Screen23D,₹159.8,189,0,Malayalam,3D
+Ernakulam,15:10,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹190,39,1,Malayalam,3D
+Ernakulam,15:10,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹210,91,9,Malayalam,3D
+Ernakulam,15:10,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹230,68,19,Malayalam,3D
+Ernakulam,15:10,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹380,10,0,Malayalam,3D
+Trivandrum,17:25,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹220,60,4,Malayalam,3D
+Trivandrum,17:25,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹250,39,7,Malayalam,3D
+Trivandrum,17:25,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹580,8,4,Malayalam,3D
