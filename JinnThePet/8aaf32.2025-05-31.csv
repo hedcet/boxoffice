@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,15:05,PVRForumMallNH47Kochi,Classic,₹150,24,0,Tamil,2D
+Ernakulam,15:05,PVRForumMallNH47Kochi,Elite,₹190,111,18,Tamil,2D
+Ernakulam,15:05,PVRForumMallNH47Kochi,Recliner,₹400,10,0,Tamil,2D
+Thrissur,16:25,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹130,22,4,Tamil,2D
+Thrissur,16:25,INOXSobhaCityMallPuzhakkalThrissur,Club,₹190,66,0,Tamil,2D
+Thrissur,16:25,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹190,28,0,Tamil,2D
+Thrissur,16:25,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹350,10,0,Tamil,2D
+Trivandrum,17:05,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹180,60,4,Tamil,2D
+Trivandrum,17:05,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,39,4,Tamil,2D
+Trivandrum,17:05,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹500,8,4,Tamil,2D
+Ernakulam,17:05,CinepolisCentreSquareMallErnakulamKochi,Normal,₹150,19,4,Tamil,2D
+Ernakulam,17:05,CinepolisCentreSquareMallErnakulamKochi,Executive,₹170,43,0,Tamil,2D
+Ernakulam,17:05,CinepolisCentreSquareMallErnakulamKochi,Premium,₹200,44,10,Tamil,2D
