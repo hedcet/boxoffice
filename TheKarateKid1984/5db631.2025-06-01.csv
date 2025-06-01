@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,10:40,CinepolisMOTEanchakkalThiruvananthapuram,Normal,₹170,34,0,English,2D
+Trivandrum,10:40,CinepolisMOTEanchakkalThiruvananthapuram,Executive,₹190,85,0,English,2D
+Trivandrum,10:40,CinepolisMOTEanchakkalThiruvananthapuram,PlatinumPremium,₹210,50,10,English,2D
+Trivandrum,13:25,CinepolisMOTEanchakkalThiruvananthapuram,Normal,₹170,34,1,English,2D
+Trivandrum,13:25,CinepolisMOTEanchakkalThiruvananthapuram,Executive,₹190,85,23,English,2D
+Trivandrum,13:25,CinepolisMOTEanchakkalThiruvananthapuram,PlatinumPremium,₹210,50,37,English,2D
+Trivandrum,16:10,CinepolisMOTEanchakkalThiruvananthapuram,Normal,₹170,34,0,English,2D
+Trivandrum,16:10,CinepolisMOTEanchakkalThiruvananthapuram,Executive,₹190,85,0,English,2D
+Trivandrum,16:10,CinepolisMOTEanchakkalThiruvananthapuram,PlatinumPremium,₹210,50,10,English,2D
+Trivandrum,19:00,CinepolisMOTEanchakkalThiruvananthapuram,Normal,₹170,34,0,English,2D
+Trivandrum,19:00,CinepolisMOTEanchakkalThiruvananthapuram,Executive,₹190,85,0,English,2D
+Trivandrum,19:00,CinepolisMOTEanchakkalThiruvananthapuram,PlatinumPremium,₹210,50,10,English,2D
+Trivandrum,22:30,CinepolisMOTEanchakkalThiruvananthapuram,PlatinumExecutive,₹200,32,0,English,2D
+Trivandrum,22:30,CinepolisMOTEanchakkalThiruvananthapuram,PlatinumPremium,₹250,33,10,English,2D
