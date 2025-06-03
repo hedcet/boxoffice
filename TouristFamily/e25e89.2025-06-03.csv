@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:30,VCinemasSreeDeviDurgaPalakkad,Standard,₹129.8,126,0,Tamil,2D
+Palakkad,14:30,VCinemasSreeDeviDurgaPalakkad,Standard,₹129.8,126,0,Tamil,2D
+Palakkad,18:00,VCinemasSreeDeviDurgaPalakkad,Standard,₹129.8,126,0,Tamil,2D
+Palakkad,21:00,VCinemasSreeDeviDurgaPalakkad,Standard,₹129.8,126,126,Tamil,2D
+Palakkad,21:00,VCinemasSreeDeviDurgaPalakkad,Standard,₹129.8,126,0,Tamil,2D
+Palakkad,14:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Tamil,2D
+Ernakulam,14:55,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹99,39,0,Tamil,2D
+Ernakulam,14:55,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹99,91,5,Tamil,2D
+Ernakulam,14:55,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹99,64,27,Tamil,2D
+Ernakulam,14:55,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹199,9,5,Tamil,2D
+Trivandrum,16:35,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,65,2,Tamil,2D
+Trivandrum,16:35,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,34,17,Tamil,2D
+Trivandrum,16:35,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,8,2,Tamil,2D
+Ernakulam,17:35,PVRForumMallNH47Kochi,Classic,₹99,14,0,Tamil,2D
+Ernakulam,17:35,PVRForumMallNH47Kochi,Elite,₹99,125,11,Tamil,2D
+Ernakulam,17:35,PVRForumMallNH47Kochi,Recliner,₹199,8,6,Tamil,2D
