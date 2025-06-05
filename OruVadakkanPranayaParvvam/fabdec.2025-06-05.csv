@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,11:15,AashirvadCineplexxKozhikode,Platinum,₹220,27,0,Malayalam,2D
+Kozhikode,11:15,AashirvadCineplexxKozhikode,Gold,₹200,60,0,Malayalam,2D
+Ernakulam,12:00,SangeetaCinemaKochi,BlueCircle,₹160,187,18,Malayalam,2D
+Kannur,21:30,LibertyCinemaKannurAmbiliTheatre,Platinum,₹129.8,230,130,Malayalam,2D
+Ernakulam,10:30,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,141,0,Malayalam,2D
