@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,14:45,ThapasyaCineHouseAttingal,Circle,₹130,436,14,Malayalam,2D
+Trivandrum,18:30,ChhotuMaharajCineCafePoovarKerala,Executive,₹250,8,0,Malayalam,2D
+Trivandrum,18:30,ChhotuMaharajCineCafePoovarKerala,Premium,₹160,85,0,Malayalam,2D
+Trivandrum,18:30,ChhotuMaharajCineCafePoovarKerala,Normal,₹150,52,0,Malayalam,2D
+Trivandrum,18:45,ThapasyaCineHouseAttingal,Circle,₹130,436,22,Malayalam,2D
