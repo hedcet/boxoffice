@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,11:45,AashirvadCineplexxKozhikode,Platinum,₹220,30,0,Malayalam,2D
+Kozhikode,11:45,AashirvadCineplexxKozhikode,Gold,₹200,66,0,Malayalam,2D
+Ernakulam,15:00,SangeetaCinemaKochi,BlueCircle,₹160,187,18,Malayalam,2D
+Trivandrum,21:30,ChhotuMaharajCineCafePoovarKerala,Executive,₹250,8,0,Malayalam,2D
+Trivandrum,21:30,ChhotuMaharajCineCafePoovarKerala,Premium,₹160,85,0,Malayalam,2D
+Trivandrum,21:30,ChhotuMaharajCineCafePoovarKerala,Normal,₹150,52,0,Malayalam,2D
+Ernakulam,12:10,PVRForumMallNH47Kochi,Classic,₹130,22,0,Malayalam,2D
+Ernakulam,12:10,PVRForumMallNH47Kochi,Elite,₹170,85,11,Malayalam,2D
