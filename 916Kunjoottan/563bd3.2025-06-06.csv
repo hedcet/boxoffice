@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,17:15,MarsCinemas4KDolbyAtmosChangaramkulam,Executive,₹250,18,0,Malayalam,2D
+Malappuram,17:15,MarsCinemas4KDolbyAtmosChangaramkulam,Platinum,₹150,176,0,Malayalam,2D
+Ernakulam,18:30,EVMCinemaAC4KRGBLaser3DPerumbavoor,Executive1,₹179.25,14,0,Malayalam,2D
+Ernakulam,18:30,EVMCinemaAC4KRGBLaser3DPerumbavoor,Deluxe,₹159.15,128,0,Malayalam,2D
+Ernakulam,14:35,PVRForumMallNH47Kochi,Classic,₹130,22,2,Malayalam,2D
+Ernakulam,14:35,PVRForumMallNH47Kochi,Elite,₹170,85,52,Malayalam,2D
+Thrissur,17:10,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹130,22,14,Malayalam,2D
+Thrissur,17:10,INOXSobhaCityMallPuzhakkalThrissur,Club,₹170,63,40,Malayalam,2D
+Thrissur,17:10,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹170,28,13,Malayalam,2D
+Thrissur,17:10,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹290,10,0,Malayalam,2D
+Trivandrum,19:25,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,60,2,Malayalam,2D
+Trivandrum,19:25,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹230,77,52,Malayalam,2D
+Trivandrum,19:25,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,7,2,Malayalam,2D
