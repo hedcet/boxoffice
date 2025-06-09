@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,181,0,Malayalam,2D
+Kozhikode,16:30,KairaliSreeTheatreKozhikode,SreeGold,₹150,311,0,Malayalam,2D
+Malappuram,18:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,181,0,Malayalam,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,181,0,Malayalam,2D
+Trivandrum,12:20,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹180,77,2,Malayalam,2D
+Trivandrum,12:20,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,60,2,Malayalam,2D
+Trivandrum,12:20,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,7,2,Malayalam,2D
+Ernakulam,13:20,PVRForumMallNH47Kochi,Classic,₹130,14,0,Malayalam,2D
+Ernakulam,13:20,PVRForumMallNH47Kochi,Elite,₹170,125,16,Malayalam,2D
+Ernakulam,13:20,PVRForumMallNH47Kochi,Recliner,₹350,8,0,Malayalam,2D
