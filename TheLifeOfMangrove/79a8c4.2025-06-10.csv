@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,11:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,181,0,Malayalam,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,181,0,Malayalam,2D
+Malappuram,18:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,181,0,Malayalam,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,181,0,Malayalam,2D
+Trivandrum,12:20,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹180,77,12,Malayalam,2D
+Trivandrum,12:20,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,60,17,Malayalam,2D
+Trivandrum,12:20,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,7,7,Malayalam,2D
