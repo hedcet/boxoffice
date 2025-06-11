@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:40,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹180,60,6,English,3D
+Trivandrum,11:40,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹200,39,6,English,3D
+Trivandrum,11:40,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹330,8,4,English,3D
+Trivandrum,16:20,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹180,65,9,English,3D
+Trivandrum,16:20,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹200,34,19,English,3D
+Trivandrum,16:20,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹330,8,7,English,3D
+Ernakulam,19:20,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹430,116,46,English,4DX3D
