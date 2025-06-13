@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,11:30,MathaMadhuryaRGBLaser3DDolbyAtmosAluva,MadhuryaKingSofa,₹210,64,0,Tamil,2D
+Ernakulam,11:30,MathaMadhuryaRGBLaser3DDolbyAtmosAluva,MadhuryaPrince,₹160,218,22,Tamil,2D
+Ernakulam,11:30,MathaMadhuryaRGBLaser3DDolbyAtmosAluva,MadhuryaQueen,₹129.8,16,16,Tamil,2D
+Ernakulam,12:00,SangeetaCinemaKochi,BlueCircle,₹160,187,28,Tamil,2D
+Palakkad,14:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹110,527,10,Tamil,2D
+Ernakulam,15:00,MathaMadhuryaRGBLaser3DDolbyAtmosAluva,MadhuryaKingSofa,₹210,64,0,Tamil,2D
+Ernakulam,15:00,MathaMadhuryaRGBLaser3DDolbyAtmosAluva,MadhuryaPrince,₹160,218,10,Tamil,2D
+Ernakulam,15:00,MathaMadhuryaRGBLaser3DDolbyAtmosAluva,MadhuryaQueen,₹129.8,16,16,Tamil,2D
+Palakkad,21:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹110,527,0,Tamil,2D
+Ernakulam,10:15,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,142,10,Tamil,2D
+Thrissur,12:00,DavisTheatreThrissur,Gold,₹202,131,10,,
+Thrissur,12:00,DavisTheatreThrissur,Gold,₹202,0,0,,
+Thrissur,21:00,DavisTheatreThrissur,Gold,₹202,131,0,,
+Thrissur,21:00,DavisTheatreThrissur,Gold,₹202,0,0,,
