@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,18:00,VCinemasSreeDeviDurgaPalakkad,Standard,₹129.8,126,18,Malayalam,2D
+Alappuzha,12:45,PanCinemasAlappuzha,Gold,₹180,136,32,Malayalam,2D
+Alappuzha,12:45,PanCinemasAlappuzha,Platinum,₹250,37,0,Malayalam,2D
