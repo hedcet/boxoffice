@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,14:30,HariharFilmCityWandoor,Platinum,₹150,128,0,Malayalam,
+Wayanad,11:00,JoseTheatreMananthavady,Class1,₹154.8,308,0,Malayalam,
+Kannur,11:30,SavithaTheatreKannur,Melody,₹177,265,0,Malayalam,
+Wayanad,14:00,JoseTheatreMananthavady,Class1,₹154.8,308,0,Malayalam,
+Kannur,17:30,SavithaTheatreKannur,Melody,₹177,265,0,Malayalam,
+Kottayam,10:15,PuthettuCinemasPala,GoldsofaSlider,₹254,44,0,,
+Kottayam,10:15,PuthettuCinemasPala,DiamondfamilyCouch,₹304,12,0,,
+Kottayam,10:15,PuthettuCinemasPala,Silver,₹204,128,0,,
