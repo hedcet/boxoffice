@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,12:35,PVRForumMallNH47Kochi,Classic,₹130,22,2,Malayalam,2D
+Ernakulam,12:35,PVRForumMallNH47Kochi,Elite,₹170,85,33,Malayalam,2D
+Ernakulam,14:00,PVRForumMallNH47Kochi,Classic,₹130,22,0,Malayalam,2D
+Ernakulam,14:00,PVRForumMallNH47Kochi,Elite,₹170,85,11,Malayalam,2D
