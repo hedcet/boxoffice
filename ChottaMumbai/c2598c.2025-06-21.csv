@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,16:00,BabyCinemasKuthuparamba,Standard,₹130,168,168,Malayalam,2D
+Kozhikode,17:00,ChithraCineplex4KRGBLaserDtsXMannurValavu,Gold,₹129.8,142,3,Malayalam,2D
+Kannur,19:00,BabyCinemasKuthuparamba,Standard,₹130,168,168,Malayalam,2D
+Ernakulam,11:05,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹110,39,0,Malayalam,2D
+Ernakulam,11:05,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹130,91,12,Malayalam,2D
+Ernakulam,11:05,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹150,64,28,Malayalam,2D
+Ernakulam,11:05,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹230,9,6,Malayalam,2D
