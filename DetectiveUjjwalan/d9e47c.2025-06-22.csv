@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,10:30,RajadhaniCinemasNearNewBusStandPayyanur,UpperCircle,₹130,502,107,Malayalam,2D
+Kannur,13:30,RajadhaniCinemasNearNewBusStandPayyanur,UpperCircle,₹130,502,107,Malayalam,2D
+Kannur,16:30,RajadhaniCinemasNearNewBusStandPayyanur,UpperCircle,₹130,502,107,Malayalam,2D
+Kannur,19:30,RajadhaniCinemasNearNewBusStandPayyanur,UpperCircle,₹130,502,108,Malayalam,2D
+Ernakulam,22:35,PVRForumMallNH47Kochi,Classic,₹130,22,0,Malayalam,2D
+Ernakulam,22:35,PVRForumMallNH47Kochi,Elite,₹170,85,12,Malayalam,2D
