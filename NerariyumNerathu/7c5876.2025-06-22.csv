@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,10:00,SavitaCinemaKochi,Deluxe,₹160,555,38,Malayalam,2D
+Trivandrum,15:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Platinum,₹150,22,8,Malayalam,2D
+Trivandrum,15:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Gold,₹129,144,9,Malayalam,2D
+Trivandrum,19:00,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Executive,₹110,70,2,Malayalam,2D
