@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,15:10,KavithaTheatre4K3DDolby7Point1Ernakulam,GoldCircle,₹180,306,41,Malayalam,2D
+Ernakulam,15:10,KavithaTheatre4K3DDolby7Point1Ernakulam,SilverCircle,₹160,770,69,Malayalam,2D
+Ernakulam,15:10,KavithaTheatre4K3DDolby7Point1Ernakulam,Sofa,₹300,23,6,Malayalam,2D
+Kozhikode,17:00,ChithraCineplex4KRGBLaserDtsXMannurValavu,Gold,₹129.8,142,11,Malayalam,2D
+Ernakulam,11:05,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹110,39,0,Malayalam,2D
+Ernakulam,11:05,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹130,91,45,Malayalam,2D
+Ernakulam,11:05,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹150,64,59,Malayalam,2D
+Ernakulam,11:05,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹230,9,6,Malayalam,2D
