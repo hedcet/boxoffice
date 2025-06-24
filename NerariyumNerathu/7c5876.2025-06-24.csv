@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,15:00,SangeetaCinemaKochi,BlueCircle,₹160,187,18,Malayalam,2D
+Trivandrum,15:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Platinum,₹150,22,1,Malayalam,2D
+Trivandrum,15:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Gold,₹129,144,7,Malayalam,2D
+Trivandrum,19:00,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Executive,₹110,70,0,Malayalam,2D
+Trivandrum,19:00,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Executive,₹129.8,152,0,Malayalam,2D
+Trivandrum,19:00,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Gold,₹150,51,3,Malayalam,2D
