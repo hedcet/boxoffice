@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,12:00,BCinemasVylathoor4KRGBLaser3DDolbyAtmos,Luxury,₹250,14,0,Malayalam,2D
+Thrissur,12:00,BCinemasVylathoor4KRGBLaser3DDolbyAtmos,Executive,₹150,175,0,Malayalam,2D
+Thrissur,20:30,BCinemasVylathoor4KRGBLaser3DDolbyAtmos,Luxury,₹250,14,0,Malayalam,2D
+Thrissur,20:30,BCinemasVylathoor4KRGBLaser3DDolbyAtmos,Executive,₹150,175,12,Malayalam,2D
