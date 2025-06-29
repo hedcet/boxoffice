@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,14:30,NewAromaTheatrePalakkad,PlatinumCircle,₹129.8,200,33,Malayalam,2D
+Palakkad,14:30,NewAromaTheatrePalakkad,DiamondCircle,₹110,229,3,Malayalam,2D
+Trivandrum,13:35,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹190,65,11,Malayalam,2D
+Trivandrum,13:35,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹260,34,15,Malayalam,2D
+Trivandrum,13:35,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹500,8,6,Malayalam,2D
