@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,09:30,KairaliSreeTheaterAlappuzha,Platinum,₹120,305,0,Malayalam,2D
+Trivandrum,11:30,KalabhavanTheatreTripleBeam3DTrivandrum,Platinum,₹120,135,135,Malayalam,2D
+Trivandrum,11:30,KalabhavanTheatreTripleBeam3DTrivandrum,Gold,₹101,275,266,Malayalam,2D
+Alappuzha,11:30,SNTheatreHaripad,Premium,₹129.7,133,2,Malayalam,2D
+Alappuzha,11:30,SNTheatreHaripad,Regular,₹110,42,8,Malayalam,2D
+Trivandrum,13:15,GangaCineHouse4KDolbyAtmosAttingal,Yamuna,₹129.7,330,0,Malayalam,2D
+Alappuzha,18:00,KairaliSreeTheaterAlappuzha,Platinum,₹120,305,15,Malayalam,2D
