@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Wayanad,11:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹120,224,0,Malayalam,2D
+Ernakulam,12:00,SavitaCinemaKochi,Deluxe,₹160,555,34,Malayalam,2D
+Wayanad,14:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹120,224,0,Malayalam,2D
+Wayanad,17:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹120,224,0,Malayalam,2D
+Kollam,18:30,SreeSailamCineHouse4KKadakkal,PlatinumFamilyCircle,₹150,96,0,Malayalam,2D
+Kollam,18:30,SreeSailamCineHouse4KKadakkal,Platinum,₹150,136,0,Malayalam,2D
+Kollam,18:30,SreeSailamCineHouse4KKadakkal,GoldFamilyCircle,₹140,94,0,Malayalam,2D
+Kollam,18:30,SreeSailamCineHouse4KKadakkal,Gold,₹140,294,0,Malayalam,2D
+Wayanad,20:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹120,224,0,Malayalam,2D
