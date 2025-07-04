@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,11:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,129,0,English,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,129,0,English,2D
+Ernakulam,18:00,JMMoviesJoshMallMookkannoorAngamaly,Gold,₹129,126,0,English,2D
+Ernakulam,18:00,JMMoviesJoshMallMookkannoorAngamaly,Diamond,₹160,53,0,English,2D
+Malappuram,18:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,129,0,English,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,129,1,English,2D
+Ernakulam,21:45,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹180,39,0,English,2D
+Ernakulam,21:45,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹200,91,8,English,2D
+Ernakulam,21:45,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹220,64,29,English,2D
+Ernakulam,21:45,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹450,9,4,English,2D
+Trivandrum,21:50,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹190,77,4,English,2D
+Trivandrum,21:50,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,60,6,English,2D
+Trivandrum,21:50,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹500,7,4,English,2D
