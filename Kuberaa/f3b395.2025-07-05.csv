@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,12:45,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹180,60,4,Tamil,2D
+Trivandrum,12:45,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,39,22,Tamil,2D
+Trivandrum,12:45,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,8,6,Tamil,2D
