@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,13:15,JMMoviesJoshMallMookkannoorAngamaly,Gold,₹129,126,0,Malayalam,2D
+Ernakulam,13:15,JMMoviesJoshMallMookkannoorAngamaly,Diamond,₹160,53,2,Malayalam,2D
+Ernakulam,15:45,JMMoviesJoshMallMookkannoorAngamaly,Gold,₹129,126,2,Malayalam,2D
+Ernakulam,15:45,JMMoviesJoshMallMookkannoorAngamaly,Diamond,₹160,53,0,Malayalam,2D
+Ernakulam,18:30,NewCentralTalkiesDolbyAtmos2KAnd3DThripun,Platinum,₹240,11,0,Malayalam,2D
+Ernakulam,18:30,NewCentralTalkiesDolbyAtmos2KAnd3DThripun,Gold,₹180,129,41,Malayalam,2D
+Ernakulam,19:15,JMMoviesJoshMallMookkannoorAngamaly,Gold,₹129,126,5,Malayalam,2D
+Ernakulam,19:15,JMMoviesJoshMallMookkannoorAngamaly,Diamond,₹160,53,0,Malayalam,2D
+Ernakulam,21:45,JMMoviesJoshMallMookkannoorAngamaly,Gold,₹129,126,0,Malayalam,2D
+Ernakulam,21:45,JMMoviesJoshMallMookkannoorAngamaly,Diamond,₹160,53,0,Malayalam,2D
+Ernakulam,12:55,PVRForumMallNH47Kochi,Classic,₹170,28,20,Malayalam,2D
+Ernakulam,12:55,PVRForumMallNH47Kochi,Elite,₹200,111,23,Malayalam,2D
+Ernakulam,12:55,PVRForumMallNH47Kochi,Recliner,₹400,8,0,Malayalam,2D
+Trivandrum,16:05,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹180,77,22,Malayalam,2D
+Trivandrum,16:05,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,60,27,Malayalam,2D
+Trivandrum,16:05,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,7,7,Malayalam,2D
