@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:30,AriesplexSLCinemasCinionicDolbyAtmosVanchiyoorThiruvananthapuram,Executive,₹110,70,10,Malayalam,2D
+Malappuram,18:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹110,205,1,Malayalam,2D
+Malappuram,18:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Executive,₹129.8,105,0,Malayalam,2D
+Malappuram,21:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹110,205,1,Malayalam,2D
+Malappuram,21:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Executive,₹129.8,105,0,Malayalam,2D
+Malappuram,21:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹110,158,35,Malayalam,2D
