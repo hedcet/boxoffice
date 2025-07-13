@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,11:00,VarshaScreen2DTSXAnchal,Executive,₹200,35,0,Malayalam,2D
+Kollam,11:00,VarshaScreen2DTSXAnchal,Classic,₹150,138,0,Malayalam,2D
+Alappuzha,11:15,KairaliSreeTheaterAlappuzha,Platinum,₹120,305,10,Malayalam,2D
+Trivandrum,11:30,KalabhavanTheatreTripleBeam3DTrivandrum,Platinum,₹120,135,60,Malayalam,2D
+Trivandrum,11:30,KalabhavanTheatreTripleBeam3DTrivandrum,Gold,₹101,275,73,Malayalam,2D
+Ernakulam,15:00,SangeetaCinemaKochi,BlueCircle,₹160,187,36,Malayalam,2D
