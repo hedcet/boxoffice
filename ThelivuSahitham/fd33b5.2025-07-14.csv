@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Wayanad,11:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹120,224,0,Malayalam,2D
+Wayanad,14:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹120,224,0,Malayalam,2D
+Wayanad,17:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹120,224,0,Malayalam,2D
+Wayanad,20:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹120,224,0,Malayalam,2D
+Palakkad,14:00,VrindavanTheatreKozhinjampara,FirstClass,₹110,152,0,Malayalam,2D
+Palakkad,21:00,VrindavanTheatreKozhinjampara,FirstClass,₹110,152,0,Malayalam,2D
