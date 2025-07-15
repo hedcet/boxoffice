@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,18:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Platinum,₹150,22,0,Malayalam,2D
+Trivandrum,18:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Gold,₹129,144,20,Malayalam,2D
+Kollam,18:30,SreeSailamCineHouse4KKadakkal,PlatinumFamilyCircle,₹150,96,0,Malayalam,2D
+Kollam,18:30,SreeSailamCineHouse4KKadakkal,Platinum,₹150,136,0,Malayalam,2D
+Kollam,18:30,SreeSailamCineHouse4KKadakkal,GoldFamilyCircle,₹140,94,0,Malayalam,2D
+Kollam,18:30,SreeSailamCineHouse4KKadakkal,Gold,₹140,294,0,Malayalam,2D
