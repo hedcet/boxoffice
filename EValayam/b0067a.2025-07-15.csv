@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,10:30,KalabhavanTheatreTripleBeam3DTrivandrum,Platinum,₹120,135,57,Malayalam,2D
+Trivandrum,10:30,KalabhavanTheatreTripleBeam3DTrivandrum,Gold,₹101,275,73,Malayalam,2D
+Kollam,11:00,VarshaScreen2DTSXAnchal,Executive,₹200,35,0,Malayalam,2D
+Kollam,11:00,VarshaScreen2DTSXAnchal,Classic,₹150,138,0,Malayalam,2D
+Pathanamthitta,11:00,SCinemasKonni,Platinum,₹150,81,20,Malayalam,2D
+Pathanamthitta,11:00,SCinemasKonni,Gold,₹110,368,12,Malayalam,2D
+Alappuzha,11:15,KairaliSreeTheaterAlappuzha,Platinum,₹120,305,0,Malayalam,2D
+Pathanamthitta,14:30,SCinemasKonni,Platinum,₹150,81,20,Malayalam,2D
+Pathanamthitta,14:30,SCinemasKonni,Gold,₹110,368,12,Malayalam,2D
+Ernakulam,15:00,SangeetaCinemaKochi,BlueCircle,₹160,187,33,Malayalam,2D
