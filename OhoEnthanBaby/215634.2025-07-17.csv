@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,13:20,CinepolisSecuraCentreKannur,Normal,₹170,20,0,Tamil,2D
+Kannur,13:20,CinepolisSecuraCentreKannur,Executive,₹190,62,0,Tamil,2D
+Kannur,13:20,CinepolisSecuraCentreKannur,Premium,₹210,30,8,Tamil,2D
