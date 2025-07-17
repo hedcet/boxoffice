@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,23,0,Tamil,2D
+Kozhikode,10:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,88,0,Tamil,2D
+Kozhikode,10:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,17,0,Tamil,2D
+Kozhikode,10:30,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹250,14,0,Tamil,2D
+Trivandrum,11:00,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,415,0,Tamil,2D
+Palakkad,11:30,AromaScreen2Palakkad,KingCircle,₹129.8,235,0,Tamil,2D
+Palakkad,14:00,AromaScreen2Palakkad,KingCircle,₹129.8,235,0,Tamil,2D
+Trivandrum,14:30,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,415,0,Tamil,2D
+Palakkad,18:00,AromaScreen2Palakkad,KingCircle,₹129.8,235,2,Tamil,2D
+Trivandrum,18:15,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,415,415,Tamil,2D
+Palakkad,21:00,AromaScreen2Palakkad,KingCircle,₹129.8,235,4,Tamil,2D
+Trivandrum,21:30,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,415,415,Tamil,2D
+Palakkad,10:55,GowriMovieHouseAC2KDolby7Point1OotraKollengode,FirstClass,₹110,129,0,Tamil,2D
+Palakkad,13:55,GowriMovieHouseAC2KDolby7Point1OotraKollengode,FirstClass,₹110,129,0,Tamil,2D
+Palakkad,17:55,GowriMovieHouseAC2KDolby7Point1OotraKollengode,FirstClass,₹110,129,0,Tamil,2D
+Palakkad,20:55,GowriMovieHouseAC2KDolby7Point1OotraKollengode,FirstClass,₹110,129,0,Tamil,2D
