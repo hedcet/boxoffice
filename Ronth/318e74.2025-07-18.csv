@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,18:30,EVMGRANDRGBLaser4K3DDOLBYCherthala,Platinum,₹170,52,0,Malayalam,2D
+Alappuzha,18:30,EVMGRANDRGBLaser4K3DDOLBYCherthala,Gold,₹150,308,22,Malayalam,2D
+Ernakulam,11:35,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹150,54,2,Malayalam,2D
+Ernakulam,11:35,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹180,108,7,Malayalam,2D
+Ernakulam,11:35,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹200,125,12,Malayalam,2D
+Ernakulam,11:35,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹400,14,4,Malayalam,2D
