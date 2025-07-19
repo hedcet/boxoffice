@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,11:00,CinepolisCentreSquareMallErnakulamKochi,Normal,₹110,13,0,Hindi,2D
+Ernakulam,11:00,CinepolisCentreSquareMallErnakulamKochi,Executive,₹140,26,1,Hindi,2D
+Ernakulam,11:00,CinepolisCentreSquareMallErnakulamKochi,Premium,₹160,67,15,Hindi,2D
+Kozhikode,13:15,CrownTheatreDolbyAtmosTownHallRoadCalicut,Audi2,₹160,148,23,Hindi,2D
