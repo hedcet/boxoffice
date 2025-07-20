@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kasaragod,10:30,KaveriCinemasACDTSDolbyKarmamthody,Standard,₹110,145,50,Tulu,2D
+Kasaragod,13:30,KaveriCinemasACDTSDolbyKarmamthody,Standard,₹110,145,56,Tulu,2D
+Kasaragod,16:30,KaveriCinemasACDTSDolbyKarmamthody,Standard,₹110,145,62,Tulu,2D
+Kasaragod,19:30,KaveriCinemasACDTSDolbyKarmamthody,Standard,₹110,145,126,Tulu,2D
+Kasaragod,22:30,KaveriCinemasACDTSDolbyKarmamthody,Standard,₹110,145,49,Tulu,2D
