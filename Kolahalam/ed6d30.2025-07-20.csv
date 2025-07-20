@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,13:00,AnuragCinemaShoranur,Screen1,₹110,278,2,Malayalam,2D
+Palakkad,13:00,AnuragCinemaShoranur,Star,₹110,26,1,Malayalam,2D
+Kannur,13:30,AuraCinemasPeravoor,Screen2,₹130,145,0,Malayalam,2D
+Thrissur,15:15,JKCinemas4KDolbyAtmosThriprayar,Luxury,₹220,15,10,Malayalam,2D
+Thrissur,15:15,JKCinemas4KDolbyAtmosThriprayar,Diamond,₹150,126,20,Malayalam,2D
+Thrissur,15:15,JKCinemas4KDolbyAtmosThriprayar,Gold,₹129.8,54,0,Malayalam,2D
+Kannur,16:00,AuraCinemasPeravoor,Screen2,₹130,145,0,Malayalam,2D
+Palakkad,16:50,SyndicateCinemasKoppam4KDolbyAtmosRGBLaser,Platinum,₹250,20,0,Malayalam,2D
+Palakkad,16:50,SyndicateCinemasKoppam4KDolbyAtmosRGBLaser,Gold,₹150,185,1,Malayalam,2D
+Palakkad,17:00,KrishnaCineplex4KRGBLaser3DDolbyAtmos,StarCircle,₹110,123,0,Malayalam,2D
+Kollam,18:15,MYCinemasHJComplexKarunagapally,Classic,₹170,118,15,Malayalam,2D
+Kannur,19:00,AuraCinemasPeravoor,Screen2,₹130,145,0,Malayalam,2D
+Kannur,19:30,MagicFramesDowntownMallThalassery,Gold,₹180,131,0,Malayalam,2D
+Ernakulam,11:10,PVRForumMallNH47Kochi,Classic,₹130,22,0,Malayalam,2D
+Ernakulam,11:10,PVRForumMallNH47Kochi,Elite,₹200,85,62,Malayalam,2D
