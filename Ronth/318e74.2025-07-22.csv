@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,14:15,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹99,54,0,Malayalam,2D
+Ernakulam,14:15,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹99,126,9,Malayalam,2D
+Ernakulam,14:15,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹99,92,44,Malayalam,2D
+Ernakulam,14:15,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹199,13,12,Malayalam,2D
