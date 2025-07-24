@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,18:00,CheloorGrandCinemasCherpulassery,Diamond,₹140,20,3,Malayalam,2D
+Palakkad,18:00,CheloorGrandCinemasCherpulassery,Gold,₹125,162,0,Malayalam,2D
+Thrissur,21:15,VKGCINEMAS4KRGBLASERDOLBYATMOSPAVARATTY,Platinum,₹200,15,0,Malayalam,2D
+Thrissur,21:15,VKGCINEMAS4KRGBLASERDOLBYATMOSPAVARATTY,Gold,₹150,113,10,Malayalam,2D
+Thrissur,21:15,VKGCINEMAS4KRGBLASERDOLBYATMOSPAVARATTY,Silver,₹130,64,0,Malayalam,2D
+Malappuram,14:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹110,205,1,Malayalam,2D
+Malappuram,14:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Executive,₹129.8,105,0,Malayalam,2D
+Malappuram,14:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹110,205,1,Malayalam,2D
+Malappuram,14:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Executive,₹129.8,105,0,Malayalam,2D
+Malappuram,18:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹110,205,1,Malayalam,2D
+Malappuram,18:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Executive,₹129.8,105,0,Malayalam,2D
