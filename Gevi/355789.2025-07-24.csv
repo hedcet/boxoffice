@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:30,KairaliSreeTheatreChittur,Platinum,₹105,234,0,Tamil,2D
+Palakkad,18:00,AromaScreen2Palakkad,KingCircle,₹129.8,235,0,Tamil,2D
+Palakkad,18:30,KairaliSreeTheatreChittur,Platinum,₹105,234,4,Tamil,2D
+Palakkad,21:00,AromaScreen2Palakkad,KingCircle,₹129.8,235,0,Tamil,2D
+Palakkad,11:30,CityCinema2KACAnaikatti,Premium,₹100,236,200,Tamil,2D
+Palakkad,14:30,CityCinema2KACAnaikatti,Premium,₹100,236,0,Tamil,2D
+Palakkad,18:30,CityCinema2KACAnaikatti,Premium,₹100,236,0,Tamil,2D
