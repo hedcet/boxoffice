@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,11:00,DhanyaRemyaChanganassery,Dhanya,₹135,423,0,Malayalam,2D
+Kottayam,11:00,DhanyaRemyaKottayam,Dhanya,₹135,465,0,Malayalam,2D
+Alappuzha,11:00,KairaliSreeTheaterAlappuzha,Platinum,₹125,305,0,Malayalam,2D
+Ernakulam,15:00,SangeetaCinemaKochi,BlueCircle,₹160,187,19,Malayalam,2D
+Ernakulam,18:15,IssacsMariaTheatre,DiamondSofa,₹335,11,0,Malayalam,
+Ernakulam,18:15,IssacsMariaTheatre,PlatinumRecliner,₹435,16,0,Malayalam,
+Ernakulam,18:15,IssacsMariaTheatre,Gold,₹225,95,0,Malayalam,
+Ernakulam,18:15,IssacsMariaTheatre,Silver,₹205,188,0,Malayalam,
