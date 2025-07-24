@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹110,527,0,Tamil,2D
+Palakkad,14:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹110,527,0,Tamil,2D
+Palakkad,18:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹110,527,0,Tamil,2D
+Palakkad,21:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹110,527,0,Tamil,2D
+Palakkad,14:00,VrindavanTheatreKozhinjampara,FirstClass3D,₹110,184,0,Tamil,2D
+Malappuram,14:45,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹110,158,31,Tamil,2D
+Malappuram,18:45,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹110,158,31,Tamil,2D
+Palakkad,21:00,VrindavanTheatreKozhinjampara,FirstClass3D,₹110,184,3,Tamil,2D
+Malappuram,21:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹110,158,31,Tamil,2D
