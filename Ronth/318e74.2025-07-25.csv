@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:00,ArtechCinemasTrivandrum,Platinum,₹180,105,16,Malayalam,2D
+Trivandrum,11:00,ArtechCinemasTrivandrum,Silver,₹160,68,0,Malayalam,2D
+Trivandrum,11:00,ArtechCinemasTrivandrum,Platinum,₹180,106,0,Malayalam,2D
+Trivandrum,11:00,ArtechCinemasTrivandrum,Silver,₹160,90,0,Malayalam,2D
