@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,CheloorGrandCinemasCherpulassery,Diamond,₹140,20,0,Malayalam,2D
+Palakkad,11:00,CheloorGrandCinemasCherpulassery,Gold,₹125,162,0,Malayalam,2D
+Palakkad,18:30,SapthaTharangCinemaCityCentralMallKoottanad,Golden,₹110,150,3,Malayalam,2D
+Palakkad,18:30,SapthaTharangCinemaCityCentralMallKoottanad,Diamond,₹200,13,0,Malayalam,2D
+Malappuram,19:30,MallikaPlexRachanaNaveenKodurMalappuram,Executive,₹129.8,140,0,Malayalam,2D
+Malappuram,19:30,MallikaPlexRachanaNaveenKodurMalappuram,Sofa,₹200,11,0,Malayalam,2D
