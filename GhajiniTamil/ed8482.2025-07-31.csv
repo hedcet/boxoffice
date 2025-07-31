@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,11:15,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,129,0,Tamil,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,129,0,Tamil,2D
+Malappuram,18:15,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,129,0,Tamil,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,129,1,Tamil,2D
+Kozhikode,13:30,AjanthaCinemasKakkattil,Executive,₹110,199,0,Tamil,2D
+Kozhikode,16:30,AjanthaCinemasKakkattil,Executive,₹110,199,0,Tamil,2D
+Kozhikode,19:30,AjanthaCinemasKakkattil,Executive,₹110,199,0,Tamil,2D
