@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,18:00,VCinemasSreeDeviDurgaPalakkad,Standard,₹129.8,126,0,Tamil,2D
+Trivandrum,18:15,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,87,0,Tamil,2D
+Trivandrum,18:15,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,87,2,Tamil,2D
+Palakkad,21:15,VCinemasSreeDeviDurgaPalakkad,Standard,₹129.8,126,0,Tamil,2D
+Palakkad,11:00,VrindavanTheatreKozhinjampara,FirstClass3D,₹110,184,0,Tamil,2D
+Palakkad,14:00,VrindavanTheatreKozhinjampara,FirstClass3D,₹110,184,0,Tamil,2D
+Palakkad,18:00,VrindavanTheatreKozhinjampara,FirstClass3D,₹110,184,7,Tamil,2D
+Palakkad,21:00,VrindavanTheatreKozhinjampara,FirstClass3D,₹110,184,7,Tamil,2D
