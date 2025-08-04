@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,12:00,SangeetaCinemaKochi,BlueCircle,₹160,187,20,Malayalam,2D
+Ernakulam,12:15,MCinemas4K3DDolbyATMOSVarapuzha,Audi2,₹150,182,0,Malayalam,2D
+Trivandrum,14:30,ChhotuMaharajCineCafePoovarKerala,Executive,₹250,8,0,Malayalam,2D
+Trivandrum,14:30,ChhotuMaharajCineCafePoovarKerala,Premium,₹129,85,25,Malayalam,2D
+Trivandrum,14:30,ChhotuMaharajCineCafePoovarKerala,Normal,₹110,52,0,Malayalam,2D
+Idukki,14:45,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹130,80,25,Malayalam,2D
+Thrissur,15:00,RamdasMovieHouseThrissur,DiamondCircle,₹150,51,0,Malayalam,2D
+Thrissur,15:00,RamdasMovieHouseThrissur,PearlCircle,₹110,245,57,Malayalam,2D
+Ernakulam,15:15,MCinemas4K3DDolbyATMOSVarapuzha,Audi2,₹150,182,0,Malayalam,2D
+Kozhikode,18:00,AashirvadCineplexxKozhikode,Platinum,₹220,27,0,Malayalam,2D
+Kozhikode,18:00,AashirvadCineplexxKozhikode,Gold,₹200,60,20,Malayalam,2D
+Kottayam,18:45,VelvetViewCinemasKumarakom,Platinum,₹250,14,0,Malayalam,2D
+Kottayam,18:45,VelvetViewCinemasKumarakom,Gold,₹150,96,28,Malayalam,2D
+Kottayam,18:45,VelvetViewCinemasKumarakom,Silver,₹100,28,0,Malayalam,2D
