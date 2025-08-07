@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,12:00,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹130,172,0,Malayalam,2D
+Kollam,14:45,GmaxCinemasJerome3D7Point1JBLKollam,Blue,₹160,170,0,Malayalam,2D
+Ernakulam,15:00,SangeetaCinemaKochi,BlueCircle,₹160,187,18,Malayalam,2D
+Idukki,15:00,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹130,172,0,Malayalam,2D
+Kannur,16:20,MagicFramesDowntownMallThalassery,Gold,₹160,131,0,Malayalam,2D
+Kollam,18:30,ARIESPLEXPUNALURRGBLASER4KATMOS,Platinum,₹300,13,0,Malayalam,2D
+Kollam,18:30,ARIESPLEXPUNALURRGBLASER4KATMOS,Gold,₹200,13,0,Malayalam,2D
+Kollam,18:30,ARIESPLEXPUNALURRGBLASER4KATMOS,Executive,₹129.8,154,0,Malayalam,2D
+Kottayam,21:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
+Kollam,21:30,ARIESPLEXPUNALURRGBLASER4KATMOS,Platinum,₹300,13,0,Malayalam,2D
+Kollam,21:30,ARIESPLEXPUNALURRGBLASER4KATMOS,Gold,₹200,13,0,Malayalam,2D
+Kollam,21:30,ARIESPLEXPUNALURRGBLASER4KATMOS,Executive,₹129.8,154,0,Malayalam,2D
+Kollam,21:45,GmaxCinemasJerome3D7Point1JBLKollam,Blue,₹180,170,18,Malayalam,2D
+Ernakulam,11:00,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,141,0,Malayalam,2D
+Ernakulam,16:30,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,141,0,Malayalam,2D
