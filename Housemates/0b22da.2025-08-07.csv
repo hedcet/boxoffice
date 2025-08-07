@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,10:30,ArtechCinemasTrivandrum,Platinum,₹180,105,16,Tamil,2D
+Trivandrum,10:30,ArtechCinemasTrivandrum,Silver,₹160,68,0,Tamil,2D
+Kozhikode,12:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,23,0,Tamil,2D
+Kozhikode,12:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,88,0,Tamil,2D
+Kozhikode,12:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,17,0,Tamil,2D
+Kozhikode,12:30,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹250,14,0,Tamil,2D
+Trivandrum,13:15,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,70,4,Tamil,2D
+Trivandrum,13:15,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,51,2,Tamil,2D
+Trivandrum,13:15,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,7,2,Tamil,2D
+Ernakulam,16:15,PVRForumMallNH47Kochi,Classic,₹150,28,0,Tamil,2D
+Ernakulam,16:15,PVRForumMallNH47Kochi,Elite,₹190,111,16,Tamil,2D
+Ernakulam,16:15,PVRForumMallNH47Kochi,Recliner,₹400,8,0,Tamil,2D
