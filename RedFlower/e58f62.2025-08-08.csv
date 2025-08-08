@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,11:00,EVMLatha4K3DRGBPureLaser7Point1Muvattupuzha,Deluxe,₹150,160,0,Tamil,2D
+Thrissur,12:00,RamdasMovieHouseThrissur,DiamondCircle,₹150,51,0,Tamil,2D
+Thrissur,12:00,RamdasMovieHouseThrissur,PearlCircle,₹110,245,9,Tamil,2D
+Palakkad,14:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹110,527,0,Tamil,2D
+Ernakulam,18:00,EVMLatha4K3DRGBPureLaser7Point1Muvattupuzha,Deluxe,₹150,160,0,Tamil,2D
+Palakkad,11:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,89,Tamil,2D
