@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,18:45,VanithaCineplexRGBLaser4K3DATMOSEdappally,Screen4,₹200,154,53,Tamil,2D
+Ernakulam,18:45,VanithaCineplexRGBLaser4K3DATMOSEdappally,Screen4Sofa,₹280,15,1,Tamil,2D
+Ernakulam,22:15,PVROberonMosqueRoadKochi,Classic,₹140,54,0,Tamil,2D
+Ernakulam,22:15,PVROberonMosqueRoadKochi,ClassicPlus,₹160,104,44,Tamil,2D
