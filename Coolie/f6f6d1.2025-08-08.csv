@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,10:30,SandraVallakaliCineComplex,PlatinumFamilyClass,₹130,114,22,Tamil,2D
+Alappuzha,10:30,SandraVallakaliCineComplex,GoldBalcony,₹110,143,24,Tamil,2D
+Alappuzha,13:45,SandraVallakaliCineComplex,PlatinumFamilyClass,₹130,114,22,Tamil,2D
+Alappuzha,13:45,SandraVallakaliCineComplex,GoldBalcony,₹110,143,22,Tamil,2D
+Alappuzha,17:30,SandraVallakaliCineComplex,PlatinumFamilyClass,₹130,114,22,Tamil,2D
+Alappuzha,17:30,SandraVallakaliCineComplex,GoldBalcony,₹110,143,22,Tamil,2D
+Alappuzha,21:15,SandraVallakaliCineComplex,PlatinumFamilyClass,₹130,114,27,Tamil,2D
+Alappuzha,21:15,SandraVallakaliCineComplex,GoldBalcony,₹110,143,22,Tamil,2D
