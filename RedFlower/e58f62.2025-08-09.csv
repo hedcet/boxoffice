@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹110,527,0,Tamil,2D
+Ernakulam,11:00,EVMLatha4K3DRGBPureLaser7Point1Muvattupuzha,Deluxe,₹150,160,0,Tamil,2D
+Palakkad,14:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹110,527,0,Tamil,2D
+Ernakulam,18:00,EVMLatha4K3DRGBPureLaser7Point1Muvattupuzha,Deluxe,₹150,160,0,Tamil,2D
+Palakkad,11:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Tamil,2D
