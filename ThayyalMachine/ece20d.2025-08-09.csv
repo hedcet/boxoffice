@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,19:00,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹110,70,11,Malayalam,2D
+Kozhikode,21:15,AashirvadCineplexxKozhikode,Platinum,₹220,27,0,Malayalam,2D
+Kozhikode,21:15,AashirvadCineplexxKozhikode,Gold,₹200,60,0,Malayalam,2D
