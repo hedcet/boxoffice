@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:30,Priyatama3D2KACDolby7Point1Palakkad,Executive,₹150,50,6,Tamil,2D
+Palakkad,11:30,Priyatama3D2KACDolby7Point1Palakkad,DressCircle,₹110,182,17,Tamil,2D
+Ernakulam,15:00,SangeetaCinemaKochi,BlueCircle,₹160,187,20,Tamil,2D
+Ernakulam,21:00,SangeetaCinemaKochi,BlueCircle,₹160,187,21,Tamil,2D
+Ernakulam,13:20,PVRLuluLuluInternationalShoppingMallKochi,Luxe,₹400,16,0,Tamil,2D
+Ernakulam,13:20,PVRLuluLuluInternationalShoppingMallKochi,LuxePrime,₹450,40,12,Tamil,2D
+Ernakulam,14:15,CinepolisCentreSquareMallErnakulamKochi,Normal,₹140,13,0,Tamil,2D
+Ernakulam,14:15,CinepolisCentreSquareMallErnakulamKochi,Executive,₹160,26,3,Tamil,2D
+Ernakulam,14:15,CinepolisCentreSquareMallErnakulamKochi,Premium,₹180,67,37,Tamil,2D
+Ernakulam,16:15,PVRForumMallNH47Kochi,Classic,₹150,24,2,Tamil,2D
+Ernakulam,16:15,PVRForumMallNH47Kochi,Elite,₹210,111,49,Tamil,2D
+Ernakulam,16:15,PVRForumMallNH47Kochi,Recliner,₹450,10,9,Tamil,2D
+Trivandrum,19:10,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,105,18,Tamil,2D
+Trivandrum,19:10,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹230,76,27,Tamil,2D
+Trivandrum,19:10,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,9,2,Tamil,2D
