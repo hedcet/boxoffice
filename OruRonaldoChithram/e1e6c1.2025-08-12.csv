@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,12:00,SangeetaCinemaKochi,BlueCircle,₹160,187,18,Malayalam,2D
+Trivandrum,14:30,ChhotuMaharajCineCafePoovarKerala,Executive,₹250,8,0,Malayalam,2D
+Trivandrum,14:30,ChhotuMaharajCineCafePoovarKerala,Premium,₹129,85,0,Malayalam,2D
+Trivandrum,14:30,ChhotuMaharajCineCafePoovarKerala,Normal,₹110,52,0,Malayalam,2D
+Thrissur,15:00,RamdasMovieHouseThrissur,DiamondCircle,₹150,51,0,Malayalam,2D
+Thrissur,15:00,RamdasMovieHouseThrissur,PearlCircle,₹110,245,0,Malayalam,2D
