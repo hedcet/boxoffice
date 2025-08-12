@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,18:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Platinum,₹150,22,4,Malayalam,2D
+Trivandrum,18:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Gold,₹129,144,1,Malayalam,2D
+Kozhikode,22:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,23,0,Malayalam,2D
+Kozhikode,22:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,88,0,Malayalam,2D
+Kozhikode,22:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,17,2,Malayalam,2D
+Kozhikode,22:30,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹250,14,0,Malayalam,2D
+Ernakulam,19:25,PVRForumMallNH47Kochi,Classic,₹150,24,0,Malayalam,2D
+Ernakulam,19:25,PVRForumMallNH47Kochi,Elite,₹190,111,12,Malayalam,2D
+Ernakulam,19:25,PVRForumMallNH47Kochi,Recliner,₹400,10,0,Malayalam,2D
