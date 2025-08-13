@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,11:00,DhanyaRemyaChanganassery,Dhanya,₹135,423,0,Tamil,2D
+Kottayam,11:00,DhanyaRemyaKottayam,Dhanya,₹135,465,0,Tamil,2D
+Kottayam,21:00,DhanyaRemyaKottayam,Dhanya,₹135,465,0,Tamil,2D
+Kottayam,21:00,DhanyaRemyaChanganassery,Dhanya,₹135,423,0,Tamil,2D
