@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:30,Priyatama3D2KACDolby7Point1Palakkad,Executive,₹150,50,0,Tamil,2D
+Palakkad,11:30,Priyatama3D2KACDolby7Point1Palakkad,DressCircle,₹110,182,7,Tamil,2D
+Ernakulam,15:20,PVRLuluLuluInternationalShoppingMallKochi,Luxe,₹350,16,3,Tamil,2D
+Ernakulam,15:20,PVRLuluLuluInternationalShoppingMallKochi,LuxePrime,₹400,40,6,Tamil,2D
+Ernakulam,16:15,PVRForumMallNH47Kochi,Classic,₹150,24,0,Tamil,2D
+Ernakulam,16:15,PVRForumMallNH47Kochi,Elite,₹190,111,12,Tamil,2D
+Ernakulam,16:15,PVRForumMallNH47Kochi,Recliner,₹400,10,0,Tamil,2D
+Trivandrum,19:10,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,105,9,Tamil,2D
+Trivandrum,19:10,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,76,19,Tamil,2D
+Trivandrum,19:10,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹450,9,8,Tamil,2D
