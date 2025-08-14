@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,10:30,MasMoviesIrinjalakuda,Silver,₹129,207,180,Malayalam,2D
+Kottayam,14:30,RDCinemasMundakayam,Executive,₹140,150,20,Malayalam,2D
+Kottayam,14:30,RDCinemasMundakayam,Economy,₹100,16,0,Malayalam,2D
+Trivandrum,15:00,MridhangaCineplex4KDolbyAtmosPoovar,Executive,₹150,130,0,Malayalam,2D
+Thrissur,16:15,MasMoviesIrinjalakuda,Silver,₹129,207,4,Malayalam,2D
+Kannur,16:15,AlakodeFilmCity4KDolbyAtmos,Chandra,₹160,151,7,Malayalam,2D
+Kannur,18:05,SJGCinemas4KDolbyAtmosUlikkal,Standard,₹130,140,96,Malayalam,2D
+Idukki,18:30,GCinemaxMultiplex,Audi3,₹140,165,45,Malayalam,2D
+Idukki,18:45,AashirvadCineplexxThodupuzha,Gold,₹185,10,10,Malayalam,2D
+Idukki,18:45,AashirvadCineplexxThodupuzha,Silver,₹155,90,87,Malayalam,2D
+Thrissur,15:00,DavisTheatreThrissur,Gold,₹202,131,0,,
+Thrissur,15:00,DavisTheatreThrissur,Gold,₹202,0,0,,
