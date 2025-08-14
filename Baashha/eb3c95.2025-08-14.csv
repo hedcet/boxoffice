@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,11:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,181,0,Tamil,2D
+Idukki,12:00,SagaraTheatre4KAtmosKattappana,Royal,₹129,158,0,Tamil,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,181,0,Tamil,2D
+Idukki,15:00,SagaraTheatre4KAtmosKattappana,Royal,₹129,158,0,Tamil,2D
+Idukki,18:30,SagaraTheatre4KAtmosKattappana,Royal,₹129,158,0,Tamil,2D
+Malappuram,18:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,181,0,Tamil,2D
+Idukki,21:30,SagaraTheatre4KAtmosKattappana,Royal,₹129,158,0,Tamil,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,181,0,Tamil,2D
