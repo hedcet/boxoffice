@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kasaragod,10:30,MagicFramesMehboobTheatreComplex4KKasaragod,Executive,₹129.7,175,0,Hindi,2D
+Kasaragod,13:30,MagicFramesMehboobTheatreComplex4KKasaragod,Executive,₹129.7,175,0,Hindi,2D
+Kozhikode,20:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹599,102,12,Hindi,2D
+Trivandrum,16:00,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,70,2,Hindi,2D
+Trivandrum,16:00,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,51,19,Hindi,2D
+Trivandrum,16:00,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,7,7,Hindi,2D
