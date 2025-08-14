@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,19:15,ShenoysKochi,Diamond,₹180,71,45,English,2D
+Ernakulam,16:50,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹400,116,16,English,4DX2D
+Ernakulam,20:05,PVRForumMallNH47Kochi,Classic,₹150,22,1,English,2D
+Ernakulam,20:05,PVRForumMallNH47Kochi,Elite,₹210,85,65,English,2D
+Thrissur,22:35,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹130,26,4,English,2D
+Thrissur,22:35,INOXSobhaCityMallPuzhakkalThrissur,Club,₹190,155,21,English,2D
+Thrissur,22:35,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹190,32,13,English,2D
+Thrissur,22:35,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹350,10,6,English,2D
+Ernakulam,22:45,PVRForumMallNH47Kochi,Classic,₹150,22,0,English,2D
+Ernakulam,22:45,PVRForumMallNH47Kochi,Elite,₹190,85,11,English,2D
