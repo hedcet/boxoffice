@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,13:25,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹150,22,4,English,3D
+Thrissur,13:25,INOXSobhaCityMallPuzhakkalThrissur,Club,₹180,63,0,English,3D
+Thrissur,13:25,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹180,28,17,English,3D
+Thrissur,13:25,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹250,10,2,English,3D
+Trivandrum,14:55,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹200,65,2,English,3D
+Trivandrum,14:55,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹220,34,9,English,3D
+Trivandrum,14:55,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹380,8,2,English,3D
+Ernakulam,21:35,PVRForumMallNH47Kochi,Classic,₹170,14,0,English,3D
+Ernakulam,21:35,PVRForumMallNH47Kochi,Elite,₹190,125,40,English,3D
+Ernakulam,21:35,PVRForumMallNH47Kochi,Recliner,₹330,8,6,English,3D
+Thrissur,21:50,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹150,22,4,English,3D
+Thrissur,21:50,INOXSobhaCityMallPuzhakkalThrissur,Club,₹180,63,3,English,3D
+Thrissur,21:50,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹180,28,21,English,3D
+Thrissur,21:50,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹250,10,5,English,3D
