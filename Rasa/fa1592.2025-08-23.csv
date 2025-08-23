@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,19:00,CinepolisSecuraCentreKannur,Normal,₹160,26,10,Hindi,2D
+Kannur,19:00,CinepolisSecuraCentreKannur,Executive,₹180,81,0,Hindi,2D
+Kannur,19:00,CinepolisSecuraCentreKannur,Premium,₹200,43,9,Hindi,2D
+Ernakulam,19:45,CinepolisCentreSquareMallErnakulamKochi,Normal,₹140,27,16,Hindi,2D
+Ernakulam,19:45,CinepolisCentreSquareMallErnakulamKochi,Executive,₹160,45,23,Hindi,2D
+Ernakulam,19:45,CinepolisCentreSquareMallErnakulamKochi,Premium,₹190,94,6,Hindi,2D
