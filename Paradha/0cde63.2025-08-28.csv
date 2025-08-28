@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,14:15,EVMCinemaAC4KRGBLaser3DPerumbavoor,Executive1,₹179.25,4,4,Malayalam,2D
+Ernakulam,14:15,EVMCinemaAC4KRGBLaser3DPerumbavoor,Deluxe,₹159.15,98,98,Malayalam,2D
+Ernakulam,21:15,EVMCinemaAC4KRGBLaser3DPerumbavoor,Executive1,₹179.25,4,4,Malayalam,2D
+Ernakulam,21:15,EVMCinemaAC4KRGBLaser3DPerumbavoor,Deluxe,₹159.15,98,98,Malayalam,2D
+Malappuram,11:00,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹110,205,1,Telugu,2D
+Malappuram,11:00,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Executive,₹129.8,105,0,Telugu,2D
+Malappuram,14:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹110,205,1,Telugu,2D
+Malappuram,14:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Executive,₹129.8,105,0,Telugu,2D
+Malappuram,21:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹110,205,1,Telugu,2D
+Malappuram,21:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Executive,₹129.8,105,0,Telugu,2D
