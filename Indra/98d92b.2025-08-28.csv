@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,11:15,SNTheatreHaripad,Premium,₹129.7,133,0,Tamil,2D
+Alappuzha,11:15,SNTheatreHaripad,Regular,₹110,42,0,Tamil,2D
+Ernakulam,11:15,EVMCinemaAC4KRGBLaser3DPerumbavoor,Executive1,₹179.25,4,4,Tamil,2D
+Ernakulam,11:15,EVMCinemaAC4KRGBLaser3DPerumbavoor,Deluxe,₹159.15,98,98,Tamil,2D
+Alappuzha,14:30,SNTheatreHaripad,Premium,₹129.7,133,0,Tamil,2D
+Alappuzha,14:30,SNTheatreHaripad,Regular,₹110,42,0,Tamil,2D
+Alappuzha,18:15,SNTheatreHaripad,Premium,₹129.7,133,0,Tamil,2D
+Alappuzha,18:15,SNTheatreHaripad,Regular,₹110,42,0,Tamil,2D
+Ernakulam,18:15,EVMCinemaAC4KRGBLaser3DPerumbavoor,Executive1,₹179.25,4,4,Tamil,2D
+Ernakulam,18:15,EVMCinemaAC4KRGBLaser3DPerumbavoor,Deluxe,₹159.15,98,98,Tamil,2D
+Alappuzha,21:30,SNTheatreHaripad,Premium,₹129.7,133,0,Tamil,2D
+Alappuzha,21:30,SNTheatreHaripad,Regular,₹110,42,0,Tamil,2D
+Malappuram,14:30,SreekumarPavithraTheatreAC2KPattambiRoadValanchery,FirstClass,₹110,137,0,Tamil,2D
+Malappuram,21:30,SreekumarPavithraTheatreAC2KPattambiRoadValanchery,FirstClass,₹110,137,0,Tamil,2D
