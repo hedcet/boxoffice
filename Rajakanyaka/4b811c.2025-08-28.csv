@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,15:00,GCinemaxMultiplex,Audi3,₹140,165,0,Malayalam,2D
+Kannur,15:00,AlakodeFilmCity4KDolbyAtmos,Chandra,₹160,151,77,Malayalam,2D
+Ernakulam,15:00,HighstreetCinemaCantonHighstreetMuvattupuzha,Gold,₹150,213,37,Malayalam,2D
+Idukki,18:30,SanthoshCinemaDolby7Point1Kattappana,RoyalCircle,₹110,268,0,Malayalam,2D
+Idukki,18:30,GCinemaxMultiplex,Audi3,₹140,165,0,Malayalam,2D
+Ernakulam,18:45,HighstreetCinemaCantonHighstreetMuvattupuzha,Gold,₹150,121,26,Malayalam,2D
+Kottayam,14:15,PuthettuCinemasPala,Platinumrecliner,₹354,12,0,,
+Kottayam,14:15,PuthettuCinemasPala,DiamondfamilyCouch,₹304,6,0,,
+Kottayam,14:15,PuthettuCinemasPala,GoldsofaSlider,₹254,14,8,,
+Kottayam,14:15,PuthettuCinemasPala,Silver,₹204,128,32,,
