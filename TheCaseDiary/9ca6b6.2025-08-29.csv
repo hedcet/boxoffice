@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:15,NewAromaTheatrePalakkad,PlatinumCircle,₹129.8,200,0,Malayalam,2D
+Palakkad,11:15,NewAromaTheatrePalakkad,DiamondCircle,₹110,229,0,Malayalam,2D
+Malappuram,11:00,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹110,205,1,Malayalam,2D
+Malappuram,11:00,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Executive,₹129.8,105,0,Malayalam,2D
+Malappuram,11:15,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹110,158,31,Malayalam,2D
