@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,14:30,ShenoysKochi,Diamond,₹180,71,71,English,2D
+Trivandrum,21:30,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹180,65,2,English,2D
+Trivandrum,21:30,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,34,4,English,2D
+Trivandrum,21:30,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,8,2,English,2D
