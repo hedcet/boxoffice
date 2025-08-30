@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,14:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,Tamil,2D
+Palakkad,21:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,Tamil,2D
+Palakkad,21:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,Tamil,2D
+Palakkad,11:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Tamil,2D
+Palakkad,11:30,DhanalakshmiDMaxCinemas2K7Point1Velanthavalam,Executive,₹129.8,280,0,Tamil,2D
+Ernakulam,16:05,PVRForumMallNH47Kochi,Classic,₹170,24,0,Tamil,2D
+Ernakulam,16:05,PVRForumMallNH47Kochi,Elite,₹230,111,4,Tamil,2D
+Ernakulam,16:05,PVRForumMallNH47Kochi,Recliner,₹500,10,0,Tamil,2D
+Palakkad,21:30,DhanalakshmiDMaxCinemas2K7Point1Velanthavalam,Executive,₹129.8,280,0,Tamil,2D
+Trivandrum,21:50,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹180,60,4,Tamil,2D
+Trivandrum,21:50,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,39,15,Tamil,2D
+Trivandrum,21:50,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,8,6,Tamil,2D
