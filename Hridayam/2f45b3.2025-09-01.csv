@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,10:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,RoyalCircle,₹250,100,0,Malayalam,2D
+Trivandrum,10:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,FamilyCircle,₹150,349,0,Malayalam,2D
+Trivandrum,13:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,RoyalCircle,₹250,100,0,Malayalam,2D
+Trivandrum,13:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,FamilyCircle,₹150,349,0,Malayalam,2D
+Trivandrum,19:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,RoyalCircle,₹250,100,0,Malayalam,2D
+Trivandrum,19:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,FamilyCircle,₹150,349,0,Malayalam,2D
+Trivandrum,22:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,RoyalCircle,₹250,100,0,Malayalam,2D
+Trivandrum,22:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,FamilyCircle,₹150,349,0,Malayalam,2D
