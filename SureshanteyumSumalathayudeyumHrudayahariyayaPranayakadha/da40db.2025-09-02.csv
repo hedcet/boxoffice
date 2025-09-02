@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,11:30,FunMoviesThrissur,RoyalSofa,₹220,15,0,Malayalam,2D
+Thrissur,11:30,FunMoviesThrissur,Premium,₹150,56,0,Malayalam,2D
+Thrissur,11:30,FunMoviesThrissur,Club,₹130,54,0,Malayalam,2D
