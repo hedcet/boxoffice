@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,11:00,ChandanaCinemaMarayur,BoxLeft,₹129.19,26,0,Tamil,2D
+Idukki,11:00,ChandanaCinemaMarayur,BoxRight,₹129.19,24,17,Tamil,2D
+Idukki,11:00,ChandanaCinemaMarayur,FirstClasss,₹120,356,327,Tamil,2D
+Idukki,21:00,ChandanaCinemaMarayur,BoxLeft,₹129.19,26,0,Tamil,2D
+Idukki,21:00,ChandanaCinemaMarayur,BoxRight,₹129.19,24,17,Tamil,2D
+Idukki,21:00,ChandanaCinemaMarayur,FirstClasss,₹120,356,327,Tamil,2D
+Trivandrum,12:40,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,60,4,Kannada,3D
+Trivandrum,12:40,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,39,15,Kannada,3D
+Trivandrum,12:40,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹210,8,6,Kannada,3D
+Trivandrum,12:40,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹129,60,4,Kannada,3D
+Trivandrum,12:40,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹129,39,2,Kannada,3D
+Trivandrum,12:40,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹229,8,3,Kannada,3D
+Trivandrum,17:00,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹129,65,15,Kannada,3D
+Trivandrum,17:00,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹129,34,22,Kannada,3D
+Trivandrum,17:00,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹229,8,6,Kannada,3D
