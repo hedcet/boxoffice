@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Wayanad,11:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹120,224,0,Tamil,2D
+Kollam,11:30,GmaxCinemasJerome3D7Point1JBLKollam,Green,₹160,86,19,Tamil,2D
+Wayanad,14:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹120,224,0,Tamil,2D
+Wayanad,17:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹120,224,0,Tamil,2D
+Trivandrum,18:15,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,87,8,Tamil,2D
+Alappuzha,18:30,GanamTheatreComplex4K3DKattanam,FirstClass,₹140,129,0,Tamil,2D
+Wayanad,20:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹120,224,0,Tamil,2D
+Trivandrum,21:30,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹110,70,5,Tamil,2D
+Palakkad,11:00,VrindavanTheatreKozhinjampara,FirstClass,₹110,152,3,Tamil,2D
+Palakkad,14:00,VrindavanTheatreKozhinjampara,FirstClass,₹110,152,3,Tamil,2D
+Palakkad,14:30,DhanalakshmiDMaxCinemas2K7Point1Velanthavalam,Executive,₹129.8,280,0,Tamil,2D
+Palakkad,18:30,DhanalakshmiDMaxCinemas2K7Point1Velanthavalam,Executive,₹129.8,280,0,Tamil,2D
