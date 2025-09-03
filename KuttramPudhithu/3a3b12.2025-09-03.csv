@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,14:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,Tamil,2D
+Palakkad,21:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,2,Tamil,2D
+Palakkad,11:30,DhanalakshmiDMaxCinemas2K7Point1Velanthavalam,Executive,₹129.8,280,0,Tamil,2D
+Palakkad,21:30,DhanalakshmiDMaxCinemas2K7Point1Velanthavalam,Executive,₹129.8,280,0,Tamil,2D
