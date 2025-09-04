@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kasaragod,16:30,MagicFramesMehboobTheatreComplex4KKasaragod,Executive,₹129.7,175,36,Kannada,2D
+Kasaragod,19:30,MagicFramesMehboobTheatreComplex4KKasaragod,Executive,₹129.7,175,19,Kannada,2D
+Malappuram,11:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,181,0,Malayalam,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,181,0,Malayalam,2D
+Malappuram,18:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,181,0,Malayalam,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹110,181,0,Malayalam,2D
+Ernakulam,10:40,PVRForumMallNH47Kochi,Classic,₹170,28,1,Kannada,2D
+Ernakulam,10:40,PVRForumMallNH47Kochi,Elite,₹230,111,16,Kannada,2D
+Ernakulam,10:40,PVRForumMallNH47Kochi,Recliner,₹450,8,0,Kannada,2D
+Trivandrum,16:35,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,70,11,Kannada,2D
+Trivandrum,16:35,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹230,51,16,Kannada,2D
+Trivandrum,16:35,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,7,2,Kannada,2D
