@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,18:30,GanamTheatreComplex4K3DKattanam,FirstClass,₹140,129,0,Tamil,2D
+Trivandrum,21:30,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹110,70,0,Tamil,2D
+Palakkad,11:00,VrindavanTheatreKozhinjampara,FirstClass,₹110,152,3,Tamil,2D
+Palakkad,14:00,VrindavanTheatreKozhinjampara,FirstClass,₹110,152,3,Tamil,2D
+Palakkad,14:30,DhanalakshmiDMaxCinemas2K7Point1Velanthavalam,Executive,₹129.8,280,0,Tamil,2D
+Palakkad,18:30,DhanalakshmiDMaxCinemas2K7Point1Velanthavalam,Executive,₹129.8,280,0,Tamil,2D
