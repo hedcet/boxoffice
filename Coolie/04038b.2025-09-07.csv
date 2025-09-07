@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:00,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,87,0,Tamil,2D
+Idukki,12:00,SanthoshCinemaDolby7Point1Kattappana,RoyalCircle,₹110,268,0,Tamil,2D
+Trivandrum,14:30,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,87,0,Tamil,2D
+Idukki,15:00,SanthoshCinemaDolby7Point1Kattappana,RoyalCircle,₹110,268,0,Tamil,2D
+Trivandrum,18:00,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,87,0,Tamil,2D
+Trivandrum,21:30,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,87,0,Tamil,2D
+Idukki,21:30,SanthoshCinemaDolby7Point1Kattappana,RoyalCircle,₹110,268,0,Tamil,2D
+Ernakulam,16:20,CinepolisCentreSquareMallErnakulamKochi,Normal,₹150,19,4,Tamil,2D
+Ernakulam,16:20,CinepolisCentreSquareMallErnakulamKochi,Executive,₹170,43,29,Tamil,2D
+Ernakulam,16:20,CinepolisCentreSquareMallErnakulamKochi,Premium,₹200,44,35,Tamil,2D
