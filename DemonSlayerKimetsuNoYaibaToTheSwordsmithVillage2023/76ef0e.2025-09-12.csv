@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,10:15,CNCCinemaasRGBLaser4KAtmosTripleBeam3DTirur,Club,₹150,141,17,Japanese,2D
+Malappuram,10:15,CNCCinemaasRGBLaser4KAtmosTripleBeam3DTirur,Premiere,₹200,85,18,Japanese,2D
+Malappuram,10:15,CNCCinemaasRGBLaser4KAtmosTripleBeam3DTirur,Recliner,₹350,15,0,Japanese,2D
+Malappuram,16:30,CNCCinemaasRGBLaser4KAtmosTripleBeam3DTirur,Club,₹150,141,17,Japanese,2D
+Malappuram,16:30,CNCCinemaasRGBLaser4KAtmosTripleBeam3DTirur,Premiere,₹200,85,21,Japanese,2D
+Malappuram,16:30,CNCCinemaasRGBLaser4KAtmosTripleBeam3DTirur,Recliner,₹350,15,0,Japanese,2D
