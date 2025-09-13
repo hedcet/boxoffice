@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:30,KirthiMudra4KRGBLaserDolbyAtmos,Gold,₹129.8,329,0,Tamil,2D
+Trivandrum,11:00,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,87,87,Tamil,2D
+Kozhikode,13:00,KirthiMudra4KRGBLaserDolbyAtmos,Gold,₹129.8,329,0,Tamil,2D
+Trivandrum,14:30,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,87,0,Tamil,2D
+Trivandrum,13:50,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,60,5,Tamil,2D
+Trivandrum,13:50,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,39,16,Tamil,2D
+Trivandrum,13:50,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,8,6,Tamil,2D
+Ernakulam,13:55,PVROberonMosqueRoadKochi,Classic,₹160,36,0,Tamil,2D
+Ernakulam,13:55,PVROberonMosqueRoadKochi,ClassicPlus,₹180,81,20,Tamil,2D
+Ernakulam,23:10,CinepolisCentreSquareMallErnakulamKochi,Normal,₹140,19,4,Tamil,2D
+Ernakulam,23:10,CinepolisCentreSquareMallErnakulamKochi,Executive,₹160,43,1,Tamil,2D
+Ernakulam,23:10,CinepolisCentreSquareMallErnakulamKochi,Premium,₹180,44,10,Tamil,2D
