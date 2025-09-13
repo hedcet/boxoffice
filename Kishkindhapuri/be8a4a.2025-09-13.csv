@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,19:15,PVROberonMosqueRoadKochi,Classic,₹160,36,1,Telugu,2D
+Ernakulam,19:15,PVROberonMosqueRoadKochi,ClassicPlus,₹180,81,37,Telugu,2D
+Trivandrum,22:35,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,70,2,Telugu,2D
+Trivandrum,22:35,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,51,19,Telugu,2D
+Trivandrum,22:35,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,7,7,Telugu,2D
