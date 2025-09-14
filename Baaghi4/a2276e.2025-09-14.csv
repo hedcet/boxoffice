@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,10:30,SumangaliCinemasAnnurRoadPayyanur,PlatinumCircle,₹130,161,0,Hindi,2D
+Kannur,13:30,SumangaliCinemasAnnurRoadPayyanur,PlatinumCircle,₹130,161,4,Hindi,2D
+Kannur,16:25,CinepolisSecuraCentreKannur,Normal,₹170,20,0,Hindi,2D
+Kannur,16:25,CinepolisSecuraCentreKannur,Executive,₹190,62,0,Hindi,2D
+Kannur,16:25,CinepolisSecuraCentreKannur,Premium,₹210,30,8,Hindi,2D
+Ernakulam,22:10,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹150,54,0,Hindi,2D
+Ernakulam,22:10,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹170,126,11,Hindi,2D
+Ernakulam,22:10,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹190,92,33,Hindi,2D
+Ernakulam,22:10,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹330,13,7,Hindi,2D
+Trivandrum,22:15,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,65,10,Hindi,2D
+Trivandrum,22:15,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,34,4,Hindi,2D
+Trivandrum,22:15,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,8,3,Hindi,2D
