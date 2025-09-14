@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,19:30,PVRForumMallNH47Kochi,Classic,₹300,24,0,Hindi,2D
+Ernakulam,19:30,PVRForumMallNH47Kochi,Elite,₹500,111,106,Hindi,2D
+Ernakulam,19:30,PVRForumMallNH47Kochi,Recliner,"₹1,200",10,10,Hindi,2D
+Thrissur,20:00,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹120,22,4,Hindi,2D
+Thrissur,20:00,INOXSobhaCityMallPuzhakkalThrissur,Club,₹150,66,12,Hindi,2D
+Thrissur,20:00,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹150,28,28,Hindi,2D
+Thrissur,20:00,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹220,10,10,Hindi,2D
