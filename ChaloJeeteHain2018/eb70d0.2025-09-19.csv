@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,13:25,CinepolisMOTEanchakkalThiruvananthapuram,Normal,₹10,40,0,Hindi,2D
+Trivandrum,13:25,CinepolisMOTEanchakkalThiruvananthapuram,Executive,₹10,160,0,Hindi,2D
+Trivandrum,13:25,CinepolisMOTEanchakkalThiruvananthapuram,Premium,₹10,92,0,Hindi,2D
+Trivandrum,13:25,CinepolisMOTEanchakkalThiruvananthapuram,Vip,₹10,15,3,Hindi,2D
+Kannur,13:30,CinepolisSecuraCentreKannur,Normal,₹10,26,0,Hindi,2D
+Kannur,13:30,CinepolisSecuraCentreKannur,Executive,₹10,94,0,Hindi,2D
+Kannur,13:30,CinepolisSecuraCentreKannur,Premium,₹10,60,9,Hindi,2D
+Ernakulam,13:40,CinepolisCentreSquareMallErnakulamKochi,Normal,₹10,33,4,Hindi,2D
+Ernakulam,13:40,CinepolisCentreSquareMallErnakulamKochi,Executive,₹10,70,0,Hindi,2D
+Ernakulam,13:40,CinepolisCentreSquareMallErnakulamKochi,Premium,₹10,177,12,Hindi,2D
