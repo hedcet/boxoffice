@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,0,HIndi,2D
+Palakkad,14:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,0,HIndi,2D
+Palakkad,21:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,0,HIndi,2D
