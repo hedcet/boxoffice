@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,12:30,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹49,70,70,IndianSignLanguage,2D
+Trivandrum,12:30,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹49,51,46,IndianSignLanguage,2D
+Trivandrum,12:30,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹49,7,6,IndianSignLanguage,2D
+Ernakulam,12:40,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹49,69,1,IndianSignLanguage,2D
+Ernakulam,12:40,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹49,138,32,IndianSignLanguage,2D
+Ernakulam,12:40,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹49,108,86,IndianSignLanguage,2D
+Ernakulam,12:40,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹49,10,10,IndianSignLanguage,2D
+Thrissur,12:45,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹49,14,14,IndianSignLanguage,2D
+Thrissur,12:45,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹49,51,44,IndianSignLanguage,2D
+Thrissur,12:45,INOXSobhaCityMallPuzhakkalThrissur,Club,₹49,256,27,IndianSignLanguage,2D
+Thrissur,12:45,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹49,36,4,IndianSignLanguage,2D
