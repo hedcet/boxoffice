@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,13:05,CinepolisGokulamGalleriaMallArayidathupalamKozhikode,Normal,₹10,29,4,Hindi,2D
+Kozhikode,13:05,CinepolisGokulamGalleriaMallArayidathupalamKozhikode,Executive,₹10,79,0,Hindi,2D
+Kozhikode,13:05,CinepolisGokulamGalleriaMallArayidathupalamKozhikode,Premium,₹10,44,11,Hindi,2D
+Trivandrum,13:25,CinepolisMOTEanchakkalThiruvananthapuram,Normal,₹10,40,0,Hindi,2D
+Trivandrum,13:25,CinepolisMOTEanchakkalThiruvananthapuram,Executive,₹10,160,0,Hindi,2D
+Trivandrum,13:25,CinepolisMOTEanchakkalThiruvananthapuram,Premium,₹10,92,10,Hindi,2D
+Trivandrum,13:25,CinepolisMOTEanchakkalThiruvananthapuram,Vip,₹10,15,0,Hindi,2D
+Thrissur,18:05,INOXSobhaCityMallPuzhakkalThrissur,Club,₹1,155,0,Hindi,2D
+Thrissur,18:05,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹1,26,4,Hindi,2D
+Thrissur,18:05,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹1,10,0,Hindi,2D
+Thrissur,18:05,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹1,32,12,Hindi,2D
+Ernakulam,22:15,CinepolisCentreSquareMallErnakulamKochi,Normal,₹10,19,4,Hindi,2D
+Ernakulam,22:15,CinepolisCentreSquareMallErnakulamKochi,Executive,₹10,43,0,Hindi,2D
+Ernakulam,22:15,CinepolisCentreSquareMallErnakulamKochi,Premium,₹10,44,10,Hindi,2D
