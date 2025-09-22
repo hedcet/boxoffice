@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,11:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Tamil,2D
+Kottayam,11:00,DhanyaRemyaChanganassery,Remya,₹135,196,0,Tamil,2D
+Trivandrum,11:00,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,87,87,Tamil,2D
+Trivandrum,13:30,GreenfieldMoviemaxCinemasTrivandrum,Executive,₹160,145,0,Tamil,2D
+Kottayam,14:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Tamil,2D
+Kottayam,14:00,DhanyaRemyaChanganassery,Remya,₹135,196,0,Tamil,2D
+Pathanamthitta,14:00,DhanyaRemyaPathanamthitta,RemyaCircle,₹135,197,0,Tamil,2D
+Pathanamthitta,18:00,DhanyaRemyaPathanamthitta,RemyaCircle,₹135,197,0,Tamil,2D
+Trivandrum,18:15,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,87,87,Tamil,2D
