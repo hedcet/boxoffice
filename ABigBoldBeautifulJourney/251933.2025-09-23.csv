@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,16:15,CinepolisMOTEanchakkalThiruvananthapuram,PlatinumExecutive,₹200,32,0,English,2D
+Trivandrum,16:15,CinepolisMOTEanchakkalThiruvananthapuram,PlatinumPremium,₹250,33,10,English,2D
+Ernakulam,23:20,CinepolisCentreSquareMallErnakulamKochi,Normal,₹140,25,4,English,2D
+Ernakulam,23:20,CinepolisCentreSquareMallErnakulamKochi,Executive,₹160,39,0,English,2D
+Ernakulam,23:20,CinepolisCentreSquareMallErnakulamKochi,Premium,₹180,84,10,English,2D
