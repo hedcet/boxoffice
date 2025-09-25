@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,14:15,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹130,80,0,Malayalam,2D
+Wayanad,17:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹120,224,0,Malayalam,2D
+Wayanad,20:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹120,224,0,Malayalam,2D
+Thrissur,14:15,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹130,22,4,Malayalam,2D
+Thrissur,14:15,INOXSobhaCityMallPuzhakkalThrissur,Club,₹170,66,18,Malayalam,2D
+Thrissur,14:15,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹170,28,9,Malayalam,2D
+Thrissur,14:15,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹290,10,2,Malayalam,2D
