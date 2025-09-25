@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,11:00,DevaCarnivalCinemasDMallPunalur,Sofa,₹200,11,11,Tamil,2D
+Kollam,11:00,DevaCarnivalCinemasDMallPunalur,Silver,₹129.7,147,147,Tamil,2D
+Trivandrum,11:15,ThapasyaCineHouseAttingal,Circle,₹130,436,23,Tamil,2D
+Trivandrum,18:30,ThapasyaCineHouseAttingal,Circle,₹130,436,436,Tamil,2D
+Kollam,21:30,DevaCarnivalCinemasDMallPunalur,Sofa,₹200,11,11,Tamil,2D
+Kollam,21:30,DevaCarnivalCinemasDMallPunalur,Silver,₹129.7,147,147,Tamil,2D
