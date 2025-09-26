@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,11:45,Gmax4KUtsavAradhanaComplex,Gold,₹160,256,0,Tamil,2D
+Kollam,11:45,Gmax4KUtsavAradhanaComplex,Executive,₹140,313,0,Tamil,2D
+Kollam,18:45,Gmax4KUtsavAradhanaComplex,Gold,₹160,256,0,Tamil,2D
+Kollam,18:45,Gmax4KUtsavAradhanaComplex,Executive,₹140,313,0,Tamil,2D
+Trivandrum,18:30,CinepolisMOTEanchakkalThiruvananthapuram,PlatinumExecutive,₹200,32,0,Tamil,2D
+Trivandrum,18:30,CinepolisMOTEanchakkalThiruvananthapuram,PlatinumPremium,₹250,33,10,Tamil,2D
