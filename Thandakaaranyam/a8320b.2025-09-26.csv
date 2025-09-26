@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,11:00,GmaxCinemasJerome3D7Point1JBLKollam,Blue,₹160,170,18,Tamil,2D
+Kozhikode,11:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹599,102,10,Tamil,2D
+Kasaragod,13:30,MagicFramesMehboobTheatreComplex4KKasaragod,Executive,₹129.7,121,16,Tamil,2D
+Thrissur,15:30,ShivadamCinemasRGB4KLaserAtmosTripleBeam3D,Platinum,₹260,22,0,Tamil,2D
+Thrissur,15:30,ShivadamCinemasRGB4KLaserAtmosTripleBeam3D,Gold,₹150,208,0,Tamil,2D
+Thrissur,15:30,ShivadamCinemasRGB4KLaserAtmosTripleBeam3D,Silver,₹129,20,0,Tamil,2D
+Kasaragod,16:30,MagicFramesMehboobTheatreComplex4KKasaragod,Executive,₹129.7,121,16,Tamil,2D
+Kottayam,18:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Tamil,2D
+Kottayam,21:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Tamil,2D
+Palakkad,21:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,Tamil,2D
+Kollam,21:30,GmaxCinemasJerome3D7Point1JBLKollam,Blue,₹180,170,18,Tamil,2D
+Palakkad,11:00,VrindavanTheatreKozhinjampara,FirstClass,₹129.8,184,0,Tamil,2D
+Palakkad,14:00,VrindavanTheatreKozhinjampara,FirstClass,₹129.8,184,0,Tamil,2D
+Palakkad,18:00,VrindavanTheatreKozhinjampara,FirstClass,₹129.8,184,0,Tamil,2D
+Palakkad,21:00,VrindavanTheatreKozhinjampara,FirstClass,₹129.8,184,0,Tamil,2D
