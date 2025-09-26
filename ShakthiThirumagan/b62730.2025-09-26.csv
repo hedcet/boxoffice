@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,234,129,Tamil,2D
+Palakkad,11:00,RavirajComplexACPalakkadKozhinjampara,Recliner,₹300,15,8,Tamil,2D
+Palakkad,14:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,234,129,Tamil,2D
+Palakkad,14:00,RavirajComplexACPalakkadKozhinjampara,Recliner,₹300,15,8,Tamil,2D
+Palakkad,18:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,234,129,Tamil,2D
+Palakkad,18:00,RavirajComplexACPalakkadKozhinjampara,Recliner,₹300,15,8,Tamil,2D
+Palakkad,21:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,234,129,Tamil,2D
+Palakkad,21:00,RavirajComplexACPalakkadKozhinjampara,Recliner,₹300,15,8,Tamil,2D
