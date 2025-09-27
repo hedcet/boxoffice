@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,18:15,ApsaraTheatreDolby7Point1Changanassery,KingsLounge,₹130,115,15,Malayalam,2D
+Kottayam,18:15,ApsaraTheatreDolby7Point1Changanassery,RoyalLounge,₹140,160,50,Malayalam,2D
+Kottayam,18:15,ApsaraTheatreDolby7Point1Changanassery,PrinceLounge,₹105,268,0,Malayalam,2D
