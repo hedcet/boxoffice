@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,11:00,GmaxCinemasJerome3D7Point1JBLKollam,Blue,₹160,170,18,Tamil,2D
+Thrissur,15:30,ShivadamCinemasRGB4KLaserAtmosTripleBeam3D,Platinum,₹260,22,0,Tamil,2D
+Thrissur,15:30,ShivadamCinemasRGB4KLaserAtmosTripleBeam3D,Gold,₹150,208,20,Tamil,2D
+Thrissur,15:30,ShivadamCinemasRGB4KLaserAtmosTripleBeam3D,Silver,₹129,20,0,Tamil,2D
+Kottayam,18:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Tamil,2D
+Kottayam,21:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Tamil,2D
+Palakkad,21:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,Tamil,2D
+Kollam,21:30,GmaxCinemasJerome3D7Point1JBLKollam,Blue,₹180,170,18,Tamil,2D
