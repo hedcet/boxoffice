@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,11:30,UniversalTheatreAC4K3DDolby7Point1SoundPala,RoyalCircle,₹150,401,13,Malayalam,2D
+Kottayam,14:30,UniversalTheatreAC4K3DDolby7Point1SoundPala,RoyalCircle,₹150,401,13,Malayalam,2D
+Ernakulam,15:00,ShenoysKochi,Diamond,₹180,71,4,Malayalam,2D
+Kottayam,18:15,UniversalTheatreAC4K3DDolby7Point1SoundPala,RoyalCircle,₹150,401,13,Malayalam,2D
+Kottayam,21:00,UniversalTheatreAC4K3DDolby7Point1SoundPala,RoyalCircle,₹150,401,13,Malayalam,2D
