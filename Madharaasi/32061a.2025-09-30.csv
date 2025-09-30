@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:30,TMAXCINEPLEXDOLBY7Point1TRIPLEBEAM3D,Premium,₹100,237,0,Tamil,2D
+Palakkad,14:30,TMAXCINEPLEXDOLBY7Point1TRIPLEBEAM3D,Premium,₹100,237,0,Tamil,2D
+Trivandrum,14:45,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,0,Tamil,2D
+Palakkad,18:30,TMAXCINEPLEXDOLBY7Point1TRIPLEBEAM3D,Premium,₹100,237,7,Tamil,2D
+Trivandrum,18:30,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,0,Tamil,2D
+Palakkad,21:30,TMAXCINEPLEXDOLBY7Point1TRIPLEBEAM3D,Premium,₹100,237,0,Tamil,2D
+Kannur,13:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Tamil,2D
+Kannur,16:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Tamil,2D
+Kannur,19:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Tamil,2D
