@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,21:55,PVRForumMallNH47Kochi,Classic,₹150,24,0,Odia,2D
+Ernakulam,21:55,PVRForumMallNH47Kochi,Elite,₹200,111,18,Odia,2D
+Ernakulam,21:55,PVRForumMallNH47Kochi,Recliner,₹400,10,0,Odia,2D
+Ernakulam,22:00,PVRForumMallNH47Kochi,Classic,₹150,24,3,Odia,2D
+Ernakulam,22:00,PVRForumMallNH47Kochi,Elite,₹230,111,19,Odia,2D
+Ernakulam,22:00,PVRForumMallNH47Kochi,Recliner,₹400,10,0,Odia,2D
