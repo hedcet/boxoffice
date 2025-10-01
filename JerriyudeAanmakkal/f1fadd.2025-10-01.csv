@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,12:10,VelvetViewCinemasKumarakom4KLaserDolbyAtmos,Platinum,₹250,14,0,Malayalam,2D
+Kottayam,12:10,VelvetViewCinemasKumarakom4KLaserDolbyAtmos,Gold,₹150,96,12,Malayalam,2D
+Kottayam,12:10,VelvetViewCinemasKumarakom4KLaserDolbyAtmos,Silver,₹100,28,28,Malayalam,2D
