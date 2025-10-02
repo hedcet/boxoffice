@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,11:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹105,352,0,Tamil,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹105,352,0,Tamil,2D
+Palakkad,18:15,VCinemasSreeDeviDurgaPalakkad,Standard,₹129.8,126,126,Tamil,2D
+Palakkad,21:15,VCinemasSreeDeviDurgaPalakkad,Standard,₹129.8,126,126,Tamil,2D
+Palakkad,14:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Tamil,2D
+Palakkad,18:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Tamil,2D
+Palakkad,21:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Tamil,2D
