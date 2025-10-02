@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,11:00,DhanyaRemyaChanganassery,Remya,₹135,196,49,Malayalam,2D
+Kottayam,11:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
+Kottayam,14:00,DhanyaRemyaChanganassery,Remya,₹135,196,40,Malayalam,2D
+Kottayam,14:00,DhanyaRemyaKottayam,Remya,₹135,251,16,Malayalam,2D
+Kollam,18:15,GmaxCinemasJerome3D7Point1JBLKollam,Green,₹180,86,25,Malayalam,2D
+Thrissur,11:30,GangaMoviesMala4KDolbyAtmos,SilverCircle,₹105,161,0,Malayalam,2D
+Thrissur,11:30,GangaMoviesMala4KDolbyAtmos,GoldCircle,₹150,115,4,Malayalam,2D
+Thrissur,11:30,GangaMoviesMala4KDolbyAtmos,DiamondCircle,₹190,19,0,Malayalam,2D
+Trivandrum,13:35,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹190,60,17,Malayalam,2D
+Trivandrum,13:35,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹230,39,35,Malayalam,2D
+Trivandrum,13:35,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,8,7,Malayalam,2D
+Thrissur,12:00,DavisTheatreThrissur,Gold,₹202,118,20,,
+Thrissur,12:00,DavisTheatreThrissur,Gold,₹202,13,0,,
