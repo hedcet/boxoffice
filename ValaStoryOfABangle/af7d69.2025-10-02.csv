@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,13:40,CityMallCinemasThamarassery,Platinum,₹260,9,0,Malayalam,2D
+Kozhikode,13:40,CityMallCinemasThamarassery,Gold,₹160,78,6,Malayalam,2D
+Malappuram,18:15,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹105,352,0,Malayalam,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹105,352,0,Malayalam,2D
+Kannur,10:30,RajadhaniCinemasNearNewBusStandPayyanur,PlatinumCircle,₹130,88,0,Malayalam,2D
+Kannur,13:30,RajadhaniCinemasNearNewBusStandPayyanur,PlatinumCircle,₹130,88,0,Malayalam,2D
+Kannur,16:30,RajadhaniCinemasNearNewBusStandPayyanur,PlatinumCircle,₹130,88,0,Malayalam,2D
+Kannur,19:30,RajadhaniCinemasNearNewBusStandPayyanur,PlatinumCircle,₹130,88,0,Malayalam,2D
