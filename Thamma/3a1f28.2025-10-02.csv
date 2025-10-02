@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,27,0,Hindi,2D
+Kozhikode,10:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,146,11,Hindi,2D
+Kozhikode,10:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,25,0,Hindi,2D
+Kozhikode,10:30,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹270,22,0,Hindi,2D
+Kozhikode,16:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,27,0,Hindi,2D
+Kozhikode,16:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,146,10,Hindi,2D
+Kozhikode,16:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,25,0,Hindi,2D
+Kozhikode,16:30,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹270,22,0,Hindi,2D
