@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,11:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹105,143,0,Tamil,2D
+Trivandrum,11:30,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Platinum,₹165,22,22,Tamil,2D
+Trivandrum,11:30,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Gold,₹145,144,144,Tamil,2D
+Wayanad,11:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹105,224,0,Tamil,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹105,143,0,Tamil,2D
+Wayanad,14:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹105,224,0,Tamil,2D
+Wayanad,17:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹105,224,0,Tamil,2D
+Malappuram,18:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹105,143,0,Tamil,2D
+Wayanad,20:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹105,224,0,Tamil,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹105,143,0,Tamil,2D
