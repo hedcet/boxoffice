@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,11:00,DhanyaRemyaKottayam,Remya,₹135,251,7,Malayalam,2D
+Kottayam,11:00,DhanyaRemyaChanganassery,Remya,₹135,196,2,Malayalam,2D
+Wayanad,11:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹105,224,0,Malayalam,2D
+Kottayam,14:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
+Kottayam,14:00,DhanyaRemyaChanganassery,Remya,₹135,196,0,Malayalam,2D
+Wayanad,14:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹105,224,0,Malayalam,2D
+Wayanad,17:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹105,224,0,Malayalam,2D
+Kollam,18:15,GmaxCinemasJerome3D7Point1JBLKollam,Green,₹180,86,7,Malayalam,2D
+Wayanad,20:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹105,224,0,Malayalam,2D
+Thrissur,11:30,GangaMoviesMala4KDolbyAtmos,SilverCircle,₹105,161,0,Malayalam,2D
+Thrissur,11:30,GangaMoviesMala4KDolbyAtmos,GoldCircle,₹150,115,0,Malayalam,2D
+Thrissur,11:30,GangaMoviesMala4KDolbyAtmos,DiamondCircle,₹190,19,0,Malayalam,2D
+Thrissur,12:00,DavisTheatreThrissur,Gold,₹202,118,0,,
+Thrissur,12:00,DavisTheatreThrissur,Gold,₹202,13,0,,
