@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,11:00,DhanyaRemyaChanganassery,Remya,₹135,196,11,Malayalam,2D
+Kottayam,11:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
+Kottayam,14:00,DhanyaRemyaChanganassery,Remya,₹135,196,88,Malayalam,2D
+Kottayam,14:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
+Kollam,18:30,GmaxCinemasJerome3D7Point1JBLKollam,Blue,₹180,170,37,Malayalam,2D
+Thrissur,14:00,DavisTheatreThrissur,Gold,₹202,123,0,,
+Thrissur,14:00,DavisTheatreThrissur,Gold,₹202,0,0,,
+Kottayam,15:00,PuthettuCinemasPala,Platinumrecliner,₹354,12,0,,
+Kottayam,15:00,PuthettuCinemasPala,DiamondfamilyCouch,₹304,6,0,,
+Kottayam,15:00,PuthettuCinemasPala,GoldsofaSlider,₹254,14,0,,
+Kottayam,15:00,PuthettuCinemasPala,Silver,₹204,128,18,,
