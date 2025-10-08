@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,173,2,Malayalam,2D
+Trivandrum,14:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,173,1,Malayalam,2D
+Kozhikode,14:30,KairaliSreeTheatreKozhikode,Platinum,₹200,214,0,Malayalam,2D
+Kozhikode,14:30,KairaliSreeTheatreKozhikode,Gold,₹165,486,4,Malayalam,2D
+Trivandrum,18:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,173,5,Malayalam,2D
+Trivandrum,21:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,173,5,Malayalam,2D
+Trivandrum,12:40,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,60,4,Malayalam,2D
+Trivandrum,12:40,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,39,3,Malayalam,2D
+Trivandrum,12:40,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,8,2,Malayalam,2D
+Ernakulam,12:55,PVRForumMallNH47Kochi,Classic,₹149,28,0,Malayalam,2D
+Ernakulam,12:55,PVRForumMallNH47Kochi,Elite,₹149,111,3,Malayalam,2D
+Ernakulam,12:55,PVRForumMallNH47Kochi,Recliner,₹199,8,1,Malayalam,2D
