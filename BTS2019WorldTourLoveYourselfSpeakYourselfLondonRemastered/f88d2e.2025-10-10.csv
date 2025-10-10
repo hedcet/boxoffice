@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,16:50,PVRLULULuluInternationalShoppingMallTrivandrum,Luxe,₹400,24,11,Korean,2D
+Trivandrum,16:50,PVRLULULuluInternationalShoppingMallTrivandrum,LuxePrime,₹450,18,7,Korean,2D
+Ernakulam,16:55,PVRLuluLuluInternationalShoppingMallKochi,Luxe,₹350,16,2,Korean,2D
+Ernakulam,16:55,PVRLuluLuluInternationalShoppingMallKochi,LuxePrime,₹450,40,21,Korean,2D
