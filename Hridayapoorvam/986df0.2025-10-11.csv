@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,14:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,200,0,Malayalam,2D
+Trivandrum,14:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,173,3,Malayalam,2D
+Kozhikode,14:45,AashirvadCineplexxKozhikode,Platinum,₹220,27,12,Malayalam,2D
+Kozhikode,14:45,AashirvadCineplexxKozhikode,Gold,₹200,60,5,Malayalam,2D
+Idukki,18:00,AashirvadCineplexxThodupuzha,Gold,₹200,10,0,Malayalam,2D
+Idukki,18:00,AashirvadCineplexxThodupuzha,Silver,₹165,90,1,Malayalam,2D
+Kozhikode,18:15,AashirvadCineplexxKozhikode,Platinum,₹220,27,3,Malayalam,2D
+Kozhikode,18:15,AashirvadCineplexxKozhikode,Gold,₹200,60,6,Malayalam,2D
