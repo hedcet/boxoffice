@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,13:45,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,223,29,Japanese,2D
+Kozhikode,13:45,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,51,7,Japanese,2D
+Ernakulam,10:25,PVRForumMallNH47Kochi,Classic,₹150,24,0,Japanese,2D
+Ernakulam,10:25,PVRForumMallNH47Kochi,Elite,₹190,111,47,Japanese,2D
+Ernakulam,10:25,PVRForumMallNH47Kochi,Recliner,₹400,10,3,Japanese,2D
+Trivandrum,13:15,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹240,65,59,Japanese,2D
+Trivandrum,13:15,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹270,34,34,Japanese,2D
+Trivandrum,13:15,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹500,8,8,Japanese,2D
+Ernakulam,13:25,PVROberonMosqueRoadKochi,Classic,₹120,36,11,Japanese,2D
+Ernakulam,13:25,PVROberonMosqueRoadKochi,ClassicPlus,₹140,81,68,Japanese,2D
+Ernakulam,13:40,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹350,116,84,Japanese,4DX2D
+Thrissur,14:25,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹100,22,4,Japanese,2D
+Thrissur,14:25,INOXSobhaCityMallPuzhakkalThrissur,Club,₹130,66,25,Japanese,2D
+Thrissur,14:25,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹130,28,28,Japanese,2D
+Thrissur,14:25,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹200,10,5,Japanese,2D
