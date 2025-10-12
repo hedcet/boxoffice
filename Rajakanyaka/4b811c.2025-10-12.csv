@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,10:30,ApsaraTheatreDolby7Point1Changanassery,KingsLounge,₹130,115,0,Malayalam,2D
+Kottayam,10:30,ApsaraTheatreDolby7Point1Changanassery,RoyalLounge,₹140,160,3,Malayalam,2D
+Kottayam,10:30,ApsaraTheatreDolby7Point1Changanassery,PrinceLounge,₹105,268,4,Malayalam,2D
+Alappuzha,10:20,PANCINEMAS4KRGBLASERAlappuzha,Gold,₹180,136,30,Malayalam,2D
+Alappuzha,10:20,PANCINEMAS4KRGBLASERAlappuzha,Platinum,₹250,37,14,Malayalam,2D
+Alappuzha,18:05,PANCINEMAS4KRGBLASERAlappuzha,Gold,₹180,136,136,Malayalam,2D
+Alappuzha,18:05,PANCINEMAS4KRGBLASERAlappuzha,Platinum,₹250,37,37,Malayalam,2D
