@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,11:15,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,223,7,Hindi,2D
+Kozhikode,11:15,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,51,5,Hindi,2D
+Trivandrum,23:40,CinepolisMOTEanchakkalThiruvananthapuram,VipExecutive,₹250,18,0,Hindi,2D
+Trivandrum,23:40,CinepolisMOTEanchakkalThiruvananthapuram,VipPremium,₹300,18,6,Hindi,2D
