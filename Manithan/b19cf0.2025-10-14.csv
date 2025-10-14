@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹105,143,0,Tamil,2D
+Malappuram,18:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹105,143,0,Tamil,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmos,DiamondCircle,₹105,143,2,Tamil,2D
+Kozhikode,22:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,23,0,Tamil,2D
+Kozhikode,22:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹150,88,0,Tamil,2D
+Kozhikode,22:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹150,17,0,Tamil,2D
+Kozhikode,22:00,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹250,14,0,Tamil,2D
+Malappuram,11:00,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹105,205,1,Tamil,2D
+Malappuram,11:00,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Executive,₹129.8,105,0,Tamil,2D
+Malappuram,14:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹105,205,1,Tamil,2D
+Malappuram,14:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Executive,₹129.8,105,0,Tamil,2D
