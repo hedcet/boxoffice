@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:15,One2OnePlusFilmCity4K3DDolbyAtmosVadakara,Screen2,₹129.8,164,0,Tamil,2D
+Palakkad,11:00,AromaScreen2Palakkad,KingCircle,₹129.8,235,235,Tamil,2D
+Trivandrum,11:00,MridhangaCineplex4KDolbyAtmosPoovar,Executive,₹150,130,0,Tamil,2D
+Kozhikode,13:15,One2OnePlusFilmCity4K3DDolbyAtmosVadakara,Screen2,₹129.8,164,0,Tamil,2D
+Kozhikode,13:15,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,27,0,Tamil,2D
+Kozhikode,13:15,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹150,146,2,Tamil,2D
+Kozhikode,13:15,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹150,25,0,Tamil,2D
+Kozhikode,13:15,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹250,22,0,Tamil,2D
+Palakkad,21:00,AromaScreen2Palakkad,KingCircle,₹129.8,235,235,Tamil,2D
+Trivandrum,21:15,MridhangaCineplex4KDolbyAtmosPoovar,Executive,₹150,130,0,Tamil,2D
+Alappuzha,21:15,KairaliSreeTheaterAlappuzha,Platinum,₹140,305,0,Tamil,2D
