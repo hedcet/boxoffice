@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Wayanad,13:30,AiswaryaCinemasSultanBathery,SofaSeat,₹230,44,0,,
+Wayanad,13:30,AiswaryaCinemasSultanBathery,Gold,₹155,63,0,,
+Wayanad,16:30,AiswaryaCinemasSultanBathery,SofaSeat,₹230,44,0,,
+Wayanad,16:30,AiswaryaCinemasSultanBathery,Gold,₹155,63,0,,
+Wayanad,22:15,AiswaryaCinemasSultanBathery,SofaSeat,₹230,44,0,,
+Wayanad,22:15,AiswaryaCinemasSultanBathery,Gold,₹155,63,0,,
+Malappuram,11:00,FairylandCinemasNilambur,MinPrice,₹160,258,0,,
+Malappuram,14:15,FairylandCinemasNilambur,MinPrice,₹160,143,13,,
+Malappuram,18:00,FairylandCinemasNilambur,MinPrice,₹160,205,7,,
