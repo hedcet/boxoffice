@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,15:35,CinepolisMOTEanchakkalThiruvananthapuram,VipExecutive,₹250,18,13,Telugu,2D
+Trivandrum,15:35,CinepolisMOTEanchakkalThiruvananthapuram,VipPremium,₹300,18,11,Telugu,2D
+Ernakulam,22:00,PVRForumMallNH47Kochi,Classic,₹200,24,5,Telugu,2D
+Ernakulam,22:00,PVRForumMallNH47Kochi,Elite,₹250,111,20,Telugu,2D
+Ernakulam,22:00,PVRForumMallNH47Kochi,Recliner,₹500,10,6,Telugu,2D
+Ernakulam,23:35,CinepolisCentreSquareMallErnakulamKochi,Normal,₹150,25,5,Telugu,2D
+Ernakulam,23:35,CinepolisCentreSquareMallErnakulamKochi,Executive,₹170,39,0,Telugu,2D
+Ernakulam,23:35,CinepolisCentreSquareMallErnakulamKochi,Premium,₹190,84,22,Telugu,2D
