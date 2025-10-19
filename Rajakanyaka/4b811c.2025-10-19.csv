@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,10:30,AnupamaTheatreDolby7Point1Kottayam,Kings,₹140,149,33,Malayalam,2D
+Kottayam,10:30,AnupamaTheatreDolby7Point1Kottayam,Prince,₹105,473,2,Malayalam,2D
+Kottayam,10:30,ApsaraTheatreDolby7Point1Changanassery,KingsLounge,₹130,115,7,Malayalam,2D
+Kottayam,10:30,ApsaraTheatreDolby7Point1Changanassery,RoyalLounge,₹140,160,3,Malayalam,2D
+Kottayam,10:30,ApsaraTheatreDolby7Point1Changanassery,PrinceLounge,₹105,268,0,Malayalam,2D
+Kottayam,18:00,AnupamaTheatreDolby7Point1Kottayam,Kings,₹140,149,149,Malayalam,2D
+Kottayam,18:00,AnupamaTheatreDolby7Point1Kottayam,Prince,₹105,473,473,Malayalam,2D
+Kottayam,18:00,AnupamaTheatreDolby7Point1Kottayam,Kings,₹140,149,51,Malayalam,2D
+Kottayam,18:00,AnupamaTheatreDolby7Point1Kottayam,Prince,₹105,473,48,Malayalam,2D
+Alappuzha,10:20,PANCINEMAS4KRGBLASERAlappuzha,Gold,₹180,136,16,Malayalam,2D
+Alappuzha,10:20,PANCINEMAS4KRGBLASERAlappuzha,Platinum,₹250,37,3,Malayalam,2D
+Alappuzha,18:05,PANCINEMAS4KRGBLASERAlappuzha,Gold,₹180,136,74,Malayalam,2D
+Alappuzha,18:05,PANCINEMAS4KRGBLASERAlappuzha,Platinum,₹250,37,7,Malayalam,2D
