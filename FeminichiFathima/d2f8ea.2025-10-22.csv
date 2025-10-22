@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,11:30,LibertyParadiseThalassery,Gold,₹129.8,214,139,Malayalam,2D
+Ernakulam,11:45,ShenoysKochi,Diamond,₹180,71,0,Malayalam,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,29,1,Malayalam,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,135,8,Malayalam,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹150,27,5,Malayalam,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹250,24,1,Malayalam,2D
+Kannur,14:45,LibertyParadiseThalassery,Gold,₹129.8,214,139,Malayalam,2D
+Kannur,18:00,LibertyParadiseThalassery,Gold,₹129.8,214,141,Malayalam,2D
+Malappuram,18:00,MarsCinemas4KDolbyAtmosChangaramkulam,RoyalRecliner,₹400,17,0,Malayalam,2D
+Malappuram,18:00,MarsCinemas4KDolbyAtmosChangaramkulam,Platinum,₹200,76,0,Malayalam,2D
+Kannur,21:30,LibertyParadiseThalassery,Gold,₹129.8,214,139,Malayalam,2D
+Malappuram,14:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹105,158,31,Malayalam,2D
+Malappuram,18:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹105,158,31,Malayalam,2D
+Malappuram,21:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹105,158,31,Malayalam,2D
