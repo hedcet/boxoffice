@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kasaragod,10:30,MagicFramesMehboobTheatreComplex4KKasaragod,Executive,₹129.7,121,16,Tamil,2D
+Malappuram,14:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,352,0,Tamil,2D
+Malappuram,18:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,352,7,Tamil,2D
+Malappuram,21:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,352,0,Tamil,2D
