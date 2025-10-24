@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,12:00,JKCinemas4KRGBRealLaser3DAtmosThriprayar,Balcony,₹160,102,0,Tamil,2D
+Thrissur,12:00,JKCinemas4KRGBRealLaser3DAtmosThriprayar,Luxury,₹220,25,0,Tamil,2D
+Thrissur,12:00,JKCinemas4KRGBRealLaser3DAtmosThriprayar,Diamond,₹150,172,0,Tamil,2D
+Thrissur,12:00,JKCinemas4KRGBRealLaser3DAtmosThriprayar,Gold,₹129.8,60,0,Tamil,2D
+Thrissur,15:00,JKCinemas4KRGBRealLaser3DAtmosThriprayar,Balcony,₹160,102,102,Tamil,2D
+Thrissur,15:00,JKCinemas4KRGBRealLaser3DAtmosThriprayar,Luxury,₹220,25,0,Tamil,2D
+Thrissur,15:00,JKCinemas4KRGBRealLaser3DAtmosThriprayar,Diamond,₹150,172,0,Tamil,2D
+Thrissur,15:00,JKCinemas4KRGBRealLaser3DAtmosThriprayar,Gold,₹129.8,60,0,Tamil,2D
+Thrissur,21:30,JKCinemas4KDolbyAtmosKizhuthani,Diamond,₹130,53,0,Tamil,2D
+Thrissur,21:30,JKCinemas4KDolbyAtmosKizhuthani,Gold,₹125,157,0,Tamil,2D
