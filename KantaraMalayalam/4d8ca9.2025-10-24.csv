@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,14:30,KalabhavanTheatreTripleBeam3DTrivandrum,Platinum,₹140,135,57,Malayalam,2D
+Trivandrum,14:30,KalabhavanTheatreTripleBeam3DTrivandrum,Gold,₹120,275,64,Malayalam,2D
+Ernakulam,16:00,FourStarMoviesManjapraAngamaly,Platinum,₹170,15,0,Malayalam,2D
+Ernakulam,16:00,FourStarMoviesManjapraAngamaly,Gold,₹129,159,0,Malayalam,2D
+Ernakulam,21:15,FourStarMoviesManjapraAngamaly,Platinum,₹170,15,0,Malayalam,2D
+Ernakulam,21:15,FourStarMoviesManjapraAngamaly,Gold,₹129,159,0,Malayalam,2D
+Trivandrum,21:30,KalabhavanTheatreTripleBeam3DTrivandrum,Platinum,₹140,135,60,Malayalam,2D
+Trivandrum,21:30,KalabhavanTheatreTripleBeam3DTrivandrum,Gold,₹120,275,32,Malayalam,2D
