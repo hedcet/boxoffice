@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,14:30,GmaxCinemasJerome3D7Point1JBLKollam,Blue,₹160,170,23,Tamil,2D
+Trivandrum,16:30,IMPBigScreen2K3DDolbyAtmos,UniqueCircle,₹130,370,0,Tamil,2D
+Thrissur,15:00,ThavoosTheatreAC2KUnipolarBeam3DGuruvayurRoad,FirstClass,₹105,318,0,Tamil,2D
+Thrissur,15:00,ThavoosTheatreAC2KUnipolarBeam3DGuruvayurRoad,Balcony,₹129,112,0,Tamil,2D
+Thrissur,18:30,ThavoosTheatreAC2KUnipolarBeam3DGuruvayurRoad,FirstClass,₹105,318,0,Tamil,2D
+Thrissur,18:30,ThavoosTheatreAC2KUnipolarBeam3DGuruvayurRoad,Balcony,₹129,112,0,Tamil,2D
+Thrissur,21:30,ThavoosTheatreAC2KUnipolarBeam3DGuruvayurRoad,FirstClass,₹105,318,0,Tamil,2D
+Thrissur,21:30,ThavoosTheatreAC2KUnipolarBeam3DGuruvayurRoad,Balcony,₹129,112,0,Tamil,2D
