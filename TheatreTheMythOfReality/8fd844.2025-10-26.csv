@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,14:30,GangaCineHouse4KDolbyAtmosAttingal,Yamuna,₹129.7,330,80,Malayalam,2D
+Trivandrum,16:30,KairaliSreeNilaRGBLaser4KDolbyAtmos,Platinum,₹140,443,7,Malayalam,2D
+Palakkad,18:00,VCinemasSreeDeviDurgaPalakkad,Standard,₹129.8,126,27,Malayalam,2D
+Trivandrum,18:00,GangaCineHouse4KDolbyAtmosAttingal,Yamuna,₹129.7,330,66,Malayalam,2D
+Ernakulam,16:45,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹170,39,2,Malayalam,2D
+Ernakulam,16:45,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹200,91,59,Malayalam,2D
+Ernakulam,16:45,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹220,64,33,Malayalam,2D
+Ernakulam,16:45,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹450,9,3,Malayalam,2D
+Trivandrum,18:55,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹210,60,42,Malayalam,2D
+Trivandrum,18:55,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹230,39,28,Malayalam,2D
+Trivandrum,18:55,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,8,0,Malayalam,2D
+Ernakulam,22:10,PVRForumMallNH47Kochi,Classic,₹200,22,2,Malayalam,2D
+Ernakulam,22:10,PVRForumMallNH47Kochi,Elite,₹230,85,58,Malayalam,2D
