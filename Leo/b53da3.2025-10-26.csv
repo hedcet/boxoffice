@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,07:00,AriesplexSLCinemasCinionicDolbyAtmos,Platinum,₹480,42,36,Tamil,2D
+Trivandrum,07:00,AriesplexSLCinemasCinionicDolbyAtmos,Gold,₹180,293,293,Tamil,2D
+Trivandrum,07:00,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹160,365,365,Tamil,2D
