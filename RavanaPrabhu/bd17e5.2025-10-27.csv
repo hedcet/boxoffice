@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:30,ARCCoronation4KDolbyAtmos,Elite,₹160,146,2,Malayalam,2D
+Ernakulam,21:10,KavithaTheatre4K3DDolby7Point1Ernakulam,GoldCircle,₹180,306,54,Malayalam,2D
+Ernakulam,21:10,KavithaTheatre4K3DDolby7Point1Ernakulam,SilverCircle,₹160,770,73,Malayalam,2D
+Ernakulam,21:10,KavithaTheatre4K3DDolby7Point1Ernakulam,Sofa,₹300,23,0,Malayalam,2D
+Kannur,10:30,RajadhaniCinemasNearNewBusStandPayyanur,UpperCircle,₹130,502,107,Malayalam,2D
+Kozhikode,13:30,AlankarMoviesMenhaniamPerambra,Executive,₹150,280,4,Malayalam,2D
+Kannur,13:30,RajadhaniCinemasNearNewBusStandPayyanur,UpperCircle,₹130,502,107,Malayalam,2D
+Ernakulam,13:35,CinepolisCentreSquareMallErnakulamKochi,Normal,₹140,19,4,Malayalam,2D
+Ernakulam,13:35,CinepolisCentreSquareMallErnakulamKochi,Executive,₹160,43,1,Malayalam,2D
+Ernakulam,13:35,CinepolisCentreSquareMallErnakulamKochi,Premium,₹180,44,0,Malayalam,2D
+Kannur,16:30,RajadhaniCinemasNearNewBusStandPayyanur,UpperCircle,₹130,502,107,Malayalam,2D
+Kannur,19:30,RajadhaniCinemasNearNewBusStandPayyanur,UpperCircle,₹130,502,107,Malayalam,2D
