@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,14:30,KalabhavanTheatreTripleBeam3DTrivandrum,Platinum,₹140,135,59,Malayalam,2D
+Trivandrum,14:30,KalabhavanTheatreTripleBeam3DTrivandrum,Gold,₹120,275,63,Malayalam,2D
+Trivandrum,21:30,KalabhavanTheatreTripleBeam3DTrivandrum,Platinum,₹140,135,57,Malayalam,2D
+Trivandrum,21:30,KalabhavanTheatreTripleBeam3DTrivandrum,Gold,₹120,275,63,Malayalam,2D
