@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:30,ARCCoronation4KDolbyAtmos,Elite,₹160,146,5,Malayalam,2D
+Ernakulam,21:10,KavithaTheatre4K3DDolby7Point1Ernakulam,GoldCircle,₹180,306,0,Malayalam,2D
+Ernakulam,21:10,KavithaTheatre4K3DDolby7Point1Ernakulam,SilverCircle,₹160,770,0,Malayalam,2D
+Ernakulam,21:10,KavithaTheatre4K3DDolby7Point1Ernakulam,Sofa,₹300,23,0,Malayalam,2D
+Ernakulam,11:00,CinepolisCentreSquareMallErnakulamKochi,Normal,₹92,19,4,Malayalam,2D
+Ernakulam,11:00,CinepolisCentreSquareMallErnakulamKochi,Executive,₹92,43,2,Malayalam,2D
+Ernakulam,11:00,CinepolisCentreSquareMallErnakulamKochi,Premium,₹92,44,11,Malayalam,2D
