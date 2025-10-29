@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,16:30,KairaliSreeNilaRGBLaser4KDolbyAtmos,Platinum,₹140,443,2,Malayalam,2D
+Ernakulam,12:50,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹180,54,1,Malayalam,2D
+Ernakulam,12:50,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹200,126,2,Malayalam,2D
+Ernakulam,12:50,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹220,92,27,Malayalam,2D
+Ernakulam,12:50,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹450,13,3,Malayalam,2D
+Trivandrum,18:55,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,60,4,Malayalam,2D
+Trivandrum,18:55,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,39,17,Malayalam,2D
+Trivandrum,18:55,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,8,4,Malayalam,2D
+Ernakulam,22:10,PVRForumMallNH47Kochi,Classic,₹200,22,0,Malayalam,2D
+Ernakulam,22:10,PVRForumMallNH47Kochi,Elite,₹230,85,8,Malayalam,2D
