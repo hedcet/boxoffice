@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,19:30,ArchanaCineplexRGBLaser4K3DATMOSPayyanur,Standard,₹129.7,196,0,Malayalam,2D
+Kasaragod,20:30,DeepthiCinemasAC2KDolbyAtmosKanhangad,Gold,₹150,143,23,Malayalam,2D
+Kannur,10:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Malayalam,2D
+Kannur,13:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Malayalam,2D
+Ernakulam,13:35,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹180,39,0,Malayalam,2D
+Ernakulam,13:35,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹200,91,3,Malayalam,2D
+Ernakulam,13:35,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹220,68,19,Malayalam,2D
+Ernakulam,13:35,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹400,10,5,Malayalam,2D
+Trivandrum,13:55,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,60,4,Malayalam,2D
+Trivandrum,13:55,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,39,17,Malayalam,2D
+Trivandrum,13:55,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,8,4,Malayalam,2D
+Kannur,16:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Malayalam,2D
+Kannur,19:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Malayalam,2D
+Kannur,22:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Malayalam,2D
