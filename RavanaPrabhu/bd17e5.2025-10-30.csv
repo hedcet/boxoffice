@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:30,ARCCoronation4KDolbyAtmos,Elite,₹160,146,2,Malayalam,2D
+Ernakulam,11:00,CinepolisCentreSquareMallErnakulamKochi,Normal,₹150,19,4,Malayalam,2D
+Ernakulam,11:00,CinepolisCentreSquareMallErnakulamKochi,Executive,₹170,43,0,Malayalam,2D
+Ernakulam,11:00,CinepolisCentreSquareMallErnakulamKochi,Premium,₹200,44,10,Malayalam,2D
