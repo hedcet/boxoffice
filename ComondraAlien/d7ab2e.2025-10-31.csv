@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,09:00,ParadiseCinemaCherthala,Platinum,₹200,20,11,Malayalam,2D
+Alappuzha,09:00,ParadiseCinemaCherthala,Gold,₹160,184,69,Malayalam,2D
+Kozhikode,16:00,AashirvadCineplexxKozhikode,Platinum,₹220,30,0,Malayalam,2D
+Kozhikode,16:00,AashirvadCineplexxKozhikode,Gold,₹200,66,0,Malayalam,2D
+Kozhikode,16:00,AashirvadCineplexxKozhikode,Platinum,₹220,30,2,Malayalam,2D
+Kozhikode,16:00,AashirvadCineplexxKozhikode,Gold,₹200,66,0,Malayalam,2D
+Trivandrum,12:15,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,77,24,Malayalam,2D
+Trivandrum,12:15,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹230,60,35,Malayalam,2D
+Trivandrum,12:15,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,7,5,Malayalam,2D
+Ernakulam,13:05,PVRForumMallNH47Kochi,Classic,₹150,22,0,Malayalam,2D
+Ernakulam,13:05,PVRForumMallNH47Kochi,Elite,₹190,85,28,Malayalam,2D
