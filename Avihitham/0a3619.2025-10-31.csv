@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,10:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Malayalam,2D
+Kannur,13:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Malayalam,2D
+Kannur,16:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Malayalam,2D
+Kannur,19:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,2,Malayalam,2D
