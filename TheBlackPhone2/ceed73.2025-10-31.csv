@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,11:30,TheCrownTheatreCalicut,Audi2,₹180,148,23,English,2D
+Ernakulam,12:00,ShenoysKochi,Diamond,₹220,71,0,English,2D
+Kozhikode,12:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,27,0,English,2D
+Kozhikode,12:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,165,0,English,2D
+Kozhikode,12:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,40,0,English,2D
+Palakkad,14:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,English,2D
+Ernakulam,14:35,ShenoysKochi,Diamond,₹220,71,71,English,2D
+Kozhikode,19:00,TheCrownTheatreCalicut,Audi2,₹180,148,24,English,2D
+Palakkad,21:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,English,2D
+Kozhikode,22:15,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,29,1,English,2D
+Kozhikode,22:15,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,135,1,English,2D
+Kozhikode,22:15,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,27,3,English,2D
+Kozhikode,22:15,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹270,24,1,English,2D
+Kozhikode,23:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,27,0,English,2D
+Kozhikode,23:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,165,0,English,2D
+Kozhikode,23:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,40,0,English,2D
