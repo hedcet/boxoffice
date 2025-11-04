@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass3D,₹160,527,0,Japanese,3D
+Kozhikode,15:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹599,102,0,Japanese,3D
+Ernakulam,11:45,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹229,116,24,Japanese,4DX3D
+Ernakulam,12:05,PVRForumMallNH47Kochi,Classic,₹180,14,1,Japanese,3D
+Ernakulam,12:05,PVRForumMallNH47Kochi,Elite,₹200,125,19,Japanese,3D
+Ernakulam,12:05,PVRForumMallNH47Kochi,Recliner,₹380,8,0,Japanese,3D
+Trivandrum,13:15,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹300,48,2,Japanese,4DX3D
+Trivandrum,13:15,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹350,32,15,Japanese,4DX3D
+Thrissur,13:20,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹150,22,4,Japanese,3D
+Thrissur,13:20,INOXSobhaCityMallPuzhakkalThrissur,Club,₹180,63,3,Japanese,3D
+Thrissur,13:20,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹180,28,13,Japanese,3D
+Thrissur,13:20,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹250,10,0,Japanese,3D
+Alappuzha,14:00,AECCinemas4KATMOS360SurroundAlappuzha,Gold,₹150,98,0,Japanese,2D
+Alappuzha,14:00,AECCinemas4KATMOS360SurroundAlappuzha,Platinum,₹200,15,0,Japanese,2D
+Alappuzha,21:00,AECCinemas4KATMOS360SurroundAlappuzha,Gold,₹150,98,0,Japanese,2D
+Alappuzha,21:00,AECCinemas4KATMOS360SurroundAlappuzha,Platinum,₹200,15,0,Japanese,2D
