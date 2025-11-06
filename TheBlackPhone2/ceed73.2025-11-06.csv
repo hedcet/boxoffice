@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,14:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,English,2D
+Kozhikode,14:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,29,2,English,2D
+Kozhikode,14:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,135,3,English,2D
+Kozhikode,14:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,27,1,English,2D
+Kozhikode,14:00,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹270,24,1,English,2D
+Palakkad,21:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,English,2D
