@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,14:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,173,22,Tamil,2D
+Trivandrum,09:35,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,70,9,Tamil,2D
+Trivandrum,09:35,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,51,8,Tamil,2D
+Trivandrum,09:35,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,7,6,Tamil,2D
+Ernakulam,22:10,PVRForumMallNH47Kochi,Classic,₹150,28,6,Tamil,2D
+Ernakulam,22:10,PVRForumMallNH47Kochi,Elite,₹210,111,85,Tamil,2D
+Ernakulam,22:10,PVRForumMallNH47Kochi,Recliner,₹450,8,3,Tamil,2D
