@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,11:00,AashirvadCineplexxPathanapuram,Sofa,₹290,16,1,Tamil,2D
+Kollam,11:00,AashirvadCineplexxPathanapuram,Platinum,₹210,76,0,Tamil,2D
+Kollam,11:00,AashirvadCineplexxPathanapuram,Gold,₹160,95,0,Tamil,2D
+Idukki,15:00,SanthoshCinemaDolby71Kattappana,RoyalCircle,₹105,268,0,Tamil,2D
+Kollam,16:30,DevaCarnivalCinemasDMallPunalur,Recliner,₹290,10,0,Tamil,2D
+Kollam,16:30,DevaCarnivalCinemasDMallPunalur,Sofa,₹200,12,0,Tamil,2D
+Kollam,16:30,DevaCarnivalCinemasDMallPunalur,Silver,₹129.7,161,21,Tamil,2D
+Idukki,18:30,SanthoshCinemaDolby71Kattappana,RoyalCircle,₹105,268,0,Tamil,2D
+Kottayam,21:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Tamil,2D
+Pathanamthitta,21:00,DhanyaRemyaPathanamthitta,RemyaCircle,₹135,197,14,Tamil,2D
+Kottayam,21:00,DhanyaRemyaChanganassery,Remya,₹135,196,0,Tamil,2D
+Kollam,21:00,DhanyaRemyaKollam,Platinum,₹135,200,200,Tamil,2D
+Palakkad,11:30,CityCinema2KACAnaikatti,Premium,₹100,236,0,Tamil,2D
+Palakkad,14:30,CityCinema2KACAnaikatti,Premium,₹100,236,0,Tamil,2D
