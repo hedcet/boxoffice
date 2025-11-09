@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,14:00,SVCinemasKayamkulam,Standard,₹150,94,0,Malayalam,2D
+Ernakulam,18:30,HighstreetCinemaCantonHighstreetMuvattupuzha,Gold,₹150,213,10,Malayalam,2D
+Ernakulam,21:00,HighstreetCinemaCantonHighstreetMuvattupuzha,Gold,₹150,213,10,Malayalam,2D
