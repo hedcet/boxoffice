@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:30,VCinemasSreeDeviDurgaPalakkad,Standard,₹129.8,126,4,Tamil,2D
+Kottayam,14:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Tamil,2D
+Kottayam,18:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Tamil,2D
+Malappuram,14:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,352,0,Tamil,2D
+Palakkad,18:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,0,Tamil,2D
+Malappuram,18:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,352,0,Tamil,2D
+Malappuram,21:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,352,0,Tamil,2D
