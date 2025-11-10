@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,11:00,AashirvadCineplexxPathanapuram,Sofa,₹280,16,1,Tamil,2D
+Kollam,11:00,AashirvadCineplexxPathanapuram,Platinum,₹200,76,0,Tamil,2D
+Kollam,11:00,AashirvadCineplexxPathanapuram,Gold,₹150,95,10,Tamil,2D
+Kottayam,21:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Tamil,2D
+Pathanamthitta,21:00,DhanyaRemyaPathanamthitta,RemyaCircle,₹135,197,10,Tamil,2D
