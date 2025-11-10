@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:15,AjantaTheatre4KWideTrivandrum,GrandA,₹350,6,0,Tamil,2D
+Trivandrum,11:15,AjantaTheatre4KWideTrivandrum,GrandB,₹350,9,0,Tamil,2D
+Trivandrum,11:15,AjantaTheatre4KWideTrivandrum,Royale,₹250,22,0,Tamil,2D
+Trivandrum,11:15,AjantaTheatre4KWideTrivandrum,Premium,₹150,264,0,Tamil,2D
+Trivandrum,14:30,AjantaTheatre4KWideTrivandrum,GrandA,₹350,6,0,Tamil,2D
+Trivandrum,14:30,AjantaTheatre4KWideTrivandrum,GrandB,₹350,9,0,Tamil,2D
+Trivandrum,14:30,AjantaTheatre4KWideTrivandrum,Royale,₹250,22,0,Tamil,2D
+Trivandrum,14:30,AjantaTheatre4KWideTrivandrum,Premium,₹150,264,0,Tamil,2D
+Palakkad,11:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,0,Tamil,2D
+Trivandrum,13:45,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,60,6,Tamil,2D
+Trivandrum,13:45,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,39,11,Tamil,2D
+Trivandrum,13:45,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,8,2,Tamil,2D
+Palakkad,14:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,0,Tamil,2D
