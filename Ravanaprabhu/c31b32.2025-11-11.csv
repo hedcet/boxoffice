@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,12:00,MagicFramesApsara70MM4K3DDolbyAtmosRailwayStationLinkRoadCalicut,FirstClass,₹160,811,36,Malayalam,2D
+Kozhikode,12:00,MagicFramesApsara70MM4K3DDolbyAtmosRailwayStationLinkRoadCalicut,BalconySofa,₹220,192,31,Malayalam,2D
+Kozhikode,21:30,MagicFramesApsara70MM4K3DDolbyAtmosRailwayStationLinkRoadCalicut,FirstClass,₹160,811,54,Malayalam,2D
+Kozhikode,21:30,MagicFramesApsara70MM4K3DDolbyAtmosRailwayStationLinkRoadCalicut,BalconySofa,₹220,192,33,Malayalam,2D
