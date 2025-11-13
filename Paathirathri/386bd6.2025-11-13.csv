@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,11:00,DreambigPrathibhaTheatreMavelikkara,Balcony,₹150,204,0,Malayalam,2D
+Alappuzha,11:00,DreambigPrathibhaTheatreMavelikkara,FirstClass,₹120,421,0,Malayalam,2D
+Thrissur,12:00,SreeMurukaMoviesACChendrapinni,GoldClass,₹120,258,0,Malayalam,2D
+Palakkad,14:00,NewTheatre2K3DDolbyAtmosPudunagaram,Standard,₹110,140,0,Malayalam,2D
+Thrissur,15:00,SreeMurukaMoviesACChendrapinni,GoldClass,₹120,258,0,Malayalam,2D
+Palakkad,18:00,NewTheatre2K3DDolbyAtmosPudunagaram,Standard,₹110,140,0,Malayalam,2D
+Alappuzha,18:00,DreambigPrathibhaTheatreMavelikkara,Balcony,₹150,204,2,Malayalam,2D
+Alappuzha,18:00,DreambigPrathibhaTheatreMavelikkara,FirstClass,₹120,421,0,Malayalam,2D
+Thrissur,18:30,SreeMurukaMoviesACChendrapinni,GoldClass,₹120,258,0,Malayalam,2D
+Palakkad,21:00,NewTheatre2K3DDolbyAtmosPudunagaram,Standard,₹110,140,0,Malayalam,2D
+Thrissur,21:30,SreeMurukaMoviesACChendrapinni,GoldClass,₹120,258,0,Malayalam,2D
+Palakkad,14:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Malayalam,2D
+Palakkad,18:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Malayalam,2D
+Malappuram,18:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹105,158,31,Malayalam,2D
+Palakkad,21:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Malayalam,2D
+Malappuram,21:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹105,158,31,Malayalam,2D
