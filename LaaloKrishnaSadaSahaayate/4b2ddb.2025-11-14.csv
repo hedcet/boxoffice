@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,15:35,PVRForumMallNH47Kochi,Classic,₹170,28,0,Gujarati,2D
+Ernakulam,15:35,PVRForumMallNH47Kochi,Elite,₹190,111,16,Gujarati,2D
+Ernakulam,15:35,PVRForumMallNH47Kochi,Recliner,₹400,8,0,Gujarati,2D
+Ernakulam,19:40,PVRForumMallNH47Kochi,Classic,₹200,22,5,Gujarati,2D
+Ernakulam,19:40,PVRForumMallNH47Kochi,Elite,₹240,85,84,Gujarati,2D
+Ernakulam,21:40,PVRForumMallNH47Kochi,Luxe,₹450,16,0,Gujarati,2D
+Ernakulam,21:40,PVRForumMallNH47Kochi,LuxePrime,₹550,42,0,Gujarati,2D
+Ernakulam,22:15,PVRForumMallNH47Kochi,Classic,₹170,14,0,Gujarati,2D
+Ernakulam,22:15,PVRForumMallNH47Kochi,Elite,₹230,125,54,Gujarati,2D
+Ernakulam,22:15,PVRForumMallNH47Kochi,Recliner,₹400,8,0,Gujarati,2D
