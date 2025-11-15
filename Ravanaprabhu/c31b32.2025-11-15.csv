@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:30,ChhotuMaharajCineCafePoovarKerala,Executive,₹250,8,0,Malayalam,2D
+Trivandrum,11:30,ChhotuMaharajCineCafePoovarKerala,Premium,₹129,85,2,Malayalam,2D
+Trivandrum,11:30,ChhotuMaharajCineCafePoovarKerala,Normal,₹110,52,0,Malayalam,2D
+Trivandrum,14:30,ChhotuMaharajCineCafePoovarKerala,Executive,₹250,8,0,Malayalam,2D
+Trivandrum,14:30,ChhotuMaharajCineCafePoovarKerala,Premium,₹129,85,7,Malayalam,2D
+Trivandrum,14:30,ChhotuMaharajCineCafePoovarKerala,Normal,₹110,52,0,Malayalam,2D
+Trivandrum,18:30,ChhotuMaharajCineCafePoovarKerala,Executive,₹250,8,0,Malayalam,2D
+Trivandrum,18:30,ChhotuMaharajCineCafePoovarKerala,Premium,₹129,85,7,Malayalam,2D
+Trivandrum,18:30,ChhotuMaharajCineCafePoovarKerala,Normal,₹110,52,0,Malayalam,2D
+Trivandrum,21:30,ChhotuMaharajCineCafePoovarKerala,Executive,₹250,8,0,Malayalam,2D
+Trivandrum,21:30,ChhotuMaharajCineCafePoovarKerala,Premium,₹129,85,0,Malayalam,2D
+Trivandrum,21:30,ChhotuMaharajCineCafePoovarKerala,Normal,₹110,52,0,Malayalam,2D
