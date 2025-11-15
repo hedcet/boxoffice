@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kasaragod,10:30,MagicFramesMehboobTheatreComplex4KKasaragod,Executive,₹129.7,222,27,Malayalam,2D
+Trivandrum,18:15,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,173,13,Malayalam,2D
+Kasaragod,19:30,MagicFramesMehboobTheatreComplex4KKasaragod,Executive,₹129.7,351,0,Kannada,2D
+Trivandrum,21:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,173,21,Malayalam,2D
