@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,21:30,KairaliSreeTheaterNorthParvur,Platinum,₹120,245,1,English,2D
+Ernakulam,13:00,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹160,39,1,English,2D
+Ernakulam,13:00,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹180,91,36,English,2D
+Ernakulam,13:00,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹200,68,24,English,2D
+Ernakulam,13:00,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹350,10,2,English,2D
