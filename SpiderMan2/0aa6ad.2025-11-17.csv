@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,21:30,KairaliSreeTheaterNorthParvur,Platinum,₹120,245,1,English,2D
+Kozhikode,14:05,MirajCinemasOppMofussilBusStandCalicutKozhikode,Silver,₹170,26,0,English,2D
+Kozhikode,14:05,MirajCinemasOppMofussilBusStandCalicutKozhikode,Gold,₹190,65,0,English,2D
+Kozhikode,14:05,MirajCinemasOppMofussilBusStandCalicutKozhikode,Platinum,₹210,40,0,English,2D
+Ernakulam,16:45,PVROberonMosqueRoadKochi,Classic,₹170,36,0,English,2D
+Ernakulam,16:45,PVROberonMosqueRoadKochi,ClassicPlus,₹200,81,3,English,2D
+Kannur,18:40,CinepolisSecuraCentreKannur,Normal,₹180,26,0,English,2D
+Kannur,18:40,CinepolisSecuraCentreKannur,Executive,₹200,81,0,English,2D
+Kannur,18:40,CinepolisSecuraCentreKannur,Premium,₹220,43,9,English,2D
+Trivandrum,19:20,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,65,6,English,2D
+Trivandrum,19:20,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,34,3,English,2D
+Trivandrum,19:20,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,8,4,English,2D
