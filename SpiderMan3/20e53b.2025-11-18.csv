@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,15:50,CinepolisCentreSquareMallErnakulamKochi,Normal,₹92,19,4,English,2D
+Ernakulam,15:50,CinepolisCentreSquareMallErnakulamKochi,Executive,₹92,43,4,English,2D
+Ernakulam,15:50,CinepolisCentreSquareMallErnakulamKochi,Premium,₹92,44,21,English,2D
+Kozhikode,16:45,MirajCinemasOppMofussilBusStandCalicutKozhikode,Silver,₹99,26,0,English,2D
+Kozhikode,16:45,MirajCinemasOppMofussilBusStandCalicutKozhikode,Gold,₹99,65,8,English,2D
+Kozhikode,16:45,MirajCinemasOppMofussilBusStandCalicutKozhikode,Platinum,₹99,40,5,English,2D
+Ernakulam,16:45,PVROberonMosqueRoadKochi,Classic,₹170,36,0,English,2D
+Ernakulam,16:45,PVROberonMosqueRoadKochi,ClassicPlus,₹200,81,16,English,2D
+Ernakulam,16:45,PVROberonMosqueRoadKochi,Classic,₹92,36,0,English,2D
+Ernakulam,16:45,PVROberonMosqueRoadKochi,ClassicPlus,₹92,81,25,English,2D
+Trivandrum,19:20,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹190,65,15,English,2D
+Trivandrum,19:20,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,34,7,English,2D
+Trivandrum,19:20,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,8,4,English,2D
