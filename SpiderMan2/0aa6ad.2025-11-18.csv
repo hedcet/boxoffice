@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,13:50,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹92,32,15,English,2D
+Thrissur,13:50,INOXSobhaCityMallPuzhakkalThrissur,Club,₹92,155,5,English,2D
+Thrissur,13:50,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹92,26,4,English,2D
+Thrissur,13:50,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹260.32,10,0,English,2D
+Kozhikode,14:05,MirajCinemasOppMofussilBusStandCalicutKozhikode,Silver,₹99,26,0,English,2D
+Kozhikode,14:05,MirajCinemasOppMofussilBusStandCalicutKozhikode,Gold,₹99,65,10,English,2D
+Kozhikode,14:05,MirajCinemasOppMofussilBusStandCalicutKozhikode,Platinum,₹99,40,2,English,2D
+Ernakulam,18:55,PVRForumMallNH47Kochi,Classic,₹92,24,0,English,2D
+Ernakulam,18:55,PVRForumMallNH47Kochi,Elite,₹92,111,77,English,2D
+Ernakulam,18:55,PVRForumMallNH47Kochi,Recliner,₹260.32,10,0,English,2D
+Kannur,19:00,CinepolisSecuraCentreKannur,Normal,₹180,26,0,English,2D
+Kannur,19:00,CinepolisSecuraCentreKannur,Executive,₹200,81,5,English,2D
+Kannur,19:00,CinepolisSecuraCentreKannur,Premium,₹220,43,17,English,2D
