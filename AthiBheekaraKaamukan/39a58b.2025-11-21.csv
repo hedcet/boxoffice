@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,10:30,BCinemasVylathoor4KRGBLaser3DDolbyAtmos,Luxury,₹250,14,0,Malayalam,2D
+Thrissur,10:30,BCinemasVylathoor4KRGBLaser3DDolbyAtmos,Executive,₹150,175,0,Malayalam,2D
+Malappuram,11:15,LadderCinemasManjeri,Executive,₹150,74,0,Malayalam,2D
+Kozhikode,12:15,ARCCoronation4KDolbyAtmos,Elite,₹160,146,2,Malayalam,2D
+Kozhikode,13:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,27,0,Malayalam,2D
+Kozhikode,13:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,165,0,Malayalam,2D
+Kozhikode,13:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,40,0,Malayalam,2D
+Thrissur,21:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Platinum,₹200,38,11,Malayalam,2D
+Thrissur,21:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Executive,₹125,230,17,Malayalam,2D
+Kozhikode,11:45,ARCAbhilashCinemas4KMukkam,Executive,₹129.8,300,0,Malayalam,2D
+Kozhikode,14:45,ARCAbhilashCinemas4KMukkam,Executive,₹129.8,300,1,Malayalam,2D
