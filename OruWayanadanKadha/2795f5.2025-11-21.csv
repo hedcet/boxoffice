@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,18:30,SanthoshCinemaDolby71Kattappana,RoyalCircle,₹105,268,20,Malayalam,2D
+Malappuram,13:45,CNCCinemaasRGBLaser4KAtmosTripleBeam3DTirur,Silver,₹129.8,132,20,Malayalam,2D
+Malappuram,13:45,CNCCinemaasRGBLaser4KAtmosTripleBeam3DTirur,Gold,₹160,68,0,Malayalam,2D
+Malappuram,18:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,352,20,Malayalam,2D
