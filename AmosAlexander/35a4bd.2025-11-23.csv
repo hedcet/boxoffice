@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,14:30,AashirvadCineplexxThodupuzha,Gold,₹200,10,0,Malayalam,2D
+Idukki,14:30,AashirvadCineplexxThodupuzha,Silver,₹165,90,12,Malayalam,2D
+Ernakulam,15:00,SangeetaCinemaKochi,BlueCircle,₹160,187,31,Malayalam,2D
+Idukki,21:15,AashirvadCineplexxThodupuzha,Gold,₹200,10,0,Malayalam,2D
+Idukki,21:15,AashirvadCineplexxThodupuzha,Silver,₹165,90,12,Malayalam,2D
