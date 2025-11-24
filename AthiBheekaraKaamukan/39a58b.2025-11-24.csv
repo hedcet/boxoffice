@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,11:00,LadderCinemasManjeri,Executive,₹150,74,0,Malayalam,2D
+Kozhikode,13:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,27,0,Malayalam,2D
+Kozhikode,13:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,165,0,Malayalam,2D
+Kozhikode,13:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,40,0,Malayalam,2D
+Thrissur,18:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Platinum,₹200,38,0,Malayalam,2D
+Thrissur,18:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Executive,₹125,230,0,Malayalam,2D
+Thrissur,21:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Platinum,₹200,38,0,Malayalam,2D
+Thrissur,21:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Executive,₹125,230,0,Malayalam,2D
+Kozhikode,11:45,ARCAbhilashCinemas4KMukkam,Executive,₹129.8,300,0,Malayalam,2D
+Kozhikode,14:45,ARCAbhilashCinemas4KMukkam,Executive,₹129.8,300,5,Malayalam,2D
