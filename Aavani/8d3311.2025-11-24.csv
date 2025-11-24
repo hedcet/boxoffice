@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,11:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,27,0,Malayalam,2D
+Kozhikode,11:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,165,0,Malayalam,2D
+Kozhikode,11:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,40,0,Malayalam,2D
+Kottayam,14:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
+Kollam,14:00,DhanyaRemyaKollam,Platinum,₹135,200,0,Malayalam,2D
+Kottayam,18:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
+Kollam,18:00,DhanyaRemyaKollam,Platinum,₹135,200,3,Malayalam,2D
+Malappuram,11:15,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹105,158,31,Malayalam,2D
+Trivandrum,12:55,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,77,4,Malayalam,2D
+Trivandrum,12:55,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,60,19,Malayalam,2D
+Trivandrum,12:55,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,7,5,Malayalam,2D
+Kozhikode,09:00,SandhyaCineHouseBalussery,Class1,₹150,156,0,Malayalam,
