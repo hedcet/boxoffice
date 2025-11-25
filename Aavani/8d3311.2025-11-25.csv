@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,11:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹400,27,0,Malayalam,2D
+Kozhikode,11:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹99,165,1,Malayalam,2D
+Kozhikode,11:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹99,40,0,Malayalam,2D
+Kollam,14:00,DhanyaRemyaKollam,Platinum,₹135,200,200,Malayalam,2D
+Kollam,18:00,DhanyaRemyaKollam,Platinum,₹135,200,200,Malayalam,2D
