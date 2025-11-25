@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,13:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹400,27,0,Malayalam,2D
+Kozhikode,13:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹99,165,17,Malayalam,2D
+Kozhikode,13:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹99,40,0,Malayalam,2D
+Thrissur,18:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Platinum,₹200,38,1,Malayalam,2D
+Thrissur,18:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Executive,₹125,230,3,Malayalam,2D
+Thrissur,21:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Platinum,₹200,38,3,Malayalam,2D
+Thrissur,21:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Executive,₹125,230,3,Malayalam,2D
+Kozhikode,11:45,ARCAbhilashCinemas4KMukkam,Executive,₹129.8,300,26,Malayalam,2D
+Kozhikode,14:45,ARCAbhilashCinemas4KMukkam,Executive,₹129.8,300,26,Malayalam,2D
