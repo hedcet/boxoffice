@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:30,MirajCinemasOppMofussilBusStandCalicutKozhikode,Silver,₹170,28,0,English,2D
+Kozhikode,10:30,MirajCinemasOppMofussilBusStandCalicutKozhikode,Gold,₹190,84,0,English,2D
+Kozhikode,10:30,MirajCinemasOppMofussilBusStandCalicutKozhikode,Platinum,₹210,42,0,English,2D
+Kozhikode,10:30,MirajCinemasOppMofussilBusStandCalicutKozhikode,Recliner,₹350,12,0,English,2D
+Ernakulam,16:30,PVRForumMallNH47Kochi,Classic,₹170,28,0,English,2D
+Ernakulam,16:30,PVRForumMallNH47Kochi,Elite,₹230,111,18,English,2D
+Ernakulam,16:30,PVRForumMallNH47Kochi,Recliner,₹450,8,0,English,2D
