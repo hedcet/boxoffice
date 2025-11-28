@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,07:00,AriesplexSLCinemasCinionicDolbyAtmos,Platinum,₹480,42,6,Tamil,2D
+Trivandrum,07:00,AriesplexSLCinemasCinionicDolbyAtmos,Gold,₹180,293,293,Tamil,2D
+Trivandrum,07:00,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹160,365,241,Tamil,2D
+Palakkad,07:00,NewAromaTheatrePalakkad,PlatinumCircle,₹129.8,200,1,Tamil,2D
+Palakkad,07:00,NewAromaTheatrePalakkad,DiamondCircle,₹105,229,5,Tamil,2D
+Trivandrum,11:15,DreamsAttingal,Recliner,₹350,15,0,Tamil,2D
+Trivandrum,11:15,DreamsAttingal,Sofa,₹200,120,0,Tamil,2D
+Trivandrum,14:15,DreamsAttingal,Recliner,₹350,15,0,Tamil,2D
+Trivandrum,14:15,DreamsAttingal,Sofa,₹200,120,0,Tamil,2D
+Ernakulam,14:30,PVRForumMallNH47Kochi,Classic,₹150,24,0,Tamil,2D
+Ernakulam,14:30,PVRForumMallNH47Kochi,Elite,₹190,111,18,Tamil,2D
+Ernakulam,14:30,PVRForumMallNH47Kochi,Recliner,₹400,10,0,Tamil,2D
+Trivandrum,17:30,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹190,60,6,Tamil,2D
+Trivandrum,17:30,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹240,39,23,Tamil,2D
+Trivandrum,17:30,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,8,4,Tamil,2D
