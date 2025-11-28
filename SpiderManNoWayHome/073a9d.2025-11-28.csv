@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,13:20,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹170,39,0,English,2D
+Ernakulam,13:20,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹200,91,3,English,2D
+Ernakulam,13:20,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹220,68,20,English,2D
+Ernakulam,13:20,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹450,10,4,English,2D
+Trivandrum,15:50,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹250,92,7,English,IMAX3D
+Trivandrum,15:50,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹270,69,15,English,IMAX3D
+Trivandrum,15:50,PVRLULULuluInternationalShoppingMallTrivandrum,PicturePerfect,₹300,0,0,English,IMAX3D
+Trivandrum,15:50,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,16,2,English,IMAX3D
+Kozhikode,16:00,MirajCinemasOppMofussilBusStandCalicutKozhikode,Silver,₹180,26,0,English,2D
+Kozhikode,16:00,MirajCinemasOppMofussilBusStandCalicutKozhikode,Gold,₹200,65,5,English,2D
+Kozhikode,16:00,MirajCinemasOppMofussilBusStandCalicutKozhikode,Platinum,₹220,40,0,English,2D
