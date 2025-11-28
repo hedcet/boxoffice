@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,11:45,LadderCinemasManjeri,Executive,₹150,74,0,Hindi,2D
+Malappuram,17:00,LadderCinemasManjeri,Executive,₹150,74,0,Hindi,2D
+Kannur,10:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Hindi,2D
+Malappuram,11:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Hindi,2D
+Kannur,13:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Hindi,2D
+Malappuram,14:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Hindi,2D
+Kannur,16:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Hindi,2D
+Malappuram,18:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Hindi,2D
+Kannur,19:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Hindi,2D
+Malappuram,21:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Hindi,2D
+Kannur,22:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Hindi,2D
