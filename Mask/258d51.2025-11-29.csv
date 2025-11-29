@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:15,NewAromaTheatrePalakkad,PlatinumCircle,₹129.8,200,0,Tamil,2D
+Palakkad,11:15,NewAromaTheatrePalakkad,DiamondCircle,₹105,229,3,Tamil,2D
+Palakkad,14:15,DhanalakshmiCinemasNenmara,Standard,₹129.8,145,0,Tamil,2D
+Palakkad,14:30,AlexMoviesChristeRbeLaserPattambi,ElishaCircle,₹125,320,0,Tamil,2D
+Palakkad,18:15,DhanalakshmiCinemasNenmara,Standard,₹129.8,145,0,Tamil,2D
+Palakkad,18:30,SnehaCinemaACAlathur,Sofa,₹180,18,0,Tamil,2D
+Palakkad,18:30,SnehaCinemaACAlathur,Platinum,₹150,160,0,Tamil,2D
+Palakkad,18:30,SnehaCinemaACAlathur,Lounge,₹160,14,0,Tamil,2D
+Palakkad,21:15,DhanalakshmiCinemasNenmara,Standard,₹129.8,145,0,Tamil,2D
+Palakkad,21:30,SnehaCinemaACAlathur,Sofa,₹180,18,0,Tamil,2D
+Palakkad,21:30,SnehaCinemaACAlathur,Platinum,₹150,160,0,Tamil,2D
+Palakkad,21:30,SnehaCinemaACAlathur,Lounge,₹160,14,0,Tamil,2D
