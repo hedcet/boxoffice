@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹400,27,0,Malayalam,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹99,165,1,Malayalam,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹99,40,0,Malayalam,2D
+Ernakulam,14:35,PVRForumMallNH47Kochi,Classic,₹129,22,0,Malayalam,2D
+Ernakulam,14:35,PVRForumMallNH47Kochi,Elite,₹129,85,38,Malayalam,2D
+Trivandrum,17:00,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹190,65,6,Malayalam,2D
+Trivandrum,17:00,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,34,17,Malayalam,2D
+Trivandrum,17:00,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,8,7,Malayalam,2D
+Trivandrum,17:00,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹129,65,36,Malayalam,2D
+Trivandrum,17:00,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹129,34,17,Malayalam,2D
+Trivandrum,17:00,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹300,8,7,Malayalam,2D
