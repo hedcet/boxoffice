@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,11:00,EVMMathaCinemaAdimali,Screen1,₹150,142,0,Tamil,2D
+Palakkad,11:15,AromaScreen2Palakkad,KingCircle,₹129.8,235,0,Tamil,2D
+Idukki,14:00,EVMMathaCinemaAdimali,Screen1,₹150,142,0,Tamil,2D
+Palakkad,14:15,AromaScreen2Palakkad,KingCircle,₹129.8,235,5,Tamil,2D
+Palakkad,18:00,AromaScreen2Palakkad,KingCircle,₹129.8,235,2,Tamil,2D
+Idukki,18:00,EVMMathaCinemaAdimali,Screen1,₹150,142,0,Tamil,2D
+Idukki,21:00,EVMMathaCinemaAdimali,Screen1,₹150,142,0,Tamil,2D
+Palakkad,21:15,AromaScreen2Palakkad,KingCircle,₹129.8,235,1,Tamil,2D
+Thrissur,21:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Platinum,₹200,38,0,Tamil,2D
+Thrissur,21:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Executive,₹125,230,9,Tamil,2D
+Palakkad,10:55,GowriMovieHouseAC2KDolby71OotraKollengode,FirstClass,₹120,129,0,Tamil,2D
+Palakkad,13:55,GowriMovieHouseAC2KDolby71OotraKollengode,FirstClass,₹120,129,0,Tamil,2D
+Palakkad,17:55,GowriMovieHouseAC2KDolby71OotraKollengode,FirstClass,₹120,129,0,Tamil,2D
+Palakkad,20:55,GowriMovieHouseAC2KDolby71OotraKollengode,FirstClass,₹120,129,0,Tamil,2D
