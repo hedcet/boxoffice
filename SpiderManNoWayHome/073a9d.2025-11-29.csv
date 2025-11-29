@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,15:50,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹250,92,4,English,IMAX3D
+Trivandrum,15:50,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹270,69,4,English,IMAX3D
+Trivandrum,15:50,PVRLULULuluInternationalShoppingMallTrivandrum,PicturePerfect,₹300,0,0,English,IMAX3D
+Trivandrum,15:50,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,16,5,English,IMAX3D
+Kozhikode,16:00,MirajCinemasOppMofussilBusStandCalicutKozhikode,Silver,₹180,26,0,English,2D
+Kozhikode,16:00,MirajCinemasOppMofussilBusStandCalicutKozhikode,Gold,₹200,65,0,English,2D
+Kozhikode,16:00,MirajCinemasOppMofussilBusStandCalicutKozhikode,Platinum,₹220,40,0,English,2D
+Trivandrum,22:10,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,70,8,English,2D
+Trivandrum,22:10,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,51,5,English,2D
+Trivandrum,22:10,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,7,5,English,2D
