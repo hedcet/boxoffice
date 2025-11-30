@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,13:35,PVRLuluLuluInternationalShoppingMallKochi,Luxe,₹480,16,3,English,3D
+Ernakulam,13:35,PVRLuluLuluInternationalShoppingMallKochi,LuxePrime,₹530,38,26,English,3D
+Ernakulam,14:10,CinepolisVIPCentreSquareMallErnakulamKochi,VipExecutive,₹330,22,0,English,3D
+Ernakulam,14:10,CinepolisVIPCentreSquareMallErnakulamKochi,VipPremium,₹380,54,36,English,3D
+Thrissur,17:05,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹160,22,4,English,3D
+Thrissur,17:05,INOXSobhaCityMallPuzhakkalThrissur,Club,₹200,63,17,English,3D
+Thrissur,17:05,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹200,28,22,English,3D
+Thrissur,17:05,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹320,10,3,English,3D
+Ernakulam,17:30,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹430,116,75,English,4DX3D
+Trivandrum,18:45,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹380,48,21,English,4DX3D
+Trivandrum,18:45,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹430,32,21,English,4DX3D
