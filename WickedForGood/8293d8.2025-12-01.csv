@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,16:30,PVRLuluLuluInternationalShoppingMallKochi,Luxe,₹400,16,0,English,2D
+Ernakulam,16:30,PVRLuluLuluInternationalShoppingMallKochi,LuxePrime,₹450,38,12,English,2D
+Trivandrum,17:30,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,60,4,English,2D
+Trivandrum,17:30,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,39,4,English,2D
+Trivandrum,17:30,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,8,0,English,2D
