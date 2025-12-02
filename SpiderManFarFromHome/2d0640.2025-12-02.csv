@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,10:50,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹92,39,0,English,2D
+Ernakulam,10:50,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹92,91,0,English,2D
+Ernakulam,10:50,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹92,68,19,English,2D
+Ernakulam,10:50,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹260.32,10,2,English,2D
+Ernakulam,14:15,CinepolisCentreSquareMallErnakulamKochi,Normal,₹140,19,4,English,3D
+Ernakulam,14:15,CinepolisCentreSquareMallErnakulamKochi,Executive,₹140,43,1,English,3D
+Ernakulam,14:15,CinepolisCentreSquareMallErnakulamKochi,Premium,₹140,44,4,English,3D
+Ernakulam,21:45,CinepolisCentreSquareMallErnakulamKochi,Normal,₹340,13,7,English,IMAX3D
+Ernakulam,21:45,CinepolisCentreSquareMallErnakulamKochi,Executive,₹360,54,0,English,IMAX3D
+Ernakulam,21:45,CinepolisCentreSquareMallErnakulamKochi,Premium,₹380,162,18,English,IMAX3D
