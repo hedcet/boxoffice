@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,15:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Platinum,₹165,22,22,Malayalam,2D
+Trivandrum,15:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Gold,₹145,144,144,Malayalam,2D
+Trivandrum,18:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Platinum,₹165,22,0,Malayalam,2D
+Trivandrum,18:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Gold,₹145,144,0,Malayalam,2D
+Trivandrum,21:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Platinum,₹165,22,0,Malayalam,2D
+Trivandrum,21:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Gold,₹145,144,0,Malayalam,2D
+Trivandrum,16:15,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹92.81,77,4,Malayalam,2D
+Trivandrum,16:15,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹92.81,60,27,Malayalam,2D
+Trivandrum,16:15,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹260.32,7,3,Malayalam,2D
+Ernakulam,21:25,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹92,39,0,Malayalam,2D
+Ernakulam,21:25,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹92,91,21,Malayalam,2D
+Ernakulam,21:25,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹92,64,36,Malayalam,2D
+Ernakulam,21:25,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹260.32,9,5,Malayalam,2D
