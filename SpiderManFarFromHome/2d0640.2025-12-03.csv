@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,11:30,MirajCinemasOppMofussilBusStandCalicutKozhikode,Silver,₹170,26,0,English,2D
+Kozhikode,11:30,MirajCinemasOppMofussilBusStandCalicutKozhikode,Gold,₹190,65,1,English,2D
+Kozhikode,11:30,MirajCinemasOppMofussilBusStandCalicutKozhikode,Platinum,₹210,40,0,English,2D
+Trivandrum,13:05,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,70,6,English,2D
+Trivandrum,13:05,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,51,3,English,2D
+Trivandrum,13:05,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,7,4,English,2D
+Thrissur,14:15,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹100,22,4,English,2D
+Thrissur,14:15,INOXSobhaCityMallPuzhakkalThrissur,Club,₹130,66,0,English,2D
+Thrissur,14:15,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹130,28,15,English,2D
+Thrissur,14:15,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹200,10,0,English,2D
+Ernakulam,16:25,PVRForumMallNH47Kochi,Classic,₹190,28,0,English,2D
+Ernakulam,16:25,PVRForumMallNH47Kochi,Elite,₹230,111,20,English,2D
+Ernakulam,16:25,PVRForumMallNH47Kochi,Recliner,₹450,8,0,English,2D
