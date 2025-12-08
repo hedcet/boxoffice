@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,17:00,KairaliSreeNilaRGBLaser4KDolbyAtmos,Platinum,₹129.5,259,1,Malayalam,2D
+Ernakulam,16:50,PVRForumMallNH47Kochi,Classic,₹149,28,0,Malayalam,2D
+Ernakulam,16:50,PVRForumMallNH47Kochi,Elite,₹149,111,16,Malayalam,2D
+Ernakulam,16:50,PVRForumMallNH47Kochi,Recliner,₹199,8,2,Malayalam,2D
+Ernakulam,20:20,PVRForumMallNH47Kochi,Classic,₹149,22,0,Malayalam,2D
+Ernakulam,20:20,PVRForumMallNH47Kochi,Elite,₹149,85,11,Malayalam,2D
