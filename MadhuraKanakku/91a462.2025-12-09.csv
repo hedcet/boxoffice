@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kasaragod,10:30,MagicFramesMehboobTheatreComplex4KKasaragod,Executive,₹129.7,175,0,Malayalam,2D
+Kottayam,11:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
+Kozhikode,11:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,27,0,Malayalam,2D
+Kozhikode,11:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,165,0,Malayalam,2D
+Kozhikode,11:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,40,0,Malayalam,2D
+Idukki,14:00,AashirvadCineplexxThodupuzha,Gold,₹200,10,0,Malayalam,2D
+Idukki,14:00,AashirvadCineplexxThodupuzha,Silver,₹165,90,3,Malayalam,2D
+Kozhikode,16:45,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,29,1,Malayalam,2D
+Kozhikode,16:45,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,135,3,Malayalam,2D
+Kozhikode,16:45,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,27,1,Malayalam,2D
+Kozhikode,16:45,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹250,24,1,Malayalam,2D
+Idukki,18:00,AashirvadCineplexxThodupuzha,Gold,₹200,10,0,Malayalam,2D
+Idukki,18:00,AashirvadCineplexxThodupuzha,Silver,₹165,90,0,Malayalam,2D
+Trivandrum,18:45,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,0,Malayalam,2D
+Kottayam,21:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
+Palakkad,11:15,JayabharathTheatreKarayankaduVadakkencherry,FirstClass,₹105,165,0,Malayalam,2D
