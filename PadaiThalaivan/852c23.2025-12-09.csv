@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,11:00,ChandanaCinemaMarayur,BoxLeft,₹129.19,26,0,Tamil,2D
+Idukki,11:00,ChandanaCinemaMarayur,BoxRight,₹129.19,24,17,Tamil,2D
+Idukki,11:00,ChandanaCinemaMarayur,FirstClasss,₹120,356,327,Tamil,2D
+Idukki,14:30,ChandanaCinemaMarayur,BoxLeft,₹129.19,26,0,Tamil,2D
+Idukki,14:30,ChandanaCinemaMarayur,BoxRight,₹129.19,24,17,Tamil,2D
+Idukki,14:30,ChandanaCinemaMarayur,FirstClasss,₹120,356,327,Tamil,2D
+Palakkad,10:55,GowriMovieHouseAC2KDolby71OotraKollengode,FirstClass,₹120,129,0,Tamil,2D
+Palakkad,11:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Tamil,2D
+Malappuram,11:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,2,Tamil,2D
+Palakkad,14:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Tamil,2D
+Malappuram,14:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Tamil,2D
+Palakkad,18:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Tamil,2D
+Malappuram,18:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Tamil,2D
+Palakkad,21:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Tamil,2D
+Malappuram,21:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Tamil,2D
