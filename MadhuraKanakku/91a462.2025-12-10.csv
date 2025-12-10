@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,11:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
+Kozhikode,11:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,27,0,Malayalam,2D
+Kozhikode,11:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,165,0,Malayalam,2D
+Kozhikode,11:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,40,0,Malayalam,2D
+Idukki,14:00,AashirvadCineplexxThodupuzha,Gold,₹185,10,0,Malayalam,2D
+Idukki,14:00,AashirvadCineplexxThodupuzha,Silver,₹155,90,0,Malayalam,2D
+Kozhikode,16:45,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,29,1,Malayalam,2D
+Kozhikode,16:45,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,135,3,Malayalam,2D
+Kozhikode,16:45,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,27,1,Malayalam,2D
+Kozhikode,16:45,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹250,24,1,Malayalam,2D
+Idukki,18:00,AashirvadCineplexxThodupuzha,Gold,₹185,10,2,Malayalam,2D
+Idukki,18:00,AashirvadCineplexxThodupuzha,Silver,₹155,90,0,Malayalam,2D
+Trivandrum,18:45,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,0,Malayalam,2D
+Kottayam,21:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
