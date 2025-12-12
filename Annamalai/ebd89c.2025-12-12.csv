@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:00,SriKalidasMPlex4KRGBLaserAtmosKattakkada,Recliner,₹400,13,0,Tamil,2D
+Trivandrum,11:00,SriKalidasMPlex4KRGBLaserAtmosKattakkada,Gold,₹180,174,1,Tamil,2D
+Trivandrum,11:00,SriKalidasMPlex4KRGBLaserAtmosKattakkada,Silver,₹150,51,0,Tamil,2D
