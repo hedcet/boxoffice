@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Pathanamthitta,11:00,TrinityMovieMaxPathanamthitta,Special,₹150,110,6,Tamil,2D
+Pathanamthitta,14:15,TrinityMovieMaxPathanamthitta,Special,₹150,110,6,Tamil,2D
+Pathanamthitta,21:00,TrinityMovieMaxPathanamthitta,Special,₹150,110,6,Tamil,2D
+Kozhikode,11:45,ARCAbhilashCinemas4KMukkam,Executive,₹129.8,388,26,Tamil,2D
+Kozhikode,14:45,ARCAbhilashCinemas4KMukkam,Executive,₹129.8,388,26,Tamil,2D
+Kozhikode,18:00,ARCAbhilashCinemas4KMukkam,Executive,₹129.8,388,26,Tamil,2D
+Kozhikode,21:00,ARCAbhilashCinemas4KMukkam,Executive,₹129.8,388,26,Tamil,2D
