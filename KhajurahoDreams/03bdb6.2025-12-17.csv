@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,11:45,AashirvadCineplexxKozhikode,Platinum,₹220,27,1,Malayalam,2D
+Kozhikode,11:45,AashirvadCineplexxKozhikode,Gold,₹200,60,0,Malayalam,2D
+Kannur,14:45,LibertyParadiseThalassery,Gold,₹129.8,214,140,Malayalam,2D
+Palakkad,18:45,MLalAashirvadCineplexxShoranur,Sofa,₹200,30,0,Malayalam,2D
+Palakkad,18:45,MLalAashirvadCineplexxShoranur,Platinum,₹140,89,0,Malayalam,2D
+Ernakulam,11:00,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,142,0,Malayalam,2D
+Ernakulam,13:30,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,142,0,Malayalam,2D
+Ernakulam,19:30,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,142,0,Malayalam,2D
+Ernakulam,22:30,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,142,0,Malayalam,2D
