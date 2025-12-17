@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,22:15,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,27,0,Telugu,2D
+Kozhikode,22:15,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,165,0,Telugu,2D
+Kozhikode,22:15,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,40,0,Telugu,2D
+Ernakulam,23:20,CinepolisCentreSquareMallErnakulamKochi,Normal,₹160,22,4,Telugu,2D
+Ernakulam,23:20,CinepolisCentreSquareMallErnakulamKochi,Executive,₹190,45,0,Telugu,2D
+Ernakulam,23:20,CinepolisCentreSquareMallErnakulamKochi,Premium,₹220,95,10,Telugu,2D
