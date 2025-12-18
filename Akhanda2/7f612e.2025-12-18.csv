@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,14:15,NewAromaTheatrePalakkad,PlatinumCircle,₹129.8,200,200,Tamil,2D
+Palakkad,14:15,NewAromaTheatrePalakkad,DiamondCircle,₹105,229,229,Tamil,2D
+Trivandrum,16:00,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,0,Malayalam,2D
+Palakkad,18:00,NewAromaTheatrePalakkad,PlatinumCircle,₹129.8,200,200,Tamil,2D
+Palakkad,18:00,NewAromaTheatrePalakkad,DiamondCircle,₹105,229,229,Tamil,2D
+Ernakulam,13:45,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,141,0,Telugu,2D
+Ernakulam,19:15,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,141,0,Telugu,2D
