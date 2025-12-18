@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,14:00,DhanyaRemyaChanganassery,Remya,₹135,196,0,Malayalam,2D
+Kottayam,14:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
+Kottayam,18:00,DhanyaRemyaChanganassery,Remya,₹135,196,0,Malayalam,2D
+Kottayam,18:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
+Kottayam,21:00,DhanyaRemyaChanganassery,Remya,₹135,196,0,Malayalam,2D
+Kottayam,21:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
