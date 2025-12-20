@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,21:00,AromaScreen2Palakkad,KingCircle,₹129.8,235,28,Tamil,2D
+Trivandrum,11:20,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹210,70,25,Tamil,2D
+Trivandrum,11:20,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹230,51,32,Tamil,2D
+Trivandrum,11:20,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹450,7,6,Tamil,2D
+Palakkad,21:45,JayabharathTheatreKarayankaduVadakkencherry,FirstClass,₹105,165,0,Tamil,2D
+Trivandrum,22:05,CinepolisMOTEanchakkalThiruvananthapuram,PlatinumExecutive,₹200,32,23,Tamil,2D
+Trivandrum,22:05,CinepolisMOTEanchakkalThiruvananthapuram,PlatinumPremium,₹250,33,33,Tamil,2D
