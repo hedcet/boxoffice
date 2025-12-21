@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,10:45,GreenfieldMoviemaxCinemasTrivandrum,Executive,₹160,119,0,Tamil,2D
+Kottayam,18:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Tamil,2D
+Pathanamthitta,18:00,DhanyaRemyaPathanamthitta,RemyaCircle,₹135,197,197,Tamil,2D
+Kottayam,18:00,DhanyaRemyaChanganassery,Remya,₹135,196,196,Tamil,2D
+Ernakulam,16:30,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,142,0,Tamil,2D
