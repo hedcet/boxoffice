@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,13:45,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹150,22,4,English,3D
+Thrissur,13:45,INOXSobhaCityMallPuzhakkalThrissur,Club,₹180,63,60,English,3D
+Thrissur,13:45,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹180,28,25,English,3D
+Thrissur,13:45,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹250,10,10,English,3D
+Ernakulam,14:00,PVROberonMosqueRoadKochi,Classic,₹165,53,23,English,3D
+Ernakulam,14:00,PVROberonMosqueRoadKochi,ClassicPlus,₹165,115,110,English,3D
+Ernakulam,14:00,PVROberonMosqueRoadKochi,Recliner,₹265,14,13,English,3D
+Ernakulam,16:55,PVROberonMosqueRoadKochi,Classic,₹165,53,31,English,3D
+Ernakulam,16:55,PVROberonMosqueRoadKochi,ClassicPlus,₹165,115,103,English,3D
+Ernakulam,16:55,PVROberonMosqueRoadKochi,Recliner,₹265,14,14,English,3D
