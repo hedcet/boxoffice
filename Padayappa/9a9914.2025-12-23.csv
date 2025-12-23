@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,21:00,AromaScreen2Palakkad,KingCircle,₹129.8,235,10,Tamil,2D
+Trivandrum,11:20,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹92.81,70,27,Tamil,2D
+Trivandrum,11:20,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹92.81,51,29,Tamil,2D
+Trivandrum,11:20,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹260.32,7,3,Tamil,2D
+Trivandrum,21:40,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹92.81,65,51,Tamil,2D
+Trivandrum,21:40,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹92.81,34,31,Tamil,2D
+Trivandrum,21:40,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹260.32,8,7,Tamil,2D
