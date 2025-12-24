@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,14:00,MYCinemasThalayolaparambuKerala,Gold,₹105,204,20,English,3D
+Kottayam,18:15,MYCinemasThalayolaparambuKerala,Gold,₹105,204,8,English,3D
+Kottayam,21:45,MYCinemasThalayolaparambuKerala,Gold,₹105,204,8,English,3D
