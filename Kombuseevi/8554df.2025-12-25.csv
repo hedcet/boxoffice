@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,14:15,NewAromaTheatrePalakkad,PlatinumCircle,₹129.8,200,200,Tamil,2D
+Palakkad,14:15,NewAromaTheatrePalakkad,DiamondCircle,₹105,229,229,Tamil,2D
+Palakkad,18:00,NewAromaTheatrePalakkad,PlatinumCircle,₹129.8,200,200,Tamil,2D
+Palakkad,18:00,NewAromaTheatrePalakkad,DiamondCircle,₹105,229,229,Tamil,2D
+Malappuram,14:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Tamil,2D
+Malappuram,18:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Tamil,2D
+Malappuram,21:30,NaxaPopularParadise4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Tamil,2D
