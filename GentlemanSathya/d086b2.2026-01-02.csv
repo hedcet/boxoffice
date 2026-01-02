@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Wayanad,11:00,AiswaryaCinemasSultanBathery,Recliner,₹300,9,0,,
+Wayanad,11:00,AiswaryaCinemasSultanBathery,Platinum,₹155,144,0,,
+Wayanad,11:00,AiswaryaCinemasSultanBathery,SofaSeat,₹230,21,0,,
+Wayanad,11:00,AiswaryaCinemasSultanBathery,Gold,₹155,123,0,,
+Wayanad,14:00,AiswaryaCinemasSultanBathery,Recliner,₹300,9,0,,
+Wayanad,14:00,AiswaryaCinemasSultanBathery,Platinum,₹155,144,0,,
+Wayanad,14:00,AiswaryaCinemasSultanBathery,SofaSeat,₹230,21,0,,
+Wayanad,14:00,AiswaryaCinemasSultanBathery,Gold,₹155,123,0,,
+Wayanad,19:00,AiswaryaCinemasSultanBathery,Recliner,₹300,9,0,,
+Wayanad,19:00,AiswaryaCinemasSultanBathery,Platinum,₹155,144,0,,
+Wayanad,19:00,AiswaryaCinemasSultanBathery,SofaSeat,₹230,21,0,,
+Wayanad,19:00,AiswaryaCinemasSultanBathery,Gold,₹155,123,0,,
