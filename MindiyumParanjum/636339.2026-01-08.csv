@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,13:45,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,27,0,Malayalam,2D
+Kozhikode,13:45,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,165,0,Malayalam,2D
+Kozhikode,13:45,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,40,0,Malayalam,2D
+Thrissur,14:30,PalaxiCinemasHiliteMallThrissur,Recliner,₹450,19,2,Malayalam,2D
+Thrissur,14:30,PalaxiCinemasHiliteMallThrissur,Premium,₹220,101,0,Malayalam,2D
+Thrissur,14:30,PalaxiCinemasHiliteMallThrissur,Executive,₹140,25,0,Malayalam,2D
+Ernakulam,13:20,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹160,39,1,Malayalam,2D
+Ernakulam,13:20,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹190,91,1,Malayalam,2D
+Ernakulam,13:20,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹210,64,17,Malayalam,2D
+Ernakulam,13:20,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹400,9,3,Malayalam,2D
