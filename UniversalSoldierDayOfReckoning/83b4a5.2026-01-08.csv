@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,11:00,DhanyaRemyaKottayam,Remya,₹135,251,0,English,2D
+Palakkad,11:30,VCinemasSreeDeviDurgaDolbyAtmosPalakkad,Standard,₹129.8,126,0,English,2D
+Kottayam,14:00,DhanyaRemyaKottayam,Remya,₹135,251,0,English,2D
+Kollam,19:00,DevaCarnivalCinemasDMallPunalur,Recliner,₹290,17,3,English,2D
+Kollam,19:00,DevaCarnivalCinemasDMallPunalur,Silver,₹129.7,210,20,English,2D
+Malappuram,14:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹105,205,1,English,2D
+Malappuram,14:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Executive,₹129.8,105,0,English,2D
+Malappuram,18:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹105,205,1,English,2D
+Malappuram,18:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Executive,₹129.8,105,0,English,2D
+Malappuram,21:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹105,205,1,English,2D
+Malappuram,21:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Executive,₹129.8,105,0,English,2D
