@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,AlexMoviesChristeRbeLaserPattambi,AnnSquare,₹125,243,0,Tamil,2D
+Wayanad,11:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹129.8,224,0,Tamil,2D
+Palakkad,12:00,AnuragCinemaShoranur,Screen2,₹105,113,0,Tamil,2D
+Palakkad,15:00,AnuragCinemaShoranur,Screen2,₹105,113,0,Tamil,2D
+Palakkad,21:30,AlexMoviesChristeRbeLaserPattambi,AnnSquare,₹125,243,4,Tamil,2D
+Malappuram,18:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹105,158,4,Tamil,2D
+Malappuram,21:30,AiswaryaMoviesAC4KDolby3DBiyyamPonnani,Platinum,₹105,158,10,Tamil,2D
