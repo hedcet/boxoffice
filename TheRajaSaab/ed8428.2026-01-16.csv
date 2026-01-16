@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kasaragod,10:15,MagicFramesMehboobTheatreComplex4KKasaragod,Executive,₹129.7,222,0,Malayalam,2D
+Kasaragod,16:15,MagicFramesMehboobTheatreComplex4KKasaragod,Executive,₹129.7,222,0,Malayalam,2D
+Kozhikode,19:15,CinepolisGokulamGalleriaMallArayidathupalamKozhikode,Normal,₹200,27,4,Telugu,2D
+Kozhikode,19:15,CinepolisGokulamGalleriaMallArayidathupalamKozhikode,Executive,₹220,74,8,Telugu,2D
+Kozhikode,19:15,CinepolisGokulamGalleriaMallArayidathupalamKozhikode,Premium,₹240,41,1,Telugu,2D
