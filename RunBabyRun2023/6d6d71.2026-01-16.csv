@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,13:05,CinepolisGokulamGalleriaMallArayidathupalamKozhikode,Normal,₹200,38,4,Tamil,2D
+Kozhikode,13:05,CinepolisGokulamGalleriaMallArayidathupalamKozhikode,Executive,₹220,65,0,Tamil,2D
+Kozhikode,13:05,CinepolisGokulamGalleriaMallArayidathupalamKozhikode,Premium,₹240,56,10,Tamil,2D
