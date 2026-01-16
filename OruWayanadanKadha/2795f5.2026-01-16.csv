@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,10:30,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,141,0,Malayalam,2D
+Alappuzha,12:00,PANCINEMAS4KRGBLASERAlappuzha,Gold,₹180,138,0,Malayalam,2D
+Alappuzha,12:00,PANCINEMAS4KRGBLASERAlappuzha,Platinum,₹250,34,0,Malayalam,2D
+Palakkad,14:30,JayabharathTheatreKarayankaduVadakkencherry,FirstClass,₹120,165,0,Malayalam,2D
+Alappuzha,20:20,PANCINEMAS4KRGBLASERAlappuzha,Gold,₹180,138,0,Malayalam,2D
+Alappuzha,20:20,PANCINEMAS4KRGBLASERAlappuzha,Platinum,₹250,34,0,Malayalam,2D
