@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,14:30,AlexMoviesChristeRbeLaserPattambi,AnnSquare,₹125,243,0,Malayalam,2D
+Palakkad,18:15,AlexMoviesChristeRbeLaserPattambi,AnnSquare,₹125,243,0,Malayalam,2D
+Ernakulam,16:10,CinepolisCentreSquareMallErnakulamKochi,Normal,₹150,22,5,Malayalam,2D
+Ernakulam,16:10,CinepolisCentreSquareMallErnakulamKochi,Executive,₹170,45,20,Malayalam,2D
+Ernakulam,16:10,CinepolisCentreSquareMallErnakulamKochi,Premium,₹200,95,6,Malayalam,2D
+Kottayam,18:00,PuthettuCinemasPala,Platinumrecliner,₹354,12,0,,
+Kottayam,18:00,PuthettuCinemasPala,DiamondfamilyCouch,₹304,6,0,,
+Kottayam,18:00,PuthettuCinemasPala,GoldsofaSlider,₹254,14,12,,
+Kottayam,18:00,PuthettuCinemasPala,Silver,₹204,128,23,,
