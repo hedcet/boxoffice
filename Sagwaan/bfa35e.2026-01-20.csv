@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,20:45,TheCrownTheatreCalicut,Audi1,₹180,200,139,Hindi,2D
+Ernakulam,21:40,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹160,39,1,Hindi,2D
+Ernakulam,21:40,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlus,₹180,91,0,Hindi,2D
+Ernakulam,21:40,PVRLuluLuluInternationalShoppingMallKochi,Prime,₹210,64,18,Hindi,2D
+Ernakulam,21:40,PVRLuluLuluInternationalShoppingMallKochi,Recliner,₹400,9,2,Hindi,2D
