@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,14:00,DREAMMALLNAXACINEMASDOLBY71,Red,₹150,184,0,Malayalam,2D
+Kollam,14:15,AashirvadCineplexxPathanapuram,Sofa,₹280,16,1,Malayalam,2D
+Kollam,14:15,AashirvadCineplexxPathanapuram,Platinum,₹200,76,0,Malayalam,2D
+Kollam,14:15,AashirvadCineplexxPathanapuram,Gold,₹150,95,0,Malayalam,2D
+Idukki,15:00,GCinemaxMultiplex,Audi3,₹140,165,0,Malayalam,2D
+Kollam,21:15,AashirvadCineplexxPathanapuram,Sofa,₹280,16,1,Malayalam,2D
+Kollam,21:15,AashirvadCineplexxPathanapuram,Platinum,₹200,76,0,Malayalam,2D
+Kollam,21:15,AashirvadCineplexxPathanapuram,Gold,₹150,95,0,Malayalam,2D
+Ernakulam,14:00,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,141,0,Malayalam,2D
+Ernakulam,18:30,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,141,0,Malayalam,2D
+Ernakulam,21:30,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,141,0,Malayalam,2D
