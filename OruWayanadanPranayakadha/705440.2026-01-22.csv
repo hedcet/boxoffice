@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,12:00,SagaraTheatre4KAtmosKattappana,Royal,₹129,158,0,Malayalam,2D
+Wayanad,14:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹129.8,224,0,Malayalam,2D
+Idukki,15:00,SagaraTheatre4KAtmosKattappana,Royal,₹129,158,0,Malayalam,2D
+Kollam,16:30,GmaxCinemasJerome3D71JBLKollam,Blue,₹160,170,18,Malayalam,2D
+Wayanad,17:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹129.8,224,0,Malayalam,2D
+Ernakulam,18:00,HighstreetCinemaCantonHighstreetMuvattupuzha,Gold,₹150,213,0,Malayalam,2D
+Idukki,18:30,SagaraTheatre4KAtmosKattappana,Royal,₹129,158,0,Malayalam,2D
+Trivandrum,18:30,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Platinum,₹165,22,0,Malayalam,2D
+Trivandrum,18:30,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Gold,₹145,144,0,Malayalam,2D
+Ernakulam,21:00,HighstreetCinemaCantonHighstreetMuvattupuzha,Gold,₹150,213,0,Malayalam,2D
+Idukki,21:30,SagaraTheatre4KAtmosKattappana,Royal,₹129,158,0,Malayalam,2D
+Alappuzha,15:10,PANCINEMAS4KRGBLASERAlappuzha,Gold,₹180,138,0,Malayalam,2D
+Alappuzha,15:10,PANCINEMAS4KRGBLASERAlappuzha,Platinum,₹250,34,0,Malayalam,2D
