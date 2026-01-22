@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,20:10,CinepolisCentreSquareMallErnakulamKochi,Normal,₹150,25,4,Malayalam,2D
+Ernakulam,20:10,CinepolisCentreSquareMallErnakulamKochi,Executive,₹170,39,32,Malayalam,2D
+Ernakulam,20:10,CinepolisCentreSquareMallErnakulamKochi,Premium,₹200,84,17,Malayalam,2D
+Kottayam,14:45,PuthettuCinemasPala,Platinumrecliner,₹354,12,0,,
+Kottayam,14:45,PuthettuCinemasPala,DiamondfamilyCouch,₹304,6,0,,
+Kottayam,14:45,PuthettuCinemasPala,GoldsofaSlider,₹254,14,0,,
+Kottayam,14:45,PuthettuCinemasPala,Silver,₹204,128,0,,
