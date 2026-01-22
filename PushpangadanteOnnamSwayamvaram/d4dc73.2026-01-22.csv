@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Wayanad,11:15,BlueMoonTheatrePulpally,Audi2,₹105,168,0,Malayalam,2D
+Kozhikode,12:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,29,1,Malayalam,2D
+Kozhikode,12:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,135,3,Malayalam,2D
+Kozhikode,12:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,27,1,Malayalam,2D
+Kozhikode,12:30,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹250,24,1,Malayalam,2D
+Wayanad,14:30,BlueMoonTheatrePulpally,Audi2,₹105,168,0,Malayalam,2D
+Wayanad,17:30,BlueMoonTheatrePulpally,Audi2,₹105,168,0,Malayalam,2D
+Wayanad,20:30,BlueMoonTheatrePulpally,Audi2,₹105,168,0,Malayalam,2D
+Kasaragod,10:30,PakkanarCinemas2K71JBLCheruvathur,Executive,₹100,322,0,Malayalam,2D
