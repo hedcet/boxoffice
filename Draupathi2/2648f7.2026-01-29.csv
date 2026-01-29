@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,11:00,CherthalaKairaliSreeTheatre,Platinum,₹140,388,0,Tamil,2D
+Alappuzha,21:15,CherthalaKairaliSreeTheatre,Platinum,₹140,388,0,Tamil,2D
+Kozhikode,22:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,23,0,Tamil,2D
+Kozhikode,22:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,88,0,Tamil,2D
+Kozhikode,22:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,17,0,Tamil,2D
+Kozhikode,22:30,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹250,14,0,Tamil,2D
