@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,Tamil,2D
+Kollam,14:40,DevaCarnivalCinemasDMallPunalur,Sofa,₹200,11,0,Tamil,2D
+Kollam,14:40,DevaCarnivalCinemasDMallPunalur,Silver,₹129.7,147,4,Tamil,2D
+Trivandrum,15:15,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,0,Tamil,2D
+Palakkad,18:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,Tamil,2D
