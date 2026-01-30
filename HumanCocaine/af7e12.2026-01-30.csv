@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:30,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,0,Hindi,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,29,1,Hindi,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,135,13,Hindi,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,27,1,Hindi,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹270,24,1,Hindi,2D
+Trivandrum,21:30,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,0,Hindi,2D
