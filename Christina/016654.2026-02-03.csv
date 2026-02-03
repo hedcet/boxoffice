@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,11:00,KairaliSreeTheatreKozhikode,SreeGold,₹165,311,0,Malayalam,2D
+Trivandrum,14:30,KairaliSreeNilaRGBLaser4KDolbyAtmos,Platinum,₹140,310,0,Malayalam,2D
+Kollam,14:45,GmaxCinemasJerome3D71JBLKollam,Blue,₹160,170,0,Malayalam,2D
+Trivandrum,16:15,GreenfieldMoviemaxCinemasTrivandrum,Executive,₹160,119,0,Malayalam,2D
+Alappuzha,18:00,SVCinemasKayamkulam,Standard,₹150,94,2,Malayalam,2D
+Kozhikode,18:15,AashirvadCineplexxKozhikode,Platinum,₹220,27,0,Malayalam,2D
+Kozhikode,18:15,AashirvadCineplexxKozhikode,Gold,₹200,54,0,Malayalam,2D
+Kozhikode,13:30,AjanthaCinemasKakkattil,Executive,₹105,199,0,Malayalam,2D
+Kozhikode,16:30,AjanthaCinemasKakkattil,Executive,₹105,199,0,Malayalam,2D
+Kozhikode,19:30,AjanthaCinemasKakkattil,Executive,₹105,199,0,Malayalam,2D
