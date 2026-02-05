@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,14:30,KairaliSreeNilaRGBLaser4KDolbyAtmos,Platinum,₹140,310,7,Malayalam,2D
+Kollam,14:45,GmaxCinemasJerome3D71JBLKollam,Blue,₹160,170,0,Malayalam,2D
+Trivandrum,18:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Platinum,₹165,22,0,Malayalam,2D
+Trivandrum,18:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Gold,₹145,144,2,Malayalam,2D
+Kozhikode,16:30,AjanthaCinemasKakkattil,Executive,₹105,199,0,Malayalam,2D
+Kozhikode,19:30,AjanthaCinemasKakkattil,Executive,₹105,199,0,Malayalam,2D
