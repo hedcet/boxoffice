@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,13:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,29,1,Malayalam,2D
+Kozhikode,13:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,135,1,Malayalam,2D
+Kozhikode,13:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,27,1,Malayalam,2D
+Kozhikode,13:30,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹250,24,1,Malayalam,2D
+Idukki,14:00,AashirvadCineplexxThodupuzha,Platinum,₹210,9,0,Malayalam,2D
+Idukki,14:00,AashirvadCineplexxThodupuzha,Gold,₹185,55,0,Malayalam,2D
+Idukki,14:00,AashirvadCineplexxThodupuzha,Silver,₹155,115,0,Malayalam,2D
+Kollam,14:30,Gmax4KUtsavAradhanaComplex,Royal,₹150,333,0,Malayalam,2D
+Kollam,18:30,Gmax4KUtsavAradhanaComplex,Royal,₹150,333,0,Malayalam,2D
+Idukki,21:30,AashirvadCineplexxThodupuzha,Platinum,₹210,9,0,Malayalam,2D
+Idukki,21:30,AashirvadCineplexxThodupuzha,Gold,₹185,55,0,Malayalam,2D
+Idukki,21:30,AashirvadCineplexxThodupuzha,Silver,₹155,115,0,Malayalam,2D
+Ernakulam,13:45,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,141,0,Malayalam,2D
