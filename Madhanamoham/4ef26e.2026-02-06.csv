@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,09:45,Gmax4KUtsavAradhanaComplex,Royal,₹150,333,0,Malayalam,2D
+Idukki,10:30,AiswaryaCinemasKattappana,Diamond,₹129,172,0,Malayalam,2D
+Idukki,10:30,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹160,172,0,Malayalam,2D
+Trivandrum,11:00,SuryaMultiplex4KDolbyAtmosNedumangad,Platinum,₹250,28,0,Malayalam,2D
+Trivandrum,11:00,SuryaMultiplex4KDolbyAtmosNedumangad,Gold,₹150,248,1,Malayalam,2D
+Thrissur,11:00,SreedeviSCinemasKodaly,Royal,₹230,21,0,Malayalam,2D
+Thrissur,11:00,SreedeviSCinemasKodaly,Red,₹150,151,5,Malayalam,2D
+Trivandrum,18:30,SuryaMultiplex4KDolbyAtmosNedumangad,Platinum,₹250,28,0,Malayalam,2D
+Trivandrum,18:30,SuryaMultiplex4KDolbyAtmosNedumangad,Gold,₹150,248,0,Malayalam,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,129,0,Malayalam,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,129,0,Malayalam,2D
