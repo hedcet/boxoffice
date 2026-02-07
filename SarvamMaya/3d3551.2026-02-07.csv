@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,173,0,Malayalam,2D
+Trivandrum,14:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,173,16,Malayalam,2D
+Trivandrum,18:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,173,0,Malayalam,2D
+Trivandrum,18:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,173,32,Malayalam,2D
+Trivandrum,21:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,173,16,Malayalam,2D
