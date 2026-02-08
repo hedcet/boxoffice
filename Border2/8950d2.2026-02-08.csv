@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,18:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹599,117,3,Hindi,2D
+Thrissur,20:30,PalaxiCinemasHiliteMallThrissur,Recliner,₹599,59,10,Hindi,2D
+Kannur,10:00,CinepolisSecuraCentreKannur,Normal,₹150,20,2,Hindi,2D
+Kannur,10:00,CinepolisSecuraCentreKannur,Executive,₹170,62,6,Hindi,2D
+Kannur,10:00,CinepolisSecuraCentreKannur,Premium,₹190,30,19,Hindi,2D
+Ernakulam,13:45,CinepolisCentreSquareMallErnakulamKochi,Normal,₹190,13,2,Hindi,2D
+Ernakulam,13:45,CinepolisCentreSquareMallErnakulamKochi,Executive,₹200,26,15,Hindi,2D
+Ernakulam,13:45,CinepolisCentreSquareMallErnakulamKochi,Premium,₹210,67,67,Hindi,2D
+Ernakulam,18:25,PVRForumMallNH47Kochi,Luxe,₹450,16,1,Hindi,2D
+Ernakulam,18:25,PVRForumMallNH47Kochi,LuxePrime,₹600,42,30,Hindi,2D
+Trivandrum,21:50,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹350,48,9,Hindi,4DX2D
+Trivandrum,21:50,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹400,32,5,Hindi,4DX2D
+Ernakulam,22:15,PVRLuluLuluInternationalShoppingMallKochi,Luxe,₹550,16,0,Hindi,2D
+Ernakulam,22:15,PVRLuluLuluInternationalShoppingMallKochi,LuxePrime,₹600,38,6,Hindi,2D
