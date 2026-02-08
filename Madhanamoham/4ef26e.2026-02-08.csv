@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:00,SuryaMultiplex4KDolbyAtmosNedumangad,Platinum,₹250,28,0,Malayalam,2D
+Trivandrum,11:00,SuryaMultiplex4KDolbyAtmosNedumangad,Gold,₹150,248,0,Malayalam,2D
+Thrissur,11:00,SreedeviSCinemasKodaly,Royal,₹230,21,0,Malayalam,2D
+Thrissur,11:00,SreedeviSCinemasKodaly,Red,₹150,151,0,Malayalam,2D
+Idukki,11:30,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹160,172,0,Malayalam,2D
+Kasaragod,14:30,VinayakaTheaterComplex2KACDolby71,NewVinayaka2Executive,₹150,300,48,Malayalam,2D
+Trivandrum,18:30,SuryaMultiplex4KDolbyAtmosNedumangad,Platinum,₹250,28,0,Malayalam,2D
+Trivandrum,18:30,SuryaMultiplex4KDolbyAtmosNedumangad,Gold,₹150,248,0,Malayalam,2D
+Ernakulam,10:30,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,142,0,Malayalam,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,129,0,Malayalam,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,129,0,Malayalam,2D
