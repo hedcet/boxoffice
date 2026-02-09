@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,15:00,AkCinePalaceBySj4KDolbyAtmos,Classic,₹160,140,7,Malayalam,2D
+Thrissur,16:15,PalaxiCinemasHiliteMallThrissur,Recliner,₹450,27,0,Malayalam,2D
+Thrissur,16:15,PalaxiCinemasHiliteMallThrissur,Premium,₹220,155,14,Malayalam,2D
+Thrissur,16:15,PalaxiCinemasHiliteMallThrissur,Executive,₹140,37,0,Malayalam,2D
+Thrissur,17:00,VBCinemas4KRGBLaserATMOSThriprayar,Reclainer,₹350,12,0,Malayalam,2D
+Thrissur,17:00,VBCinemas4KRGBLaserATMOSThriprayar,Gold,₹200,38,0,Malayalam,2D
+Thrissur,17:00,VBCinemas4KRGBLaserATMOSThriprayar,Royal,₹170,95,0,Malayalam,2D
+Thrissur,17:00,VBCinemas4KRGBLaserATMOSThriprayar,Club,₹129.8,98,32,Malayalam,2D
+Alappuzha,19:45,AECCinemas4KATMOS360SurroundAlappuzha,Gold,₹150,98,0,Malayalam,2D
+Alappuzha,19:45,AECCinemas4KATMOS360SurroundAlappuzha,Platinum,₹200,15,0,Malayalam,2D
