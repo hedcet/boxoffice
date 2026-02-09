@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,18:00,PalaxiCinemasHiliteMallThrissur,Recliner,₹599,59,10,Hindi,2D
+Kozhikode,22:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹499,117,9,Hindi,2D
+Ernakulam,21:35,PVRForumMallNH47Kochi,Luxe,₹400,16,0,Hindi,2D
+Ernakulam,21:35,PVRForumMallNH47Kochi,LuxePrime,₹500,42,5,Hindi,2D
+Trivandrum,22:20,PVRLULULuluInternationalShoppingMallTrivandrum,Luxe,₹450,24,4,Hindi,2D
+Trivandrum,22:20,PVRLULULuluInternationalShoppingMallTrivandrum,LuxePrime,₹650,26,7,Hindi,2D
