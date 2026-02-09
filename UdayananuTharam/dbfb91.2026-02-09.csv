@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,12:00,KavithaTheatre4K3DDolby71Ernakulam,GoldCircle,₹180,306,0,Malayalam,2D
+Ernakulam,12:00,KavithaTheatre4K3DDolby71Ernakulam,SilverCircle,₹160,770,0,Malayalam,2D
+Ernakulam,12:00,KavithaTheatre4K3DDolby71Ernakulam,Sofa,₹300,23,0,Malayalam,2D
+Kottayam,14:00,DhanyaRemyaKottayam,Dhanya,₹135,465,0,Malayalam,2D
+Ernakulam,15:00,KavithaTheatre4K3DDolby71Ernakulam,GoldCircle,₹180,306,0,Malayalam,2D
+Ernakulam,15:00,KavithaTheatre4K3DDolby71Ernakulam,SilverCircle,₹160,770,0,Malayalam,2D
+Ernakulam,15:00,KavithaTheatre4K3DDolby71Ernakulam,Sofa,₹300,23,0,Malayalam,2D
+Kottayam,18:00,DhanyaRemyaKottayam,Dhanya,₹135,465,0,Malayalam,2D
+Kollam,18:15,ChellamTheatre4KLaserDolbyAtmosPuthoor,Gold,₹180,229,11,Malayalam,2D
+Kollam,18:15,ChellamTheatre4KLaserDolbyAtmosPuthoor,Diamond,₹350.01,44,0,Malayalam,2D
+Kollam,18:15,ChellamTheatre4KLaserDolbyAtmosPuthoor,Silver,₹150,418,7,Malayalam,2D
+Thrissur,14:45,BavanaMoviesLaserDolbyAtmosNearNewBusStandKunnamkulam,FirstClass,₹120,300,0,Malayalam,2D
+Thrissur,14:45,BavanaMoviesLaserDolbyAtmosNearNewBusStandKunnamkulam,Balcony,₹150,219,0,Malayalam,2D
