@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:20,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹300,48,0,Japanese,4DX2D
+Trivandrum,11:20,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹350,32,12,Japanese,4DX2D
+Trivandrum,16:35,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹300,48,2,Japanese,4DX2D
+Trivandrum,16:35,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹350,32,0,Japanese,4DX2D
+Kannur,16:50,CinepolisSecuraCentreKannur,Normal,₹160,20,0,Japanese,2D
+Kannur,16:50,CinepolisSecuraCentreKannur,Executive,₹180,62,0,Japanese,2D
+Kannur,16:50,CinepolisSecuraCentreKannur,Premium,₹200,30,8,Japanese,2D
+Ernakulam,17:00,PVRForumMallNH47Kochi,Classic,₹149,14,0,Japanese,2D
+Ernakulam,17:00,PVRForumMallNH47Kochi,Elite,₹149,125,18,Japanese,2D
+Ernakulam,17:00,PVRForumMallNH47Kochi,Recliner,₹199,8,2,Japanese,2D
+Ernakulam,17:05,CinepolisCentreSquareMallErnakulamKochi,Normal,₹300,13,6,Japanese,IMAX2D
+Ernakulam,17:05,CinepolisCentreSquareMallErnakulamKochi,Executive,₹350,54,0,Japanese,IMAX2D
+Ernakulam,17:05,CinepolisCentreSquareMallErnakulamKochi,Premium,₹400,162,7,Japanese,IMAX2D
+Ernakulam,21:20,CinepolisCentreSquareMallErnakulamKochi,Normal,₹300,13,6,Japanese,IMAX2D
+Ernakulam,21:20,CinepolisCentreSquareMallErnakulamKochi,Executive,₹350,54,0,Japanese,IMAX2D
+Ernakulam,21:20,CinepolisCentreSquareMallErnakulamKochi,Premium,₹400,162,7,Japanese,IMAX2D
