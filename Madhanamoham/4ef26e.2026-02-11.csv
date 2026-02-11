@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,11:00,SreedeviSCinemasKodaly,Royal,₹230,21,0,Malayalam,2D
+Thrissur,11:00,SreedeviSCinemasKodaly,Red,₹150,151,0,Malayalam,2D
+Idukki,11:30,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹130,172,0,Malayalam,2D
+Ernakulam,10:30,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,142,0,Malayalam,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,129,0,Malayalam,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,129,0,Malayalam,2D
