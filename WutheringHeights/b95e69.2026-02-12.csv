@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,19:00,PVRForumMallNH47Kochi,Classic,₹150,14,0,English,2D
+Ernakulam,19:00,PVRForumMallNH47Kochi,Elite,₹190,125,22,English,2D
+Ernakulam,19:00,PVRForumMallNH47Kochi,Recliner,₹400,8,5,English,2D
+Ernakulam,21:25,CinepolisCentreSquareMallErnakulamKochi,Normal,₹400,13,6,English,IMAX2D
+Ernakulam,21:25,CinepolisCentreSquareMallErnakulamKochi,Executive,₹450,54,0,English,IMAX2D
+Ernakulam,21:25,CinepolisCentreSquareMallErnakulamKochi,Premium,₹500,162,2,English,IMAX2D
+Ernakulam,22:00,PVRForumMallNH47Kochi,Classic,₹150,14,0,English,2D
+Ernakulam,22:00,PVRForumMallNH47Kochi,Elite,₹190,125,4,English,2D
+Ernakulam,22:00,PVRForumMallNH47Kochi,Recliner,₹400,8,0,English,2D
