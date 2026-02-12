@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,11:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
+Kottayam,11:00,DhanyaRemyaChanganassery,Remya,₹135,196,0,Malayalam,2D
+Kottayam,11:30,UniversalTheatreAC4K3DDolby71SoundPala,RoyalCircle,₹150,401,13,Malayalam,2D
+Idukki,12:00,SagaraTheatre4KAtmosKattappana,Royal,₹129,158,0,Malayalam,2D
+Kottayam,14:30,UniversalTheatreAC4K3DDolby71SoundPala,RoyalCircle,₹150,401,13,Malayalam,2D
+Kottayam,18:15,UniversalTheatreAC4K3DDolby71SoundPala,RoyalCircle,₹150,401,13,Malayalam,2D
+Kottayam,18:30,AnchaniCinemas4KDolbyAtmosPallickathodu,Platinum,₹250,12,0,Malayalam,2D
+Kottayam,18:30,AnchaniCinemas4KDolbyAtmosPallickathodu,Gold,₹150,117,10,Malayalam,2D
+Kottayam,21:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
+Kottayam,21:00,UniversalTheatreAC4K3DDolby71SoundPala,RoyalCircle,₹150,401,13,Malayalam,2D
+Kottayam,21:00,DhanyaRemyaChanganassery,Remya,₹135,196,0,Malayalam,2D
+Malappuram,11:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,129,0,Malayalam,2D
+Malappuram,18:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,129,0,Malayalam,2D
