@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:00,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,87,0,Tamil,2D
+Kozhikode,13:30,KirthiMudra4KRGBLaserDolbyAtmos,Gold,₹129.8,329,0,Tamil,2D
+Kozhikode,16:30,KirthiMudra4KRGBLaserDolbyAtmos,Gold,₹129.8,329,0,Tamil,2D
+Palakkad,11:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,0,Tamil,2D
+Malappuram,11:15,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Tamil,2D
+Malappuram,11:15,GalaxyCinemas4KAtmosTripleBeam3DPookkottumpadam,Executive,₹129.8,226,0,Tamil,2D
+Malappuram,11:30,MallikaPlexChithralayaAngadipuramPerinthalmanna,Executive,₹100,174,0,Tamil,2D
+Malappuram,14:30,GalaxyCinemas4KAtmosTripleBeam3DPookkottumpadam,Executive,₹129.8,226,0,Tamil,2D
+Palakkad,18:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,0,Tamil,2D
+Malappuram,18:15,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Tamil,2D
+Malappuram,19:15,MallikaPlexChithralayaAngadipuramPerinthalmanna,Executive,₹100,174,0,Tamil,2D
