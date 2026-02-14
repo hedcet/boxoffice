@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,16:30,AnchaniCinemas4KDolbyAtmosPallickathodu,Platinum,₹250,12,0,Malayalam,2D
+Kottayam,16:30,AnchaniCinemas4KDolbyAtmosPallickathodu,Gold,₹150,117,15,Malayalam,2D
+Ernakulam,18:30,VCinemaMCRoadKoothattukulam,Silver,₹150,104,15,Malayalam,2D
+Ernakulam,18:30,VCinemaMCRoadKoothattukulam,Gold,₹170,50,0,Malayalam,2D
