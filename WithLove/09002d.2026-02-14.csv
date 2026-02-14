@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:05,CowmalyaTheatreKozhinjampara,Gold,₹129.8,202,12,Tamil,2D
+Ernakulam,12:40,PVRForumMallNH47Kochi,Classic,₹190,22,6,Tamil,2D
+Ernakulam,12:40,PVRForumMallNH47Kochi,Elite,₹250,85,81,Tamil,2D
+Palakkad,14:00,CowmalyaTheatreKozhinjampara,Gold,₹129.8,202,12,Tamil,2D
+Ernakulam,17:05,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹160,54,7,Tamil,2D
+Ernakulam,17:05,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹200,126,112,Tamil,2D
+Ernakulam,17:05,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹220,74,67,Tamil,2D
+Ernakulam,17:05,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹250,18,18,Tamil,2D
+Ernakulam,17:05,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹450,13,13,Tamil,2D
+Kozhikode,17:45,ARCRoseCinePalaceTripleBeam3DAgastiamuzhiMukkam,Executive,₹129.8,215,0,Tamil,2D
+Palakkad,18:10,CowmalyaTheatreKozhinjampara,Gold,₹129.8,202,19,Tamil,2D
+Trivandrum,19:30,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹210,60,59,Tamil,2D
+Trivandrum,19:30,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹230,39,39,Tamil,2D
+Trivandrum,19:30,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹450,8,8,Tamil,2D
+Palakkad,21:00,CowmalyaTheatreKozhinjampara,Gold,₹129.8,202,16,Tamil,2D
