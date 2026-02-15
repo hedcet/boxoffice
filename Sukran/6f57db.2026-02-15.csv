@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,18:30,GanamTheatreComplex4K3DKattanam,FirstClass,₹140,129,0,Malayalam,2D
+Ernakulam,10:30,PVRForumMallNH47Kochi,Classic,₹150,14,0,Malayalam,2D
+Ernakulam,10:30,PVRForumMallNH47Kochi,Elite,₹190,125,16,Malayalam,2D
+Ernakulam,10:30,PVRForumMallNH47Kochi,Recliner,₹400,8,0,Malayalam,2D
+Kannur,10:30,SumangaliCinemasAnnurRoadPayyanur,DiamondCircle,₹130,141,0,Malayalam,2D
+Alappuzha,17:15,AECCinemas4KATMOS360SurroundAlappuzha,Gold,₹150,98,16,Malayalam,2D
+Alappuzha,17:15,AECCinemas4KATMOS360SurroundAlappuzha,Platinum,₹200,15,4,Malayalam,2D
+Kottayam,18:35,PuthettuCinemasPala,Platinumrecliner,₹354,12,4,,
+Kottayam,18:35,PuthettuCinemasPala,DiamondfamilyCouch,₹304,6,0,,
+Kottayam,18:35,PuthettuCinemasPala,GoldsofaSlider,₹254,14,11,,
+Kottayam,18:35,PuthettuCinemasPala,Silver,₹204,128,1,,
