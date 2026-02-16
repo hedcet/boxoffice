@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Pathanamthitta,10:00,TrinityMovieMaxPathanamthitta,Special,₹150,110,6,Malayalam,2D
+Pathanamthitta,10:00,AiswaryaTheatrePathanamthitta,Special,₹150,392,13,Malayalam,2D
+Idukki,10:00,SagaraTheatre4KAtmosKattappana,Platinum,₹190,38,0,Malayalam,2D
+Idukki,10:00,SagaraTheatre4KAtmosKattappana,Gold,₹129,375,0,Malayalam,2D
+Alappuzha,11:00,GanamTheatreComplex4K3DKattanam,FirstClass,₹150,191,0,Malayalam,2D
+Idukki,11:00,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹130,172,0,Malayalam,2D
+Ernakulam,12:00,SavitaCinemaKochi,Deluxe,₹160,555,35,Malayalam,2D
+Alappuzha,18:20,CCinemasChengannur,Chimmy,₹160,135,5,Malayalam,2D
+Malappuram,18:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,129,0,Malayalam,2D
+Kollam,18:30,MinervaEmpireCinemazChandamukkuKottarakara,Gold,₹150,457,0,Malayalam,2D
