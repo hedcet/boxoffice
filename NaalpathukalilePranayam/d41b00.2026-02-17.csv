@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,10:00,SagaraTheatre4KAtmosKattappana,Platinum,₹190,38,38,Malayalam,2D
+Idukki,10:00,SagaraTheatre4KAtmosKattappana,Gold,₹129,375,375,Malayalam,2D
+Alappuzha,11:00,GanamTheatreComplex4K3DKattanam,FirstClass,₹150,191,191,Malayalam,2D
+Idukki,11:00,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹130,172,0,Malayalam,2D
+Ernakulam,12:00,SavitaCinemaKochi,Deluxe,₹160,555,36,Malayalam,2D
+Alappuzha,18:30,GanamTheatreComplex4K3DKattanam,FirstClass,₹150,191,10,Malayalam,2D
+Alappuzha,18:31,CCinemasChengannur,Chimmy,₹160,135,4,Malayalam,2D
+Kollam,18:30,MinervaEmpireCinemazChandamukkuKottarakara,Gold,₹150,457,0,Malayalam,2D
