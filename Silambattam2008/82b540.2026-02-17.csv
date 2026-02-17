@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,0,Tamil,2D
+Malappuram,11:15,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Tamil,2D
+Palakkad,18:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,5,Tamil,2D
+Malappuram,18:15,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Tamil,2D
