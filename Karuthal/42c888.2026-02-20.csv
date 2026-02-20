@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,14:45,BoscoCinemasKuravilangad,Economy,₹100,14,14,Malayalam,2D
+Kottayam,14:45,BoscoCinemasKuravilangad,Executive,₹150,123,123,Malayalam,2D
+Kottayam,14:45,BoscoCinemasKuravilangad,Gold,₹200,6,6,Malayalam,2D
+Kottayam,18:15,BoscoCinemasKuravilangad,Economy,₹100,14,14,Malayalam,2D
+Kottayam,18:15,BoscoCinemasKuravilangad,Executive,₹150,123,8,Malayalam,2D
+Kottayam,18:15,BoscoCinemasKuravilangad,Gold,₹200,6,0,Malayalam,2D
+Kottayam,18:15,JoSAC2K3D71DolbySoundPala,RoyalCircle,₹150,286,0,Malayalam,2D
