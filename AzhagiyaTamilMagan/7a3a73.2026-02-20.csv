@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:30,KrishnaCineplex4KRGBLaser3DDolbyAtmos,StarCircle,₹110,123,0,Tamil,2D
+Palakkad,11:30,MagicFramesDeviCinemasCherpulassery,Gold,₹125,399,0,Tamil,2D
+Palakkad,14:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,Tamil,2D
+Palakkad,14:30,KrishnaCineplex4KRGBLaser3DDolbyAtmos,StarCircle,₹110,123,0,Tamil,2D
+Palakkad,14:30,MagicFramesDeviCinemasCherpulassery,Gold,₹125,399,0,Tamil,2D
+Palakkad,18:30,MagicFramesDeviCinemasCherpulassery,Gold,₹125,399,0,Tamil,2D
+Palakkad,21:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,Tamil,2D
+Palakkad,21:30,MagicFramesDeviCinemasCherpulassery,Gold,₹125,399,0,Tamil,2D
+Palakkad,18:00,CowmalyaTheatreKozhinjampara,Gold,₹129.8,460,11,Tamil,2D
+Palakkad,21:00,CowmalyaTheatreKozhinjampara,Gold,₹129.8,460,11,Tamil,2D
