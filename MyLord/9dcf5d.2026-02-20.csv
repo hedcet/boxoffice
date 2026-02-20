@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,14:45,Gmax4KUtsavAradhanaComplex,Royal,₹150,333,333,Tamil,2D
+Ernakulam,18:15,EVMCinemaAC4KRGBLaser3DPerumbavoor,Executive1,₹180,14,14,Tamil,2D
+Ernakulam,18:15,EVMCinemaAC4KRGBLaser3DPerumbavoor,Deluxe,₹160,128,128,Tamil,2D
+Kollam,21:15,Gmax4KUtsavAradhanaComplex,Royal,₹150,333,0,Tamil,2D
