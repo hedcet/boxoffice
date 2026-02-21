@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,12:00,AriesplexSLCinemasCinionicDolbyAtmos,Platinum,₹50,42,42,Tamil,2D
+Trivandrum,12:00,AriesplexSLCinemasCinionicDolbyAtmos,Gold,₹50,293,95,Tamil,2D
+Trivandrum,12:00,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹50,365,33,Tamil,2D
+Palakkad,12:01,AromaTheatrePalakkad,Red,₹30,246,23,Tamil,2D
+Palakkad,12:01,AromaTheatrePalakkad,Blue,₹30,320,9,Tamil,2D
+Thrissur,12:10,PalaxiCinemasHiliteMallThrissur,Recliner,₹1,27,18,Tamil,2D
+Thrissur,12:10,PalaxiCinemasHiliteMallThrissur,Premium,₹1,155,138,Tamil,2D
+Thrissur,12:10,PalaxiCinemasHiliteMallThrissur,Executive,₹1,37,2,Tamil,2D
+Kozhikode,12:10,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹1,55,45,Tamil,2D
+Kozhikode,12:10,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹1,169,128,Tamil,2D
+Kozhikode,12:10,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹1,75,20,Tamil,2D
+Kozhikode,12:10,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹1,32,10,Tamil,2D
