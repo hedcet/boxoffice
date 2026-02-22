@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,10:50,GowriMovieHouseAC2KDolby71OotraKollengode,FirstClass,₹105,129,0,Tamil,2D
+Palakkad,11:15,JayabharathTheatreKarayankaduVadakkencherry,FirstClass,₹120,165,0,Tamil,2D
+Palakkad,13:50,GowriMovieHouseAC2KDolby71OotraKollengode,FirstClass,₹105,129,0,Tamil,2D
+Palakkad,17:50,GowriMovieHouseAC2KDolby71OotraKollengode,FirstClass,₹105,129,0,Tamil,2D
+Palakkad,18:15,JayabharathTheatreKarayankaduVadakkencherry,FirstClass,₹120,165,1,Tamil,2D
+Palakkad,20:50,GowriMovieHouseAC2KDolby71OotraKollengode,FirstClass,₹105,129,0,Tamil,2D
