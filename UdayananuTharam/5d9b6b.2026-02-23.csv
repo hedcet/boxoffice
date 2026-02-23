@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,11:00,DhanyaRemyaKottayam,Dhanya,₹135,465,0,Malayalam,2D
+Kottayam,14:00,DhanyaRemyaKottayam,Dhanya,₹135,465,0,Malayalam,2D
+Palakkad,14:30,DreambigCinemasMayukhVadakkencherry,Recliner,₹400,12,0,Malayalam,2D
+Palakkad,14:30,DreambigCinemasMayukhVadakkencherry,Platinum,₹180,84,0,Malayalam,2D
+Palakkad,14:30,DreambigCinemasMayukhVadakkencherry,Diamond,₹120,198,0,Malayalam,2D
+Kottayam,18:00,DhanyaRemyaKottayam,Dhanya,₹135,465,0,Malayalam,2D
+Palakkad,18:30,DreambigCinemasMayukhVadakkencherry,Recliner,₹400,12,0,Malayalam,2D
+Palakkad,18:30,DreambigCinemasMayukhVadakkencherry,Platinum,₹180,84,0,Malayalam,2D
+Palakkad,18:30,DreambigCinemasMayukhVadakkencherry,Diamond,₹120,198,0,Malayalam,2D
+Kottayam,21:00,DhanyaRemyaKottayam,Dhanya,₹135,465,0,Malayalam,2D
+Palakkad,11:00,ShivasakthiCinemasDolbyAtmosNearNellipuzhaJunctionMannarkkad,Executive,₹105,256,0,Malayalam,2D
+Palakkad,18:30,ShivasakthiCinemasDolbyAtmosNearNellipuzhaJunctionMannarkkad,Executive,₹105,256,0,Malayalam,2D
