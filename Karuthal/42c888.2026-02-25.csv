@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,18:15,BoscoCinemasKuravilangad,Economy,₹100,14,14,Malayalam,2D
+Kottayam,18:15,BoscoCinemasKuravilangad,Executive,₹150,123,0,Malayalam,2D
+Kottayam,18:15,BoscoCinemasKuravilangad,Gold,₹200,6,0,Malayalam,2D
