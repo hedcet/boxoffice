@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,23,0,Malayalam,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,88,0,Malayalam,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,17,0,Malayalam,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹250,14,0,Malayalam,2D
+Thrissur,15:30,PalaxiCinemasHiliteMallThrissur,Recliner,₹450,27,0,Malayalam,2D
+Thrissur,15:30,PalaxiCinemasHiliteMallThrissur,Premium,₹220,155,0,Malayalam,2D
+Thrissur,15:30,PalaxiCinemasHiliteMallThrissur,Executive,₹140,37,0,Malayalam,2D
+Ernakulam,15:30,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹150,54,1,Malayalam,2D
+Ernakulam,15:30,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹170,126,1,Malayalam,2D
+Ernakulam,15:30,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹190,74,20,Malayalam,2D
+Ernakulam,15:30,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹220,18,0,Malayalam,2D
+Ernakulam,15:30,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹350,13,4,Malayalam,2D
+Thrissur,18:45,DavisTheatreThrissur,Gold,₹202,118,0,,
+Thrissur,18:45,DavisTheatreThrissur,Gold,₹202,13,0,,
+Thrissur,21:30,DavisTheatreThrissur,Gold,₹202,118,0,,
+Thrissur,21:30,DavisTheatreThrissur,Gold,₹202,13,0,,
