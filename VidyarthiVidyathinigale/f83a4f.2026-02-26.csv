@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,10:00,PalaxiCinemasHiliteMallThrissur,Recliner,₹450,27,0,Malayalam,2D
+Thrissur,10:00,PalaxiCinemasHiliteMallThrissur,Premium,₹220,155,0,Malayalam,2D
+Thrissur,10:00,PalaxiCinemasHiliteMallThrissur,Executive,₹140,37,0,Malayalam,2D
+Palakkad,11:30,PriyadarsiniCinemas4KBarcoLaserDolbyAtomos,Executive,₹150,50,0,Malayalam,2D
+Palakkad,11:30,PriyadarsiniCinemas4KBarcoLaserDolbyAtomos,DressCircle,₹105,182,0,Malayalam,2D
+Palakkad,14:30,PriyadarsiniCinemas4KBarcoLaserDolbyAtomos,Executive,₹150,50,0,Malayalam,2D
+Palakkad,14:30,PriyadarsiniCinemas4KBarcoLaserDolbyAtomos,DressCircle,₹105,182,0,Malayalam,2D
+Kozhikode,16:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,27,0,Malayalam,2D
+Kozhikode,16:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,165,0,Malayalam,2D
+Kozhikode,16:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,40,0,Malayalam,2D
+Alappuzha,19:10,PANCINEMAS4KRGBLASERAlappuzha,Gold,₹180,136,0,Kannada,2D
+Alappuzha,19:10,PANCINEMAS4KRGBLASERAlappuzha,Platinum,₹250,37,0,Kannada,2D
+Alappuzha,21:40,PANCINEMAS4KRGBLASERAlappuzha,Gold,₹180,136,0,Kannada,2D
+Alappuzha,21:40,PANCINEMAS4KRGBLASERAlappuzha,Platinum,₹250,37,0,Kannada,2D
