@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,14:45,VelvetViewCinemasKumarakom4KLaserDolbyAtmos,Platinum,₹250,14,0,Malayalam,2D
+Kottayam,14:45,VelvetViewCinemasKumarakom4KLaserDolbyAtmos,Gold,₹150,146,0,Malayalam,2D
+Kottayam,14:45,VelvetViewCinemasKumarakom4KLaserDolbyAtmos,Silver,₹100,36,0,Malayalam,2D
+Palakkad,18:00,PriyadarsiniCinemas4KBarcoLaserDolbyAtomos,Executive,₹150,50,0,Malayalam,2D
+Palakkad,18:00,PriyadarsiniCinemas4KBarcoLaserDolbyAtomos,DressCircle,₹105,182,11,Malayalam,2D
+Kottayam,18:00,DhanyaRemyaKottayam,Dhanya,₹135,465,0,Malayalam,2D
+Kottayam,18:00,DhanyaRemyaChanganassery,Dhanya,₹135,423,0,Malayalam,2D
+Pathanamthitta,18:00,DhanyaRemyaPathanamthitta,DhanyaCircle,₹135,422,0,Malayalam,2D
+Ernakulam,19:00,VanithaCineplexRGBLaser4K3DATMOSEdappally,Screen4,₹180,154,43,Malayalam,2D
+Ernakulam,19:00,VanithaCineplexRGBLaser4K3DATMOSEdappally,Screen4Sofa,₹260,15,2,Malayalam,2D
+Kottayam,21:00,DhanyaRemyaKottayam,Remya,₹135,251,0,Malayalam,2D
+Kottayam,21:00,DhanyaRemyaKottayam,Dhanya,₹135,465,11,Malayalam,2D
+Kottayam,21:00,DhanyaRemyaChanganassery,Dhanya,₹135,423,0,Malayalam,2D
+Pathanamthitta,21:00,DhanyaRemyaPathanamthitta,DhanyaCircle,₹135,422,0,Malayalam,2D
