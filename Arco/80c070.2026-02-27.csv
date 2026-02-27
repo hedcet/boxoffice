@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,13:15,PVRForumMallNH47Kochi,Classic,₹150,22,0,French,2D
+Ernakulam,13:15,PVRForumMallNH47Kochi,Elite,₹190,85,11,French,2D
+Ernakulam,20:05,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹150,39,0,French,2D
+Ernakulam,20:05,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹170,91,0,French,2D
+Ernakulam,20:05,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹190,51,19,French,2D
+Ernakulam,20:05,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹220,17,0,French,2D
+Ernakulam,20:05,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹350,10,2,French,2D
+Ernakulam,20:10,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹150,39,0,French,2D
+Ernakulam,20:10,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹170,91,2,French,2D
+Ernakulam,20:10,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹190,51,19,French,2D
+Ernakulam,20:10,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹220,17,1,French,2D
+Ernakulam,20:10,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹350,10,2,French,2D
+Trivandrum,20:25,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹170,65,8,French,2D
+Trivandrum,20:25,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹190,34,0,French,2D
+Trivandrum,20:25,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹330,8,3,French,2D
