@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,15:00,LadderCinemasManjeri,Executive,₹150,74,0,Tamil,2D
+Thrissur,16:15,PalaxiCinemasHiliteMallThrissur,Recliner,₹450,19,0,Tamil,2D
+Thrissur,16:15,PalaxiCinemasHiliteMallThrissur,Premium,₹220,101,10,Tamil,2D
+Thrissur,16:15,PalaxiCinemasHiliteMallThrissur,Executive,₹140,25,0,Tamil,2D
+Malappuram,19:30,LadderCinemasManjeri,Executive,₹150,74,0,Tamil,2D
+Palakkad,11:00,GowriMovieHouseAC2KDolby71OotraKollengode,FirstClass,₹105,129,0,Tamil,2D
+Palakkad,14:00,GowriMovieHouseAC2KDolby71OotraKollengode,FirstClass,₹105,129,0,Tamil,2D
+Palakkad,18:00,GowriMovieHouseAC2KDolby71OotraKollengode,FirstClass,₹105,129,0,Tamil,2D
+Palakkad,21:00,GowriMovieHouseAC2KDolby71OotraKollengode,FirstClass,₹105,129,0,Tamil,2D
+Palakkad,21:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,10,Tamil,2D
