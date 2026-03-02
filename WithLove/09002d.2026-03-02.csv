@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,14:30,VCinemasSreeDeviDurgaDolbyAtmosPalakkad,Standard,₹129.8,126,8,Tamil,2D
+Ernakulam,11:25,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹150,54,0,Tamil,2D
+Ernakulam,11:25,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹170,108,6,Tamil,2D
+Ernakulam,11:25,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹190,106,4,Tamil,2D
+Ernakulam,11:25,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹220,19,0,Tamil,2D
+Ernakulam,11:25,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹350,14,4,Tamil,2D
