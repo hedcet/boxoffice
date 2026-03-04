@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,14:30,VCinemasSreeDeviDurgaDolbyAtmosPalakkad,Standard,₹129.8,126,7,Tamil,2D
+Ernakulam,11:25,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹150,54,0,Tamil,2D
+Ernakulam,11:25,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹170,108,0,Tamil,2D
+Ernakulam,11:25,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹190,106,7,Tamil,2D
+Ernakulam,11:25,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹220,19,0,Tamil,2D
+Ernakulam,11:25,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹350,14,4,Tamil,2D
+Trivandrum,16:00,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹170,77,19,Tamil,2D
+Trivandrum,16:00,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹190,45,3,Tamil,2D
+Trivandrum,16:00,PVRLULULuluInternationalShoppingMallTrivandrum,ExtraLegroomRows,₹220,15,4,Tamil,2D
+Trivandrum,16:00,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹330,7,2,Tamil,2D
+Trivandrum,19:00,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,60,4,Tamil,2D
+Trivandrum,19:00,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹190,39,3,Tamil,2D
+Trivandrum,19:00,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,8,0,Tamil,2D
+Trivandrum,22:00,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,60,6,Tamil,2D
+Trivandrum,22:00,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,39,10,Tamil,2D
+Trivandrum,22:00,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹350,8,1,Tamil,2D
