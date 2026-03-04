@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,15:00,PankajTheatreAlappuzha,Balcony,₹150,339,0,Malayalam,2D
+Alappuzha,15:00,PankajTheatreAlappuzha,FirstClass,₹129.78,525,0,Malayalam,2D
+Alappuzha,18:30,PankajTheatreAlappuzha,Balcony,₹150,339,0,Malayalam,2D
+Alappuzha,18:30,PankajTheatreAlappuzha,FirstClass,₹129.78,525,0,Malayalam,2D
+Alappuzha,21:30,PankajTheatreAlappuzha,Balcony,₹150,339,0,Malayalam,2D
+Alappuzha,21:30,PankajTheatreAlappuzha,FirstClass,₹129.78,525,0,Malayalam,2D
+Trivandrum,13:00,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹170,65,12,Malayalam,2D
+Trivandrum,13:00,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹190,34,5,Malayalam,2D
+Trivandrum,13:00,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹330,8,3,Malayalam,2D
+Ernakulam,15:00,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,142,0,Malayalam,2D
+Ernakulam,22:35,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹150,54,0,Malayalam,2D
+Ernakulam,22:35,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹170,108,0,Malayalam,2D
+Ernakulam,22:35,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹190,106,36,Malayalam,2D
+Ernakulam,22:35,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹220,19,6,Malayalam,2D
+Ernakulam,22:35,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹350,14,8,Malayalam,2D
