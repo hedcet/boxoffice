@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,16:15,PalaxiCinemasHiliteMallThrissur,Recliner,₹450,19,0,Tamil,2D
+Thrissur,16:15,PalaxiCinemasHiliteMallThrissur,Premium,₹220,101,10,Tamil,2D
+Thrissur,16:15,PalaxiCinemasHiliteMallThrissur,Executive,₹140,25,0,Tamil,2D
