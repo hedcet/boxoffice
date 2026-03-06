@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,21:30,KalabhavanTheatreTripleBeam3DTrivandrum,Platinum,₹140,135,34,Malayalam,2D
+Trivandrum,21:30,KalabhavanTheatreTripleBeam3DTrivandrum,Gold,₹120,275,28,Malayalam,2D
+Trivandrum,21:30,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,2,Malayalam,2D
+Trivandrum,15:15,PVRLULULuluInternationalShoppingMallTrivandrum,Luxe,₹450,24,5,Malayalam,2D
+Trivandrum,15:15,PVRLULULuluInternationalShoppingMallTrivandrum,LuxePrime,₹600,26,8,Malayalam,2D
+Ernakulam,16:35,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹150,54,0,Malayalam,2D
+Ernakulam,16:35,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹170,108,0,Malayalam,2D
+Ernakulam,16:35,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹190,106,28,Malayalam,2D
+Ernakulam,16:35,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹220,19,0,Malayalam,2D
+Ernakulam,16:35,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹350,14,2,Malayalam,2D
+Trivandrum,18:20,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹170,119,4,Malayalam,2D
+Trivandrum,18:20,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹190,100,0,Malayalam,2D
+Trivandrum,18:20,PVRLULULuluInternationalShoppingMallTrivandrum,ExtraLegroomRows,₹220,20,2,Malayalam,2D
+Trivandrum,18:20,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹330,11,0,Malayalam,2D
+Ernakulam,19:20,PVRLuluLuluInternationalShoppingMallKochi,Luxe,₹400,16,0,Malayalam,2D
+Ernakulam,19:20,PVRLuluLuluInternationalShoppingMallKochi,LuxePrime,₹450,40,15,Malayalam,2D
