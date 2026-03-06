@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,16:15,AriesplexSLCinemasCinionicDolbyAtmos,Gold,₹150,51,0,Malayalam,2D
+Trivandrum,16:15,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹129.8,152,21,Malayalam,2D
+Alappuzha,18:30,SaniaCinemasEramalloor,LuxeLane,₹170,44,24,Malayalam,2D
+Alappuzha,18:30,SaniaCinemasEramalloor,GoldClass,₹150,153,17,Malayalam,2D
+Alappuzha,19:15,EVMGRANDRGBLaser4K3DDOLBYCherthala,Platinum,₹170,91,2,Malayalam,2D
+Alappuzha,19:15,EVMGRANDRGBLaser4K3DDOLBYCherthala,Gold,₹150,280,42,Malayalam,2D
+Ernakulam,10:55,PVRForumMallNH47Kochi,Classic,₹129,22,0,Malayalam,2D
+Ernakulam,10:55,PVRForumMallNH47Kochi,Elite,₹129,85,35,Malayalam,2D
