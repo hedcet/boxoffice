@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,14:00,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Executive,₹125,423,0,Malayalam,2D
+Ernakulam,19:25,ShenoysKochi,Diamond,₹180,71,31,Malayalam,2D
+Ernakulam,19:40,ShenoysKochi,Diamond,₹180,71,0,Malayalam,2D
+Ernakulam,14:00,PVRLuluLuluInternationalShoppingMallKochi,Luxe,₹400,16,1,Malayalam,2D
+Ernakulam,14:00,PVRLuluLuluInternationalShoppingMallKochi,LuxePrime,₹450,40,14,Malayalam,2D
+Ernakulam,21:45,PVRForumMallNH47Kochi,Classic,₹149,28,0,Malayalam,2D
+Ernakulam,21:45,PVRForumMallNH47Kochi,Elite,₹149,111,9,Malayalam,2D
+Ernakulam,21:45,PVRForumMallNH47Kochi,Recliner,₹199,8,4,Malayalam,2D
+Trivandrum,22:30,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹170,65,5,Malayalam,2D
+Trivandrum,22:30,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹190,34,3,Malayalam,2D
+Trivandrum,22:30,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹330,8,4,Malayalam,2D
+Ernakulam,22:40,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹150,54,0,Malayalam,2D
+Ernakulam,22:40,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹170,108,0,Malayalam,2D
+Ernakulam,22:40,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹190,106,8,Malayalam,2D
+Ernakulam,22:40,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹220,19,8,Malayalam,2D
+Ernakulam,22:40,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹350,14,4,Malayalam,2D
