@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Tamil,2D
+Palakkad,14:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Tamil,2D
+Thrissur,15:00,ThavoosTheatreKunnamkulam2K71Dolby,FirstClass,₹105,318,318,Tamil,2D
+Thrissur,15:00,ThavoosTheatreKunnamkulam2K71Dolby,Balcony,₹150,112,112,Tamil,2D
+Palakkad,18:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Tamil,2D
+Thrissur,18:30,ThavoosTheatreKunnamkulam2K71Dolby,FirstClass,₹105,318,318,Tamil,2D
+Thrissur,18:30,ThavoosTheatreKunnamkulam2K71Dolby,Balcony,₹150,112,112,Tamil,2D
+Palakkad,21:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,86,Tamil,2D
+Kozhikode,21:00,PeeCeeTalkies4KAtmosMukkam,Executive,₹105,294,46,Tamil,2D
+Thrissur,21:30,ThavoosTheatreKunnamkulam2K71Dolby,FirstClass,₹105,318,318,Tamil,2D
+Thrissur,21:30,ThavoosTheatreKunnamkulam2K71Dolby,Balcony,₹150,112,112,Tamil,2D
+Kozhikode,23:30,PeeCeeTalkies4KAtmosMukkam,Executive,₹105,294,46,Tamil,2D
