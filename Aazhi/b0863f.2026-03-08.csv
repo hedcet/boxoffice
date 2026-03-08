@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,15:00,ThavoosTheatreKunnamkulam2K71Dolby,FirstClass,₹105,318,318,Tamil,2D
+Thrissur,15:00,ThavoosTheatreKunnamkulam2K71Dolby,Balcony,₹150,112,112,Tamil,2D
+Thrissur,18:30,ThavoosTheatreKunnamkulam2K71Dolby,FirstClass,₹105,318,318,Tamil,2D
+Thrissur,18:30,ThavoosTheatreKunnamkulam2K71Dolby,Balcony,₹150,112,112,Tamil,2D
+Thrissur,21:30,ThavoosTheatreKunnamkulam2K71Dolby,FirstClass,₹105,318,318,Tamil,2D
+Thrissur,21:30,ThavoosTheatreKunnamkulam2K71Dolby,Balcony,₹150,112,112,Tamil,2D
