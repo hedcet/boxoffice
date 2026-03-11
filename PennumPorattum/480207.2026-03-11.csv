@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,14:30,AromaTheatrePalakkad,Red,₹129.8,246,4,Malayalam,2D
+Palakkad,14:30,AromaTheatrePalakkad,Blue,₹105,320,8,Malayalam,2D
+Palakkad,18:00,AromaTheatrePalakkad,Red,₹129.8,246,0,Malayalam,2D
+Palakkad,18:00,AromaTheatrePalakkad,Blue,₹105,320,0,Malayalam,2D
+Ernakulam,16:10,PVROberonMosqueRoadKochi,Classic,₹140,36,0,Malayalam,2D
+Ernakulam,16:10,PVROberonMosqueRoadKochi,ClassicPlus,₹160,81,21,Malayalam,2D
