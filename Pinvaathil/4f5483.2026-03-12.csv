@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,12:00,SangeetaCinemaKochi,BlueCircle,₹160,187,18,Malayalam,2D
+Palakkad,14:15,NewAromaTheatrePalakkad,PlatinumCircle,₹129.8,200,0,Malayalam,2D
+Palakkad,14:15,NewAromaTheatrePalakkad,DiamondCircle,₹105,229,0,Malayalam,2D
+Alappuzha,14:30,KairaliSreeTheaterAlappuzha,Platinum,₹140,305,0,Malayalam,2D
+Kozhikode,16:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹499,117,0,Malayalam,2D
+Palakkad,18:00,NewAromaTheatrePalakkad,PlatinumCircle,₹129.8,200,0,Malayalam,2D
+Palakkad,18:00,NewAromaTheatrePalakkad,DiamondCircle,₹105,229,0,Malayalam,2D
+Kozhikode,18:00,KairaliSreeTheatreKozhikode,Platinum,₹200,214,0,Malayalam,2D
+Kozhikode,18:00,KairaliSreeTheatreKozhikode,Gold,₹165,486,0,Malayalam,2D
+Alappuzha,18:15,CherthalaKairaliSreeTheatre,Platinum,₹140,262,0,Malayalam,2D
+Ernakulam,18:30,KairaliSreeTheaterNorthParvur,Platinum,₹120,245,0,Malayalam,2D
+Alappuzha,21:30,KairaliSreeTheaterAlappuzha,Platinum,₹140,305,0,Malayalam,2D
+Kozhikode,22:15,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹450,29,1,Malayalam,2D
+Kozhikode,22:15,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹220,135,1,Malayalam,2D
+Kozhikode,22:15,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹170,27,1,Malayalam,2D
+Kozhikode,22:15,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹250,24,1,Malayalam,2D
