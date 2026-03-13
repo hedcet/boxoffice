@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:30,DreamsAttingal,Recliner,₹200,15,3,Malayalam,2D
+Trivandrum,11:30,DreamsAttingal,Sofa,₹100,120,4,Malayalam,2D
+Trivandrum,14:30,DreamsAttingal,Recliner,₹200,15,2,Malayalam,2D
+Trivandrum,14:30,DreamsAttingal,Sofa,₹100,120,7,Malayalam,2D
+Trivandrum,18:30,DreamsAttingal,Recliner,₹200,15,2,Malayalam,2D
+Trivandrum,18:30,DreamsAttingal,Sofa,₹100,120,10,Malayalam,2D
+Trivandrum,21:30,DreamsAttingal,Recliner,₹200,15,6,Malayalam,2D
+Trivandrum,21:30,DreamsAttingal,Sofa,₹100,120,10,Malayalam,2D
+Trivandrum,21:30,KalabhavanTheatreTripleBeam3DTrivandrum,Platinum,₹140,135,29,Malayalam,2D
+Trivandrum,21:30,KalabhavanTheatreTripleBeam3DTrivandrum,Gold,₹120,275,21,Malayalam,2D
+Ernakulam,15:55,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹92,39,0,Malayalam,2D
+Ernakulam,15:55,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹129,91,5,Malayalam,2D
+Ernakulam,15:55,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹139,48,23,Malayalam,2D
+Ernakulam,15:55,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹149,16,3,Malayalam,2D
+Ernakulam,15:55,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹260,9,6,Malayalam,2D
