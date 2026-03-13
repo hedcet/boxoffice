@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,18:15,GangaCineHouse4KDolbyAtmosAttingal,Yamuna,₹129.7,330,0,Malayalam,2D
+Trivandrum,18:30,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Platinum,₹165,22,13,Malayalam,2D
+Trivandrum,18:30,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Gold,₹145,144,29,Malayalam,2D
