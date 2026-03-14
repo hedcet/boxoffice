@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,18:15,GoodwillCinemas4KRGBLASERAtmos3DKallara,Recliner,₹300,17,2,Malayalam,2D
+Kottayam,18:15,GoodwillCinemas4KRGBLASERAtmos3DKallara,Gold,₹150,174,8,Malayalam,2D
+Ernakulam,16:40,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹92,54,0,Malayalam,2D
+Ernakulam,16:40,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹129,108,8,Malayalam,2D
+Ernakulam,16:40,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹139,106,56,Malayalam,2D
+Ernakulam,16:40,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹149,19,12,Malayalam,2D
+Ernakulam,16:40,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹260,14,13,Malayalam,2D
+Trivandrum,22:35,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹170,88,10,Malayalam,2D
+Trivandrum,22:35,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹230,70,32,Malayalam,2D
+Trivandrum,22:35,PVRLULULuluInternationalShoppingMallTrivandrum,ExtraLegroomRows,₹260,14,8,Malayalam,2D
+Trivandrum,22:35,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹500,8,6,Malayalam,2D
