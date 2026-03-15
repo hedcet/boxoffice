@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:30,AriesplexSLCinemasCinionicDolbyAtmos,Gold,₹250,4,0,Malayalam,2D
+Trivandrum,11:30,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹150,139,0,Malayalam,2D
+Trivandrum,11:30,AriesplexSLCinemasCinionicDolbyAtmos,Economy,₹100,13,0,Malayalam,2D
+Ernakulam,18:00,SangeetaCinemaKochi,BlueCircle,₹160,187,18,Malayalam,2D
+Malappuram,19:00,GovindaCinemasUnipolarBeam3DKuttippuramRoadEdappal,Diamond,₹105,143,0,Malayalam,2D
