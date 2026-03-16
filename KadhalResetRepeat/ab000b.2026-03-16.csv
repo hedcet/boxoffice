@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,12:00,RagamTheatre4KRGBLaserDolbyAtmosThrissur,Balcony,₹150,197,0,Tamil,2D
+Thrissur,12:00,RagamTheatre4KRGBLaserDolbyAtmosThrissur,FirstClass,₹105,550,0,Tamil,2D
+Thrissur,12:00,RagamTheatre4KRGBLaserDolbyAtmosThrissur,Balcony,₹200,197,0,Tamil,2D
+Thrissur,12:00,RagamTheatre4KRGBLaserDolbyAtmosThrissur,FirstClass,₹150,550,0,Tamil,2D
+Thrissur,18:00,RagamTheatre4KRGBLaserDolbyAtmosThrissur,Balcony,₹150,197,0,Tamil,2D
+Thrissur,18:00,RagamTheatre4KRGBLaserDolbyAtmosThrissur,FirstClass,₹105,550,0,Tamil,2D
+Thrissur,18:00,RagamTheatre4KRGBLaserDolbyAtmosThrissur,Balcony,₹200,197,0,Tamil,2D
+Thrissur,18:00,RagamTheatre4KRGBLaserDolbyAtmosThrissur,FirstClass,₹150,550,0,Tamil,2D
