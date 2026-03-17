@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,GowryMovieHouseKollengode,FirstClass,₹105,204,0,Tamil,2D
+Palakkad,11:30,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,3,Tamil,2D
+Palakkad,14:00,GowryMovieHouseKollengode,FirstClass,₹105,204,0,Tamil,2D
+Palakkad,18:00,GowryMovieHouseKollengode,FirstClass,₹105,204,0,Tamil,2D
+Palakkad,21:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,Tamil,2D
+Palakkad,21:00,GowryMovieHouseKollengode,FirstClass,₹105,204,0,Tamil,2D
