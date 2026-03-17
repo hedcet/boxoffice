@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,15:15,ShenoysKochi,Diamond,₹180,71,21,Malayalam,2D
+Ernakulam,18:00,ShenoysKochi,Diamond,₹180,71,71,Malayalam,2D
+Ernakulam,16:10,PVRLuluLuluInternationalShoppingMallKochi,Luxe,₹350,16,0,Malayalam,2D
+Ernakulam,16:10,PVRLuluLuluInternationalShoppingMallKochi,LuxePrime,₹400,40,9,Malayalam,2D
+Ernakulam,22:10,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹92,54,0,Malayalam,2D
+Ernakulam,22:10,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹129,108,3,Malayalam,2D
+Ernakulam,22:10,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹139,106,21,Malayalam,2D
+Ernakulam,22:10,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹149,19,0,Malayalam,2D
+Ernakulam,22:10,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹260,14,7,Malayalam,2D
