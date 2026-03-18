@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,14:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Platinum,₹200,38,2,Malayalam,2D
+Thrissur,14:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Executive,₹125,230,0,Malayalam,2D
+Kollam,11:00,MagicFramesArchanaCinemas4KLaserAtmosAnchal,Silver,₹129.8,184,0,Malayalam,2D
+Kollam,11:00,MagicFramesArchanaCinemas4KLaserAtmosAnchal,Gold,₹200,34,0,Malayalam,2D
+Kollam,11:00,MagicFramesArchanaCinemas4KLaserAtmosAnchal,Platinum,₹300,9,0,Malayalam,2D
+Kollam,14:00,MagicFramesArchanaCinemas4KLaserAtmosAnchal,Silver,₹129.8,184,0,Malayalam,2D
+Kollam,14:00,MagicFramesArchanaCinemas4KLaserAtmosAnchal,Gold,₹200,34,0,Malayalam,2D
+Kollam,14:00,MagicFramesArchanaCinemas4KLaserAtmosAnchal,Platinum,₹300,9,0,Malayalam,2D
