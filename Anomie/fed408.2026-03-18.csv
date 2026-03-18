@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:00,DreamsAttingal,Recliner,₹350,11,11,Malayalam,2D
+Trivandrum,11:00,DreamsAttingal,Sofa,₹200,60,60,Malayalam,2D
+Trivandrum,14:00,DreamsAttingal,Recliner,₹350,11,11,Malayalam,2D
+Trivandrum,14:00,DreamsAttingal,Sofa,₹200,60,60,Malayalam,2D
+Trivandrum,18:30,DreamsAttingal,Recliner,₹350,11,11,Malayalam,2D
+Trivandrum,18:30,DreamsAttingal,Sofa,₹200,60,60,Malayalam,2D
+Trivandrum,21:30,KalabhavanTheatreTripleBeam3DTrivandrum,Platinum,₹140,135,40,Malayalam,2D
+Trivandrum,21:30,KalabhavanTheatreTripleBeam3DTrivandrum,Gold,₹120,275,30,Malayalam,2D
