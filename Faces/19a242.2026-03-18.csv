@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,11:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Platinum,₹200,38,0,Malayalam,2D
+Thrissur,11:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Executive,₹125,230,5,Malayalam,2D
+Thrissur,12:00,BCinemasVylathoor4KRGBLaser3DDolbyAtmos,Luxury,₹250,14,0,Malayalam,2D
+Thrissur,12:00,BCinemasVylathoor4KRGBLaser3DDolbyAtmos,Executive,₹150,175,0,Malayalam,2D
+Ernakulam,13:55,PVRForumMallNH47Kochi,Classic,₹150,14,0,Malayalam,2D
+Ernakulam,13:55,PVRForumMallNH47Kochi,Elite,₹200,125,16,Malayalam,2D
+Ernakulam,13:55,PVRForumMallNH47Kochi,Recliner,₹400,8,0,Malayalam,2D
+Trivandrum,22:20,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹92,65,24,Malayalam,2D
+Trivandrum,22:20,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹139,34,18,Malayalam,2D
+Trivandrum,22:20,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹260,8,5,Malayalam,2D
