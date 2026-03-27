@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,12:00,SreeMurukaMoviesACChendrapinni,GoldClass,₹120,258,0,Malayalam,2D
+Thrissur,15:00,SreeMurukaMoviesACChendrapinni,GoldClass,₹120,258,0,Malayalam,2D
+Thrissur,18:30,SreeMurukaMoviesACChendrapinni,GoldClass,₹120,258,0,Malayalam,2D
+Alappuzha,18:30,SaniaCinemasEramalloor,LuxeLane,₹170,44,32,Malayalam,2D
+Alappuzha,18:30,SaniaCinemasEramalloor,GoldClass,₹150,153,31,Malayalam,2D
+Thrissur,21:30,SreeMurukaMoviesACChendrapinni,GoldClass,₹120,258,0,Malayalam,2D
