@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Wayanad,11:30,PentaCinemasPulpally,GoldClass,₹105,120,2,Malayalam,2D
+Wayanad,14:30,PentaCinemasPulpally,GoldClass,₹105,120,2,Malayalam,2D
+Wayanad,17:30,PentaCinemasPulpally,GoldClass,₹105,120,2,Malayalam,2D
+Ernakulam,19:00,HighstreetCinemaCantonHighstreetMuvattupuzha,Gold,₹150,121,0,Malayalam,2D
+Wayanad,20:45,PentaCinemasPulpally,GoldClass,₹105,120,2,Malayalam,2D
+Ernakulam,12:00,CinepolisCentreSquareMallErnakulamKochi,Normal,₹200,13,0,Malayalam,2D
+Ernakulam,12:00,CinepolisCentreSquareMallErnakulamKochi,Executive,₹220,26,0,Malayalam,2D
+Ernakulam,12:00,CinepolisCentreSquareMallErnakulamKochi,Premium,₹240,67,2,Malayalam,2D
