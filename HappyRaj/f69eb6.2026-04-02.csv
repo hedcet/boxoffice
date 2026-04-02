@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,11:15,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹160,80,0,Tamil,2D
+Palakkad,13:45,ThankarajTheatreKollengode,FirstClass,₹105,137,0,Tamil,2D
+Palakkad,18:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,0,Tamil,2D
+Palakkad,21:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,0,Tamil,2D
+Malappuram,11:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,129,0,Tamil,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,129,0,Tamil,2D
