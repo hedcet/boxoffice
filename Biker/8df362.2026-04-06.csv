@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,11:15,DevaCarnivalCinemasDMallPunalur,Recliner,₹290,10,0,Tamil,2D
+Kollam,11:15,DevaCarnivalCinemasDMallPunalur,Sofa,₹200,12,0,Tamil,2D
+Kollam,11:15,DevaCarnivalCinemasDMallPunalur,Silver,₹129.7,161,0,Tamil,2D
+Kozhikode,16:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,29,1,Tamil,2D
+Kozhikode,16:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,135,13,Tamil,2D
+Kozhikode,16:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,27,1,Tamil,2D
+Kozhikode,16:30,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹270,24,1,Tamil,2D
+Kozhikode,22:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹599,102,11,Tamil,2D
+Palakkad,11:00,CowmalyaTheatreKozhinjampara,Gold,₹129.8,202,12,Telugu,2D
+Kozhikode,11:30,PeeCeeTalkies4KAtmosMukkam,Executive,₹129.8,139,17,Telugu,2D
+Alappuzha,17:15,PANCINEMAS4KRGBLASERAlappuzha,Gold,₹180,138,0,Telugu,2D
+Alappuzha,17:15,PANCINEMAS4KRGBLASERAlappuzha,Platinum,₹250,34,0,Telugu,2D
