@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:30,DreambigKAMMoviesVadakkencherry,Platinum,₹120,423,0,Malayalam,2D
+Kozhikode,13:45,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,23,0,Malayalam,2D
+Kozhikode,13:45,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,88,0,Malayalam,2D
+Kozhikode,13:45,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,17,0,Malayalam,2D
+Kozhikode,13:45,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹270,14,0,Malayalam,2D
+Palakkad,14:30,DreambigKAMMoviesVadakkencherry,Platinum,₹120,423,0,Malayalam,2D
+Trivandrum,18:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Platinum,₹165,22,1,Malayalam,2D
+Trivandrum,18:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Gold,₹145,144,0,Malayalam,2D
+Malappuram,11:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Malayalam,2D
+Thrissur,12:45,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹140,22,12,Malayalam,2D
+Thrissur,12:45,INOXSobhaCityMallPuzhakkalThrissur,Club,₹220,66,9,Malayalam,2D
+Thrissur,12:45,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹220,28,6,Malayalam,2D
+Thrissur,12:45,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹400,10,5,Malayalam,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Malayalam,2D
