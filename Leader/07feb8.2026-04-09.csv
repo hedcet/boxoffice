@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,27,0,Tamil,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,146,1,Tamil,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,25,4,Tamil,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹270,22,0,Tamil,2D
+Palakkad,14:30,KRVMoviesKottayi,FirstClass,₹129.8,125,0,Tamil,2D
+Palakkad,14:30,VCinemasSreeDeviDurga4KRGBLaserDolbyAtmos,Standard,₹129.8,126,28,Tamil,2D
+Palakkad,18:00,VCinemasSreeDeviDurga4KRGBLaserDolbyAtmos,Standard,₹129.8,126,5,Tamil,2D
+Palakkad,21:15,KRVMoviesKottayi,FirstClass,₹129.8,125,125,Tamil,2D
+Malappuram,11:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Tamil,2D
+Palakkad,14:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,234,192,Tamil,2D
+Palakkad,14:00,RavirajComplexACPalakkadKozhinjampara,Recliner,₹300,7,2,Tamil,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Tamil,2D
+Palakkad,18:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,234,192,Tamil,2D
+Palakkad,18:00,RavirajComplexACPalakkadKozhinjampara,Recliner,₹300,15,10,Tamil,2D
+Palakkad,21:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,234,192,Tamil,2D
+Palakkad,21:00,RavirajComplexACPalakkadKozhinjampara,Recliner,₹300,15,10,Tamil,2D
