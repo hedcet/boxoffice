@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:30,PriyaCinemasComplex4KAtmosLaser3DPalakkad,Executive,₹160,50,2,Tamil,2D
+Palakkad,11:30,PriyaCinemasComplex4KAtmosLaser3DPalakkad,DressCircle,₹105,193,7,Tamil,2D
+Kozhikode,22:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,23,0,Tamil,2D
+Kozhikode,22:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,88,0,Tamil,2D
+Kozhikode,22:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,17,0,Tamil,2D
+Kozhikode,22:00,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹270,14,0,Tamil,2D
+Palakkad,14:00,CowmalyaTheatreKozhinjampara,Gold,₹129.8,202,12,Tamil,2D
+Trivandrum,21:40,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹210,60,4,Tamil,2D
+Trivandrum,21:40,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹230,39,20,Tamil,2D
+Trivandrum,21:40,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹450,8,4,Tamil,2D
