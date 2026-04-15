@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:45,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,27,0,Tamil,2D
+Kozhikode,10:45,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,165,0,Tamil,2D
+Kozhikode,10:45,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,40,0,Tamil,2D
+Wayanad,11:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹129.8,224,0,Tamil,2D
+Wayanad,14:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹129.8,224,0,Tamil,2D
