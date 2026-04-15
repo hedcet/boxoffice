@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,11:00,SreeDhanyaCinemax,Executive,₹300,14,0,Malayalam,2D
+Kollam,11:00,SreeDhanyaCinemax,Platinum,₹150,217,0,Malayalam,2D
+Kollam,11:00,SreeDhanyaCinemax,PlatinumFamily,₹150,113,0,Malayalam,2D
+Kollam,14:30,SreeDhanyaCinemax,Executive,₹300,14,0,Malayalam,2D
+Kollam,14:30,SreeDhanyaCinemax,Platinum,₹150,217,0,Malayalam,2D
+Kollam,14:30,SreeDhanyaCinemax,PlatinumFamily,₹150,113,0,Malayalam,2D
+Kollam,18:30,SreeDhanyaCinemax,Executive,₹300,14,0,Malayalam,2D
+Kollam,18:30,SreeDhanyaCinemax,Platinum,₹150,217,0,Malayalam,2D
+Kollam,18:30,SreeDhanyaCinemax,PlatinumFamily,₹150,113,0,Malayalam,2D
+Kollam,21:30,SreeDhanyaCinemax,Executive,₹300,14,0,Malayalam,2D
+Kollam,21:30,SreeDhanyaCinemax,Platinum,₹150,217,0,Malayalam,2D
+Kollam,21:30,SreeDhanyaCinemax,PlatinumFamily,₹150,113,0,Malayalam,2D
