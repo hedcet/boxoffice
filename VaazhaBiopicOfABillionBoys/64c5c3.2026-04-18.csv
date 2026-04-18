@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,19:00,CCinemasChengannur,Chirry,₹160,101,8,Malayalam,2D
+Trivandrum,23:59,SreePadmanabhaTheatre4KEastFort,SClassRecliner,₹300,12,0,Malayalam,2D
+Trivandrum,23:59,SreePadmanabhaTheatre4KEastFort,Balcony,₹150,229,0,Malayalam,2D
+Trivandrum,23:59,SreePadmanabhaTheatre4KEastFort,FirstCircle,₹140,168,0,Malayalam,2D
