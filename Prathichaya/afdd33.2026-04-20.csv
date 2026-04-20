@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,13:30,RDCinemasMundakayam,Executive,₹140,150,6,Malayalam,2D
+Kottayam,13:30,RDCinemasMundakayam,Economy,₹100,16,0,Malayalam,2D
+Ernakulam,18:55,PVRForumMallNH47Kochi,Classic,₹190,22,0,Malayalam,2D
+Ernakulam,18:55,PVRForumMallNH47Kochi,Elite,₹230,85,22,Malayalam,2D
