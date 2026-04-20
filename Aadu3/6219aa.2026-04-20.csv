@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,14:45,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,9,Malayalam,2D
+Trivandrum,18:30,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,28,Malayalam,2D
+Idukki,18:45,AashirvadCineplexxThodupuzha,Platinum,₹210,9,4,Malayalam,2D
+Idukki,18:45,AashirvadCineplexxThodupuzha,Gold,₹185,55,23,Malayalam,2D
+Idukki,18:45,AashirvadCineplexxThodupuzha,Silver,₹155,115,9,Malayalam,2D
+Ernakulam,18:15,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹180,39,1,Malayalam,2D
+Ernakulam,18:15,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹200,91,15,Malayalam,2D
+Ernakulam,18:15,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹220,51,12,Malayalam,2D
+Ernakulam,18:15,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹250,17,2,Malayalam,2D
+Ernakulam,18:15,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹400,10,8,Malayalam,2D
+Trivandrum,18:45,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹180,60,18,Malayalam,2D
+Trivandrum,18:45,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹250,39,33,Malayalam,2D
+Trivandrum,18:45,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹500,8,6,Malayalam,2D
