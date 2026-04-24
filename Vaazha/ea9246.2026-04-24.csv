@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,11:30,AshokCineHouseParavur,Audi1,₹150,200,1,Malayalam,2D
+Kollam,14:30,AshokCineHouseParavur,Audi1,₹150,200,17,Malayalam,2D
+Kollam,18:15,AshokCineHouseParavur,Audi1,₹150,200,1,Malayalam,2D
+Kollam,21:30,AshokCineHouseParavur,Audi1,₹150,200,1,Malayalam,2D
+Palakkad,11:30,CityCinema2KACAnaikatti,Premium,₹100,236,0,Malayalam,2D
+Palakkad,14:30,CityCinema2KACAnaikatti,Premium,₹100,236,0,Malayalam,2D
+Palakkad,18:30,CityCinema2KACAnaikatti,Premium,₹100,236,0,Malayalam,2D
+Palakkad,21:30,CityCinema2KACAnaikatti,Premium,₹100,236,9,Malayalam,2D
