@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,13:45,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹180,39,0,English,2D
+Ernakulam,13:45,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹200,91,14,English,2D
+Ernakulam,13:45,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹220,48,13,English,2D
+Ernakulam,13:45,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹250,16,2,English,2D
+Ernakulam,13:45,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹400,9,7,English,2D
