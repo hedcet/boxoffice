@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,18:30,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,19,Malayalam,2D
+Trivandrum,16:10,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹180,60,4,Malayalam,2D
+Trivandrum,16:10,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,39,16,Malayalam,2D
+Trivandrum,16:10,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,8,4,Malayalam,2D
+Trivandrum,16:10,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹180,60,13,Malayalam,2D
+Trivandrum,16:10,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹250,39,23,Malayalam,2D
+Trivandrum,16:10,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹500,8,3,Malayalam,2D
