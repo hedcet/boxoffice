@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,10:00,SaiCineplexxOachira,Diamond,₹250,27,4,Malayalam,2D
+Alappuzha,10:00,SaiCineplexxOachira,Gold,₹180,126,0,Malayalam,2D
+Kollam,10:00,MYCinemasHJComplexKarunagapally,Classic,₹150,118,17,Malayalam,2D
+Kollam,10:00,GmaxCinemasJerome3D71JBLKollam,Green,₹160,86,7,Malayalam,2D
+Wayanad,11:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹129.8,224,0,Malayalam,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,27,0,Malayalam,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,165,0,Malayalam,2D
+Kozhikode,13:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,40,0,Malayalam,2D
+Wayanad,14:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹129.8,224,0,Malayalam,2D
+Wayanad,17:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹129.8,224,0,Malayalam,2D
+Wayanad,20:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹129.8,224,0,Malayalam,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Malayalam,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Malayalam,2D
