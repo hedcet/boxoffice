@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,12:45,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,29,1,Malayalam,2D
+Kozhikode,12:45,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,135,1,Malayalam,2D
+Kozhikode,12:45,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,27,1,Malayalam,2D
+Kozhikode,12:45,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹270,24,1,Malayalam,2D
+Idukki,14:00,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹130,80,10,Malayalam,2D
+Trivandrum,14:45,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,25,Malayalam,2D
+Thrissur,21:00,PalaxiCinemasHiLITEMallThrissur,Recliner,₹450,25,1,Malayalam,2D
+Thrissur,21:00,PalaxiCinemasHiLITEMallThrissur,Premium,₹220,133,14,Malayalam,2D
+Thrissur,21:00,PalaxiCinemasHiLITEMallThrissur,Executive,₹140,37,0,Malayalam,2D
+Trivandrum,10:35,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹180,65,4,Malayalam,2D
+Trivandrum,10:35,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹210,34,17,Malayalam,2D
+Trivandrum,10:35,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹450,8,3,Malayalam,2D
+Malappuram,11:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Malayalam,2D
+Malappuram,18:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Malayalam,2D
