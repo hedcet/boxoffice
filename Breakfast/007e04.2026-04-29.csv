@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,GeethaCinemax2K3DKozhinjampara,Standard,₹120,231,0,Tamil,2D
+Palakkad,11:15,NewAromaTheatrePalakkad,PlatinumCircle,₹129.8,200,4,Tamil,2D
+Palakkad,11:15,NewAromaTheatrePalakkad,DiamondCircle,₹105,229,3,Tamil,2D
+Kozhikode,16:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,27,0,Tamil,2D
+Kozhikode,16:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,146,0,Tamil,2D
+Kozhikode,16:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,25,0,Tamil,2D
+Kozhikode,16:30,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹270,22,0,Tamil,2D
+Malappuram,11:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,129,0,Tamil,2D
