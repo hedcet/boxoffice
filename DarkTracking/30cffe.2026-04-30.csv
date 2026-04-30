@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,12:45,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,29,1,Malayalam,2D
+Kozhikode,12:45,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,135,13,Malayalam,2D
+Kozhikode,12:45,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,27,1,Malayalam,2D
+Kozhikode,12:45,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹270,24,1,Malayalam,2D
+Trivandrum,14:45,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,19,Malayalam,2D
+Idukki,17:00,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹160,80,13,Malayalam,2D
+Malappuram,11:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Malayalam,2D
+Malappuram,18:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Malayalam,2D
