@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,10:00,SaiCineplexxOachira,Diamond,₹250,27,0,Malayalam,2D
+Alappuzha,10:00,SaiCineplexxOachira,Gold,₹180,126,0,Malayalam,2D
+Kollam,10:30,MYCinemasHJComplexKarunagapally,Classic,₹150,118,26,Malayalam,2D
+Wayanad,17:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹129.8,224,0,Malayalam,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Malayalam,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Malayalam,2D
