@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,14:15,TheCrownTheatreCalicut,Audi2,₹180,148,52,Hindi,2D
+Kozhikode,22:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,27,6,Hindi,2D
+Kozhikode,22:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,165,31,Hindi,2D
+Kozhikode,22:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,40,4,Hindi,2D
+Ernakulam,11:00,CinepolisVIPCentreSquareMallErnakulamKochi,VipExecutive,₹550,20,2,Hindi,2D
+Ernakulam,11:00,CinepolisVIPCentreSquareMallErnakulamKochi,VipPremium,₹600,53,34,Hindi,2D
+Trivandrum,21:35,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹240,70,29,Hindi,2D
+Trivandrum,21:35,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹270,51,46,Hindi,2D
+Trivandrum,21:35,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹550,7,6,Hindi,2D
+Ernakulam,22:00,PVRForumMallNH47Kochi,Classic,₹170,22,13,Hindi,2D
+Ernakulam,22:00,PVRForumMallNH47Kochi,Elite,₹260,85,73,Hindi,2D
