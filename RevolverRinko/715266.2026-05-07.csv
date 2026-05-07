@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,11:00,SeemaCineplexPathanapuram,Signature,₹160,44,4,Malayalam,2D
+Kollam,11:00,SeemaCineplexPathanapuram,Classic,₹140,75,0,Malayalam,2D
+Kollam,11:00,SeemaCineplexPathanapuram,Economy,₹105,20,0,Malayalam,2D
+Kollam,14:30,SeemaCineplexPathanapuram,Signature,₹160,44,2,Malayalam,2D
+Kollam,14:30,SeemaCineplexPathanapuram,Classic,₹140,75,0,Malayalam,2D
+Kollam,14:30,SeemaCineplexPathanapuram,Economy,₹105,20,0,Malayalam,2D
+Kollam,18:30,SeemaCineplexPathanapuram,Signature,₹160,44,0,Malayalam,2D
+Kollam,18:30,SeemaCineplexPathanapuram,Classic,₹140,75,0,Malayalam,2D
+Kollam,18:30,SeemaCineplexPathanapuram,Economy,₹105,20,0,Malayalam,2D
+Kollam,21:30,SeemaCineplexPathanapuram,Signature,₹160,44,0,Malayalam,2D
+Kollam,21:30,SeemaCineplexPathanapuram,Classic,₹140,75,0,Malayalam,2D
+Kollam,21:30,SeemaCineplexPathanapuram,Economy,₹105,20,0,Malayalam,2D
