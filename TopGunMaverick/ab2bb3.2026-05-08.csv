@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹290,223,17,English,2D
+Kozhikode,10:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹290,51,5,English,2D
+Kozhikode,22:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹290,223,17,English,2D
+Kozhikode,22:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹290,51,5,English,2D
