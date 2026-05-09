@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,14:30,MagicFramesDeviCinemasCherpulassery,Gold,₹140,399,5,Malayalam,2D
+Palakkad,10:55,GowryMovieHouseKollengode,FirstClass,₹120,129,0,Malayalam,2D
+Palakkad,13:55,GowryMovieHouseKollengode,FirstClass,₹120,129,1,Malayalam,2D
+Palakkad,17:55,GowryMovieHouseKollengode,FirstClass,₹120,129,0,Malayalam,2D
+Palakkad,20:55,GowryMovieHouseKollengode,FirstClass,₹120,129,0,Malayalam,2D
