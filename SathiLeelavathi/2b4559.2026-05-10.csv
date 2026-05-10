@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,14:45,AashirvadCineplexxKozhikode,Platinum,₹220,27,0,Telugu,2D
+Kozhikode,14:45,AashirvadCineplexxKozhikode,Gold,₹200,60,0,Telugu,2D
+Trivandrum,09:45,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹190,65,4,Telugu,2D
+Trivandrum,09:45,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹210,34,17,Telugu,2D
+Trivandrum,09:45,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹450,8,3,Telugu,2D
