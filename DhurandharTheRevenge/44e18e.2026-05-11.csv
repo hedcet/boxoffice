@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,12:00,CinepolisVIPCentreSquareMallErnakulamKochi,VipExecutive,₹450,20,2,Hindi,2D
+Ernakulam,12:00,CinepolisVIPCentreSquareMallErnakulamKochi,VipPremium,₹500,53,13,Hindi,2D
+Ernakulam,18:00,CinepolisVIPCentreSquareMallErnakulamKochi,VipExecutive,₹450,22,0,Hindi,2D
+Ernakulam,18:00,CinepolisVIPCentreSquareMallErnakulamKochi,VipPremium,₹500,54,20,Hindi,2D
+Trivandrum,21:25,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹180,65,12,Hindi,2D
+Trivandrum,21:25,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹250,34,26,Hindi,2D
+Trivandrum,21:25,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹500,8,7,Hindi,2D
+Ernakulam,22:00,PVRForumMallNH47Kochi,Classic,₹150,22,0,Hindi,2D
+Ernakulam,22:00,PVRForumMallNH47Kochi,Elite,₹210,85,28,Hindi,2D
