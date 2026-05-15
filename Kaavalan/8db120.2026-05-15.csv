@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:30,DreambigKAMMoviesVadakkencherry,Platinum,₹120,423,0,Tamil,2D
+Palakkad,14:30,DreambigKAMMoviesVadakkencherry,Platinum,₹120,423,0,Tamil,2D
+Wayanad,14:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹129.8,224,0,Tamil,2D
+Wayanad,17:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹129.8,224,0,Tamil,2D
+Palakkad,18:00,VrindavanTheatreKozhinjampara,RedCircle,₹129.8,33,33,Tamil,2D
+Palakkad,18:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,2,Tamil,2D
+Palakkad,18:30,DreambigKAMMoviesVadakkencherry,Platinum,₹120,423,0,Tamil,2D
+Wayanad,20:30,VeenaVarnaTheatreMananthavadyAC2K3D,Diamond,₹129.8,224,4,Tamil,2D
+Palakkad,21:00,VrindavanTheatreKozhinjampara,RedCircle,₹129.8,33,33,Tamil,2D
+Palakkad,21:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,2,Tamil,2D
+Palakkad,21:30,DreambigKAMMoviesVadakkencherry,Platinum,₹120,423,0,Tamil,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Tamil,2D
+Malappuram,18:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Tamil,2D
+Malappuram,21:45,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Tamil,2D
