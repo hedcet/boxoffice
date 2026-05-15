@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,11:30,LibertyParadiseThalassery,Mini,₹129.8,250,177,Malayalam,2D
+Kannur,14:45,LibertyParadiseThalassery,Mini,₹129.8,250,175,Malayalam,2D
+Alappuzha,18:30,SwathyScreensNooranad,Premium,₹160,140,0,Malayalam,2D
+Alappuzha,18:30,SwathyScreensNooranad,GoldPlus,₹220,12,0,Malayalam,2D
