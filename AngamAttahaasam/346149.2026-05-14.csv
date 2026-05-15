@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,10:15,PalaxiCinemasPerinthalmanna,Slider,₹250,11,0,Malayalam,2D
+Malappuram,10:15,PalaxiCinemasPerinthalmanna,Premium,₹129,121,13,Malayalam,2D
+Malappuram,10:15,PalaxiCinemasPerinthalmanna,Executive,₹99,17,0,Malayalam,2D
+Palakkad,11:00,ShivasakthiCinemasDolbyAtmosNearNellipuzhaJunctionMannarkkad,Executive,₹105,162,0,Malayalam,2D
+Palakkad,18:30,ShivasakthiCinemasDolbyAtmosNearNellipuzhaJunctionMannarkkad,Executive,₹105,162,0,Malayalam,2D
