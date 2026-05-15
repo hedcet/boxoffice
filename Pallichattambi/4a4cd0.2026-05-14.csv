@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,18:30,SanthoshCinemaDolby71Kattappana,RoyalCircle,₹105,268,6,Malayalam,2D
+Idukki,21:30,SanthoshCinemaDolby71Kattappana,RoyalCircle,₹105,268,3,Malayalam,2D
+Trivandrum,13:45,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹190,70,4,Malayalam,2D
+Trivandrum,13:45,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹220,51,4,Malayalam,2D
+Trivandrum,13:45,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,7,4,Malayalam,2D
