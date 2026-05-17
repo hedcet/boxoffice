@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,17:30,ShenoysKochi,Diamond,₹220,71,2,English,2D
+Trivandrum,13:50,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹200,70,24,English,2D
+Trivandrum,13:50,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹250,51,40,English,2D
+Trivandrum,13:50,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,7,6,English,2D
+Ernakulam,18:50,PVRForumMallNH47Kochi,Classic,₹210,14,0,English,2D
+Ernakulam,18:50,PVRForumMallNH47Kochi,Elite,₹270,125,71,English,2D
+Ernakulam,18:50,PVRForumMallNH47Kochi,Recliner,₹600,8,8,English,2D
+Ernakulam,23:00,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹200,39,0,English,2D
+Ernakulam,23:00,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹220,91,4,English,2D
+Ernakulam,23:00,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹240,51,6,English,2D
+Ernakulam,23:00,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹270,17,2,English,2D
+Ernakulam,23:00,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹500,10,2,English,2D
