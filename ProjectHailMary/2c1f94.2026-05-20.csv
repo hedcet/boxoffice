@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,15:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹599,102,12,English,2D
+Thrissur,16:45,PalaxiCinemasHiLITEMallThrissur,Recliner,₹450,25,0,English,2D
+Thrissur,16:45,PalaxiCinemasHiLITEMallThrissur,Premium,₹220,129,17,English,2D
+Thrissur,16:45,PalaxiCinemasHiLITEMallThrissur,Executive,₹140,23,1,English,2D
+Ernakulam,10:55,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹180,39,0,English,2D
+Ernakulam,10:55,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹200,91,12,English,2D
+Ernakulam,10:55,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹220,51,19,English,2D
+Ernakulam,10:55,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹250,17,5,English,2D
+Ernakulam,10:55,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹400,10,2,English,2D
+Ernakulam,12:45,PVRForumMallNH47Kochi,Classic,₹150,22,0,English,2D
+Ernakulam,12:45,PVRForumMallNH47Kochi,Elite,₹200,85,6,English,2D
+Trivandrum,16:20,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹190,70,10,English,2D
+Trivandrum,16:20,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹250,51,24,English,2D
+Trivandrum,16:20,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,7,3,English,2D
