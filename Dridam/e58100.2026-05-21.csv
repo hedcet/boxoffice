@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,11:30,LibertyParadiseThalassery,Mini,₹129.8,250,175,Malayalam,2D
+Ernakulam,14:15,PadmaCinemaKochi,Platinum,₹160,178,34,Malayalam,2D
+Kannur,14:45,LibertyParadiseThalassery,Mini,₹129.8,250,179,Malayalam,2D
+Ernakulam,18:30,EVMCinemaAC4KRGBLaser3DPerumbavoor,Executive1,₹180,4,3,Malayalam,2D
+Ernakulam,18:30,EVMCinemaAC4KRGBLaser3DPerumbavoor,Deluxe,₹160,98,23,Malayalam,2D
+Ernakulam,22:00,EVMCinemaAC4KRGBLaser3DPerumbavoor,Executive1,₹180,4,3,Malayalam,2D
+Ernakulam,22:00,EVMCinemaAC4KRGBLaser3DPerumbavoor,Deluxe,₹160,98,16,Malayalam,2D
+Alappuzha,10:00,AECCinemas4KATMOS360SurroundAlappuzha,Gold,₹150,98,1,Malayalam,2D
+Alappuzha,10:00,AECCinemas4KATMOS360SurroundAlappuzha,Platinum,₹200,15,0,Malayalam,2D
+Palakkad,18:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,129,Malayalam,2D
+Ernakulam,20:00,CinepolisCentreSquareMallErnakulamKochi,Normal,₹210,19,4,Malayalam,2D
+Ernakulam,20:00,CinepolisCentreSquareMallErnakulamKochi,Executive,₹230,43,21,Malayalam,2D
+Ernakulam,20:00,CinepolisCentreSquareMallErnakulamKochi,Premium,₹250,44,36,Malayalam,2D
+Palakkad,21:00,RavirajComplexACPalakkadKozhinjampara,FirstClass,₹120,163,129,Malayalam,2D
+Alappuzha,23:59,AECCinemas4KATMOS360SurroundAlappuzha,Gold,₹150,98,0,Malayalam,2D
+Alappuzha,23:59,AECCinemas4KATMOS360SurroundAlappuzha,Platinum,₹200,15,1,Malayalam,2D
