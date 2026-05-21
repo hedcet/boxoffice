@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,12:00,SreeMurukaMoviesACChendrapinni,GoldClass,₹130,258,0,Malayalam,2D
+Thrissur,15:00,SreeMurukaMoviesACChendrapinni,GoldClass,₹130,258,0,Malayalam,2D
+Kozhikode,15:15,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,29,2,Malayalam,2D
+Kozhikode,15:15,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,135,9,Malayalam,2D
+Kozhikode,15:15,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,27,1,Malayalam,2D
+Kozhikode,15:15,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹270,24,1,Malayalam,2D
+Thrissur,18:20,SreeMurukaMoviesACChendrapinni,GoldClass,₹130,258,0,Malayalam,2D
+Thrissur,21:30,SreeMurukaMoviesACChendrapinni,GoldClass,₹130,258,0,Malayalam,2D
+Ernakulam,16:20,CinepolisCentreSquareMallErnakulamKochi,Normal,₹200,19,4,Malayalam,2D
+Ernakulam,16:20,CinepolisCentreSquareMallErnakulamKochi,Executive,₹220,43,0,Malayalam,2D
+Ernakulam,16:20,CinepolisCentreSquareMallErnakulamKochi,Premium,₹240,44,10,Malayalam,2D
