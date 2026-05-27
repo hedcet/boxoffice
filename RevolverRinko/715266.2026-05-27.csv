@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,11:30,DreamCinemaKallachi,Platinum,₹129.7,77,22,Malayalam,2D
+Trivandrum,13:30,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,24,Malayalam,2D
+Ernakulam,14:30,HighstreetCinemaCantonHighstreetMuvattupuzha,Gold,₹150,121,20,Malayalam,2D
+Trivandrum,19:00,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,20,Malayalam,2D
+Ernakulam,21:15,HighstreetCinemaCantonHighstreetMuvattupuzha,Gold,₹150,121,21,Malayalam,2D
+Ernakulam,16:20,PVRForumMallNH47Kochi,Classic,₹150,22,20,Malayalam,2D
+Ernakulam,16:20,PVRForumMallNH47Kochi,Elite,₹190,85,31,Malayalam,2D
+Trivandrum,16:50,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹210,65,14,Malayalam,2D
+Trivandrum,16:50,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹210,34,3,Malayalam,2D
+Trivandrum,16:50,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹450,8,3,Malayalam,2D
