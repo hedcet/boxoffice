@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,12:00,SangeetaCinemaKochi,BlueCircle,₹160,187,18,Malayalam,2D
+Idukki,18:00,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹160,80,10,Malayalam,2D
+Idukki,20:30,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹160,80,15,Malayalam,2D
