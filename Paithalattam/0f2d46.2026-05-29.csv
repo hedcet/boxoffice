@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,27,0,Malayalam,2D
+Kozhikode,10:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,146,7,Malayalam,2D
+Kozhikode,10:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,25,0,Malayalam,2D
+Kozhikode,10:30,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹270,22,0,Malayalam,2D
+Kollam,18:00,GmaxCinemasJerome3D71JBLKollam,Green,₹180,86,27,Malayalam,2D
+Kottayam,18:15,MYCinemasThalayolaparambuKerala,Gold,₹105,144,13,Malayalam,2D
+Ernakulam,10:30,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,142,22,Malayalam,2D
+Kozhikode,11:45,ARCRoseCinePalaceTripleBeam3DAgastiamuzhiMukkam,Executive,₹129.8,161,0,Malayalam,2D
+Ernakulam,12:55,PVRForumMallNH47Kochi,Classic,₹170,14,0,Malayalam,2D
+Ernakulam,12:55,PVRForumMallNH47Kochi,Elite,₹230,125,68,Malayalam,2D
+Ernakulam,12:55,PVRForumMallNH47Kochi,Recliner,₹450,8,3,Malayalam,2D
+Trivandrum,14:30,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹190,70,7,Malayalam,2D
+Trivandrum,14:30,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,51,19,Malayalam,2D
+Trivandrum,14:30,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,7,7,Malayalam,2D
+Kozhikode,17:45,ARCRoseCinePalaceTripleBeam3DAgastiamuzhiMukkam,Executive,₹129.8,161,15,Malayalam,2D
+Kozhikode,18:00,ARCRoseCinePalaceTripleBeam3DAgastiamuzhiMukkam,Executive,₹129.8,161,0,Malayalam,2D
