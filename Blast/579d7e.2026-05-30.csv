@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,21:00,IssacsMariaTheatre,DiamondSofa,₹345,11,1,,
+Ernakulam,21:00,IssacsMariaTheatre,PlatinumRecliner,₹445,16,6,,
+Ernakulam,21:00,IssacsMariaTheatre,Gold,₹240,95,65,,
+Ernakulam,21:00,IssacsMariaTheatre,Silver,₹215,188,84,,
