@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,22:20,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹190,65,4,Malayalam,2D
+Trivandrum,22:20,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹210,34,22,Malayalam,2D
+Trivandrum,22:20,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹450,8,3,Malayalam,2D
+Trivandrum,22:50,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹190,65,9,Malayalam,2D
+Trivandrum,22:50,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹270,34,20,Malayalam,2D
+Trivandrum,22:50,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹450,8,3,Malayalam,2D
