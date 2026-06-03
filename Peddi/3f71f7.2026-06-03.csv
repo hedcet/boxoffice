@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,21:40,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹550,92,17,Telugu,IMAX2D
+Trivandrum,21:40,PVRLULULuluInternationalShoppingMallTrivandrum,ExtraLegroomRows,₹630,23,13,Telugu,IMAX2D
+Trivandrum,21:40,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹700,46,26,Telugu,IMAX2D
+Trivandrum,21:40,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹750,16,7,Telugu,IMAX2D
+Trivandrum,21:40,PVRLULULuluInternationalShoppingMallTrivandrum,PicturePerfect,₹800,0,0,Telugu,IMAX2D
+Ernakulam,22:30,PVRLuluLuluInternationalShoppingMallKochi,Luxe,₹550,16,12,Telugu,2D
+Ernakulam,22:30,PVRLuluLuluInternationalShoppingMallKochi,LuxePrime,₹600,38,36,Telugu,2D
+Ernakulam,22:50,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹450,116,82,Telugu,4DX2D
