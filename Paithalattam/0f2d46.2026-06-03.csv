@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,18:00,GmaxCinemasJerome3D71JBLKollam,Green,₹180,86,7,Malayalam,2D
+Ernakulam,11:50,PVRForumMallNH47Kochi,Classic,₹150,14,2,Malayalam,2D
+Ernakulam,11:50,PVRForumMallNH47Kochi,Elite,₹190,125,22,Malayalam,2D
+Ernakulam,11:50,PVRForumMallNH47Kochi,Recliner,₹400,8,0,Malayalam,2D
+Ernakulam,22:45,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,142,6,Malayalam,2D
