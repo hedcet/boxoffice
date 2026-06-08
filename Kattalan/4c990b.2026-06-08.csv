@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kasaragod,10:30,MoviemaxCircleKasaragod,Max2,₹129.8,173,5,Malayalam,2D
+Palakkad,14:15,AromaScreen2Palakkad,KingCircle,₹129.8,235,1,Malayalam,2D
+Malappuram,14:45,LadderCinemasManjeri,Executive,₹150,74,0,Malayalam,2D
+Kasaragod,16:30,MoviemaxCircleKasaragod,Max2,₹129.8,173,0,Malayalam,2D
+Malappuram,18:30,LadderCinemasManjeri,Executive,₹150,74,4,Malayalam,2D
+Kozhikode,11:45,ARCRoseCinePalaceTripleBeam3DAgastiamuzhiMukkam,Executive,₹129.8,161,4,Malayalam,2D
+Kozhikode,14:45,ARCRoseCinePalaceTripleBeam3DAgastiamuzhiMukkam,Executive,₹129.8,161,7,Malayalam,2D
+Malappuram,16:00,VismayaCinemas4KDolbyAtmosLICRoadPerinthalmanna,Platinum,₹100,111,21,Malayalam,2D
+Kozhikode,18:00,ARCRoseCinePalaceTripleBeam3DAgastiamuzhiMukkam,Executive,₹129.8,161,0,Malayalam,2D
