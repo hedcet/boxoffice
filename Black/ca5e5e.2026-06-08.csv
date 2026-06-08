@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,14:30,MridhangaCineplex4KDolbyAtmosPoovar,Balcony,₹200,72,1,Tamil,2D
+Trivandrum,14:30,MridhangaCineplex4KDolbyAtmosPoovar,Recliner,₹350,15,1,Tamil,2D
+Trivandrum,14:30,MridhangaCineplex4KDolbyAtmosPoovar,Executive,₹150,216,1,Tamil,2D
+Trivandrum,18:00,MridhangaCineplex4KDolbyAtmosPoovar,Balcony,₹200,72,1,Tamil,2D
+Trivandrum,18:00,MridhangaCineplex4KDolbyAtmosPoovar,Recliner,₹350,15,1,Tamil,2D
+Trivandrum,18:00,MridhangaCineplex4KDolbyAtmosPoovar,Executive,₹150,216,1,Tamil,2D
+Trivandrum,21:00,MridhangaCineplex4KDolbyAtmosPoovar,Balcony,₹200,72,1,Tamil,2D
+Trivandrum,21:00,MridhangaCineplex4KDolbyAtmosPoovar,Recliner,₹350,15,1,Tamil,2D
+Trivandrum,21:00,MridhangaCineplex4KDolbyAtmosPoovar,Executive,₹150,216,1,Tamil,2D
