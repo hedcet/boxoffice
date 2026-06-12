@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,18:15,SriKalidasMPlex4KRGBLaserAtmosKattakkada,Sofa,₹200,4,0,Tamil,2D
+Trivandrum,18:15,SriKalidasMPlex4KRGBLaserAtmosKattakkada,Gold,₹180,170,4,Tamil,2D
+Idukki,18:30,EVMCinemasKumily,RoyalCircle,₹129.19,330,143,Tamil,2D
+Ernakulam,19:00,HighstreetCinemaCantonHighstreetMuvattupuzha,Gold,₹150,213,3,Tamil,2D
+Trivandrum,21:30,SriKalidasMPlex4KRGBLaserAtmosKattakkada,Sofa,₹200,4,0,Tamil,2D
+Trivandrum,21:30,SriKalidasMPlex4KRGBLaserAtmosKattakkada,Gold,₹180,170,0,Tamil,2D
+Trivandrum,21:20,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹180,70,11,Tamil,2D
+Trivandrum,21:20,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹250,51,21,Tamil,2D
+Trivandrum,21:20,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹500,7,6,Tamil,2D
+Ernakulam,22:50,PVRForumMallNH47Kochi,Classic,₹170,28,0,Tamil,2D
+Ernakulam,22:50,PVRForumMallNH47Kochi,Elite,₹210,111,42,Tamil,2D
+Ernakulam,22:50,PVRForumMallNH47Kochi,Recliner,₹450,8,8,Tamil,2D
