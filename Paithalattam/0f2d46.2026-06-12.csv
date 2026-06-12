@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,14:30,AashirvadCineplexxPiravom,Recliner,₹350,11,0,Malayalam,2D
+Ernakulam,14:30,AashirvadCineplexxPiravom,Platinum,₹210,88,11,Malayalam,2D
+Ernakulam,14:30,AashirvadCineplexxPiravom,Gold,₹160,61,2,Malayalam,2D
+Ernakulam,15:30,MajesticMultiplex4KRGBLaserNarakkal,Elite,₹140,143,7,Malayalam,2D
+Ernakulam,15:30,MajesticMultiplex4KRGBLaserNarakkal,Executive,₹170,12,0,Malayalam,2D
