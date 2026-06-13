@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,15:00,EVMCinemasKumily,RoyalCircle,₹129.19,330,330,Tamil,2D
+Trivandrum,18:15,SriKalidasMPlex4KRGBLaserAtmosKattakkada,Sofa,₹200,4,0,Tamil,2D
+Trivandrum,18:15,SriKalidasMPlex4KRGBLaserAtmosKattakkada,Gold,₹180,170,16,Tamil,2D
+Idukki,18:30,EVMCinemasKumily,RoyalCircle,₹129.19,330,132,Tamil,2D
+Ernakulam,19:00,HighstreetCinemaCantonHighstreetMuvattupuzha,Gold,₹150,213,0,Tamil,2D
+Trivandrum,21:30,SriKalidasMPlex4KRGBLaserAtmosKattakkada,Sofa,₹200,4,2,Tamil,2D
+Trivandrum,21:30,SriKalidasMPlex4KRGBLaserAtmosKattakkada,Gold,₹180,170,0,Tamil,2D
+Ernakulam,22:50,PVRForumMallNH47Kochi,Classic,₹170,28,1,Tamil,2D
+Ernakulam,22:50,PVRForumMallNH47Kochi,Elite,₹210,111,48,Tamil,2D
+Ernakulam,22:50,PVRForumMallNH47Kochi,Recliner,₹450,8,8,Tamil,2D
+Trivandrum,23:00,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹180,70,31,Tamil,2D
+Trivandrum,23:00,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹250,51,34,Tamil,2D
+Trivandrum,23:00,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹500,7,7,Tamil,2D
