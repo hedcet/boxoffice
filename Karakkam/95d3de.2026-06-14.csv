@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,11:00,DreambigJawaharCInemasKalady,Sofa,₹150,14,0,Malayalam,2D
+Ernakulam,11:00,DreambigJawaharCInemasKalady,Gold,₹129,32,0,Malayalam,2D
+Ernakulam,11:00,DreambigJawaharCInemasKalady,Silver,₹103,220,1,Malayalam,2D
+Ernakulam,14:30,DreambigJawaharCInemasKalady,Sofa,₹150,14,2,Malayalam,2D
+Ernakulam,14:30,DreambigJawaharCInemasKalady,Gold,₹129,32,0,Malayalam,2D
+Ernakulam,14:30,DreambigJawaharCInemasKalady,Silver,₹103,220,1,Malayalam,2D
+Ernakulam,18:00,DreambigJawaharCInemasKalady,Sofa,₹150,14,0,Malayalam,2D
+Ernakulam,18:00,DreambigJawaharCInemasKalady,Gold,₹129,32,0,Malayalam,2D
+Ernakulam,18:00,DreambigJawaharCInemasKalady,Silver,₹103,220,1,Malayalam,2D
+Ernakulam,21:30,DreambigJawaharCInemasKalady,Sofa,₹150,14,0,Malayalam,2D
+Ernakulam,21:30,DreambigJawaharCInemasKalady,Gold,₹129,32,0,Malayalam,2D
+Ernakulam,21:30,DreambigJawaharCInemasKalady,Silver,₹103,220,1,Malayalam,2D
