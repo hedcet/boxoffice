@@ -1,7 +1,7 @@
 name: make repository public
 on:
   schedule:
-    - cron: '30 12 * * *'
+    - cron: '30 6 * * *'
   workflow_dispatch:
 
 jobs:
