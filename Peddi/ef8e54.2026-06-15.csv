@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,10:30,RajadhaniCinemasPayyannur,PlatinumCircle,₹130,88,0,Malayalam,2D
+Palakkad,11:00,AromaScreen2Palakkad,KingCircle,₹129.8,235,1,Tamil,2D
+Kannur,13:30,RajadhaniCinemasPayyannur,PlatinumCircle,₹130,88,0,Malayalam,2D
+Palakkad,14:15,AromaScreen2Palakkad,KingCircle,₹129.8,235,8,Tamil,2D
+Kannur,19:30,RajadhaniCinemasPayyannur,PlatinumCircle,₹130,88,0,Malayalam,2D
