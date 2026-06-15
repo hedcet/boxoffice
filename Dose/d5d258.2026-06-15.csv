@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,14:15,NewAromaTheatrePalakkad,PlatinumCircle,₹129.8,200,4,Malayalam,2D
+Palakkad,14:15,NewAromaTheatrePalakkad,DiamondCircle,₹105,229,6,Malayalam,2D
+Palakkad,18:00,NewAromaTheatrePalakkad,PlatinumCircle,₹129.8,200,200,Malayalam,2D
+Palakkad,18:00,NewAromaTheatrePalakkad,DiamondCircle,₹105,229,229,Malayalam,2D
