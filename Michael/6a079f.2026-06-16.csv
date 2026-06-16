@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,11:35,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹92,22,4,English,2D
+Thrissur,11:35,INOXSobhaCityMallPuzhakkalThrissur,Club,₹139,63,4,English,2D
+Thrissur,11:35,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹149,28,11,English,2D
+Thrissur,11:35,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹260,10,0,English,2D
+Ernakulam,13:15,PVRForumMallNH47Kochi,Classic,₹149,22,0,English,2D
+Ernakulam,13:15,PVRForumMallNH47Kochi,Elite,₹149,85,12,English,2D
+Trivandrum,13:35,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹350,48,4,English,4DX2D
+Trivandrum,13:35,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹500,32,8,English,4DX2D
+Ernakulam,16:05,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹199,116,27,English,4DX2D
+Trivandrum,16:15,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹350,48,0,English,4DX2D
+Trivandrum,16:15,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹400,32,0,English,4DX2D
