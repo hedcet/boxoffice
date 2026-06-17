@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,15:00,EVMCinemasKumily,RoyalCircle,₹129.19,330,140,Tamil,2D
+Idukki,18:30,EVMCinemasKumily,RoyalCircle,₹129.19,330,140,Tamil,2D
+Trivandrum,18:35,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹180,65,7,Tamil,2D
+Trivandrum,18:35,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹230,34,21,Tamil,2D
+Trivandrum,18:35,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹500,8,6,Tamil,2D
+Trivandrum,21:45,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹180,65,4,Tamil,2D
+Trivandrum,21:45,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹230,34,8,Tamil,2D
+Trivandrum,21:45,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹500,8,7,Tamil,2D
+Ernakulam,22:30,PVRForumMallNH47Kochi,Classic,₹170,24,1,Tamil,2D
+Ernakulam,22:30,PVRForumMallNH47Kochi,Elite,₹210,111,12,Tamil,2D
+Ernakulam,22:30,PVRForumMallNH47Kochi,Recliner,₹450,10,4,Tamil,2D
