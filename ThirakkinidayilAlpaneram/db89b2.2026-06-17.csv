@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,11:15,RDCinemasMundakayam,Executive,₹140,150,0,Malayalam,2D
+Kottayam,11:15,RDCinemasMundakayam,Economy,₹100,16,0,Malayalam,2D
+Palakkad,11:30,DreambigThankamTheatreVadakkencherry,KingsChamber,₹180,21,0,Malayalam,2D
+Palakkad,11:30,DreambigThankamTheatreVadakkencherry,Gold,₹129,308,1,Malayalam,2D
+Thrissur,11:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Platinum,₹200,38,0,Malayalam,2D
+Thrissur,11:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Executive,₹125,230,3,Malayalam,2D
