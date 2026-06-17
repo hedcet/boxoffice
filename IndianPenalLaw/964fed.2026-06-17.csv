@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,10:30,PalaxiCinemasHiLITEMallThrissur,Recliner,₹450,25,0,Tamil,2D
+Thrissur,10:30,PalaxiCinemasHiLITEMallThrissur,Premium,₹220,133,14,Tamil,2D
+Thrissur,10:30,PalaxiCinemasHiLITEMallThrissur,Executive,₹140,37,0,Tamil,2D
+Palakkad,18:00,AromaScreen2Palakkad,KingCircle,₹129.8,235,1,Tamil,2D
+Palakkad,21:15,AromaScreen2Palakkad,KingCircle,₹129.8,235,235,Tamil,2D
+Malappuram,11:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Tamil,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Tamil,2D
+Malappuram,18:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Tamil,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Tamil,2D
