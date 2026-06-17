@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Pathanamthitta,11:00,GaviGalaxiCinemasSeethathodu,Gold,₹180,7,0,Malayalam,2D
+Pathanamthitta,11:00,GaviGalaxiCinemasSeethathodu,Executive,₹150,136,10,Malayalam,2D
+Palakkad,14:15,NewAromaTheatrePalakkad,PlatinumCircle,₹129.8,200,5,Malayalam,2D
+Palakkad,14:15,NewAromaTheatrePalakkad,DiamondCircle,₹105,229,2,Malayalam,2D
+Palakkad,18:00,NewAromaTheatrePalakkad,PlatinumCircle,₹129.8,200,0,Malayalam,2D
+Palakkad,18:00,NewAromaTheatrePalakkad,DiamondCircle,₹105,229,0,Malayalam,2D
