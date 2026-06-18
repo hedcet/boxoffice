@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:30,VCinemasSreeDeviDurga4KRGBLaserDolbyAtmos,Standard,₹129.8,126,0,Tamil,2D
+Malappuram,13:45,PalaxiCinemasPerinthalmanna,Slider,₹250,11,0,Tamil,2D
+Malappuram,13:45,PalaxiCinemasPerinthalmanna,Premium,₹129,121,0,Tamil,2D
+Malappuram,13:45,PalaxiCinemasPerinthalmanna,Executive,₹99,17,1,Tamil,2D
+Palakkad,14:30,DreambigKAMMoviesVadakkencherry,Platinum,₹120,423,1,Tamil,2D
+Trivandrum,21:30,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,7,Tamil,2D
+Palakkad,21:30,DreambigKAMMoviesVadakkencherry,Platinum,₹120,423,1,Tamil,2D
+Palakkad,21:45,SyndicateCinemasKoppam4KDolbyAtmosRGBLaser,Platinum,₹250,20,0,Tamil,2D
+Palakkad,21:45,SyndicateCinemasKoppam4KDolbyAtmosRGBLaser,Gold,₹150,185,0,Tamil,2D
+Palakkad,11:00,CowmalyaTheatreKozhinjampara,Gold,₹129.8,202,12,Tamil,2D
+Palakkad,14:00,CowmalyaTheatreKozhinjampara,Gold,₹129.8,202,12,Tamil,2D
+Palakkad,18:00,CowmalyaTheatreKozhinjampara,Gold,₹129.8,202,12,Tamil,2D
+Palakkad,21:00,CowmalyaTheatreKozhinjampara,Gold,₹129.8,202,12,Tamil,2D
