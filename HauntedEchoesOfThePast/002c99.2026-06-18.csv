@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:30,AriesplexSLCinemasCinionicDolbyAtmos,Executive3D,₹135,70,0,Hindi,3D
+Thrissur,18:15,PalaxiCinemasHiLITEMallThrissur,Recliner,₹450,25,0,Hindi,3D
+Thrissur,18:15,PalaxiCinemasHiLITEMallThrissur,Premium,₹220,129,14,Hindi,3D
+Thrissur,18:15,PalaxiCinemasHiLITEMallThrissur,Executive,₹140,23,0,Hindi,3D
