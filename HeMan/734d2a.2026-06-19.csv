@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,10:30,PalaxiCinemasHiLITEMallThrissur,Recliner,₹450,25,0,English,2D
+Thrissur,10:30,PalaxiCinemasHiLITEMallThrissur,Premium,₹220,133,14,English,2D
+Thrissur,10:30,PalaxiCinemasHiLITEMallThrissur,Executive,₹140,37,0,English,2D
+Thrissur,16:45,PalaxiCinemasHiLITEMallThrissur,Recliner,₹599,59,11,English,2D
+Ernakulam,09:45,PVRForumMallNH47Kochi,Luxe,₹400,16,0,English,2D
+Ernakulam,09:45,PVRForumMallNH47Kochi,LuxePrime,₹500,42,12,English,2D
+Ernakulam,11:35,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹350,116,26,English,4DX2D
+Ernakulam,14:00,PVRForumMallNH47Kochi,Classic,₹170,24,0,English,2D
+Ernakulam,14:00,PVRForumMallNH47Kochi,Elite,₹230,111,19,English,2D
+Ernakulam,14:00,PVRForumMallNH47Kochi,Recliner,₹450,10,0,English,2D
+Trivandrum,16:30,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹400,48,0,English,4DX2D
+Trivandrum,16:30,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹450,32,3,English,4DX2D
+Ernakulam,17:00,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹350,116,4,English,4DX2D
