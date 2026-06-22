@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,18:00,AromaTheatrePalakkad,Red,₹129.8,246,13,Tamil,2D
+Palakkad,18:00,AromaTheatrePalakkad,Blue,₹105,320,20,Tamil,2D
+Palakkad,11:30,CityCinema2KACAnaikatti,Premium,₹100,236,9,Tamil,2D
+Palakkad,21:30,CityCinema2KACAnaikatti,Premium,₹100,236,9,Tamil,2D
