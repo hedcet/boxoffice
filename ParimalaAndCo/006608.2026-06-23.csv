@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,14:30,SreePadmanabhaTheatreScreen2EastFort,Devipriya,₹150,186,0,Tamil,2D
+Ernakulam,18:00,DreambigJawaharCInemasKalady,Sofa,₹150,14,0,Tamil,2D
+Ernakulam,18:00,DreambigJawaharCInemasKalady,Gold,₹129,32,0,Tamil,2D
+Ernakulam,18:00,DreambigJawaharCInemasKalady,Silver,₹103,220,0,Tamil,2D
+Trivandrum,18:00,SreePadmanabhaTheatreScreen2EastFort,Devipriya,₹150,186,0,Tamil,2D
+Ernakulam,21:30,DreambigJawaharCInemasKalady,Sofa,₹150,14,0,Tamil,2D
+Ernakulam,21:30,DreambigJawaharCInemasKalady,Gold,₹129,32,0,Tamil,2D
+Ernakulam,21:30,DreambigJawaharCInemasKalady,Silver,₹103,220,0,Tamil,2D
+Trivandrum,21:30,SreePadmanabhaTheatreScreen2EastFort,Devipriya,₹150,186,0,Tamil,2D
