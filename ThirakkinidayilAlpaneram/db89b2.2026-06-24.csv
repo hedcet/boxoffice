@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,11:00,DCINEMAAMUGHALMALLBARCO4KLASERKODUNGALLUR,Platinum,₹250,10,10,Malayalam,2D
+Thrissur,11:00,DCINEMAAMUGHALMALLBARCO4KLASERKODUNGALLUR,Gold,₹150,172,2,Malayalam,2D
+Alappuzha,11:00,SeethasTheatreAC2KAlappuzha,Balcony,₹150,154,0,Malayalam,2D
+Alappuzha,11:00,SeethasTheatreAC2KAlappuzha,FirstClass,₹120,372,60,Malayalam,2D
+Kannur,11:30,LibertyParadiseThalassery,Gold,₹129.8,214,139,Malayalam,2D
