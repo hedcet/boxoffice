@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,10:20,PVRForumMallNH47Kochi,Classic,₹150,28,0,English,2D
+Ernakulam,10:20,PVRForumMallNH47Kochi,Elite,₹190,111,12,English,2D
+Ernakulam,10:20,PVRForumMallNH47Kochi,Recliner,₹400,8,2,English,2D
+Ernakulam,13:50,PVRLuluLuluInternationalShoppingMallKochi,Classic,₹350,116,11,English,4DX2D
+Trivandrum,21:30,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹350,48,3,English,4DX2D
+Trivandrum,21:30,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹500,32,11,English,4DX2D
