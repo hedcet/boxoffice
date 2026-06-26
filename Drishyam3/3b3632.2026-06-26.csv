@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,14:45,LibertyCinemaKannurAmbiliTheatre,Platinum,₹129.8,230,122,Malayalam,2D
+Kannur,14:45,LibertyParadiseThalassery,Gold,₹129.8,214,143,Malayalam,2D
+Kannur,18:00,LibertyParadiseThalassery,Gold,₹129.8,214,154,Malayalam,2D
+Idukki,18:30,AashirvadCineplexxThodupuzha,Gold,₹200,10,10,Malayalam,2D
+Idukki,18:30,AashirvadCineplexxThodupuzha,Silver,₹170,90,37,Malayalam,2D
+Trivandrum,18:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,173,66,Malayalam,2D
+Palakkad,18:30,MLalAashirvadCineplexxShoranur,Sofa,₹220,17,11,Malayalam,2D
+Palakkad,18:30,MLalAashirvadCineplexxShoranur,Platinum,₹150,64,27,Malayalam,2D
+Alappuzha,19:00,SaiCineplexxOachira,Diamond,₹250,26,0,Malayalam,2D
+Alappuzha,19:00,SaiCineplexxOachira,Gold,₹180,126,6,Malayalam,2D
+Alappuzha,20:45,MLalCineplexxAashirvadHaripad,Recliner,₹350,13,0,Malayalam,2D
+Alappuzha,20:45,MLalCineplexxAashirvadHaripad,Platinum,₹180,36,8,Malayalam,2D
+Alappuzha,20:45,MLalCineplexxAashirvadHaripad,Gold,₹160,153,16,Malayalam,2D
+Kannur,21:30,LibertyCinemaKannurAmbiliTheatre,Platinum,₹129.8,230,115,Malayalam,2D
+Kannur,21:30,LibertyParadiseThalassery,Gold,₹129.8,214,156,Malayalam,2D
