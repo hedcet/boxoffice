@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:30,DreambigCinemasMayukhVadakkencherry,Recliner,₹400,12,2,Tamil,2D
+Palakkad,11:30,DreambigCinemasMayukhVadakkencherry,Platinum,₹180,84,0,Tamil,2D
+Palakkad,11:30,DreambigCinemasMayukhVadakkencherry,Diamond,₹120,198,0,Tamil,2D
+Palakkad,14:30,DreambigCinemasMayukhVadakkencherry,Recliner,₹400,12,2,Tamil,2D
+Palakkad,14:30,DreambigCinemasMayukhVadakkencherry,Platinum,₹180,84,0,Tamil,2D
+Palakkad,14:30,DreambigCinemasMayukhVadakkencherry,Diamond,₹120,198,1,Tamil,2D
+Palakkad,18:30,DreambigCinemasMayukhVadakkencherry,Recliner,₹400,12,2,Tamil,2D
+Palakkad,18:30,DreambigCinemasMayukhVadakkencherry,Platinum,₹180,84,2,Tamil,2D
+Palakkad,18:30,DreambigCinemasMayukhVadakkencherry,Diamond,₹120,198,0,Tamil,2D
+Palakkad,21:30,DreambigCinemasMayukhVadakkencherry,Recliner,₹400,12,2,Tamil,2D
+Palakkad,21:30,DreambigCinemasMayukhVadakkencherry,Platinum,₹180,84,5,Tamil,2D
+Palakkad,21:30,DreambigCinemasMayukhVadakkencherry,Diamond,₹120,198,6,Tamil,2D
+Trivandrum,21:45,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,173,18,Tamil,2D
+Alappuzha,22:15,SaiCineplexxOachira,Diamond,₹250,26,26,Tamil,2D
+Alappuzha,22:15,SaiCineplexxOachira,Gold,₹180,126,126,Tamil,2D
