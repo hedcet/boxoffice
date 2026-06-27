@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,19:15,CinepolisCentreSquareMallErnakulamKochi,Normal,₹210,19,4,Telugu,2D
+Ernakulam,19:15,CinepolisCentreSquareMallErnakulamKochi,Executive,₹230,43,33,Telugu,2D
+Ernakulam,19:15,CinepolisCentreSquareMallErnakulamKochi,Premium,₹250,44,36,Telugu,2D
