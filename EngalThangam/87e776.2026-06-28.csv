@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,14:30,ChandanaCinemaMarayur,BoxLeft,₹129.19,26,0,Tamil,2D
+Idukki,14:30,ChandanaCinemaMarayur,BoxRight,₹129.19,24,17,Tamil,2D
+Idukki,14:30,ChandanaCinemaMarayur,FirstClasss,₹120,356,327,Tamil,2D
+Idukki,21:00,ChandanaCinemaMarayur,BoxLeft,₹129.19,26,0,Tamil,2D
+Idukki,21:00,ChandanaCinemaMarayur,BoxRight,₹129.19,24,17,Tamil,2D
+Idukki,21:00,ChandanaCinemaMarayur,FirstClasss,₹120,356,171,Tamil,2D
