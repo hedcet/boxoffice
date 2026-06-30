@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Pathanamthitta,14:00,DhanyaRemyaPathanamthitta,RemyaCircle,₹135,197,0,Malayalam,2D
+Trivandrum,14:30,KairaliSreeNilaRGBLaser4KDolbyAtmos,Platinum,₹140,310,17,Malayalam,2D
+Palakkad,14:30,DreambigKAMMoviesVadakkencherry,Platinum,₹120,423,1,Malayalam,2D
+Ernakulam,15:00,SangeetaCinemaKochi,BlueCircle,₹160,187,33,Malayalam,2D
+Palakkad,18:00,AromaScreen2Palakkad,KingCircle,₹129.8,235,15,Malayalam,2D
+Kottayam,18:00,DhanyaRemyaKottayam,Remya,₹135,251,15,Malayalam,2D
+Kollam,18:00,DhanyaRemyaKollam,Platinum,₹135,200,15,Malayalam,2D
+Pathanamthitta,18:00,DhanyaRemyaPathanamthitta,RemyaCircle,₹135,197,0,Malayalam,2D
+Thrissur,18:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Platinum,₹200,38,0,Malayalam,2D
+Thrissur,18:30,KairaliSreeRGBLaser4KDolbyAtmosThrissur,Executive,₹125,230,18,Malayalam,2D
+Malappuram,11:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Malayalam,2D
+Kollam,14:00,MagicFramesArchanaCinemas4KLaserAtmosAnchal,Silver,₹129.8,184,0,Malayalam,2D
+Kollam,14:00,MagicFramesArchanaCinemas4KLaserAtmosAnchal,Gold,₹200,34,0,Malayalam,2D
+Kollam,14:00,MagicFramesArchanaCinemas4KLaserAtmosAnchal,Platinum,₹300,9,0,Malayalam,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Malayalam,2D
+Ernakulam,19:00,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium,₹150,141,0,Malayalam,2D
