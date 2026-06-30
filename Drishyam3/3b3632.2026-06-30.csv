@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,11:30,LibertyParadiseThalassery,Gold,₹129.8,214,139,Malayalam,2D
+Pathanamthitta,14:00,AashirvadCineplexxKadappra,SofaSeat,₹275,15,0,Malayalam,2D
+Pathanamthitta,14:00,AashirvadCineplexxKadappra,Platinum,₹180,61,0,Malayalam,2D
+Pathanamthitta,14:00,AashirvadCineplexxKadappra,Gold,₹160,130,0,Malayalam,2D
+Kannur,14:45,LibertyParadiseThalassery,Gold,₹129.8,214,139,Malayalam,2D
+Kannur,18:00,LibertyParadiseThalassery,Gold,₹129.8,214,139,Malayalam,2D
+Trivandrum,18:30,NewTheatre4KRGBLASERDolbyAtmosTrivandrum,Elite,₹150,173,10,Malayalam,2D
+Idukki,18:30,AashirvadCineplexxThodupuzha,Gold,₹185,10,0,Malayalam,2D
+Idukki,18:30,AashirvadCineplexxThodupuzha,Silver,₹155,90,1,Malayalam,2D
+Palakkad,18:30,MLalAashirvadCineplexxShoranur,Sofa,₹220,17,0,Malayalam,2D
+Palakkad,18:30,MLalAashirvadCineplexxShoranur,Platinum,₹150,64,0,Malayalam,2D
+Alappuzha,20:45,MLalCineplexxAashirvadHaripad,Recliner,₹350,13,0,Malayalam,2D
+Alappuzha,20:45,MLalCineplexxAashirvadHaripad,Platinum,₹180,36,0,Malayalam,2D
+Alappuzha,20:45,MLalCineplexxAashirvadHaripad,Gold,₹160,153,0,Malayalam,2D
+Kannur,21:30,LibertyParadiseThalassery,Gold,₹129.8,214,140,Malayalam,2D
