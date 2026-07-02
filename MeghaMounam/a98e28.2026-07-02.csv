@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,09:45,PalaxiCinemasPerinthalmanna,Slider,₹250,11,0,Malayalam,2D
+Malappuram,09:45,PalaxiCinemasPerinthalmanna,Premium,₹129,121,13,Malayalam,2D
+Malappuram,09:45,PalaxiCinemasPerinthalmanna,Executive,₹99,17,0,Malayalam,2D
+Kozhikode,11:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,27,1,Malayalam,2D
+Kozhikode,11:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,165,0,Malayalam,2D
+Kozhikode,11:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,40,0,Malayalam,2D
+Thrissur,15:15,PalaxiCinemasHiLITEMallThrissur,Recliner,₹450,19,2,Malayalam,2D
+Thrissur,15:15,PalaxiCinemasHiLITEMallThrissur,Premium,₹220,101,10,Malayalam,2D
+Thrissur,15:15,PalaxiCinemasHiLITEMallThrissur,Executive,₹140,25,0,Malayalam,2D
+Ernakulam,19:00,JMMoviesJoshMallMookkannoorAngamaly,Gold,₹150,126,0,Malayalam,2D
+Ernakulam,19:00,JMMoviesJoshMallMookkannoorAngamaly,Diamond,₹180,53,0,Malayalam,2D
+Palakkad,21:15,AromaScreen2Palakkad,KingCircle,₹129.8,235,0,Malayalam,2D
+Ernakulam,21:30,JMMoviesJoshMallMookkannoorAngamaly,Gold,₹150,126,0,Malayalam,2D
+Ernakulam,21:30,JMMoviesJoshMallMookkannoorAngamaly,Diamond,₹180,53,4,Malayalam,2D
+Malappuram,18:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Malayalam,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,143,0,Malayalam,2D
