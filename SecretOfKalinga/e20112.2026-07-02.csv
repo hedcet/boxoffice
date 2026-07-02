@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:30,PriyaCinemasComplex4KAtmosLaser3DPalakkad,Executive,₹190,68,2,Malayalam,2D
+Palakkad,11:30,PriyaCinemasComplex4KAtmosLaser3DPalakkad,DressCircle,₹105,344,4,Malayalam,2D
+Palakkad,14:30,PriyaCinemasComplex4KAtmosLaser3DPalakkad,Executive,₹190,68,5,Malayalam,2D
+Palakkad,14:30,PriyaCinemasComplex4KAtmosLaser3DPalakkad,DressCircle,₹105,344,3,Malayalam,2D
+Palakkad,18:30,DreambigKAMMoviesVadakkencherry,Platinum,₹120,423,1,Malayalam,2D
+Palakkad,21:30,DreambigKAMMoviesVadakkencherry,Platinum,₹120,423,3,Malayalam,2D
+Thrissur,15:00,SavithaMovieMagicChurchRoadThrissur,FirstClass,₹100,300,0,Malayalam,2D
+Thrissur,18:30,SavithaMovieMagicChurchRoadThrissur,FirstClass,₹100,300,0,Malayalam,2D
+Thrissur,21:30,SavithaMovieMagicChurchRoadThrissur,FirstClass,₹100,300,3,Malayalam,2D
