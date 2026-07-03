@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:30,BMCinemasKakkattil,Executive,₹105,167,0,English,2D
+Thrissur,11:30,DCinemas4KSouthJunctionChalakudy,Gold,₹170,405,7,English,2D
+Thrissur,11:30,DCinemas4KSouthJunctionChalakudy,Platinum,₹350,18,0,English,2D
+Malappuram,11:30,KarthikaMoviesAC4KDolbyAtmosPattambiRoadValanchery,UpperCircle,₹105,339,1,English,2D
+Malappuram,11:30,KarthikaMoviesAC4KDolbyAtmosPattambiRoadValanchery,ReclinerCircle,₹220,19,2,English,2D
+Kozhikode,13:30,BMCinemasKakkattil,Executive,₹105,167,0,English,2D
+Malappuram,14:30,KarthikaMoviesAC4KDolbyAtmosPattambiRoadValanchery,UpperCircle,₹105,339,1,English,2D
+Malappuram,14:30,KarthikaMoviesAC4KDolbyAtmosPattambiRoadValanchery,ReclinerCircle,₹220,19,2,English,2D
+Malappuram,18:30,KarthikaMoviesAC4KDolbyAtmosPattambiRoadValanchery,UpperCircle,₹105,339,1,English,2D
+Malappuram,18:30,KarthikaMoviesAC4KDolbyAtmosPattambiRoadValanchery,ReclinerCircle,₹220,19,2,English,2D
+Thrissur,18:45,DCinemas4KSouthJunctionChalakudy,Gold,₹170,405,15,English,2D
+Thrissur,18:45,DCinemas4KSouthJunctionChalakudy,Platinum,₹350,18,0,English,2D
+Malappuram,21:30,KarthikaMoviesAC4KDolbyAtmosPattambiRoadValanchery,UpperCircle,₹105,339,1,English,2D
+Malappuram,21:30,KarthikaMoviesAC4KDolbyAtmosPattambiRoadValanchery,ReclinerCircle,₹220,19,2,English,2D
+Kozhikode,22:15,BMCinemasKakkattil,Executive,₹105,167,0,English,2D
