@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,00:30,PalaxiCinemasPerinthalmanna,Slider,₹290,11,8,English,2D
+Malappuram,00:30,PalaxiCinemasPerinthalmanna,Premium,₹150,121,65,English,2D
+Malappuram,00:30,PalaxiCinemasPerinthalmanna,Executive,₹99,17,3,English,2D
+Kottayam,00:30,MYCinemasThalayolaparambuKerala,Gold,₹105,204,51,English,2D
+Ernakulam,00:30,PVROberonMosqueRoadKochi,Classic,₹140,36,7,English,2D
+Ernakulam,00:30,PVROberonMosqueRoadKochi,ClassicPlus,₹160,81,56,English,2D
