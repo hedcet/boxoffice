@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,02:30,MYCinemasKSRTComplexAngamalyKerala,Executive,₹160,154,2,English,2D
+Ernakulam,02:30,MYCinemasKSRTComplexAngamalyKerala,Recliner,₹300,16,1,English,2D
+Ernakulam,02:30,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹250,10,10,English,2D
+Ernakulam,02:30,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹250,39,0,English,2D
+Ernakulam,02:30,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹250,17,14,English,2D
+Ernakulam,02:30,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹250,91,19,English,2D
+Ernakulam,02:30,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹250,51,42,English,2D
+Trivandrum,02:30,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹170,70,20,English,2D
+Trivandrum,02:30,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,51,36,English,2D
+Trivandrum,02:30,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,7,7,English,2D
