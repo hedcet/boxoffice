@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,18:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Platinum,₹165,22,0,Malayalam,2D
+Trivandrum,18:00,LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum,Gold,₹145,144,2,Malayalam,2D
+Trivandrum,19:30,GreenfieldMoviemaxCinemasTrivandrum,Executive,₹160,132,0,Malayalam,2D
+Ernakulam,16:15,PVRForumMallNH47Kochi,Classic,₹92,22,0,Malayalam,2D
+Ernakulam,16:15,PVRForumMallNH47Kochi,Elite,₹92,85,22,Malayalam,2D
+Thrissur,17:05,INOXSobhaCityMallPuzhakkalThrissur,Club,₹92,63,2,Malayalam,2D
+Thrissur,17:05,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹92,22,4,Malayalam,2D
+Thrissur,17:05,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹92,28,15,Malayalam,2D
+Thrissur,17:05,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹260.32,10,0,Malayalam,2D
+Ernakulam,20:05,CinepolisCentreSquareMallErnakulamKochi,Normal,₹99,9,4,Malayalam,2D
+Ernakulam,20:05,CinepolisCentreSquareMallErnakulamKochi,Executive,₹99,40,5,Malayalam,2D
+Ernakulam,20:05,CinepolisCentreSquareMallErnakulamKochi,Premium,₹99,57,31,Malayalam,2D
