@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,14:30,KairaliSreeNilaRGBLaser4KDolbyAtmos,Platinum,₹140,310,7,Malayalam,2D
+Thrissur,15:00,ThavoosTheatreKunnamkulamAC2K71Dolby,FirstClass,₹105,318,0,Malayalam,2D
+Thrissur,15:00,ThavoosTheatreKunnamkulamAC2K71Dolby,Balcony,₹150,112,0,Malayalam,2D
+Thrissur,18:30,ThavoosTheatreKunnamkulamAC2K71Dolby,FirstClass,₹105,318,0,Malayalam,2D
+Thrissur,18:30,ThavoosTheatreKunnamkulamAC2K71Dolby,Balcony,₹150,112,0,Malayalam,2D
+Thrissur,21:30,ThavoosTheatreKunnamkulamAC2K71Dolby,FirstClass,₹105,318,0,Malayalam,2D
+Thrissur,21:30,ThavoosTheatreKunnamkulamAC2K71Dolby,Balcony,₹150,112,0,Malayalam,2D
