@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,14:15,CCinemasChengannur,Chirry,₹160,101,0,Malayalam,2D
+Ernakulam,15:00,SangeetaCinemaKochi,BlueCircle,₹160,187,18,Malayalam,2D
+Malappuram,18:00,LadderCinemasManjeri,Executive,₹150,74,2,Malayalam,2D
+Kozhikode,18:15,AashirvadCineplexxKozhikode,Platinum,₹220,30,0,Malayalam,2D
+Kozhikode,18:15,AashirvadCineplexxKozhikode,Gold,₹200,66,20,Malayalam,2D
+Trivandrum,18:30,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,0,Malayalam,2D
+Thrissur,18:30,MasMoviesIrinjalakuda,Silver,₹129,60,0,Malayalam,2D
+Thrissur,18:30,MasMoviesIrinjalakuda,Diamond,₹150,147,42,Malayalam,2D
