@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,18:00,LadderCinemasManjeri,Executive,₹150,74,2,Malayalam,2D
+Kozhikode,18:30,AashirvadCineplexxKozhikode,Platinum,₹220,30,3,Malayalam,2D
+Kozhikode,18:30,AashirvadCineplexxKozhikode,Gold,₹200,66,20,Malayalam,2D
