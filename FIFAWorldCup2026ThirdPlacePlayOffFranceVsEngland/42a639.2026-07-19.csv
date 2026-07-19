@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,02:30,PriyaCinemasComplex4KAtmosLaser3DPalakkad,Executive,₹190,68,68,English,2D
+Palakkad,02:30,PriyaCinemasComplex4KAtmosLaser3DPalakkad,DressCircle,₹105,344,344,English,2D
+Kannur,02:30,CinepolisSecuraCentreKannur,Normal,₹180,12,0,English,2D
+Kannur,02:30,CinepolisSecuraCentreKannur,Executive,₹180,36,0,English,2D
+Kannur,02:30,CinepolisSecuraCentreKannur,Premium,₹180,85,7,English,2D
+Kannur,02:30,CinepolisSecuraCentreKannur,PremiumXl,₹180,17,0,English,2D
+Kannur,02:30,CinepolisSecuraCentreKannur,PremiumPlus,₹180,26,6,English,2D
