@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,18:15,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,23,5,English,3D
+Kozhikode,18:15,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,88,14,English,3D
+Kozhikode,18:15,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,17,2,English,3D
+Kozhikode,18:15,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹270,14,0,English,3D
+Ernakulam,10:45,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium3DChargesInclusive,₹170,141,0,English,3D
+Ernakulam,11:20,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹160,39,0,English,3D
+Ernakulam,11:20,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹180,91,57,English,3D
+Ernakulam,11:20,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹200,51,45,English,3D
+Ernakulam,11:20,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹230,17,14,English,3D
+Ernakulam,11:20,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹380,10,9,English,3D
+Trivandrum,13:40,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹240,65,61,English,3D
+Trivandrum,13:40,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹270,34,33,English,3D
+Trivandrum,13:40,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹550,8,8,English,3D
+Ernakulam,16:30,STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady,Premium3DChargesInclusive,₹170,141,3,English,3D
