@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,02:30,CinepolisSecuraCentreKannur,Normal,₹180,13,0,English,2D
+Kannur,02:30,CinepolisSecuraCentreKannur,Executive,₹180,39,0,English,2D
+Kannur,02:30,CinepolisSecuraCentreKannur,Premium,₹180,85,5,English,2D
+Kannur,02:30,CinepolisSecuraCentreKannur,PremiumXl,₹180,17,0,English,2D
+Kannur,02:30,CinepolisSecuraCentreKannur,PremiumPlus,₹180,26,2,English,2D
