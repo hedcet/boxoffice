@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,11:45,Gmax4KUtsavAradhanaComplex,Royal,₹150,333,0,Tamil,2D
+Palakkad,14:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,Tamil,2D
+Kollam,14:45,Gmax4KUtsavAradhanaComplex,Royal,₹150,333,2,Tamil,2D
+Palakkad,18:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,Tamil,2D
+Kollam,18:45,Gmax4KUtsavAradhanaComplex,Royal,₹150,333,0,Tamil,2D
+Kollam,21:45,Gmax4KUtsavAradhanaComplex,Royal,₹150,333,0,Tamil,2D
