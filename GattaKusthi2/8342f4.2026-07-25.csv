@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:00,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,87,4,Tamil,2D
+Trivandrum,14:00,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,87,4,Tamil,2D
+Trivandrum,18:00,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,87,4,Tamil,2D
+Trivandrum,21:30,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,RoyalCircle,₹150,87,30,Tamil,2D
+Ernakulam,16:30,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹160,39,0,Tamil,2D
+Ernakulam,16:30,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹180,91,18,Tamil,2D
+Ernakulam,16:30,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹200,48,16,Tamil,2D
+Ernakulam,16:30,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹230,16,8,Tamil,2D
+Ernakulam,16:30,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹420,9,7,Tamil,2D
+Trivandrum,18:35,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹200,65,43,Tamil,2D
+Trivandrum,18:35,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹250,34,32,Tamil,2D
+Trivandrum,18:35,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹500,8,7,Tamil,2D
