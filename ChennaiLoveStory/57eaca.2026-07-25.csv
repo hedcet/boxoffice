@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,22:10,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹180,39,0,Telugu,2D
+Ernakulam,22:10,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹200,91,61,Telugu,2D
+Ernakulam,22:10,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹220,51,36,Telugu,2D
+Ernakulam,22:10,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹250,17,10,Telugu,2D
+Ernakulam,22:10,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹400,10,3,Telugu,2D
+Trivandrum,22:30,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹220,70,30,Telugu,2D
+Trivandrum,22:30,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹250,51,38,Telugu,2D
+Trivandrum,22:30,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹500,7,6,Telugu,2D
+Trivandrum,22:40,CinepolisMOTEanchakkalThiruvananthapuram,VipExecutive,₹250,18,4,Telugu,2D
+Trivandrum,22:40,CinepolisMOTEanchakkalThiruvananthapuram,VipPremium,₹300,18,8,Telugu,2D
+Ernakulam,22:45,CinepolisCentreSquareMallErnakulamKochi,Normal,₹180,9,2,Telugu,2D
+Ernakulam,22:45,CinepolisCentreSquareMallErnakulamKochi,Executive,₹200,40,27,Telugu,2D
+Ernakulam,22:45,CinepolisCentreSquareMallErnakulamKochi,Premium,₹260,57,35,Telugu,2D
+Kannur,23:15,CinepolisSecuraCentreKannur,Normal,₹170,10,4,Telugu,2D
+Kannur,23:15,CinepolisSecuraCentreKannur,Executive,₹190,33,0,Telugu,2D
+Kannur,23:15,CinepolisSecuraCentreKannur,Premium,₹210,69,8,Telugu,2D
