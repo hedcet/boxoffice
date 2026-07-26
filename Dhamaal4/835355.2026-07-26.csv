@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,10:30,CinepolisVIPCentreSquareMallErnakulamKochi,VipExecutive,₹350,22,0,Hindi,2D
+Ernakulam,10:30,CinepolisVIPCentreSquareMallErnakulamKochi,VipPremium,₹400,54,16,Hindi,2D
+Kannur,16:30,CinepolisSecuraCentreKannur,Normal,₹160,12,0,Hindi,2D
+Kannur,16:30,CinepolisSecuraCentreKannur,Executive,₹200,36,4,Hindi,2D
+Kannur,16:30,CinepolisSecuraCentreKannur,Premium,₹220,85,0,Hindi,2D
+Kannur,16:30,CinepolisSecuraCentreKannur,PremiumPlus,₹240,26,2,Hindi,2D
+Kannur,16:30,CinepolisSecuraCentreKannur,PremiumXl,₹260,17,5,Hindi,2D
+Ernakulam,19:35,CinepolisCentreSquareMallErnakulamKochi,Normal,₹160,12,6,Hindi,2D
+Ernakulam,19:35,CinepolisCentreSquareMallErnakulamKochi,Executive,₹180,39,14,Hindi,2D
+Ernakulam,19:35,CinepolisCentreSquareMallErnakulamKochi,Premium,₹240,43,38,Hindi,2D
+Ernakulam,19:35,CinepolisCentreSquareMallErnakulamKochi,PremiumPlus,₹260,43,36,Hindi,2D
+Ernakulam,19:35,CinepolisCentreSquareMallErnakulamKochi,PremiumXl,₹280,11,11,Hindi,2D
+Kozhikode,22:00,CinepolisGokulamGalleriaMallArayidathupalamKozhikode,Normal,₹200,13,0,Hindi,2D
+Kozhikode,22:00,CinepolisGokulamGalleriaMallArayidathupalamKozhikode,Executive,₹220,39,0,Hindi,2D
+Kozhikode,22:00,CinepolisGokulamGalleriaMallArayidathupalamKozhikode,Premium,₹240,86,6,Hindi,2D
+Kozhikode,22:00,CinepolisGokulamGalleriaMallArayidathupalamKozhikode,PremiumXl,₹260,23,1,Hindi,2D
