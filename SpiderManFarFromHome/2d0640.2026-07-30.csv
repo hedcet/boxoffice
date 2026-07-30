@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,21:30,MinervaEmpireCinemazChandamukkuKottarakara,Diamond,₹150,233,0,English,3D
+Kollam,21:30,MinervaEmpireCinemazChandamukkuKottarakara,Sofa,₹200,120,0,English,3D
+Kollam,21:30,MinervaEmpireCinemazChandamukkuKottarakara,Lounger,₹250,9,0,English,3D
+Kollam,21:30,MinervaEmpireCinemazChandamukkuKottarakara,Recliner,₹350,21,0,English,3D
