@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,20:15,CinepolisMOTEanchakkalThiruvananthapuram,VipExecutive,₹250,18,0,Hindi,2D
+Trivandrum,20:15,CinepolisMOTEanchakkalThiruvananthapuram,VipPremium,₹300,18,2,Hindi,2D
+Ernakulam,22:15,PVRForumMallNH47Kochi,Classic,₹170,22,0,Hindi,2D
+Ernakulam,22:15,PVRForumMallNH47Kochi,Elite,₹210,85,7,Hindi,2D
