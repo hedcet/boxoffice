@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,10:30,RajadhaniCinemasPayyannur,UpperCircle,₹130,502,106,Tamil,2D
+Palakkad,11:30,VCinemasSreeDeviDurga4KRGBLaserDolbyAtmos,Standard,₹129.8,126,1,Tamil,2D
+Kannur,13:30,RajadhaniCinemasPayyannur,UpperCircle,₹130,502,106,Tamil,2D
+Kannur,16:30,RajadhaniCinemasPayyannur,UpperCircle,₹130,502,106,Tamil,2D
+Kannur,19:30,RajadhaniCinemasPayyannur,UpperCircle,₹130,502,106,Tamil,2D
+Palakkad,13:55,GowryMovieHouseKollengode,FirstClass,₹120,129,0,Tamil,2D
+Malappuram,14:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Tamil,2D
+Palakkad,17:55,GowryMovieHouseKollengode,FirstClass,₹120,129,0,Tamil,2D
+Malappuram,18:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Tamil,2D
+Palakkad,20:55,GowryMovieHouseKollengode,FirstClass,₹120,129,0,Tamil,2D
+Malappuram,21:30,NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery,DiamondCircle,₹105,181,0,Tamil,2D
