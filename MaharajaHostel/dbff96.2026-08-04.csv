@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,13:30,GreenfieldMoviemaxCinemasTrivandrum,Executive,₹160,119,4,Malayalam,2D
+Kozhikode,16:30,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,27,1,Malayalam,2D
+Kozhikode,16:30,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,165,5,Malayalam,2D
+Kozhikode,16:30,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,40,0,Malayalam,2D
+Kozhikode,18:45,AashirvadCineplexxKozhikode,Platinum,₹220,30,0,Malayalam,2D
+Kozhikode,18:45,AashirvadCineplexxKozhikode,Gold,₹200,66,0,Malayalam,2D
+Ernakulam,14:00,CinepolisCentreSquareMallErnakulamKochi,Normal,₹99,13,0,Malayalam,2D
+Ernakulam,14:00,CinepolisCentreSquareMallErnakulamKochi,Executive,₹99,26,2,Malayalam,2D
+Ernakulam,14:00,CinepolisCentreSquareMallErnakulamKochi,Premium,₹99,67,40,Malayalam,2D
