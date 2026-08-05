@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,10:30,RajadhaniCinemasPayyannur,PlatinumCircle,₹130,88,0,Malayalam,2D
+Ernakulam,11:00,ANNCinemaComplex4K3DDolbyAtmosRGBLASER,Platinum,₹200,100,0,Malayalam,2D
+Idukki,12:00,SagaraTheatre4KAtmosKattappana,Royal,₹129,158,0,Malayalam,2D
+Kannur,13:30,RajadhaniCinemasPayyannur,PlatinumCircle,₹130,88,3,Malayalam,2D
+Ernakulam,14:00,ANNCinemaComplex4K3DDolbyAtmosRGBLASER,Platinum,₹200,100,0,Malayalam,2D
+Malappuram,15:00,LadderCinemasManjeri,Executive,₹150,74,0,Malayalam,2D
+Kannur,16:00,AlakodeFilmCity4KDolbyAtmos,Nakshatra,₹160,212,0,Malayalam,2D
+Kannur,16:30,RajadhaniCinemasPayyannur,PlatinumCircle,₹130,88,2,Malayalam,2D
+Kozhikode,17:00,AshokCNC4KDolbyAtmosTrippleBeam3DVadakara,Platinum,₹129.8,120,0,Malayalam,2D
+Ernakulam,18:00,ANNCinemaComplex4K3DDolbyAtmosRGBLASER,Platinum,₹200,100,0,Malayalam,2D
+Alappuzha,18:30,GanamTheatreComplex4K3DKattanam,FirstClass,₹140,129,5,Malayalam,2D
+Malappuram,18:30,LadderCinemasManjeri,Executive,₹150,74,0,Malayalam,2D
+Kannur,19:30,RajadhaniCinemasPayyannur,PlatinumCircle,₹130,88,0,Malayalam,2D
+Ernakulam,21:00,ANNCinemaComplex4K3DDolbyAtmosRGBLASER,Platinum,₹200,100,13,Malayalam,2D
+Alappuzha,21:30,GanamTheatreComplex4K3DKattanam,FirstClass,₹140,129,4,Malayalam,2D
+Idukki,21:30,SagaraTheatre4KAtmosKattappana,Royal,₹129,158,0,Malayalam,2D
