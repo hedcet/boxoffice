@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,VrindavanTheatreKozhinjampara,Balcony,₹150,33,8,Tamil,2D
+Palakkad,11:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,4,Tamil,2D
+Palakkad,14:00,VrindavanTheatreKozhinjampara,Balcony,₹150,33,8,Tamil,2D
+Palakkad,14:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,4,Tamil,2D
+Palakkad,11:15,MilanCinemas2K3DDolby71NayadikunnuMannarkkad,Executive,₹105,162,1,Tamil,2D
+Ernakulam,12:20,CinepolisCentreSquareMallErnakulamKochi,Normal,₹200,9,3,Tamil,2D
+Ernakulam,12:20,CinepolisCentreSquareMallErnakulamKochi,Executive,₹240,40,0,Tamil,2D
+Ernakulam,12:20,CinepolisCentreSquareMallErnakulamKochi,Premium,₹280,57,2,Tamil,2D
+Trivandrum,16:25,CinepolisMOTEanchakkalThiruvananthapuram,VipExecutive,₹250,18,0,Tamil,2D
+Trivandrum,16:25,CinepolisMOTEanchakkalThiruvananthapuram,VipPremium,₹300,18,1,Tamil,2D
+Trivandrum,18:55,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹190,65,7,Tamil,2D
+Trivandrum,18:55,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹250,34,13,Tamil,2D
+Trivandrum,18:55,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹450,8,3,Tamil,2D
+Ernakulam,21:45,PVRForumMallNH47Kochi,Classic,₹190,22,0,Tamil,2D
+Ernakulam,21:45,PVRForumMallNH47Kochi,Elite,₹230,85,12,Tamil,2D
