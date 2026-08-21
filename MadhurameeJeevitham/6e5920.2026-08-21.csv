@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,06:00,VrindavanTheatreKozhinjampara,Balcony,₹150,33,8,Malayalam,2D
+Palakkad,06:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,0,Malayalam,2D
+Idukki,11:00,SilverHillsNaxaCinemas4KDolbyATMOS,Silver,₹160,80,20,Malayalam,2D
+Malappuram,12:30,LadderCinemasManjeri,Executive,₹150,74,20,Malayalam,2D
+Idukki,15:00,AiswaryaCinemas4KAtmosKattappana,Diamond,₹129,172,10,Malayalam,2D
+Kollam,15:30,GmaxCinemasJerome3D71JBLKollam,Green,₹160,86,7,Malayalam,2D
+Kollam,17:45,GmaxCinemasJerome3D71JBLKollam,Green,₹180,86,29,Malayalam,2D
+Palakkad,18:00,VrindavanTheatreKozhinjampara,Balcony,₹150,33,8,Malayalam,2D
+Palakkad,18:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,10,Malayalam,2D
+Ernakulam,11:00,PVRForumMallNH47Kochi,Classic,₹170,22,0,Malayalam,2D
+Ernakulam,11:00,PVRForumMallNH47Kochi,Elite,₹210,85,23,Malayalam,2D
