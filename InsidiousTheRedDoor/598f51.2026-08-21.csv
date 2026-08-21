@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,13:15,SaiCineplexxOachira,Diamond,₹250,26,26,English,2D
+Alappuzha,13:15,SaiCineplexxOachira,Gold,₹180,126,126,English,2D
+Alappuzha,13:15,SaiCineplexxOachira,Diamond,₹250,26,0,English,2D
+Alappuzha,13:15,SaiCineplexxOachira,Gold,₹180,126,0,English,2D
