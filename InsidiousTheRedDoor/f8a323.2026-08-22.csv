@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,13:15,SaiCineplexxOachira,Diamond,₹250,26,2,English,2D
+Alappuzha,13:15,SaiCineplexxOachira,Gold,₹180,126,1,English,2D
+Kottayam,11:30,MagicFramesCinemasKarukachal,SofaBed,₹105,13,0,English,2D
+Kottayam,11:30,MagicFramesCinemasKarukachal,Sofa,₹160,145,0,English,2D
+Kottayam,11:30,MagicFramesCinemasKarukachal,Recliner,₹400,15,0,English,2D
