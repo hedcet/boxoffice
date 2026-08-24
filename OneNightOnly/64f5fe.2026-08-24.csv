@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:10,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹490,23,1,English,2D
+Kozhikode,10:10,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹260,88,0,English,2D
+Kozhikode,10:10,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹200,17,0,English,2D
+Kozhikode,10:10,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹290,14,0,English,2D
+Kozhikode,16:40,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹490,29,0,English,2D
+Kozhikode,16:40,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹260,135,13,English,2D
+Kozhikode,16:40,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹200,27,1,English,2D
+Kozhikode,16:40,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹290,24,1,English,2D
+Ernakulam,18:10,CinepolisCentreSquareMallErnakulamKochi,Normal,₹200,13,0,English,2D
+Ernakulam,18:10,CinepolisCentreSquareMallErnakulamKochi,Executive,₹220,26,0,English,2D
+Ernakulam,18:10,CinepolisCentreSquareMallErnakulamKochi,Premium,₹240,67,6,English,2D
+Ernakulam,21:05,CinepolisCentreSquareMallErnakulamKochi,Normal,₹200,13,0,English,2D
+Ernakulam,21:05,CinepolisCentreSquareMallErnakulamKochi,Executive,₹220,26,0,English,2D
+Ernakulam,21:05,CinepolisCentreSquareMallErnakulamKochi,Premium,₹240,67,6,English,2D
