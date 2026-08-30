@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,VrindavanTheatreKozhinjampara,Balcony,₹150,33,8,Tamil,2D
+Palakkad,11:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,4,Tamil,2D
+Kozhikode,13:40,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹490,27,1,Telugu,2D
+Kozhikode,13:40,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹260,146,19,Telugu,2D
+Kozhikode,13:40,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹200,25,2,Telugu,2D
+Kozhikode,13:40,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹290,22,0,Telugu,2D
+Palakkad,14:00,VrindavanTheatreKozhinjampara,Balcony,₹150,33,11,Tamil,2D
+Palakkad,14:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,6,Tamil,2D
+Ernakulam,18:35,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹200,39,3,Telugu,2D
+Ernakulam,18:35,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹220,91,35,Telugu,2D
+Ernakulam,18:35,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹240,48,30,Telugu,2D
+Ernakulam,18:35,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹270,16,15,Telugu,2D
+Ernakulam,18:35,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹500,9,4,Telugu,2D
+Trivandrum,21:30,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹190,60,11,Telugu,2D
+Trivandrum,21:30,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹250,39,20,Telugu,2D
+Trivandrum,21:30,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,8,1,Telugu,2D
