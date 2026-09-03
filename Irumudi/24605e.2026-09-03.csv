@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,VrindavanTheatreKozhinjampara,Balcony,₹150,33,8,Tamil,2D
+Palakkad,11:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,5,Tamil,2D
+Palakkad,14:00,VrindavanTheatreKozhinjampara,Balcony,₹150,33,8,Tamil,2D
+Palakkad,14:00,VrindavanTheatreKozhinjampara,FirstClass,₹120,152,6,Tamil,2D
+Trivandrum,15:35,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹180,60,9,Telugu,2D
+Trivandrum,15:35,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹210,39,7,Telugu,2D
+Trivandrum,15:35,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹400,8,0,Telugu,2D
+Ernakulam,15:40,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹150,39,1,Telugu,2D
+Ernakulam,15:40,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹190,91,0,Telugu,2D
+Ernakulam,15:40,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹210,48,3,Telugu,2D
+Ernakulam,15:40,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹240,16,2,Telugu,2D
+Ernakulam,15:40,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹380,9,1,Telugu,2D
