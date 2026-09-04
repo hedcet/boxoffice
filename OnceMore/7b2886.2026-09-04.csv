@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:00,PalaxiCinemasHiLITEMALLKozhikode,Recliner,₹470,23,1,Tamil,2D
+Kozhikode,10:00,PalaxiCinemasHiLITEMALLKozhikode,Premium,₹240,88,0,Tamil,2D
+Kozhikode,10:00,PalaxiCinemasHiLITEMALLKozhikode,Executive,₹180,17,0,Tamil,2D
+Kozhikode,10:00,PalaxiCinemasHiLITEMALLKozhikode,Lounger,₹270,14,0,Tamil,2D
+Kasaragod,10:30,VGMMultiplexRGBLaserDolby3D,VgmRed,₹190,161,16,Tamil,2D
+Palakkad,11:00,SathyaMovieHouse3DDolbyAtmosPalakkad,FirstClass,₹129.8,527,0,Tamil,2D
+Kasaragod,14:30,VGMMultiplexRGBLaserDolby3D,VgmRed,₹190,161,16,Tamil,2D
