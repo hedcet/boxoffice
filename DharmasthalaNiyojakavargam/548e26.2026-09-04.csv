@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,21:45,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹200,65,4,Telugu,2D
+Trivandrum,21:45,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹230,34,0,Telugu,2D
+Trivandrum,21:45,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹500,8,3,Telugu,2D
