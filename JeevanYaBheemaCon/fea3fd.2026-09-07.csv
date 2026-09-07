@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,23:25,CinepolisMOTEanchakkalThiruvananthapuram,Normal,₹180,17,0,Hindi,2D
+Trivandrum,23:25,CinepolisMOTEanchakkalThiruvananthapuram,Executive,₹200,51,0,Hindi,2D
+Trivandrum,23:25,CinepolisMOTEanchakkalThiruvananthapuram,Premium,₹220,51,0,Hindi,2D
+Trivandrum,23:25,CinepolisMOTEanchakkalThiruvananthapuram,PremiumPlus,₹240,50,7,Hindi,2D
