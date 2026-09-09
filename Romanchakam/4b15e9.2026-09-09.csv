@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,18:50,PVRLULULuluInternationalShoppingMallTrivandrum,ClassicRows,₹180,77,6,Telugu,2D
+Trivandrum,18:50,PVRLULULuluInternationalShoppingMallTrivandrum,PrimeRows,₹210,45,0,Telugu,2D
+Trivandrum,18:50,PVRLULULuluInternationalShoppingMallTrivandrum,ExtraLegroomRows,₹240,15,2,Telugu,2D
+Trivandrum,18:50,PVRLULULuluInternationalShoppingMallTrivandrum,ReclinerRows,₹400,7,0,Telugu,2D
+Trivandrum,20:20,CinepolisMOTEanchakkalThiruvananthapuram,PlatinumExecutive,₹200,32,0,Telugu,2D
+Trivandrum,20:20,CinepolisMOTEanchakkalThiruvananthapuram,PlatinumPremium,₹250,33,8,Telugu,2D
