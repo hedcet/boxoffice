@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,09:15,PalaxiCinemasPerinthalmanna,Slider,₹290,11,0,Malayalam,2D
+Malappuram,09:15,PalaxiCinemasPerinthalmanna,Premium,₹150,121,2,Malayalam,2D
+Malappuram,09:15,PalaxiCinemasPerinthalmanna,Executive,₹99,17,0,Malayalam,2D
+Ernakulam,22:25,PVROberonMosqueRoadKochi,Classic,₹180,36,6,Kannada,2D
+Ernakulam,22:25,PVROberonMosqueRoadKochi,ClassicPlus,₹200,81,49,Kannada,2D
+Trivandrum,22:40,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹300,48,10,Kannada,4DX2D
+Trivandrum,22:40,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹350,32,2,Kannada,4DX2D
+Kannur,22:50,CinepolisSecuraCentreKannur,Normal,₹180,10,0,Kannada,2D
+Kannur,22:50,CinepolisSecuraCentreKannur,Executive,₹240,33,4,Kannada,2D
+Kannur,22:50,CinepolisSecuraCentreKannur,Premium,₹260,69,3,Kannada,2D
