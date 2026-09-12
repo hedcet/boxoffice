@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,21:30,AriesplexSLCinemasCinionicDolbyAtmos,Executive,₹105,70,63,Tamil,2D
+Ernakulam,15:35,PVRLuluLuluInternationalShoppingMallKochi,ClassicRows,₹160,39,9,Tamil,2D
+Ernakulam,15:35,PVRLuluLuluInternationalShoppingMallKochi,ClassicPlusRows,₹200,91,60,Tamil,2D
+Ernakulam,15:35,PVRLuluLuluInternationalShoppingMallKochi,PrimeRows,₹220,51,40,Tamil,2D
+Ernakulam,15:35,PVRLuluLuluInternationalShoppingMallKochi,ExtraLegroomRows,₹250,17,16,Tamil,2D
+Ernakulam,15:35,PVRLuluLuluInternationalShoppingMallKochi,ReclinerRows,₹450,10,10,Tamil,2D
+Thrissur,16:05,INOXSobhaCityMallPuzhakkalThrissur,Executive,₹140,22,6,Tamil,2D
+Thrissur,16:05,INOXSobhaCityMallPuzhakkalThrissur,Club,₹200,63,19,Tamil,2D
+Thrissur,16:05,INOXSobhaCityMallPuzhakkalThrissur,Royal,₹200,28,20,Tamil,2D
+Thrissur,16:05,INOXSobhaCityMallPuzhakkalThrissur,RoyalRecliner,₹400,10,4,Tamil,2D
+Trivandrum,21:50,PVRLULULuluInternationalShoppingMallTrivandrum,Classic,₹250,60,47,Tamil,2D
+Trivandrum,21:50,PVRLULULuluInternationalShoppingMallTrivandrum,Prime,₹280,39,37,Tamil,2D
+Trivandrum,21:50,PVRLULULuluInternationalShoppingMallTrivandrum,Recliner,₹550,8,7,Tamil,2D
+Ernakulam,22:50,PVRForumMallNH47Kochi,Classic,₹190,14,0,Tamil,2D
+Ernakulam,22:50,PVRForumMallNH47Kochi,Elite,₹230,125,104,Tamil,2D
+Ernakulam,22:50,PVRForumMallNH47Kochi,Recliner,₹450,8,8,Tamil,2D
