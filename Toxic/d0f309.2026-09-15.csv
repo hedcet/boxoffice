@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,11:45,"PVROberonMosqueRoadKochi|cf85",Classic,₹92,36,0,Kannada,2D
+Ernakulam,11:45,"PVROberonMosqueRoadKochi|cf85",ClassicPlus,₹139,81,19,Kannada,2D
+Ernakulam,21:30,"PVRLuluLuluInternationalShoppingMallKochi|a9a4",Classic,₹199,116,18,Kannada,4DX2D
