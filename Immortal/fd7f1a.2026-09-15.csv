@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,"VrindavanTheatreKozhinjampara|2c0d",Balcony,₹150,33,8,Tamil,2D
+Palakkad,11:00,"VrindavanTheatreKozhinjampara|2c0d",FirstClass,₹120,152,5,Tamil,2D
+Palakkad,14:00,"VrindavanTheatreKozhinjampara|83a9",Balcony,₹150,33,8,Tamil,2D
+Palakkad,14:00,"VrindavanTheatreKozhinjampara|83a9",FirstClass,₹120,152,6,Tamil,2D
+Palakkad,21:00,"VrindavanTheatreKozhinjampara|fa3a",Balcony,₹150,33,8,Tamil,2D
+Palakkad,21:00,"VrindavanTheatreKozhinjampara|fa3a",FirstClass,₹120,152,5,Tamil,2D
+Ernakulam,12:45,"PVRLuluLuluInternationalShoppingMallKochi|90bb",ClassicRows,₹92,39,0,Tamil,2D
+Ernakulam,12:45,"PVRLuluLuluInternationalShoppingMallKochi|90bb",ClassicPlusRows,₹129,91,1,Tamil,2D
+Ernakulam,12:45,"PVRLuluLuluInternationalShoppingMallKochi|90bb",PrimeRows,₹139,48,18,Tamil,2D
+Ernakulam,12:45,"PVRLuluLuluInternationalShoppingMallKochi|90bb",ExtraLegroomRows,₹149,16,0,Tamil,2D
+Ernakulam,12:45,"PVRLuluLuluInternationalShoppingMallKochi|90bb",ReclinerRows,₹260,9,0,Tamil,2D
+Ernakulam,17:00,"CinepolisCentreSquareMallErnakulamKochi|b818",Normal,₹99,9,2,Tamil,2D
+Ernakulam,17:00,"CinepolisCentreSquareMallErnakulamKochi|b818",Executive,₹129,40,2,Tamil,2D
+Ernakulam,17:00,"CinepolisCentreSquareMallErnakulamKochi|b818",Premium,₹139,57,2,Tamil,2D
