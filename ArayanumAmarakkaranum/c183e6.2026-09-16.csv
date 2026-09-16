@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:00,"SreeKaleeswarySreeSaraswathy2K3DKaliyikkav|7bdb",RoyalCircle,₹150,87,87,Malayalam,2D
+Ernakulam,12:00,"SangeetaCinemaKochi|f0c4",BlueCircle,₹160,187,18,Malayalam,2D
+Kottayam,14:00,"DhanyaRemyaKottayam|4381",Remya,₹135,251,0,Malayalam,2D
+Trivandrum,14:30,"SriKalidasMPlex4KRGBLaserAtmosKattakkada|81e1",Sofa,₹200,4,0,Malayalam,2D
+Trivandrum,14:30,"SriKalidasMPlex4KRGBLaserAtmosKattakkada|81e1",Gold,₹180,170,0,Malayalam,2D
+Trivandrum,18:00,"KairaliSreeNilaRGBLaser4KDolbyAtmos|8d41",Platinum,₹140,259,7,Malayalam,2D
+Trivandrum,18:00,"SreeKaleeswarySreeSaraswathy2K3DKaliyikkav|8078",RoyalCircle,₹150,87,21,Malayalam,2D
+Trivandrum,18:00,"SuryaMultiplex4KDolbyAtmosNedumangad|1692",Platinum,₹250,14,0,Malayalam,2D
+Trivandrum,18:00,"SuryaMultiplex4KDolbyAtmosNedumangad|1692",Gold,₹150,131,3,Malayalam,2D
+Trivandrum,18:15,"SriKalidasMPlex4KRGBLaserAtmosKattakkada|560e",Sofa,₹200,4,0,Malayalam,2D
+Trivandrum,18:15,"SriKalidasMPlex4KRGBLaserAtmosKattakkada|560e",Gold,₹180,170,6,Malayalam,2D
