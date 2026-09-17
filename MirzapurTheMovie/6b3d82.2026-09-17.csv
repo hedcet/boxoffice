@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,18:00,"PalaxiCinemasHiLITEMALLKozhikode|e11e",Recliner,₹599,102,1,Hindi,2D
+Ernakulam,13:00,"CinepolisCentreSquareMallErnakulamKochi|09b8",Normal,₹180,13,0,Hindi,2D
+Ernakulam,13:00,"CinepolisCentreSquareMallErnakulamKochi|09b8",Executive,₹200,26,1,Hindi,2D
+Ernakulam,13:00,"CinepolisCentreSquareMallErnakulamKochi|09b8",Premium,₹240,67,4,Hindi,2D
+Ernakulam,14:55,"PVRForumMallNH47Kochi|060a",Classic,₹170,22,0,Hindi,2D
+Ernakulam,14:55,"PVRForumMallNH47Kochi|060a",Elite,₹210,85,2,Hindi,2D
+Ernakulam,22:00,"PVRLuluLuluInternationalShoppingMallKochi|7e46",ClassicRows,₹160,39,0,Hindi,2D
+Ernakulam,22:00,"PVRLuluLuluInternationalShoppingMallKochi|7e46",ClassicPlusRows,₹200,91,4,Hindi,2D
+Ernakulam,22:00,"PVRLuluLuluInternationalShoppingMallKochi|7e46",PrimeRows,₹220,48,11,Hindi,2D
+Ernakulam,22:00,"PVRLuluLuluInternationalShoppingMallKochi|7e46",ExtraLegroomRows,₹250,16,5,Hindi,2D
+Ernakulam,22:00,"PVRLuluLuluInternationalShoppingMallKochi|7e46",ReclinerRows,₹450,9,6,Hindi,2D
+Ernakulam,22:45,"CinepolisCentreSquareMallErnakulamKochi|8757",Normal,₹180,13,1,Hindi,2D
+Ernakulam,22:45,"CinepolisCentreSquareMallErnakulamKochi|8757",Executive,₹200,26,0,Hindi,2D
+Ernakulam,22:45,"CinepolisCentreSquareMallErnakulamKochi|8757",Premium,₹220,67,12,Hindi,2D
