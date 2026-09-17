@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:45,"PalaxiCinemasHiLITEMALLKozhikode|e6de",Recliner,₹470,27,0,Malayalam,2D
+Kozhikode,10:45,"PalaxiCinemasHiLITEMALLKozhikode|e6de",Premium,₹240,165,1,Malayalam,2D
+Kozhikode,10:45,"PalaxiCinemasHiLITEMALLKozhikode|e6de",Executive,₹180,40,0,Malayalam,2D
+Palakkad,11:00,"NewTheatre2K3DDolbyAtmosPudunagaram|ba8b",Standard,₹129.8,140,4,Malayalam,2D
+Palakkad,14:30,"CNCCinemas4KAtmosChunnambutharaPalakkad|af8d",Platinum,₹160,42,29,Malayalam,2D
+Palakkad,14:30,"CNCCinemas4KAtmosChunnambutharaPalakkad|af8d",Gold,₹129.8,151,99,Malayalam,2D
+Palakkad,18:00,"VrindavanTheatreKozhinjampara|af20",Balcony,₹150,33,8,Malayalam,2D
+Palakkad,18:00,"VrindavanTheatreKozhinjampara|af20",FirstClass,₹120,152,0,Malayalam,2D
+Alappuzha,18:15,"CherthalaKairaliSreeTheatre|213c",Platinum,₹140,262,10,Malayalam,2D
+Palakkad,18:15,"JayabharathTheatreKarayankaduVadakkencherry|82f9",FirstClass,₹120,165,2,Malayalam,2D
