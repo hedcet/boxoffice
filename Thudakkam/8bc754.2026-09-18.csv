@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,14:00,"MLalAashirvadCineplexxShoranur|8e32",Sofa,₹220,17,0,Malayalam,2D
+Palakkad,14:00,"MLalAashirvadCineplexxShoranur|8e32",Platinum,₹150,64,0,Malayalam,2D
+Alappuzha,16:00,"MLalCineplexxAashirvadHaripad|afee",Recliner,₹350,13,0,Malayalam,2D
+Alappuzha,16:00,"MLalCineplexxAashirvadHaripad|afee",Platinum,₹180,36,0,Malayalam,2D
+Alappuzha,16:00,"MLalCineplexxAashirvadHaripad|afee",Gold,₹160,153,0,Malayalam,2D
+Idukki,17:00,"AashirvadCineplexxThodupuzha|724e",Gold,₹200,10,2,Malayalam,2D
+Idukki,17:00,"AashirvadCineplexxThodupuzha|724e",Silver,₹170,90,1,Malayalam,2D
+Kozhikode,18:45,"AashirvadCineplexxKozhikode|8f11",Platinum,₹220,30,8,Malayalam,2D
+Kozhikode,18:45,"AashirvadCineplexxKozhikode|8f11",Gold,₹200,66,2,Malayalam,2D
