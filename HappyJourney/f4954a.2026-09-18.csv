@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,16:05,"PVRLULULuluInternationalShoppingMallTrivandrum|749c",ClassicRows,₹190,77,4,Telugu,2D
+Trivandrum,16:05,"PVRLULULuluInternationalShoppingMallTrivandrum|749c",PrimeRows,₹210,45,0,Telugu,2D
+Trivandrum,16:05,"PVRLULULuluInternationalShoppingMallTrivandrum|749c",ExtraLegroomRows,₹240,15,2,Telugu,2D
+Trivandrum,16:05,"PVRLULULuluInternationalShoppingMallTrivandrum|749c",ReclinerRows,₹450,7,0,Telugu,2D
+Ernakulam,19:55,"CinepolisCentreSquareMallErnakulamKochi|6935",Normal,₹180,9,2,Telugu,2D
+Ernakulam,19:55,"CinepolisCentreSquareMallErnakulamKochi|6935",Executive,₹200,40,0,Telugu,2D
+Ernakulam,19:55,"CinepolisCentreSquareMallErnakulamKochi|6935",Premium,₹220,57,0,Telugu,2D
+Ernakulam,22:40,"PVRForumMallNH47Kochi|8997",Classic,₹190,22,0,Telugu,2D
+Ernakulam,22:40,"PVRForumMallNH47Kochi|8997",Elite,₹230,85,12,Telugu,2D
+Trivandrum,22:45,"CinepolisMOTEanchakkalThiruvananthapuram|9375",VipExecutive,₹250,18,3,Telugu,2D
+Trivandrum,22:45,"CinepolisMOTEanchakkalThiruvananthapuram|9375",VipPremium,₹300,18,0,Telugu,2D
