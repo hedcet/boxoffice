@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,15:45,"TheCrownTheatreCalicut|69c6",Audi1,₹180,200,81,Hindi,2D
+Thrissur,16:30,"PalaxiCinemasHiLITEMallThrissur|3428",Recliner,₹599,59,22,Hindi,2D
+Ernakulam,18:45,"CentralTalkiesRGBLaser4K3DDolbyAtmos|b07c",Gold,₹190,129,29,Hindi,2D
+Trivandrum,10:15,"PVRLULULuluInternationalShoppingMallTrivandrum|5c68",Classic,₹180,70,12,Hindi,2D
+Trivandrum,10:15,"PVRLULULuluInternationalShoppingMallTrivandrum|5c68",Prime,₹250,51,20,Hindi,2D
+Trivandrum,10:15,"PVRLULULuluInternationalShoppingMallTrivandrum|5c68",Recliner,₹500,7,3,Hindi,2D
+Trivandrum,19:00,"PVRLULULuluInternationalShoppingMallTrivandrum|ef38",ClassicRows,₹220,104,83,Hindi,2D
+Trivandrum,19:00,"PVRLULULuluInternationalShoppingMallTrivandrum|ef38",PrimeRows,₹250,51,51,Hindi,2D
+Trivandrum,19:00,"PVRLULULuluInternationalShoppingMallTrivandrum|ef38",ExtraLegroomRows,₹280,17,16,Hindi,2D
+Trivandrum,19:00,"PVRLULULuluInternationalShoppingMallTrivandrum|ef38",ReclinerRows,₹500,7,7,Hindi,2D
+Ernakulam,19:40,"PVRLuluLuluInternationalShoppingMallKochi|411b",ClassicRows,₹160,54,0,Hindi,2D
+Ernakulam,19:40,"PVRLuluLuluInternationalShoppingMallKochi|411b",ClassicPlusRows,₹180,126,83,Hindi,2D
+Ernakulam,19:40,"PVRLuluLuluInternationalShoppingMallKochi|411b",PrimeRows,₹200,74,53,Hindi,2D
+Ernakulam,19:40,"PVRLuluLuluInternationalShoppingMallKochi|411b",ExtraLegroomRows,₹230,18,18,Hindi,2D
+Ernakulam,19:40,"PVRLuluLuluInternationalShoppingMallKochi|411b",ReclinerRows,₹420,13,13,Hindi,2D
