@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,16:00,"MLalCineplexxAashirvadHaripad|1d4a",Recliner,₹350,13,0,Malayalam,2D
+Alappuzha,16:00,"MLalCineplexxAashirvadHaripad|1d4a",Platinum,₹180,36,0,Malayalam,2D
+Alappuzha,16:00,"MLalCineplexxAashirvadHaripad|1d4a",Gold,₹160,153,0,Malayalam,2D
+Idukki,17:00,"AashirvadCineplexxThodupuzha|4c5c",Gold,₹200,10,0,Malayalam,2D
+Idukki,17:00,"AashirvadCineplexxThodupuzha|4c5c",Silver,₹170,90,2,Malayalam,2D
+Kozhikode,18:45,"AashirvadCineplexxKozhikode|fed8",Platinum,₹220,30,0,Malayalam,2D
+Kozhikode,18:45,"AashirvadCineplexxKozhikode|fed8",Gold,₹200,66,0,Malayalam,2D
+Malappuram,10:00,"VismayaCinemas4KDolbyAtmosLICRoadPerinthalmanna|76fe",Platinum,₹100,111,111,Malayalam,2D
