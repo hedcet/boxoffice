@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:00,"KairaliSreeNilaRGBLaser4KDolbyAtmos|f799",Platinum,₹140,259,20,Malayalam,2D
+Kozhikode,11:00,"KairaliSreeTheatreKozhikode|1abd",SreeGold,₹165,311,22,Malayalam,2D
+Kottayam,11:30,"VelvetViewCinemasKumarakom4KLaserDolbyAtmos|47e1",Platinum,₹250,14,0,Malayalam,2D
+Kottayam,11:30,"VelvetViewCinemasKumarakom4KLaserDolbyAtmos|47e1",Gold,₹150,96,0,Malayalam,2D
+Kottayam,11:30,"VelvetViewCinemasKumarakom4KLaserDolbyAtmos|47e1",Silver,₹100,28,0,Malayalam,2D
+Idukki,13:15,"AiswaryaCinemas4KAtmosKattappana|f336",Diamond,₹129,172,0,Malayalam,2D
+Ernakulam,14:15,"KairaliSreeTheaterNorthParvur|ef49",Platinum,₹120,245,20,Malayalam,2D
+Alappuzha,14:30,"CherthalaKairaliSreeTheatre|153e",Platinum,₹140,262,0,Malayalam,2D
+Kottayam,16:05,"AshaTheatreKottayam|d4b3",Gold,₹140,187,8,Malayalam,2D
+Kottayam,16:05,"AshaTheatreKottayam|d4b3",Silver,₹105,33,0,Malayalam,2D
+Thrissur,17:30,"KairaliSreeRGBLaser4KDolbyAtmosThrissur|01c9",Platinum,₹200,38,0,Malayalam,2D
+Thrissur,17:30,"KairaliSreeRGBLaser4KDolbyAtmosThrissur|01c9",Executive,₹125,230,20,Malayalam,2D
+Trivandrum,17:30,"KairaliSreeNilaRGBLaser4KDolbyAtmos|e6cc",Platinum,₹140,259,25,Malayalam,2D
+Kottayam,10:00,"PuthettuCinemasPala|72f4",GoldsofaSlider,₹254,47,0,,
+Kottayam,10:00,"PuthettuCinemasPala|72f4",DiamondfamilyCouch,₹304,4,0,,
+Kottayam,10:00,"PuthettuCinemasPala|72f4",Silver,₹204,179,0,,
