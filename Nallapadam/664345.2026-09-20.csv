@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,10:00,"GmaxCinemasJerome3D71JBLKollam|38bd",Green,₹160,86,0,Tamil,2D
+Palakkad,11:00,"VrindavanTheatreKozhinjampara|1a9a",Balcony,₹150,33,8,Tamil,2D
+Palakkad,11:00,"VrindavanTheatreKozhinjampara|1a9a",FirstClass,₹120,152,5,Tamil,2D
+Trivandrum,11:00,"SriKalidasMPlex4KRGBLaserAtmosKattakkada|7b93",Sofa,₹200,4,0,Tamil,2D
+Trivandrum,11:00,"SriKalidasMPlex4KRGBLaserAtmosKattakkada|7b93",Gold,₹180,170,1,Tamil,2D
+Trivandrum,11:30,"AriesplexSLCinemasCinionicDolbyAtmos|ef7b",Executive,₹105,70,0,Tamil,2D
+Palakkad,14:00,"VrindavanTheatreKozhinjampara|674b",Balcony,₹150,33,8,Tamil,2D
+Palakkad,14:00,"VrindavanTheatreKozhinjampara|674b",FirstClass,₹120,152,5,Tamil,2D
+Palakkad,18:00,"VrindavanTheatreKozhinjampara|f133",Balcony,₹150,33,8,Tamil,2D
+Palakkad,18:00,"VrindavanTheatreKozhinjampara|f133",FirstClass,₹120,152,7,Tamil,2D
+Palakkad,21:00,"VrindavanTheatreKozhinjampara|1620",Balcony,₹150,33,8,Tamil,2D
+Palakkad,21:00,"VrindavanTheatreKozhinjampara|1620",FirstClass,₹120,152,7,Tamil,2D
+Trivandrum,22:00,"AriesplexSLCinemasCinionicDolbyAtmos|86f0",Executive,₹105,70,0,Tamil,2D
+Trivandrum,13:45,"PVRLULULuluInternationalShoppingMallTrivandrum|da07",Classic,₹190,60,4,Tamil,2D
+Trivandrum,13:45,"PVRLULULuluInternationalShoppingMallTrivandrum|da07",Prime,₹210,39,16,Tamil,2D
+Trivandrum,13:45,"PVRLULULuluInternationalShoppingMallTrivandrum|da07",Recliner,₹400,8,4,Tamil,2D
