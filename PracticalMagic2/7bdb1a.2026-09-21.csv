@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,10:15,"PalaxiCinemasHiLITEMallThrissur|b480",Recliner,₹599,59,2,English,2D
+Kozhikode,15:30,"PalaxiCinemasHiLITEMALLKozhikode|db8f",Recliner,₹470,23,1,English,2D
+Kozhikode,15:30,"PalaxiCinemasHiLITEMALLKozhikode|db8f",Premium,₹240,88,0,English,2D
+Kozhikode,15:30,"PalaxiCinemasHiLITEMALLKozhikode|db8f",Executive,₹180,17,1,English,2D
+Kozhikode,15:30,"PalaxiCinemasHiLITEMALLKozhikode|db8f",Lounger,₹270,14,0,English,2D
+Ernakulam,10:15,"PVRForumMallNH47Kochi|95b9",Classic,₹92,22,0,English,2D
+Ernakulam,10:15,"PVRForumMallNH47Kochi|95b9",Elite,₹149,85,14,English,2D
+Ernakulam,17:25,"CinepolisCentreSquareMallErnakulamKochi|dfb9",Normal,₹160,9,3,English,2D
+Ernakulam,17:25,"CinepolisCentreSquareMallErnakulamKochi|dfb9",Executive,₹180,40,1,English,2D
+Ernakulam,17:25,"CinepolisCentreSquareMallErnakulamKochi|dfb9",Premium,₹200,57,4,English,2D
+Thrissur,19:40,"INOXSobhaCityMallPuzhakkalThrissur|9554",Executive,₹140,22,4,English,2D
+Thrissur,19:40,"INOXSobhaCityMallPuzhakkalThrissur|9554",Club,₹200,66,0,English,2D
+Thrissur,19:40,"INOXSobhaCityMallPuzhakkalThrissur|9554",Royal,₹200,28,15,English,2D
+Thrissur,19:40,"INOXSobhaCityMallPuzhakkalThrissur|9554",RoyalRecliner,₹400,10,0,English,2D
