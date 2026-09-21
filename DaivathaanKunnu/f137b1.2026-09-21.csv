@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:00,"KairaliSreeNilaRGBLaser4KDolbyAtmos|0533",Platinum,₹140,259,0,Malayalam,2D
+Kozhikode,11:00,"KairaliSreeTheatreKozhikode|9b23",SreeGold,₹165,311,0,Malayalam,2D
+Ernakulam,14:15,"KairaliSreeTheaterNorthParvur|0fc3",Platinum,₹120,245,0,Malayalam,2D
+Alappuzha,14:30,"CherthalaKairaliSreeTheatre|2ea1",Platinum,₹140,262,0,Malayalam,2D
+Kottayam,16:05,"AshaTheatreKottayam|d0df",Gold,₹140,187,18,Malayalam,2D
+Kottayam,16:05,"AshaTheatreKottayam|d0df",Silver,₹105,33,0,Malayalam,2D
+Thrissur,17:30,"KairaliSreeRGBLaser4KDolbyAtmosThrissur|6f13",Platinum,₹200,38,0,Malayalam,2D
+Thrissur,17:30,"KairaliSreeRGBLaser4KDolbyAtmosThrissur|6f13",Executive,₹125,230,0,Malayalam,2D
+Trivandrum,17:30,"KairaliSreeNilaRGBLaser4KDolbyAtmos|cc7d",Platinum,₹140,259,2,Malayalam,2D
