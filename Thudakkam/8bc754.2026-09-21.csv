@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,16:00,"AashirvadCineplexxThodupuzha|0234",Gold,₹200,10,0,Malayalam,2D
+Idukki,16:00,"AashirvadCineplexxThodupuzha|0234",Silver,₹170,90,0,Malayalam,2D
+Kozhikode,18:45,"AashirvadCineplexxKozhikode|1629",Platinum,₹220,30,0,Malayalam,2D
+Kozhikode,18:45,"AashirvadCineplexxKozhikode|1629",Gold,₹200,66,0,Malayalam,2D
