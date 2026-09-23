@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:00,"SriKalidasMPlex4KRGBLaserAtmosKattakkada|759a",Sofa,₹200,4,0,Tamil,2D
+Trivandrum,11:00,"SriKalidasMPlex4KRGBLaserAtmosKattakkada|759a",Gold,₹180,170,1,Tamil,2D
+Palakkad,14:00,"VrindavanTheatreKozhinjampara|c147",Balcony,₹150,33,8,Tamil,2D
+Palakkad,14:00,"VrindavanTheatreKozhinjampara|c147",FirstClass,₹120,152,0,Tamil,2D
+Palakkad,18:00,"VrindavanTheatreKozhinjampara|cf46",Balcony,₹150,33,8,Tamil,2D
+Palakkad,18:00,"VrindavanTheatreKozhinjampara|cf46",FirstClass,₹120,152,0,Tamil,2D
