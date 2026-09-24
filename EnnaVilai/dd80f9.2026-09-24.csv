@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,12:30,"PalaxiCinemasHiLITEMALLKozhikode|4a60",Recliner,₹470,23,1,Tamil,2D
+Kozhikode,12:30,"PalaxiCinemasHiLITEMALLKozhikode|4a60",Premium,₹240,88,1,Tamil,2D
+Kozhikode,12:30,"PalaxiCinemasHiLITEMALLKozhikode|4a60",Executive,₹180,17,0,Tamil,2D
+Kozhikode,12:30,"PalaxiCinemasHiLITEMALLKozhikode|4a60",Lounger,₹270,14,0,Tamil,2D
+Ernakulam,15:00,"SangeetaCinemaKochi|9629",BlueCircle,₹160,187,18,Tamil,2D
+Palakkad,18:00,"VCinemasSreeDeviDurga4KRGBLaserDolbyAtmos|ea78",Standard,₹129.8,126,0,Tamil,2D
+Ernakulam,18:15,"HighstreetCinemaCantonHighstreetMuvattupuzha|c3b4",Gold,₹150,121,0,Tamil,2D
+Ernakulam,21:15,"HighstreetCinemaCantonHighstreetMuvattupuzha|7b47",Gold,₹150,121,0,Tamil,2D
+Malappuram,11:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|90d4",DiamondCircle,₹105,143,0,Tamil,2D
+Ernakulam,13:05,"PVRForumMallNH47Kochi|bd4f",Classic,₹170,22,0,Tamil,2D
+Ernakulam,13:05,"PVRForumMallNH47Kochi|bd4f",Elite,₹210,85,1,Tamil,2D
+Malappuram,14:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|6366",DiamondCircle,₹105,143,0,Tamil,2D
+Trivandrum,19:50,"PVRLULULuluInternationalShoppingMallTrivandrum|c603",Classic,₹170,70,9,Tamil,2D
+Trivandrum,19:50,"PVRLULULuluInternationalShoppingMallTrivandrum|c603",Prime,₹190,51,5,Tamil,2D
+Trivandrum,19:50,"PVRLULULuluInternationalShoppingMallTrivandrum|c603",Recliner,₹350,7,3,Tamil,2D
