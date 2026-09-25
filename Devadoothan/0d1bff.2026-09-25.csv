@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,11:30,"CCinemasChengannur|58e0",ExecutiveSofa,₹250,22,6,Malayalam,2D
+Alappuzha,11:30,"CCinemasChengannur|58e0",KingsLounge,₹160,321,19,Malayalam,2D
+Alappuzha,13:45,"CCinemasChengannur|1e53",ExecutiveSofa,₹250,22,6,Malayalam,2D
+Alappuzha,13:45,"CCinemasChengannur|1e53",KingsLounge,₹160,321,19,Malayalam,2D
+Alappuzha,21:45,"CCinemasChengannur|dc30",ExecutiveSofa,₹250,22,6,Malayalam,2D
+Alappuzha,21:45,"CCinemasChengannur|dc30",KingsLounge,₹160,321,19,Malayalam,2D
