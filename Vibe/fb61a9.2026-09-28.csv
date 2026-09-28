@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,22:40,"PVRLuluLuluInternationalShoppingMallKochi|3dea",Luxe,₹450,16,0,Hindi,2D
+Ernakulam,22:40,"PVRLuluLuluInternationalShoppingMallKochi|3dea",LuxePrime,₹500,38,12,Hindi,2D
+Ernakulam,23:00,"PVRLuluLuluInternationalShoppingMallKochi|c268",Luxe,₹450,16,0,Hindi,2D
+Ernakulam,23:00,"PVRLuluLuluInternationalShoppingMallKochi|c268",LuxePrime,₹500,38,12,Hindi,2D
