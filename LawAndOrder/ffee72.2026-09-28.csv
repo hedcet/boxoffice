@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,14:45,"RamdasMovieHouseThrissur|d1f8",DiamondCircle,₹150,51,1,Malayalam,2D
+Thrissur,14:45,"RamdasMovieHouseThrissur|d1f8",PearlCircle,₹105,245,13,Malayalam,2D
+Malappuram,17:30,"LadderCinemasManjeri|e8d1",Executive,₹150,74,4,Malayalam,2D
+Palakkad,18:15,"PriyaCinemasComplex4KAtmosLaser3DPalakkad|ed72",Executive,₹170,50,3,Malayalam,2D
+Palakkad,18:15,"PriyaCinemasComplex4KAtmosLaser3DPalakkad|ed72",DressCircle,₹105,193,9,Malayalam,2D
+Malappuram,11:15,"SreekumarPavithraTheatreAC2KPattambiRoadValanchery|bef2",FirstClass,₹105,137,0,Malayalam,2D
+Malappuram,14:30,"SreekumarPavithraTheatreAC2KPattambiRoadValanchery|8a15",FirstClass,₹105,137,6,Malayalam,2D
