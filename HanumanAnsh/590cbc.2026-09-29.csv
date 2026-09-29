@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,09:55,"PVRLULULuluInternationalShoppingMallTrivandrum|dd0e",ClassicRows,₹92,65,5,Hindi,2D
+Trivandrum,09:55,"PVRLULULuluInternationalShoppingMallTrivandrum|dd0e",PrimeRows,₹139,34,19,Hindi,2D
+Trivandrum,09:55,"PVRLULULuluInternationalShoppingMallTrivandrum|dd0e",ReclinerRows,₹260,8,6,Hindi,2D
+Ernakulam,14:00,"PVRLuluLuluInternationalShoppingMallKochi|d376",ClassicRows,₹92,39,1,Hindi,2D
+Ernakulam,14:00,"PVRLuluLuluInternationalShoppingMallKochi|d376",ClassicPlusRows,₹129,91,5,Hindi,2D
+Ernakulam,14:00,"PVRLuluLuluInternationalShoppingMallKochi|d376",PrimeRows,₹139,48,13,Hindi,2D
+Ernakulam,14:00,"PVRLuluLuluInternationalShoppingMallKochi|d376",ExtraLegroomRows,₹149,16,9,Hindi,2D
+Ernakulam,14:00,"PVRLuluLuluInternationalShoppingMallKochi|d376",ReclinerRows,₹260,9,4,Hindi,2D
+Trivandrum,16:05,"PVRLULULuluInternationalShoppingMallTrivandrum|984b",ClassicRows,₹92,65,16,Hindi,2D
+Trivandrum,16:05,"PVRLULULuluInternationalShoppingMallTrivandrum|984b",PrimeRows,₹139,34,24,Hindi,2D
+Trivandrum,16:05,"PVRLULULuluInternationalShoppingMallTrivandrum|984b",ReclinerRows,₹260,8,7,Hindi,2D
