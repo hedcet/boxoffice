@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Pathanamthitta,11:00,"SCinemasKonni|c8ce",Platinum,₹150,81,0,Malayalam,2D
+Pathanamthitta,11:00,"SCinemasKonni|c8ce",Gold,₹105,368,0,Malayalam,2D
+Alappuzha,11:00,"SaiCineplexxOachira|711e",Diamond,₹250,27,27,Malayalam,2D
+Alappuzha,11:00,"SaiCineplexxOachira|711e",Gold,₹180,126,126,Malayalam,2D
+Trivandrum,11:00,"SriKalidasMPlex4KRGBLaserAtmosKattakkada|e65d",Sofa,₹200,4,0,Malayalam,2D
+Trivandrum,11:00,"SriKalidasMPlex4KRGBLaserAtmosKattakkada|e65d",Gold,₹180,170,3,Malayalam,2D
+Alappuzha,18:00,"CherthalaKairaliSreeTheatre|8f4a",Platinum,₹140,262,0,Malayalam,2D
+Trivandrum,18:00,"LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum|f3ce",Platinum,₹165,22,0,Malayalam,2D
+Trivandrum,18:00,"LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum|f3ce",Gold,₹145,144,0,Malayalam,2D
+Thrissur,18:30,"KairaliSreeRGBLaser4KDolbyAtmosThrissur|9b0c",Platinum,₹200,38,8,Malayalam,2D
+Thrissur,18:30,"KairaliSreeRGBLaser4KDolbyAtmosThrissur|9b0c",Executive,₹125,230,44,Malayalam,2D
+Thrissur,18:30,"DavisTheatreThrissur|47ac",Gold,₹202,123,14,,
+Thrissur,18:30,"DavisTheatreThrissur|47ac",Gold,₹202,0,0,,
