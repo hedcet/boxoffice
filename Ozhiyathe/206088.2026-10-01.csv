@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,"NewTheatre2K3DDolbyAtmosPudunagaram|1cf2",Standard,₹129.8,207,0,Malayalam,2D
+Palakkad,11:00,"NewTheatre2K3DDolbyAtmosPudunagaram|2bac",Standard,₹129.8,207,0,Malayalam,2D
+Palakkad,11:30,"SnehaCinemaACAlathur|d324",Sofa,₹180,20,8,Malayalam,2D
+Palakkad,11:30,"SnehaCinemaACAlathur|d324",Platinum,₹150,136,30,Malayalam,2D
