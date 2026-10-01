@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Pathanamthitta,11:00,"SCinemasKonni|19ee",Platinum,₹150,81,0,Malayalam,2D
+Pathanamthitta,11:00,"SCinemasKonni|19ee",Gold,₹105,368,0,Malayalam,2D
+Trivandrum,18:00,"LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum|4446",Platinum,₹165,22,0,Malayalam,2D
+Trivandrum,18:00,"LeninCinemas4K3DDolbyAtmosKSFDCTrivandrum|4446",Gold,₹145,144,12,Malayalam,2D
+Alappuzha,18:15,"CherthalaKairaliSreeTheatre|401d",Platinum,₹140,262,0,Malayalam,2D
+Thrissur,18:30,"KairaliSreeRGBLaser4KDolbyAtmosThrissur|6d2c",Platinum,₹200,38,5,Malayalam,2D
+Thrissur,18:30,"KairaliSreeRGBLaser4KDolbyAtmosThrissur|6d2c",Executive,₹125,230,92,Malayalam,2D
+Thrissur,18:30,"DavisTheatreThrissur|e331",Gold,₹202,131,15,,
+Thrissur,18:30,"DavisTheatreThrissur|e331",Gold,₹202,15,0,,
