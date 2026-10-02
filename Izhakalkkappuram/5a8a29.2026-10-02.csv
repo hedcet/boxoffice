@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,10:00,"AnchaniCinemas4KDolbyAtmosPallickathodu|a070",Platinum,₹250,14,0,Malayalam,2D
+Kottayam,10:00,"AnchaniCinemas4KDolbyAtmosPallickathodu|a070",Gold,₹150,153,0,Malayalam,2D
+Kollam,10:00,"GmaxCinemasJerome3D71JBLKollam|797c",Green,₹160,86,0,Malayalam,2D
+Idukki,10:00,"AiswaryaCinemas4KAtmosKattappana|56f3",Diamond,₹129,172,1,Malayalam,2D
+Kannur,10:30,"RajadhaniCinemasPayyannur|3009",UpperCircle,₹130,502,106,Malayalam,2D
+Thrissur,18:00,"KairaliSreeRGBLaser4KDolbyAtmosThrissur|6f18",Executive,₹125,423,127,Malayalam,2D
+Kozhikode,18:00,"KairaliSreeTheatreKozhikode|4f39",SreeGold,₹165,311,21,Malayalam,2D
+Trivandrum,18:15,"KairaliSreeNilaRGBLaser4KDolbyAtmos|1672",Platinum,₹140,259,45,Malayalam,2D
+Malappuram,11:00,"MallikaPlexChithralayaAngadipuramPerinthalmanna|743d",Executive,₹100,174,0,Malayalam,2D
+Malappuram,11:15,"KarthikaMoviesAC4KDolbyAtmosPattambiRoadValanchery|8893",UpperCircle,₹105,339,1,Malayalam,2D
+Malappuram,11:15,"KarthikaMoviesAC4KDolbyAtmosPattambiRoadValanchery|8893",ReclinerCircle,₹220,19,5,Malayalam,2D
+Ernakulam,12:50,"PVRForumMallNH47Kochi|c0d3",Classic,₹190,22,10,Malayalam,2D
+Ernakulam,12:50,"PVRForumMallNH47Kochi|c0d3",Elite,₹230,85,15,Malayalam,2D
+Trivandrum,13:15,"PVRLULULuluInternationalShoppingMallTrivandrum|3824",Classic,₹210,60,14,Malayalam,2D
+Trivandrum,13:15,"PVRLULULuluInternationalShoppingMallTrivandrum|3824",Prime,₹210,39,20,Malayalam,2D
+Trivandrum,13:15,"PVRLULULuluInternationalShoppingMallTrivandrum|3824",Recliner,₹500,8,6,Malayalam,2D
