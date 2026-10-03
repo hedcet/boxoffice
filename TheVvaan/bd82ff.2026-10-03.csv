@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:10,"CinepolisGokulamGalleriaMallArayidathupalamKozhikode|e079",Normal,₹210,14,0,Hindi,2D
+Kozhikode,10:10,"CinepolisGokulamGalleriaMallArayidathupalamKozhikode|e079",Executive,₹230,45,1,Hindi,2D
+Kozhikode,10:10,"CinepolisGokulamGalleriaMallArayidathupalamKozhikode|e079",Premium,₹250,68,0,Hindi,2D
+Kozhikode,10:10,"CinepolisGokulamGalleriaMallArayidathupalamKozhikode|e079",PremiumXl,₹270,25,0,Hindi,2D
+Ernakulam,16:20,"CinepolisVIPCentreSquareMallErnakulamKochi|fe23",VipExecutive,₹450,20,0,Hindi,2D
+Ernakulam,16:20,"CinepolisVIPCentreSquareMallErnakulamKochi|fe23",VipPremium,₹500,53,8,Hindi,2D
+Ernakulam,16:55,"PVRForumMallNH47Kochi|5f8f",Luxe,₹500,16,0,Hindi,2D
+Ernakulam,16:55,"PVRForumMallNH47Kochi|5f8f",LuxePrime,₹600,42,2,Hindi,2D
+Ernakulam,19:25,"CinepolisCentreSquareMallErnakulamKochi|2eb1",Normal,₹129,22,2,Hindi,2D
+Ernakulam,19:25,"CinepolisCentreSquareMallErnakulamKochi|2eb1",Executive,₹129,45,2,Hindi,2D
+Ernakulam,19:25,"CinepolisCentreSquareMallErnakulamKochi|2eb1",Premium,₹129,95,54,Hindi,2D
+Trivandrum,22:20,"PVRLULULuluInternationalShoppingMallTrivandrum|5369",Luxe,₹750,24,17,Hindi,2D
+Trivandrum,22:20,"PVRLULULuluInternationalShoppingMallTrivandrum|5369",LuxePrime,₹850,18,11,Hindi,2D
