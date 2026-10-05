@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kollam,10:00,"GmaxCinemasJerome3D71JBLKollam|dba7",Red,₹160,279,279,Malayalam,2D
+Kottayam,16:45,"GoodwillCinemas4KRGBLASERAtmos3DKallara|dce8",Recliner,₹300,17,0,Malayalam,2D
+Kottayam,16:45,"GoodwillCinemas4KRGBLASERAtmos3DKallara|dce8",Gold,₹150,174,15,Malayalam,2D
+Kozhikode,18:00,"KairaliSreeTheatreKozhikode|e64e",SreeGold,₹165,311,15,Malayalam,2D
+Thrissur,18:00,"KairaliSreeRGBLaser4KDolbyAtmosThrissur|ed4d",Executive,₹125,423,26,Malayalam,2D
+Trivandrum,18:15,"KairaliSreeNilaRGBLaser4KDolbyAtmos|021c",Platinum,₹140,259,20,Malayalam,2D
+Trivandrum,13:15,"PVRLULULuluInternationalShoppingMallTrivandrum|89df",Classic,₹170,60,4,Malayalam,2D
+Trivandrum,13:15,"PVRLULULuluInternationalShoppingMallTrivandrum|89df",Prime,₹190,39,16,Malayalam,2D
+Trivandrum,13:15,"PVRLULULuluInternationalShoppingMallTrivandrum|89df",Recliner,₹350,8,5,Malayalam,2D
