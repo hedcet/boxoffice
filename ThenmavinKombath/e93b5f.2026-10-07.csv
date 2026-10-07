@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,18:40,"SaritaCinemaRGBLaser4K3DATMOSKochi|da6f",Platinum,₹250,221,221,Malayalam,2D
+Ernakulam,18:40,"SaritaCinemaRGBLaser4K3DATMOSKochi|da6f",VipSofaA,₹400,13,13,Malayalam,2D
+Ernakulam,18:40,"SaritaCinemaRGBLaser4K3DATMOSKochi|da6f",VipSofaB,₹400,14,14,Malayalam,2D
+Ernakulam,18:40,"SaritaCinemaRGBLaser4K3DATMOSKochi|da6f",GoldRecliner,₹500,37,37,Malayalam,2D
+Ernakulam,18:40,"SaritaCinemaRGBLaser4K3DATMOSKochi|da6f",Silver,₹200,428,428,Malayalam,2D
+Kollam,18:40,"VarshaMovies4KAnchal|e28a",Premium,₹250,15,2,Malayalam,2D
+Kollam,18:40,"VarshaMovies4KAnchal|e28a",Executive,₹200,41,3,Malayalam,2D
+Kollam,18:40,"VarshaMovies4KAnchal|e28a",Classic,₹150,375,2,Malayalam,2D
