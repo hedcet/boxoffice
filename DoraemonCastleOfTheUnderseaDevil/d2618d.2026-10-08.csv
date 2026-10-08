@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,10:45,"PVRLULULuluInternationalShoppingMallTrivandrum|0448",Classic,₹170,70,13,Japanese,2D
+Trivandrum,10:45,"PVRLULULuluInternationalShoppingMallTrivandrum|0448",Prime,₹190,51,4,Japanese,2D
+Trivandrum,10:45,"PVRLULULuluInternationalShoppingMallTrivandrum|0448",Recliner,₹350,7,3,Japanese,2D
+Thrissur,13:15,"INOXSobhaCityMallPuzhakkalThrissur|24a5",Executive,₹99,22,4,Japanese,2D
+Thrissur,13:15,"INOXSobhaCityMallPuzhakkalThrissur|24a5",Club,₹160,63,0,Japanese,2D
+Thrissur,13:15,"INOXSobhaCityMallPuzhakkalThrissur|24a5",Royal,₹180,28,12,Japanese,2D
+Thrissur,13:15,"INOXSobhaCityMallPuzhakkalThrissur|24a5",RoyalRecliner,₹400,10,0,Japanese,2D
+Ernakulam,14:00,"CinepolisCentreSquareMallErnakulamKochi|8c96",Normal,₹160,13,3,Japanese,2D
+Ernakulam,14:00,"CinepolisCentreSquareMallErnakulamKochi|8c96",Executive,₹180,26,0,Japanese,2D
+Ernakulam,14:00,"CinepolisCentreSquareMallErnakulamKochi|8c96",Premium,₹200,67,3,Japanese,2D
+Trivandrum,17:25,"PVRLULULuluInternationalShoppingMallTrivandrum|c96f",Classic,₹400,48,8,Hindi,4DX2D
+Trivandrum,17:25,"PVRLULULuluInternationalShoppingMallTrivandrum|c96f",Prime,₹400,32,3,Hindi,4DX2D
+Ernakulam,17:50,"PVRLuluLuluInternationalShoppingMallKochi|de99",Classic,₹350,116,25,Hindi,4DX2D
+Ernakulam,19:40,"PVRForumMallNH47Kochi|0c19",Classic,₹170,14,0,Japanese,2D
+Ernakulam,19:40,"PVRForumMallNH47Kochi|0c19",Elite,₹210,125,21,Japanese,2D
+Ernakulam,19:40,"PVRForumMallNH47Kochi|0c19",Recliner,₹450,8,2,Japanese,2D
