@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,14:15,"NewAromaTheatrePalakkad|5546",PlatinumCircle,₹129.8,200,7,Tamil,2D
+Palakkad,14:15,"NewAromaTheatrePalakkad|5546",DiamondCircle,₹105,229,1,Tamil,2D
+Palakkad,18:00,"VCinemasSreeDeviDurga4KRGBLaserDolbyAtmos|4db2",Standard,₹129.8,126,0,Tamil,2D
