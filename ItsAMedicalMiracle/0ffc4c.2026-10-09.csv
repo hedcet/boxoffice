@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,11:00,"EVMMathaCinemaAdimali|234f",Screen2,₹150,122,2,Malayalam,2D
+Idukki,14:00,"EVMMathaCinemaAdimali|5dc1",Screen2,₹150,122,2,Malayalam,2D
+Idukki,18:00,"EVMMathaCinemaAdimali|a170",Screen2,₹150,122,0,Malayalam,2D
+Idukki,21:00,"EVMMathaCinemaAdimali|1f67",Screen2,₹150,122,10,Malayalam,2D
