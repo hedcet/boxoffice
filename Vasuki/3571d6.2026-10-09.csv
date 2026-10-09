@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,10:30,"SumangaliCinemasPayyannur|c0b5",GoldenCircle,₹130,192,0,Tamil,2D
+Palakkad,13:45,"MagicFramesCinemas4KLaser3DAtmosPattambi|7a2d",Gold,₹150,137,0,Tamil,2D
+Palakkad,14:00,"RavirajComplexACKozhinjampara|dd0b",Recliner,₹300,31,6,Tamil,2D
+Palakkad,14:00,"RavirajComplexACKozhinjampara|dd0b",FirstClass,₹120,247,24,Tamil,2D
+Palakkad,14:15,"AromaScreen2Palakkad|f437",KingCircle,₹129.8,235,9,Tamil,2D
+Palakkad,18:00,"RavirajComplexACKozhinjampara|3cf0",Recliner,₹300,31,6,Tamil,2D
+Palakkad,18:00,"RavirajComplexACKozhinjampara|3cf0",FirstClass,₹120,247,24,Tamil,2D
+Palakkad,21:00,"RavirajComplexACKozhinjampara|c32e",Recliner,₹300,31,6,Tamil,2D
+Palakkad,21:00,"RavirajComplexACKozhinjampara|c32e",FirstClass,₹120,247,24,Tamil,2D
+Kannur,22:30,"SumangaliCinemasPayyannur|fa3f",GoldenCircle,₹130,192,0,Tamil,2D
+Palakkad,11:00,"ShivasakthiCinemasDolbyAtmosNearNellipuzhaJunctionMannarkkad|9a72",Executive,₹105,256,0,Tamil,2D
+Thrissur,18:00,"AppasTheatreOppositeSrivarHotelGuruvayur|ab06",Silver,₹105,391,0,Tamil,2D
+Thrissur,18:00,"AppasTheatreOppositeSrivarHotelGuruvayur|ab06",Gold,₹129.8,160,0,Tamil,2D
+Malappuram,18:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|b798",DiamondCircle,₹105,143,0,Tamil,2D
+Malappuram,21:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|d075",DiamondCircle,₹105,143,0,Tamil,2D
+Palakkad,21:30,"ShivasakthiCinemasDolbyAtmosNearNellipuzhaJunctionMannarkkad|aade",Executive,₹105,256,4,Tamil,2D
