@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,10:45,"AlinkeelCinemaRGBLaser4K3DAtmosTaliparamba|06cc",Reserved,₹129.8,190,0,Malayalam,2D
+Palakkad,11:30,"SnehaCinemaACAlathur|f00f",Sofa,₹180,20,0,Malayalam,2D
+Palakkad,11:30,"SnehaCinemaACAlathur|f00f",Platinum,₹150,136,18,Malayalam,2D
+Thrissur,12:00,"AppasTheatreOppositeSrivarHotelGuruvayur|b584",Silver,₹105,391,0,Malayalam,2D
+Thrissur,12:00,"AppasTheatreOppositeSrivarHotelGuruvayur|b584",Gold,₹129.8,160,0,Malayalam,2D
