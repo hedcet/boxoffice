@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,10:30,"SumangaliCinemasPayyannur|c2ed",GoldenCircle,₹130,192,0,Tamil,2D
+Palakkad,13:45,"MagicFramesCinemas4KLaser3DAtmosPattambi|9dac",Gold,₹150,137,0,Tamil,2D
+Palakkad,14:00,"RavirajComplexACKozhinjampara|7294",Recliner,₹300,31,6,Tamil,2D
+Palakkad,14:00,"RavirajComplexACKozhinjampara|7294",FirstClass,₹120,247,24,Tamil,2D
+Palakkad,14:15,"AromaScreen2Palakkad|95d9",KingCircle,₹129.8,235,7,Tamil,2D
+Palakkad,18:00,"RavirajComplexACKozhinjampara|7377",Recliner,₹300,31,6,Tamil,2D
+Palakkad,18:00,"RavirajComplexACKozhinjampara|7377",FirstClass,₹120,247,24,Tamil,2D
+Palakkad,21:00,"RavirajComplexACKozhinjampara|464b",Recliner,₹300,31,6,Tamil,2D
+Palakkad,21:00,"RavirajComplexACKozhinjampara|464b",FirstClass,₹120,247,24,Tamil,2D
+Kannur,22:30,"SumangaliCinemasPayyannur|ead5",GoldenCircle,₹130,192,0,Tamil,2D
+Palakkad,11:00,"ShivasakthiCinemasDolbyAtmosNearNellipuzhaJunctionMannarkkad|5046",Executive,₹105,256,0,Tamil,2D
+Malappuram,18:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|51a7",DiamondCircle,₹105,143,0,Tamil,2D
+Palakkad,21:30,"ShivasakthiCinemasDolbyAtmosNearNellipuzhaJunctionMannarkkad|8451",Executive,₹105,256,0,Tamil,2D
+Malappuram,21:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|c96c",DiamondCircle,₹105,143,0,Tamil,2D
