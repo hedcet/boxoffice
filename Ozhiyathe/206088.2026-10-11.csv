@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:30,"SnehaCinemaACAlathur|87c5",Sofa,₹180,20,20,Malayalam,2D
+Palakkad,11:30,"SnehaCinemaACAlathur|87c5",Platinum,₹150,136,136,Malayalam,2D
+Thrissur,12:00,"AppasTheatreOppositeSrivarHotelGuruvayur|c9f2",Silver,₹105,391,0,Malayalam,2D
+Thrissur,12:00,"AppasTheatreOppositeSrivarHotelGuruvayur|c9f2",Gold,₹129.8,160,0,Malayalam,2D
