@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:00,"PVRLULULuluInternationalShoppingMallTrivandrum|a229",ClassicRows,₹420,92,4,English,IMAX2D
+Trivandrum,11:00,"PVRLULULuluInternationalShoppingMallTrivandrum|a229",PrimeRows,₹450,46,1,English,IMAX2D
+Trivandrum,11:00,"PVRLULULuluInternationalShoppingMallTrivandrum|a229",ExtraLegroomRows,₹480,23,3,English,IMAX2D
+Trivandrum,11:00,"PVRLULULuluInternationalShoppingMallTrivandrum|a229",PicturePerfect,₹500,0,0,English,IMAX2D
+Trivandrum,11:00,"PVRLULULuluInternationalShoppingMallTrivandrum|a229",ReclinerRows,₹650,16,0,English,IMAX2D
+Ernakulam,13:15,"CinepolisCentreSquareMallErnakulamKochi|17dd",Normal,₹240,13,3,English,IMAX2D
+Ernakulam,13:15,"CinepolisCentreSquareMallErnakulamKochi|17dd",Executive,₹260,54,0,English,IMAX2D
+Ernakulam,13:15,"CinepolisCentreSquareMallErnakulamKochi|17dd",Premium,₹280,58,19,English,IMAX2D
+Ernakulam,13:15,"CinepolisCentreSquareMallErnakulamKochi|17dd",PremiumPlus,₹300,86,14,English,IMAX2D
+Ernakulam,13:15,"CinepolisCentreSquareMallErnakulamKochi|17dd",PremiumXl,₹320,18,8,English,IMAX2D
+Trivandrum,21:45,"PVRLULULuluInternationalShoppingMallTrivandrum|d8e9",ClassicRows,₹420,92,4,English,IMAX2D
+Trivandrum,21:45,"PVRLULULuluInternationalShoppingMallTrivandrum|d8e9",PrimeRows,₹450,46,2,English,IMAX2D
+Trivandrum,21:45,"PVRLULULuluInternationalShoppingMallTrivandrum|d8e9",ExtraLegroomRows,₹480,23,6,English,IMAX2D
+Trivandrum,21:45,"PVRLULULuluInternationalShoppingMallTrivandrum|d8e9",PicturePerfect,₹500,0,0,English,IMAX2D
+Trivandrum,21:45,"PVRLULULuluInternationalShoppingMallTrivandrum|d8e9",ReclinerRows,₹650,16,7,English,IMAX2D
