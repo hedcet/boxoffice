@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kasaragod,10:30,"MoviemaxCircleKasaragod|9478",Max3,₹129.8,238,4,Malayalam,2D
+Kozhikode,11:00,"PalaxiCinemasHiLITEMALLKozhikode|04ea",Recliner,₹400,29,1,Malayalam,2D
+Kozhikode,11:00,"PalaxiCinemasHiLITEMALLKozhikode|04ea",Premium,₹99,135,13,Malayalam,2D
+Kozhikode,11:00,"PalaxiCinemasHiLITEMALLKozhikode|04ea",Executive,₹99,27,1,Malayalam,2D
+Kozhikode,11:00,"PalaxiCinemasHiLITEMALLKozhikode|04ea",Lounger,₹200,24,1,Malayalam,2D
+Palakkad,11:15,"AromaScreen2Palakkad|98b9",KingCircle,₹129.8,235,0,Malayalam,2D
+Thrissur,12:30,"PalaxiCinemasHiLITEMallThrissur|f689",Recliner,₹300,25,0,Malayalam,2D
+Thrissur,12:30,"PalaxiCinemasHiLITEMallThrissur|f689",Premium,₹99,129,14,Malayalam,2D
+Thrissur,12:30,"PalaxiCinemasHiLITEMallThrissur|f689",Executive,₹99,23,0,Malayalam,2D
+Idukki,17:30,"AashirvadCineplexxThodupuzha|8759",Gold,₹185,10,0,Malayalam,2D
+Idukki,17:30,"AashirvadCineplexxThodupuzha|8759",Silver,₹155,90,0,Malayalam,2D
+Ernakulam,13:25,"PVRForumMallNH47Kochi|7a4b",Classic,₹92,22,0,Malayalam,2D
+Ernakulam,13:25,"PVRForumMallNH47Kochi|7a4b",Elite,₹149,85,11,Malayalam,2D
+Kannur,16:15,"MovieMaxChakkarakkalKannur|a45d",Executive,₹129.8,175,0,Malayalam,2D
