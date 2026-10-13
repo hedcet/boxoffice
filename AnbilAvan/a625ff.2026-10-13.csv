@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:15,"AromaScreen2Palakkad|2eb9",KingCircle,₹129.8,235,5,Tamil,2D
+Palakkad,14:30,"PriyaCinemasComplex4KAtmosLaser3DPalakkad|86d7",Executive,₹170,50,2,Tamil,2D
+Palakkad,14:30,"PriyaCinemasComplex4KAtmosLaser3DPalakkad|86d7",DressCircle,₹105,193,3,Tamil,2D
+Palakkad,18:00,"AromaScreen2Palakkad|dad9",KingCircle,₹129.8,235,0,Tamil,2D
+Trivandrum,22:20,"PVRLULULuluInternationalShoppingMallTrivandrum|323c",ReclinerRows,₹92.81,8,8,Tamil,2D
+Trivandrum,22:20,"PVRLULULuluInternationalShoppingMallTrivandrum|323c",ClassicRows,₹92.81,65,12,Tamil,2D
+Trivandrum,22:20,"PVRLULULuluInternationalShoppingMallTrivandrum|323c",PrimeRows,₹92.81,34,22,Tamil,2D
