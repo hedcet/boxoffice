@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,18:00,"CherthalaKairaliSreeTheatre|10cb",Platinum,₹140,262,0,Malayalam,2D
+Kozhikode,19:45,"PalaxiCinemasHiLITEMALLKozhikode|2eaf",Recliner,₹470,23,1,Malayalam,2D
+Kozhikode,19:45,"PalaxiCinemasHiLITEMALLKozhikode|2eaf",Premium,₹240,88,0,Malayalam,2D
+Kozhikode,19:45,"PalaxiCinemasHiLITEMALLKozhikode|2eaf",Executive,₹180,17,0,Malayalam,2D
+Kozhikode,19:45,"PalaxiCinemasHiLITEMALLKozhikode|2eaf",Lounger,₹270,14,0,Malayalam,2D
+Kannur,21:30,"LibertyParadiseThalassery|d256",Mini,₹129.8,250,179,Malayalam,2D
+Ernakulam,12:50,"CinepolisCentreSquareMallErnakulamKochi|d854",Normal,₹99,13,0,Malayalam,2D
+Ernakulam,12:50,"CinepolisCentreSquareMallErnakulamKochi|d854",Executive,₹129,26,0,Malayalam,2D
+Ernakulam,12:50,"CinepolisCentreSquareMallErnakulamKochi|d854",Premium,₹139,67,26,Malayalam,2D
+Trivandrum,16:00,"PVRLULULuluInternationalShoppingMallTrivandrum|d2b9",Classic,₹160,60,6,Malayalam,2D
+Trivandrum,16:00,"PVRLULULuluInternationalShoppingMallTrivandrum|d2b9",Prime,₹210,39,19,Malayalam,2D
+Trivandrum,16:00,"PVRLULULuluInternationalShoppingMallTrivandrum|d2b9",Recliner,₹400,8,2,Malayalam,2D
