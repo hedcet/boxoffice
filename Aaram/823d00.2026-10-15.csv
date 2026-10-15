@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,10:30,"RajadhaniCinemasPayyannur|957b",PlatinumCircle,₹130,88,0,Malayalam,2D
+Idukki,12:00,"GCinemaxMultiplex|91d1",Audi3,₹140,165,0,Malayalam,2D
+Kannur,13:30,"RajadhaniCinemasPayyannur|9072",PlatinumCircle,₹130,88,2,Malayalam,2D
+Idukki,15:00,"GCinemaxMultiplex|c310",Audi3,₹140,165,0,Malayalam,2D
+Kannur,16:30,"RajadhaniCinemasPayyannur|4312",PlatinumCircle,₹130,88,6,Malayalam,2D
+Idukki,18:30,"GCinemaxMultiplex|5d73",Audi3,₹140,165,165,Malayalam,2D
+Kannur,19:30,"RajadhaniCinemasPayyannur|d0db",PlatinumCircle,₹130,88,6,Malayalam,2D
+Idukki,21:30,"GCinemaxMultiplex|5801",Audi3,₹140,165,165,Malayalam,2D
