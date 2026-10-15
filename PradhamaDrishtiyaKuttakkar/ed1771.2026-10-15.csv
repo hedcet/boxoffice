@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,14:15,"KairaliSreeTheaterAlappuzha|8d26",Platinum,₹140,305,0,Malayalam,2D
+Malappuram,14:30,"LadderCinemasManjeri|28ae",Executive,₹150,74,0,Malayalam,2D
+Kannur,14:45,"LibertyParadiseThalassery|a07a",Mini,₹129.8,250,175,Malayalam,2D
+Alappuzha,18:00,"KairaliSreeTheaterAlappuzha|7d9f",Platinum,₹140,305,5,Malayalam,2D
+Trivandrum,10:20,"CinepolisMOTEanchakkalThiruvananthapuram|df8c",VipExecutive,₹250,18,0,Malayalam,2D
+Trivandrum,10:20,"CinepolisMOTEanchakkalThiruvananthapuram|df8c",VipPremium,₹300,18,6,Malayalam,2D
+Ernakulam,12:20,"CinepolisCentreSquareMallErnakulamKochi|827b",Normal,₹99,26,2,Malayalam,2D
+Ernakulam,12:20,"CinepolisCentreSquareMallErnakulamKochi|827b",Executive,₹99,45,1,Malayalam,2D
+Ernakulam,12:20,"CinepolisCentreSquareMallErnakulamKochi|827b",Premium,₹99,53,8,Malayalam,2D
+Ernakulam,12:20,"CinepolisCentreSquareMallErnakulamKochi|827b",PremiumXl,₹99,13,7,Malayalam,2D
+Ernakulam,12:20,"CinepolisCentreSquareMallErnakulamKochi|827b",PremiumPlus,₹99,28,10,Malayalam,2D
+Ernakulam,18:05,"CinepolisCentreSquareMallErnakulamKochi|8886",Normal,₹129,26,2,Malayalam,2D
+Ernakulam,18:05,"CinepolisCentreSquareMallErnakulamKochi|8886",Executive,₹129,45,0,Malayalam,2D
+Ernakulam,18:05,"CinepolisCentreSquareMallErnakulamKochi|8886",Premium,₹129,53,0,Malayalam,2D
+Ernakulam,18:05,"CinepolisCentreSquareMallErnakulamKochi|8886",PremiumXl,₹129,13,0,Malayalam,2D
+Ernakulam,18:05,"CinepolisCentreSquareMallErnakulamKochi|8886",PremiumPlus,₹129,28,6,Malayalam,2D
