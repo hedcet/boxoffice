@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,10:00,"MasMoviesIrinjalakuda|efde",Silver,₹129,60,0,Tamil,2D
+Thrissur,10:00,"MasMoviesIrinjalakuda|efde",Diamond,₹150,147,5,Tamil,2D
+Thrissur,13:30,"MasMoviesIrinjalakuda|d8aa",Silver,₹129,60,0,Tamil,2D
+Thrissur,13:30,"MasMoviesIrinjalakuda|d8aa",Diamond,₹150,147,4,Tamil,2D
+Thrissur,17:00,"MasMoviesIrinjalakuda|4da2",Silver,₹129,60,0,Tamil,2D
+Thrissur,17:00,"MasMoviesIrinjalakuda|4da2",Diamond,₹150,147,4,Tamil,2D
+Thrissur,20:30,"MasMoviesIrinjalakuda|bc36",Silver,₹129,60,0,Tamil,2D
+Thrissur,20:30,"MasMoviesIrinjalakuda|bc36",Diamond,₹150,147,9,Tamil,2D
+Thrissur,23:59,"MasMoviesIrinjalakuda|36ce",Silver,₹129,60,0,Tamil,2D
+Thrissur,23:59,"MasMoviesIrinjalakuda|36ce",Diamond,₹150,147,4,Tamil,2D
