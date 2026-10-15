@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,13:45,"PalaxiCinemasHiLITEMALLKozhikode|0de5",Recliner,₹470,23,1,English,3D
+Kozhikode,13:45,"PalaxiCinemasHiLITEMALLKozhikode|0de5",Premium,₹240,88,0,English,3D
+Kozhikode,13:45,"PalaxiCinemasHiLITEMALLKozhikode|0de5",Executive,₹180,17,2,English,3D
+Kozhikode,13:45,"PalaxiCinemasHiLITEMALLKozhikode|0de5",Lounger,₹270,14,0,English,3D
+Kannur,16:05,"CinepolisSecuraCentreKannur|68c3",Normal,₹160,13,0,English,3D
+Kannur,16:05,"CinepolisSecuraCentreKannur|68c3",Executive,₹180,43,0,English,3D
+Kannur,16:05,"CinepolisSecuraCentreKannur|68c3",Premium,₹200,94,7,English,3D
+Ernakulam,19:35,"CinepolisCentreSquareMallErnakulamKochi|cfcd",Normal,₹280,13,3,English,IMAX2D
+Ernakulam,19:35,"CinepolisCentreSquareMallErnakulamKochi|cfcd",Executive,₹300,54,0,English,IMAX2D
+Ernakulam,19:35,"CinepolisCentreSquareMallErnakulamKochi|cfcd",Premium,₹320,58,7,English,IMAX2D
+Ernakulam,19:35,"CinepolisCentreSquareMallErnakulamKochi|cfcd",PremiumPlus,₹340,86,0,English,IMAX2D
+Ernakulam,19:35,"CinepolisCentreSquareMallErnakulamKochi|cfcd",PremiumXl,₹360,18,0,English,IMAX2D
