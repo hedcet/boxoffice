@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,12:00,"SanthoshCinemaDolby71Kattappana|47b9",RoyalCircle,₹105,268,0,Malayalam,2D
+Idukki,15:00,"SanthoshCinemaDolby71Kattappana|4d37",RoyalCircle,₹105,268,0,Malayalam,2D
+Idukki,18:00,"SanthoshCinemaDolby71Kattappana|ce04",RoyalCircle,₹105,268,0,Malayalam,2D
+Idukki,21:00,"SanthoshCinemaDolby71Kattappana|5f11",RoyalCircle,₹105,268,13,Malayalam,2D
+Malappuram,16:00,"VismayaCinemas4KDolbyAtmosLICRoadPerinthalmanna|6910",Platinum,₹100,111,12,Malayalam,2D
