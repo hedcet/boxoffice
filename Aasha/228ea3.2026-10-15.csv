@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,11:45,"GCinemaxMultiplex|5178",Audi2,₹150,155,2,Malayalam,2D
+Idukki,14:45,"GCinemaxMultiplex|1b9e",Audi2,₹150,155,0,Malayalam,2D
+Idukki,18:15,"GCinemaxMultiplex|33e4",Audi2,₹150,155,4,Malayalam,2D
+Idukki,21:15,"GCinemaxMultiplex|aebb",Audi2,₹150,155,9,Malayalam,2D
+Ernakulam,10:00,"CinepolisCentreSquareMallErnakulamKochi|e668",Normal,₹99,12,2,Malayalam,2D
+Ernakulam,10:00,"CinepolisCentreSquareMallErnakulamKochi|e668",Executive,₹99,39,0,Malayalam,2D
+Ernakulam,10:00,"CinepolisCentreSquareMallErnakulamKochi|e668",Premium,₹99,43,0,Malayalam,2D
+Ernakulam,10:00,"CinepolisCentreSquareMallErnakulamKochi|e668",PremiumXl,₹99,11,0,Malayalam,2D
+Ernakulam,10:00,"CinepolisCentreSquareMallErnakulamKochi|e668",PremiumPlus,₹99,43,1,Malayalam,2D
+Ernakulam,16:40,"CinepolisCentreSquareMallErnakulamKochi|16a6",Normal,₹140,11,2,Malayalam,2D
+Ernakulam,16:40,"CinepolisCentreSquareMallErnakulamKochi|16a6",Executive,₹150,45,2,Malayalam,2D
+Ernakulam,16:40,"CinepolisCentreSquareMallErnakulamKochi|16a6",Premium,₹160,67,8,Malayalam,2D
+Ernakulam,16:40,"CinepolisCentreSquareMallErnakulamKochi|16a6",PremiumPlus,₹170,34,7,Malayalam,2D
+Ernakulam,16:40,"CinepolisCentreSquareMallErnakulamKochi|16a6",PremiumXl,₹200,13,6,Malayalam,2D
