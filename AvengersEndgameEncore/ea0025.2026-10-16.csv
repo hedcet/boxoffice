@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,13:45,"PalaxiCinemasHiLITEMALLKozhikode|322f",Recliner,₹470,23,1,English,3D
+Kozhikode,13:45,"PalaxiCinemasHiLITEMALLKozhikode|322f",Premium,₹240,88,2,English,3D
+Kozhikode,13:45,"PalaxiCinemasHiLITEMALLKozhikode|322f",Executive,₹180,17,0,English,3D
+Kozhikode,13:45,"PalaxiCinemasHiLITEMALLKozhikode|322f",Lounger,₹270,14,0,English,3D
