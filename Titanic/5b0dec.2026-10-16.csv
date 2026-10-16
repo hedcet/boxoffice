@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,14:30,"SriKalidasMPlex4KRGBLaserAtmosKattakkada|08c1",Sofa,₹200,4,0,Tamil,2D
+Trivandrum,14:30,"SriKalidasMPlex4KRGBLaserAtmosKattakkada|08c1",Gold,₹180,173,0,Tamil,2D
+Ernakulam,15:00,"SangeetaCinemaKochi|2a54",BlueCircle,₹160,187,18,Tamil,2D
+Kozhikode,16:30,"KirthiMudra4KRGBLaserDolbyAtmos|1b21",Sofa,₹200,16,16,Tamil,2D
+Kozhikode,16:30,"KirthiMudra4KRGBLaserDolbyAtmos|1b21",Gold,₹129.8,182,182,Tamil,2D
+Ernakulam,18:00,"SangeetaCinemaKochi|ac45",BlueCircle,₹160,187,18,Tamil,2D
+Palakkad,11:00,"GowryMovieHouseKollengode|1303",FirstClass,₹120,129,0,Tamil,2D
+Palakkad,11:15,"JayabharathTheatreKarayankaduVadakkencherry|0245",FirstClass,₹120,165,0,Tamil,2D
+Palakkad,14:00,"GowryMovieHouseKollengode|88ce",FirstClass,₹120,129,0,Tamil,2D
+Palakkad,18:15,"JayabharathTheatreKarayankaduVadakkencherry|749e",FirstClass,₹120,165,0,Tamil,2D
