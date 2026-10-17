@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,11:30,"LibertyParadiseThalassery|08f9",Mini,₹129.8,250,178,Malayalam,2D
+Kannur,14:45,"LibertyParadiseThalassery|8144",Mini,₹129.8,250,182,Malayalam,2D
+Kozhikode,16:15,"PalaxiCinemasHiLITEMALLKozhikode|8b13",Recliner,₹470,27,0,Malayalam,2D
+Kozhikode,16:15,"PalaxiCinemasHiLITEMALLKozhikode|8b13",Premium,₹240,146,0,Malayalam,2D
+Kozhikode,16:15,"PalaxiCinemasHiLITEMALLKozhikode|8b13",Executive,₹180,25,0,Malayalam,2D
+Kozhikode,16:15,"PalaxiCinemasHiLITEMALLKozhikode|8b13",Lounger,₹270,22,0,Malayalam,2D
+Ernakulam,11:15,"CinepolisCentreSquareMallErnakulamKochi|d637",Normal,₹99,13,0,Malayalam,2D
+Ernakulam,11:15,"CinepolisCentreSquareMallErnakulamKochi|d637",Executive,₹129,26,1,Malayalam,2D
+Ernakulam,11:15,"CinepolisCentreSquareMallErnakulamKochi|d637",Premium,₹139,67,36,Malayalam,2D
