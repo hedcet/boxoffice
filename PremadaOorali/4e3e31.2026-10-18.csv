@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kasaragod,10:30,"KaveriCinemasACDTSDolbyKarmamthody|f902",Standard,₹105,145,9,Kannada,2D
+Kasaragod,13:30,"KaveriCinemasACDTSDolbyKarmamthody|00fe",Standard,₹105,145,14,Kannada,2D
+Kasaragod,13:30,"MagicFramesMehboobTheatreComplex4KKasaragod|0999",Executive,₹129.7,222,58,Kannada,2D
+Kasaragod,19:45,"MagicFramesMehboobTheatreComplex4KKasaragod|99bf",Executive,₹129.7,222,108,Kannada,2D
