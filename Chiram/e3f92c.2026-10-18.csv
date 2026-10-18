@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:15,"PalaxiCinemasHiLITEMALLKozhikode|e66a",Recliner,₹470,27,0,Malayalam,2D
+Kozhikode,10:15,"PalaxiCinemasHiLITEMALLKozhikode|e66a",Premium,₹240,165,0,Malayalam,2D
+Kozhikode,10:15,"PalaxiCinemasHiLITEMALLKozhikode|e66a",Executive,₹180,40,0,Malayalam,2D
+Kottayam,14:30,"GoodwillCinemas4KRGBLASERAtmos3DKallara|a1a0",Recliner,₹300,17,0,Malayalam,2D
+Kottayam,14:30,"GoodwillCinemas4KRGBLASERAtmos3DKallara|a1a0",Gold,₹150,174,0,Malayalam,2D
+Kozhikode,11:15,"CinepolisGokulamGalleriaMallArayidathupalamKozhikode|69d7",Normal,₹220,14,3,Malayalam,2D
+Kozhikode,11:15,"CinepolisGokulamGalleriaMallArayidathupalamKozhikode|69d7",Executive,₹260,45,0,Malayalam,2D
+Kozhikode,11:15,"CinepolisGokulamGalleriaMallArayidathupalamKozhikode|69d7",Premium,₹280,68,11,Malayalam,2D
+Kozhikode,11:15,"CinepolisGokulamGalleriaMallArayidathupalamKozhikode|69d7",PremiumXl,₹300,25,3,Malayalam,2D
+Ernakulam,16:00,"PVRForumMallNH47Kochi|c422",Classic,₹170,22,0,Malayalam,2D
+Ernakulam,16:00,"PVRForumMallNH47Kochi|c422",Elite,₹210,85,21,Malayalam,2D
+Ernakulam,17:15,"CinepolisCentreSquareMallErnakulamKochi|06ef",Normal,₹140,13,0,Malayalam,2D
+Ernakulam,17:15,"CinepolisCentreSquareMallErnakulamKochi|06ef",Executive,₹150,26,0,Malayalam,2D
+Ernakulam,17:15,"CinepolisCentreSquareMallErnakulamKochi|06ef",Premium,₹160,67,6,Malayalam,2D
