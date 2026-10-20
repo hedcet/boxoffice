@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,11:05,"PVRForumMallNH47Kochi|f3a9",Classic,₹92,14,1,Tamil,2D
+Ernakulam,11:05,"PVRForumMallNH47Kochi|f3a9",Elite,₹149,125,37,Tamil,2D
+Ernakulam,11:05,"PVRForumMallNH47Kochi|f3a9",Recliner,₹260,8,7,Tamil,2D
+Palakkad,14:30,"JayabharathTheatreKarayankaduVadakkencherry|0774",FirstClass,₹120,165,0,Tamil,2D
+Trivandrum,16:00,"PVRLULULuluInternationalShoppingMallTrivandrum|8904",ClassicRows,₹200,65,21,Tamil,2D
+Trivandrum,16:00,"PVRLULULuluInternationalShoppingMallTrivandrum|8904",PrimeRows,₹250,34,21,Tamil,2D
+Trivandrum,16:00,"PVRLULULuluInternationalShoppingMallTrivandrum|8904",ReclinerRows,₹500,8,6,Tamil,2D
+Palakkad,18:15,"JayabharathTheatreKarayankaduVadakkencherry|8004",FirstClass,₹120,165,0,Tamil,2D
+Ernakulam,22:10,"PVRForumMallNH47Kochi|bb0d",Classic,₹170,14,3,Tamil,2D
+Ernakulam,22:10,"PVRForumMallNH47Kochi|bb0d",Elite,₹210,125,63,Tamil,2D
+Ernakulam,22:10,"PVRForumMallNH47Kochi|bb0d",Recliner,₹450,8,8,Tamil,2D
+Ernakulam,22:50,"PVRLuluLuluInternationalShoppingMallKochi|fde9",ClassicRows,₹150,54,0,Tamil,2D
+Ernakulam,22:50,"PVRLuluLuluInternationalShoppingMallKochi|fde9",ClassicPlusRows,₹180,126,0,Tamil,2D
+Ernakulam,22:50,"PVRLuluLuluInternationalShoppingMallKochi|fde9",PrimeRows,₹200,74,20,Tamil,2D
+Ernakulam,22:50,"PVRLuluLuluInternationalShoppingMallKochi|fde9",ExtraLegroomRows,₹230,18,0,Tamil,2D
+Ernakulam,22:50,"PVRLuluLuluInternationalShoppingMallKochi|fde9",ReclinerRows,₹400,13,0,Tamil,2D
