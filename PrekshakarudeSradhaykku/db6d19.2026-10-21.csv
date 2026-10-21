@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,10:30,"AashirvadCineplexxGrandCentreMallMuvattupuzha|1361",Recliner,₹350,8,0,Malayalam,2D
+Ernakulam,10:30,"AashirvadCineplexxGrandCentreMallMuvattupuzha|1361",Platinum,₹200,27,0,Malayalam,2D
+Ernakulam,10:30,"AashirvadCineplexxGrandCentreMallMuvattupuzha|1361",Gold,₹180,63,0,Malayalam,2D
+Trivandrum,11:00,"KairaliSreeNilaRGBLaser4KDolbyAtmos|fe6a",Platinum,₹140,259,0,Malayalam,2D
+Alappuzha,11:00,"KairaliSreeTheaterAlappuzha|f23e",Platinum,₹140,305,0,Malayalam,2D
+Pathanamthitta,11:00,"DhanyaRemyaPathanamthitta|bfdc",RemyaCircle,₹135,197,0,Malayalam,2D
+Kottayam,11:00,"DhanyaRemyaKottayam|c491",Remya,₹135,251,0,Malayalam,2D
+Alappuzha,11:30,"CherthalaKairaliSreeTheatre|7192",Platinum,₹140,262,0,Malayalam,2D
+Pathanamthitta,14:00,"DhanyaRemyaPathanamthitta|5436",RemyaCircle,₹135,197,0,Malayalam,2D
+Kottayam,14:00,"DhanyaRemyaKottayam|aec3",Remya,₹135,251,0,Malayalam,2D
+Alappuzha,14:15,"CherthalaKairaliSreeTheatre|b61b",Platinum,₹140,262,0,Malayalam,2D
+Ernakulam,16:00,"AashirvadCineplexxGrandCentreMallMuvattupuzha|a20f",Recliner,₹350,8,0,Malayalam,2D
+Ernakulam,16:00,"AashirvadCineplexxGrandCentreMallMuvattupuzha|a20f",Platinum,₹200,27,0,Malayalam,2D
+Ernakulam,16:00,"AashirvadCineplexxGrandCentreMallMuvattupuzha|a20f",Gold,₹180,63,0,Malayalam,2D
+Kottayam,18:00,"DhanyaRemyaKottayam|d67d",Remya,₹135,251,0,Malayalam,2D
+Kottayam,21:00,"DhanyaRemyaKottayam|0e2f",Remya,₹135,251,0,Malayalam,2D
