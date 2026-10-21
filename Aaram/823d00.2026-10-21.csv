@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Idukki,12:00,"AiswaryaCinemas4KAtmosKattappana|cb2a",Diamond,₹129,172,0,Malayalam,2D
+Idukki,12:00,"AiswaryaCinemas4KAtmosKattappana|1994",Diamond,₹129,172,0,Malayalam,2D
+Idukki,15:00,"AiswaryaCinemas4KAtmosKattappana|aac9",Diamond,₹129,172,0,Malayalam,2D
+Idukki,15:00,"AiswaryaCinemas4KAtmosKattappana|d517",Diamond,₹129,172,3,Malayalam,2D
+Idukki,18:30,"AiswaryaCinemas4KAtmosKattappana|3307",Diamond,₹129,172,0,Malayalam,2D
+Idukki,21:30,"AiswaryaCinemas4KAtmosKattappana|8cd4",Diamond,₹129,172,0,Malayalam,2D
+Kozhikode,11:45,"ARCAbhilashCinemas4KMukkam|a0be",Executive,₹129.8,388,21,Malayalam,2D
+Kozhikode,14:45,"ARCAbhilashCinemas4KMukkam|47a5",Executive,₹129.8,388,36,Malayalam,2D
+Kozhikode,18:00,"ARCAbhilashCinemas4KMukkam|3dba",Executive,₹129.8,388,31,Malayalam,2D
+Kozhikode,21:15,"ARCAbhilashCinemas4KMukkam|e899",Executive,₹129.8,388,10,Malayalam,2D
