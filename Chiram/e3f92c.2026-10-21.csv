@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,10:15,"PalaxiCinemasHiLITEMALLKozhikode|f01a",Recliner,₹470,27,0,Malayalam,2D
+Kozhikode,10:15,"PalaxiCinemasHiLITEMALLKozhikode|f01a",Premium,₹240,165,3,Malayalam,2D
+Kozhikode,10:15,"PalaxiCinemasHiLITEMALLKozhikode|f01a",Executive,₹180,40,0,Malayalam,2D
+Ernakulam,16:10,"PVRForumMallNH47Kochi|38ba",Classic,₹92,22,0,Malayalam,2D
+Ernakulam,16:10,"PVRForumMallNH47Kochi|38ba",Elite,₹149,85,18,Malayalam,2D
+Ernakulam,17:45,"CinepolisCentreSquareMallErnakulamKochi|aee3",Normal,₹140,13,0,Malayalam,2D
+Ernakulam,17:45,"CinepolisCentreSquareMallErnakulamKochi|aee3",Executive,₹150,26,6,Malayalam,2D
+Ernakulam,17:45,"CinepolisCentreSquareMallErnakulamKochi|aee3",Premium,₹170,67,8,Malayalam,2D
