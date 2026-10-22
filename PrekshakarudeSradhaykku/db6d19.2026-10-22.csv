@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,10:30,"SumangaliCinemasPayyannur|aab7",GoldenCircle,₹130,192,0,Malayalam,2D
+Kottayam,11:00,"DhanyaRemyaKottayam|6d93",Remya,₹135,251,0,Malayalam,2D
+Pathanamthitta,11:00,"DhanyaRemyaPathanamthitta|3940",RemyaCircle,₹135,197,0,Malayalam,2D
+Alappuzha,11:00,"KairaliSreeTheaterAlappuzha|cff2",Platinum,₹140,305,0,Malayalam,2D
+Kottayam,14:00,"DhanyaRemyaKottayam|c0b8",Remya,₹135,251,0,Malayalam,2D
+Pathanamthitta,14:00,"DhanyaRemyaPathanamthitta|02c5",RemyaCircle,₹135,197,0,Malayalam,2D
+Kottayam,18:00,"DhanyaRemyaKottayam|eecb",Remya,₹135,251,0,Malayalam,2D
+Kottayam,21:00,"DhanyaRemyaKottayam|4463",Remya,₹135,251,0,Malayalam,2D
