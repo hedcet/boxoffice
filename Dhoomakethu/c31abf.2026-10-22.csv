@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,13:00,"LadderCinemasManjeri|df66",Executive,₹150,74,2,Malayalam,2D
+Kozhikode,09:00,"MirajCinemasBlueDiamondMallCalicut|8896",Silver,₹240,26,0,Malayalam,2D
+Kozhikode,09:00,"MirajCinemasBlueDiamondMallCalicut|8896",Gold,₹260,65,0,Malayalam,2D
+Kozhikode,09:00,"MirajCinemasBlueDiamondMallCalicut|8896",Platinum,₹280,40,0,Malayalam,2D
+Kozhikode,11:30,"MirajCinemasBlueDiamondMallCalicut|a86a",Silver,₹240,26,0,Malayalam,2D
+Kozhikode,11:30,"MirajCinemasBlueDiamondMallCalicut|a86a",Gold,₹260,65,0,Malayalam,2D
+Kozhikode,11:30,"MirajCinemasBlueDiamondMallCalicut|a86a",Platinum,₹280,40,0,Malayalam,2D
+Ernakulam,12:35,"PVRLuluLuluInternationalShoppingMallKochi|e6bb",ClassicRows,₹150,39,0,Malayalam,2D
+Ernakulam,12:35,"PVRLuluLuluInternationalShoppingMallKochi|e6bb",ClassicPlusRows,₹180,91,2,Malayalam,2D
+Ernakulam,12:35,"PVRLuluLuluInternationalShoppingMallKochi|e6bb",PrimeRows,₹200,51,6,Malayalam,2D
+Ernakulam,12:35,"PVRLuluLuluInternationalShoppingMallKochi|e6bb",ExtraLegroomRows,₹230,17,0,Malayalam,2D
+Ernakulam,12:35,"PVRLuluLuluInternationalShoppingMallKochi|e6bb",ReclinerRows,₹400,10,0,Malayalam,2D
+Ernakulam,16:10,"PVROberonMosqueRoadKochi|4ab8",Classic,₹99,36,0,Malayalam,2D
+Ernakulam,16:10,"PVROberonMosqueRoadKochi|4ab8",ClassicPlus,₹160,81,24,Malayalam,2D
