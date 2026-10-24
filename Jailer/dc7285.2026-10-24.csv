@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,09:30,"JMAX2K3DDolby71PATTIMATTOM|5a10",Platinum,₹190,90,14,Tamil,2D
+Ernakulam,09:30,"JMAX2K3DDolby71PATTIMATTOM|5a10",Gold,₹170,126,1,Tamil,2D
+Ernakulam,09:30,"JMAX2K3DDolby71PATTIMATTOM|5a10",Silver,₹150,18,0,Tamil,2D
+Ernakulam,13:00,"JMAX2K3DDolby71PATTIMATTOM|6592",Platinum,₹190,90,21,Tamil,2D
+Ernakulam,13:00,"JMAX2K3DDolby71PATTIMATTOM|6592",Gold,₹170,126,1,Tamil,2D
+Ernakulam,13:00,"JMAX2K3DDolby71PATTIMATTOM|6592",Silver,₹150,18,0,Tamil,2D
+Ernakulam,16:30,"JMAX2K3DDolby71PATTIMATTOM|6ccc",Platinum,₹190,90,34,Tamil,2D
+Ernakulam,16:30,"JMAX2K3DDolby71PATTIMATTOM|6ccc",Gold,₹170,126,9,Tamil,2D
+Ernakulam,16:30,"JMAX2K3DDolby71PATTIMATTOM|6ccc",Silver,₹150,18,0,Tamil,2D
+Ernakulam,20:15,"JMAX2K3DDolby71PATTIMATTOM|9bf6",Platinum,₹190,90,49,Tamil,2D
+Ernakulam,20:15,"JMAX2K3DDolby71PATTIMATTOM|9bf6",Gold,₹170,126,50,Tamil,2D
+Ernakulam,20:15,"JMAX2K3DDolby71PATTIMATTOM|9bf6",Silver,₹150,18,0,Tamil,2D
+Ernakulam,23:59,"JMAX2K3DDolby71PATTIMATTOM|ee17",Platinum,₹190,90,16,Tamil,2D
+Ernakulam,23:59,"JMAX2K3DDolby71PATTIMATTOM|ee17",Gold,₹170,126,0,Tamil,2D
+Ernakulam,23:59,"JMAX2K3DDolby71PATTIMATTOM|ee17",Silver,₹150,18,0,Tamil,2D
