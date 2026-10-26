@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,14:30,"PalaxiCinemasHiLITEMALLKozhikode|0f19",Recliner,₹470,23,1,English,2D
+Kozhikode,14:30,"PalaxiCinemasHiLITEMALLKozhikode|0f19",Premium,₹240,88,4,English,2D
+Kozhikode,14:30,"PalaxiCinemasHiLITEMALLKozhikode|0f19",Executive,₹180,17,2,English,2D
+Kozhikode,14:30,"PalaxiCinemasHiLITEMALLKozhikode|0f19",Lounger,₹270,14,0,English,2D
+Trivandrum,12:45,"PVRLULULuluInternationalShoppingMallTrivandrum|d106",Classic,₹350,48,0,English,4DX2D
+Trivandrum,12:45,"PVRLULULuluInternationalShoppingMallTrivandrum|d106",Prime,₹400,32,12,English,4DX2D
+Ernakulam,20:45,"PVRLuluLuluInternationalShoppingMallKochi|f640",Classic,₹350,116,19,English,4DX2D
