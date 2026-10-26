@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,10:25,"PVRLULULuluInternationalShoppingMallTrivandrum|e974",ClassicRows,₹190,77,4,Hindi,2D
+Trivandrum,10:25,"PVRLULULuluInternationalShoppingMallTrivandrum|e974",PrimeRows,₹210,45,0,Hindi,2D
+Trivandrum,10:25,"PVRLULULuluInternationalShoppingMallTrivandrum|e974",ExtraLegroomRows,₹240,15,2,Hindi,2D
+Trivandrum,10:25,"PVRLULULuluInternationalShoppingMallTrivandrum|e974",ReclinerRows,₹450,7,0,Hindi,2D
+Trivandrum,10:55,"CinepolisMOTEanchakkalThiruvananthapuram|eac8",VipExecutive,₹250,18,0,Hindi,2D
+Trivandrum,10:55,"CinepolisMOTEanchakkalThiruvananthapuram|eac8",VipPremium,₹300,18,2,Hindi,2D
+Trivandrum,16:40,"PVRLULULuluInternationalShoppingMallTrivandrum|cf0f",ClassicRows,₹190,77,10,Hindi,2D
+Trivandrum,16:40,"PVRLULULuluInternationalShoppingMallTrivandrum|cf0f",PrimeRows,₹210,45,18,Hindi,2D
+Trivandrum,16:40,"PVRLULULuluInternationalShoppingMallTrivandrum|cf0f",ExtraLegroomRows,₹300,15,7,Hindi,2D
+Trivandrum,16:40,"PVRLULULuluInternationalShoppingMallTrivandrum|cf0f",ReclinerRows,₹550,7,7,Hindi,2D
+Ernakulam,22:15,"PVRForumMallNH47Kochi|8e81",Luxe,₹400,16,0,Hindi,2D
+Ernakulam,22:15,"PVRForumMallNH47Kochi|8e81",LuxePrime,₹500,42,14,Hindi,2D
