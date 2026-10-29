@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,14:00,"ArtechCinemas4KLaserDolbyAtmosTrivandrum|96a7",Platinum,₹180,106,17,Malayalam,2D
+Trivandrum,14:00,"ArtechCinemas4KLaserDolbyAtmosTrivandrum|96a7",Silver,₹160,90,0,Malayalam,2D
+Trivandrum,21:40,"ArtechCinemas4KLaserDolbyAtmosTrivandrum|9018",Platinum,₹180,106,17,Malayalam,2D
+Trivandrum,21:40,"ArtechCinemas4KLaserDolbyAtmosTrivandrum|9018",Silver,₹160,90,0,Malayalam,2D
