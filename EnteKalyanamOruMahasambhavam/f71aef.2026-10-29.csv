@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Alappuzha,11:00,"KairaliSreeTheaterAlappuzha|1d4c",Platinum,₹140,305,9,Malayalam,2D
+Ernakulam,11:15,"KairaliSreeTheaterNorthParvur|6b4c",Platinum,₹120,245,10,Malayalam,2D
+Kollam,11:30,"JBCinemas4K3DNallila|35a8",Blue,₹129.8,242,0,Malayalam,2D
+Kozhikode,14:00,"PalaxiCinemasHiLITEMALLKozhikode|0e1b",Recliner,₹470,27,0,Malayalam,2D
+Kozhikode,14:00,"PalaxiCinemasHiLITEMALLKozhikode|0e1b",Premium,₹240,165,0,Malayalam,2D
+Kozhikode,14:00,"PalaxiCinemasHiLITEMALLKozhikode|0e1b",Executive,₹180,40,0,Malayalam,2D
+Alappuzha,14:15,"CherthalaKairaliSreeTheatre|b81e",Platinum,₹140,262,0,Malayalam,2D
+Kollam,18:45,"JBCinemas4K3DNallila|761b",Blue,₹129.8,242,2,Malayalam,2D
+Ernakulam,14:00,"PVRForumMallNH47Kochi|8932",Classic,₹170,22,0,Malayalam,2D
+Ernakulam,14:00,"PVRForumMallNH47Kochi|8932",Elite,₹210,85,11,Malayalam,2D
+Ernakulam,16:00,"STCinemas4KLaserDolbyAtmosGoldenMallMattoorKalady|1d84",Premium,₹179,142,0,Malayalam,2D
