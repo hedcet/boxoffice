@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,11:00,"ShadowCinemasPazhayannur|d0da",Platinum,₹200,15,0,Tamil,2D
+Thrissur,11:00,"ShadowCinemasPazhayannur|d0da",Gold,₹140,228,0,Tamil,2D
+Thrissur,14:15,"ShadowCinemasPazhayannur|73b1",Platinum,₹200,15,0,Tamil,2D
+Thrissur,14:15,"ShadowCinemasPazhayannur|73b1",Gold,₹140,228,0,Tamil,2D
+Thrissur,18:00,"ShadowCinemasPazhayannur|3e4a",Platinum,₹200,15,0,Tamil,2D
+Thrissur,18:00,"ShadowCinemasPazhayannur|3e4a",Gold,₹140,228,5,Tamil,2D
