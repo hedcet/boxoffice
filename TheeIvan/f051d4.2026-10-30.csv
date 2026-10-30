@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,11:00,"SriKalidasMPlex4KRGBLaserAtmosKattakkada|987c",Sofa,₹200,4,0,Tamil,2D
+Trivandrum,11:00,"SriKalidasMPlex4KRGBLaserAtmosKattakkada|987c",Gold,₹180,170,0,Tamil,2D
+Palakkad,11:00,"RavirajComplexACKozhinjampara|2d9b",FirstClass,₹120,172,17,Tamil,2D
+Palakkad,11:15,"AromaScreen2Palakkad|cbf0",KingCircle,₹129.8,235,2,Tamil,2D
+Kollam,21:00,"DhanyaRemyaKollam|0ba4",Platinum,₹135,200,0,Tamil,2D
+Palakkad,11:15,"JayabharathTheatreKarayankaduVadakkencherry|a642",FirstClass,₹120,165,0,Tamil,2D
+Alappuzha,14:10,"PanCinemas4KRGBLASERAlappuzha|2a98",Gold,₹180,138,0,Tamil,2D
+Alappuzha,14:10,"PanCinemas4KRGBLASERAlappuzha|2a98",Platinum,₹250,34,0,Tamil,2D
+Palakkad,14:30,"JayabharathTheatreKarayankaduVadakkencherry|1832",FirstClass,₹120,165,0,Tamil,2D
+Alappuzha,17:30,"PanCinemas4KRGBLASERAlappuzha|ef85",Gold,₹180,138,0,Tamil,2D
+Alappuzha,17:30,"PanCinemas4KRGBLASERAlappuzha|ef85",Platinum,₹250,34,0,Tamil,2D
