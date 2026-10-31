@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,12:00,"EVMDolbyCinemaFortKochi|1d72",Gold,₹400,197,0,English,DOLBYCINEMA2D
+Ernakulam,12:00,"EVMDolbyCinemaFortKochi|1d72",Silver,₹300,246,0,English,DOLBYCINEMA2D
+Ernakulam,15:00,"EVMDolbyCinemaFortKochi|7c3d",Gold,₹400,197,5,English,DOLBYCINEMA2D
+Ernakulam,15:00,"EVMDolbyCinemaFortKochi|7c3d",Silver,₹300,246,13,English,DOLBYCINEMA2D
+Trivandrum,10:25,"PVRLULULuluInternationalShoppingMallTrivandrum|7d83",Classic,₹229,48,2,English,4DX3D
+Trivandrum,10:25,"PVRLULULuluInternationalShoppingMallTrivandrum|7d83",Prime,₹229,32,8,English,4DX3D
+Ernakulam,10:30,"PVRLuluLuluInternationalShoppingMallKochi|cdd3",Classic,₹229,116,57,English,4DX3D
