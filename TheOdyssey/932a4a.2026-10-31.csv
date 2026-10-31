@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,18:00,"EVMDolbyCinemaFortKochi|f901",Gold,₹400,197,7,English,DOLBYCINEMA2D
+Ernakulam,18:00,"EVMDolbyCinemaFortKochi|f901",Silver,₹300,246,8,English,DOLBYCINEMA2D
+Ernakulam,21:30,"EVMDolbyCinemaFortKochi|12ff",Gold,₹400,197,7,English,DOLBYCINEMA2D
+Ernakulam,21:30,"EVMDolbyCinemaFortKochi|12ff",Silver,₹300,246,20,English,DOLBYCINEMA2D
