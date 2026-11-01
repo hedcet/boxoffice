@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,13:15,"PVRLuluLuluInternationalShoppingMallKochi|24b1",ClassicRows,₹150,39,0,Japanese,2D
+Ernakulam,13:15,"PVRLuluLuluInternationalShoppingMallKochi|24b1",ClassicPlusRows,₹190,91,12,Japanese,2D
+Ernakulam,13:15,"PVRLuluLuluInternationalShoppingMallKochi|24b1",PrimeRows,₹210,51,19,Japanese,2D
+Ernakulam,13:15,"PVRLuluLuluInternationalShoppingMallKochi|24b1",ExtraLegroomRows,₹240,17,1,Japanese,2D
+Ernakulam,13:15,"PVRLuluLuluInternationalShoppingMallKochi|24b1",ReclinerRows,₹380,10,0,Japanese,2D
+Trivandrum,17:05,"PVRLULULuluInternationalShoppingMallTrivandrum|6904",ClassicRows,₹190,77,8,Japanese,2D
+Trivandrum,17:05,"PVRLULULuluInternationalShoppingMallTrivandrum|6904",PrimeRows,₹210,45,19,Japanese,2D
+Trivandrum,17:05,"PVRLULULuluInternationalShoppingMallTrivandrum|6904",ExtraLegroomRows,₹300,15,6,Japanese,2D
+Trivandrum,17:05,"PVRLULULuluInternationalShoppingMallTrivandrum|6904",ReclinerRows,₹450,7,0,Japanese,2D
