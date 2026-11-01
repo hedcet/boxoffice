@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,"RavirajComplexACKozhinjampara|a905",FirstClass,₹120,172,17,Tamil,2D
+Palakkad,11:15,"AromaScreen2Palakkad|3c99",KingCircle,₹129.8,235,0,Tamil,2D
+Pathanamthitta,21:00,"DhanyaRemyaPathanamthitta|33f1",RemyaCircle,₹135,197,0,Tamil,2D
+Palakkad,11:15,"JayabharathTheatreKarayankaduVadakkencherry|b9ae",FirstClass,₹120,165,0,Tamil,2D
+Alappuzha,14:10,"PanCinemas4KRGBLASERAlappuzha|7b0e",Gold,₹180,138,0,Tamil,2D
+Alappuzha,14:10,"PanCinemas4KRGBLASERAlappuzha|7b0e",Platinum,₹250,34,0,Tamil,2D
+Palakkad,14:30,"JayabharathTheatreKarayankaduVadakkencherry|b5bb",FirstClass,₹120,165,0,Tamil,2D
