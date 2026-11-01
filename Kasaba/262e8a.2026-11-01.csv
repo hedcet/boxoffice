@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,11:45,"GoodwillCinemas4KRGBLASERAtmos3DKallara|d697",Recliner,₹300,17,0,Malayalam,2D
+Kottayam,11:45,"GoodwillCinemas4KRGBLASERAtmos3DKallara|d697",Gold,₹150,174,0,Malayalam,2D
+Kottayam,21:00,"GoodwillCinemas4KRGBLASERAtmos3DKallara|13ab",Recliner,₹300,17,0,Malayalam,2D
+Kottayam,21:00,"GoodwillCinemas4KRGBLASERAtmos3DKallara|13ab",Gold,₹150,174,4,Malayalam,2D
