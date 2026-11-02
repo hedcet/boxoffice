@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,16:15,"PalaxiCinemasPerinthalmanna|28e6",Slider,₹290,11,0,English,2D
+Malappuram,16:15,"PalaxiCinemasPerinthalmanna|28e6",Premium,₹160,121,0,English,2D
+Malappuram,16:15,"PalaxiCinemasPerinthalmanna|28e6",Executive,₹120,17,0,English,2D
+Thrissur,20:30,"PalaxiCinemasHiLITEMallThrissur|deb4",Recliner,₹350,25,0,English,2D
+Thrissur,20:30,"PalaxiCinemasHiLITEMallThrissur|deb4",Premium,₹180,133,14,English,2D
+Thrissur,20:30,"PalaxiCinemasHiLITEMallThrissur|deb4",Executive,₹99,37,0,English,2D
+Trivandrum,10:25,"PVRLULULuluInternationalShoppingMallTrivandrum|3165",ClassicRows,₹170,65,4,English,2D
+Trivandrum,10:25,"PVRLULULuluInternationalShoppingMallTrivandrum|3165",PrimeRows,₹190,34,17,English,2D
+Trivandrum,10:25,"PVRLULULuluInternationalShoppingMallTrivandrum|3165",ReclinerRows,₹330,8,3,English,2D
+Ernakulam,13:15,"PVRLuluLuluInternationalShoppingMallKochi|6caa",ClassicRows,₹92,39,0,English,2D
+Ernakulam,13:15,"PVRLuluLuluInternationalShoppingMallKochi|6caa",ExtraLegroomRows,₹92,17,0,English,2D
+Ernakulam,13:15,"PVRLuluLuluInternationalShoppingMallKochi|6caa",ClassicPlusRows,₹92,91,2,English,2D
+Ernakulam,13:15,"PVRLuluLuluInternationalShoppingMallKochi|6caa",PrimeRows,₹92,51,0,English,2D
+Ernakulam,13:15,"PVRLuluLuluInternationalShoppingMallKochi|6caa",ReclinerRows,₹199,10,3,English,2D
