@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kasaragod,10:30,"KaveriCinemasACDTSDolbyKarmamthody|e654",Standard,₹105,145,7,Tulu,2D
+Kasaragod,13:30,"KaveriCinemasACDTSDolbyKarmamthody|0bd6",Standard,₹105,145,2,Tulu,2D
+Kasaragod,13:30,"MagicFramesMehboobTheatreComplex4KKasaragod|b2ef",Executive,₹129.7,175,14,Tulu,2D
+Kasaragod,16:30,"KaveriCinemasACDTSDolbyKarmamthody|cac7",Standard,₹105,145,0,Tulu,2D
+Kasaragod,16:30,"MagicFramesMehboobTheatreComplex4KKasaragod|f133",Executive,₹129.7,175,12,Tulu,2D
+Kasaragod,19:30,"KaveriCinemasACDTSDolbyKarmamthody|c405",Standard,₹105,145,88,Tulu,2D
+Kasaragod,19:30,"MagicFramesMehboobTheatreComplex4KKasaragod|0a00",Executive,₹129.7,175,27,Tulu,2D
+Kasaragod,22:30,"KaveriCinemasACDTSDolbyKarmamthody|f966",Standard,₹105,145,8,Tulu,2D
