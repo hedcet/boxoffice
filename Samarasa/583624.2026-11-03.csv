@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kasaragod,10:30,"MagicFramesMehboobTheatreComplex4KKasaragod|bec1",Executive,₹129.7,222,21,Malayalam,2D
+Kozhikode,11:00,"One2OnePlusFilmCity4K3DDolbyAtmosVadakara|772a",Screen2,₹129.8,164,0,Malayalam,2D
+Ernakulam,11:15,"AashirvadCineplexxGrandCentreMallMuvattupuzha|f0bc",Recliner,₹350,8,0,Malayalam,2D
+Ernakulam,11:15,"AashirvadCineplexxGrandCentreMallMuvattupuzha|f0bc",Platinum,₹200,27,0,Malayalam,2D
+Ernakulam,11:15,"AashirvadCineplexxGrandCentreMallMuvattupuzha|f0bc",Gold,₹180,63,0,Malayalam,2D
+Palakkad,11:30,"PriyaCinemasComplex4KAtmosLaser3DPalakkad|fc0d",Executive,₹170,50,0,Malayalam,2D
+Palakkad,11:30,"PriyaCinemasComplex4KAtmosLaser3DPalakkad|fc0d",DressCircle,₹105,193,4,Malayalam,2D
+Kasaragod,13:30,"MagicFramesMehboobTheatreComplex4KKasaragod|d4d0",Executive,₹129.7,222,23,Malayalam,2D
+Kozhikode,16:30,"One2OnePlusFilmCity4K3DDolbyAtmosVadakara|85e2",Screen2,₹129.8,164,0,Malayalam,2D
+Kozhikode,16:30,"One2OnePlusFilmCity4K3DDolbyAtmosVadakara|2cfa",Screen2,₹129.8,164,0,Malayalam,2D
+Malappuram,18:00,"LadderCinemasManjeri|7a7c",Executive,₹150,74,3,Malayalam,2D
+Palakkad,18:15,"PriyaCinemasComplex4KAtmosLaser3DPalakkad|2010",Executive,₹170,50,0,Malayalam,2D
+Palakkad,18:15,"PriyaCinemasComplex4KAtmosLaser3DPalakkad|2010",DressCircle,₹105,193,5,Malayalam,2D
+Trivandrum,18:30,"AriesplexSLCinemasCinionicDolbyAtmos|529f",Gold,₹150,51,0,Malayalam,2D
+Trivandrum,18:30,"AriesplexSLCinemasCinionicDolbyAtmos|529f",Executive,₹129.8,152,0,Malayalam,2D
+Kozhikode,19:30,"ARCCoronation4KDolbyAtmos|2754",Elite,₹160,146,35,Malayalam,2D
