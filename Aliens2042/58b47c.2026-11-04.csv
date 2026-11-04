@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,14:00,"VrindavanTheatreKozhinjampara|fe35",Balcony,₹150,33,8,Tamil,2D
+Palakkad,14:00,"VrindavanTheatreKozhinjampara|fe35",FirstClass,₹120,152,0,Tamil,2D
+Palakkad,18:00,"AromaScreen2Palakkad|1e44",KingCircle,₹129.8,235,0,English,2D
+Palakkad,18:00,"AromaScreen2Palakkad|4540",KingCircle,₹129.8,235,235,Tamil,2D
+Palakkad,21:00,"VrindavanTheatreKozhinjampara|ce13",Balcony,₹150,33,8,Tamil,2D
+Palakkad,21:00,"VrindavanTheatreKozhinjampara|ce13",FirstClass,₹120,152,0,Tamil,2D
