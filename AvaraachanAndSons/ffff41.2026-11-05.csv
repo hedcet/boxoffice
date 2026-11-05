@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,10:40,"CinepolisMOTEanchakkalThiruvananthapuram|6a25",VipPremium,₹200,18,8,Malayalam,2D
+Trivandrum,10:40,"CinepolisMOTEanchakkalThiruvananthapuram|6a25",VipExecutive,₹200,18,0,Malayalam,2D
+Ernakulam,14:50,"CinepolisCentreSquareMallErnakulamKochi|f327",Normal,₹99,12,2,Malayalam,2D
+Ernakulam,14:50,"CinepolisCentreSquareMallErnakulamKochi|f327",Executive,₹99,39,0,Malayalam,2D
+Ernakulam,14:50,"CinepolisCentreSquareMallErnakulamKochi|f327",Premium,₹99,47,1,Malayalam,2D
+Ernakulam,14:50,"CinepolisCentreSquareMallErnakulamKochi|f327",PremiumXl,₹99,13,3,Malayalam,2D
+Ernakulam,14:50,"CinepolisCentreSquareMallErnakulamKochi|f327",PremiumPlus,₹99,65,27,Malayalam,2D
+Kasaragod,18:30,"MagicFramesCinemasParappa|9846",Gold,₹160,155,8,Malayalam,2D
+Trivandrum,22:00,"CinepolisMOTEanchakkalThiruvananthapuram|6adb",PlatinumPremium,₹140,33,12,Malayalam,2D
+Trivandrum,22:00,"CinepolisMOTEanchakkalThiruvananthapuram|6adb",PlatinumExecutive,₹140,32,2,Malayalam,2D
+Trivandrum,23:45,"CinepolisMOTEanchakkalThiruvananthapuram|5390",VipPremium,₹200,18,6,Malayalam,2D
+Trivandrum,23:45,"CinepolisMOTEanchakkalThiruvananthapuram|5390",VipExecutive,₹200,18,0,Malayalam,2D
