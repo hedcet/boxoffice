@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Pathanamthitta,14:00,"DhanyaRemyaPathanamthitta|e6bd",RemyaCircle,₹135,197,0,Malayalam,2D
+Ernakulam,18:00,"SangeetaCinemaKochi|ea0a",BlueCircle,₹170,187,18,Malayalam,2D
+Kottayam,18:00,"DhanyaRemyaKottayam|81d8",Remya,₹135,251,0,Malayalam,2D
+Pathanamthitta,18:00,"DhanyaRemyaPathanamthitta|c233",RemyaCircle,₹135,197,0,Malayalam,2D
+Malappuram,11:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|88c7",DiamondCircle,₹105,143,0,Malayalam,2D
+Malappuram,14:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|f909",DiamondCircle,₹105,143,0,Malayalam,2D
+Malappuram,18:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|e490",DiamondCircle,₹105,143,0,Malayalam,2D
