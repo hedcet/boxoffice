@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,10:30,"RajadhaniCinemasPayyannur|d34a",PlatinumCircle,₹130,88,0,Malayalam,2D
+Kannur,13:30,"RajadhaniCinemasPayyannur|2368",PlatinumCircle,₹130,88,0,Malayalam,2D
+Kozhikode,14:00,"PalaxiCinemasHiLITEMALLKozhikode|801c",Recliner,₹450,27,1,Malayalam,2D
+Kozhikode,14:00,"PalaxiCinemasHiLITEMALLKozhikode|801c",Premium,₹240,165,0,Malayalam,2D
+Kozhikode,14:00,"PalaxiCinemasHiLITEMALLKozhikode|801c",Executive,₹170,40,0,Malayalam,2D
+Thrissur,16:20,"PalaxiCinemasHiLITEMallThrissur|85ae",Recliner,₹450,19,6,Malayalam,2D
+Thrissur,16:20,"PalaxiCinemasHiLITEMallThrissur|85ae",Premium,₹220,101,8,Malayalam,2D
+Thrissur,16:20,"PalaxiCinemasHiLITEMallThrissur|85ae",Executive,₹140,25,5,Malayalam,2D
+Ernakulam,13:50,"CinepolisCentreSquareMallErnakulamKochi|d270",Normal,₹140,26,2,Malayalam,2D
+Ernakulam,13:50,"CinepolisCentreSquareMallErnakulamKochi|d270",Executive,₹150,45,0,Malayalam,2D
+Ernakulam,13:50,"CinepolisCentreSquareMallErnakulamKochi|d270",Premium,₹160,53,0,Malayalam,2D
+Ernakulam,13:50,"CinepolisCentreSquareMallErnakulamKochi|d270",PremiumPlus,₹170,28,0,Malayalam,2D
+Ernakulam,13:50,"CinepolisCentreSquareMallErnakulamKochi|d270",PremiumXl,₹200,13,0,Malayalam,2D
