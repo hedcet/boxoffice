@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,13:45,"LadderCinemasManjeri|8a75",Executive,₹150,74,20,Malayalam,2D
+Kasaragod,16:30,"MagicFramesMehboobTheatreComplex4KKasaragod|eac0",Executive,₹129.7,175,0,Malayalam,2D
+Kozhikode,11:45,"ARCAbhilashCinemas4KMukkam|759a",Executive,₹129.8,300,31,Malayalam,2D
+Ernakulam,13:20,"CinepolisCentreSquareMallErnakulamKochi|6af3",Normal,₹140,13,0,Malayalam,2D
+Ernakulam,13:20,"CinepolisCentreSquareMallErnakulamKochi|6af3",Executive,₹150,26,2,Malayalam,2D
+Ernakulam,13:20,"CinepolisCentreSquareMallErnakulamKochi|6af3",Premium,₹170,67,41,Malayalam,2D
+Ernakulam,20:10,"CinepolisCentreSquareMallErnakulamKochi|79bb",Normal,₹140,26,2,Malayalam,2D
+Ernakulam,20:10,"CinepolisCentreSquareMallErnakulamKochi|79bb",Executive,₹150,45,0,Malayalam,2D
+Ernakulam,20:10,"CinepolisCentreSquareMallErnakulamKochi|79bb",Premium,₹160,53,0,Malayalam,2D
+Ernakulam,20:10,"CinepolisCentreSquareMallErnakulamKochi|79bb",PremiumPlus,₹170,28,6,Malayalam,2D
+Ernakulam,20:10,"CinepolisCentreSquareMallErnakulamKochi|79bb",PremiumXl,₹200,13,0,Malayalam,2D
