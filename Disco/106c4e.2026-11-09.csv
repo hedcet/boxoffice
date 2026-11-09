@@ -1,0 +1,5 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,18:00,"FairylandCinemasNilambur|609c",RoyalSuite,₹210,30,0,,
+Malappuram,18:00,"FairylandCinemasNilambur|609c",GrandCircle,₹190,175,8,,
+Malappuram,21:30,"FairylandCinemasNilambur|90c5",RoyalSuite,₹210,30,0,,
+Malappuram,21:30,"FairylandCinemasNilambur|90c5",GrandCircle,₹190,175,15,,
