@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kasaragod,10:30,"MagicFramesMehboobTheatreComplex4KKasaragod|c6ae",Executive,₹129.7,351,5,Hindi,2D
+Malappuram,16:00,"LadderCinemasManjeri|52b1",Executive,₹150,114,3,Hindi,2D
+Kannur,16:30,"RajadhaniCinemasPayyannur|4d8d",UpperCircle,₹130,502,106,Hindi,2D
+Kannur,19:30,"RajadhaniCinemasPayyannur|eb84",UpperCircle,₹130,502,106,Hindi,2D
+Kozhikode,14:45,"ARCRoseCinePalaceTripleBeam3DAgastiamuzhiMukkam|ec75",Executive,₹129.8,350,33,Hindi,2D
+Kozhikode,18:00,"ARCRoseCinePalaceTripleBeam3DAgastiamuzhiMukkam|29e9",Executive,₹129.8,350,33,Hindi,2D
