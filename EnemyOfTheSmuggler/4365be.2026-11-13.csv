@@ -1,0 +1,17 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,09:30,"PalaxiCinemasPerinthalmanna|4873",Signature,₹399,42,0,Tamil,2D
+Malappuram,09:30,"PalaxiCinemasPerinthalmanna|4873",SignatureEc,₹200,9,9,Tamil,2D
+Thrissur,10:30,"PalaxiCinemasHiLITEMallThrissur|245d",Recliner,₹450,25,0,Tamil,2D
+Thrissur,10:30,"PalaxiCinemasHiLITEMallThrissur|245d",Premium,₹220,133,14,Tamil,2D
+Thrissur,10:30,"PalaxiCinemasHiLITEMallThrissur|245d",Executive,₹140,37,0,Tamil,2D
+Ernakulam,10:30,"EVMCinemaAC4KRGBLaser3DPerumbavoor|6003",Executive1,₹200,14,0,Tamil,2D
+Ernakulam,10:30,"EVMCinemaAC4KRGBLaser3DPerumbavoor|6003",Deluxe,₹180,128,0,Tamil,2D
+Palakkad,11:30,"VCinemasSreeDeviDurga4KRGBLaserDolbyAtmos|881b",Standard,₹129.8,126,8,Tamil,2D
+Ernakulam,13:00,"EVMCinemaAC4KRGBLaser3DPerumbavoor|f7d2",Executive1,₹200,14,14,Tamil,2D
+Ernakulam,13:00,"EVMCinemaAC4KRGBLaser3DPerumbavoor|f7d2",Deluxe,₹180,128,128,Tamil,2D
+Trivandrum,19:30,"AriesplexSLCinemasCinionicDolbyAtmos|7e73",Executive,₹105,70,1,Tamil,2D
+Kozhikode,23:00,"PalaxiCinemasHiLITEMALLKozhikode|636b",Recliner,₹450,27,0,Tamil,2D
+Kozhikode,23:00,"PalaxiCinemasHiLITEMALLKozhikode|636b",Premium,₹240,146,10,Tamil,2D
+Kozhikode,23:00,"PalaxiCinemasHiLITEMALLKozhikode|636b",Executive,₹170,25,0,Tamil,2D
+Kozhikode,23:00,"PalaxiCinemasHiLITEMALLKozhikode|636b",Lounger,₹270,22,0,Tamil,2D
+Palakkad,10:45,"CowmalyaTheatreKozhinjampara|2a70",Gold,₹129.8,460,11,Tamil,2D
