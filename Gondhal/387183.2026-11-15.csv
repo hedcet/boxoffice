@@ -1,0 +1,15 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,16:55,"PVRLULULuluInternationalShoppingMallTrivandrum|660f",Classic,₹190,66,19,Malayalam,2D
+Trivandrum,16:55,"PVRLULULuluInternationalShoppingMallTrivandrum|660f",Prime,₹210,51,8,Malayalam,2D
+Trivandrum,16:55,"PVRLULULuluInternationalShoppingMallTrivandrum|660f",Recliner,₹350,4,1,Malayalam,2D
+Ernakulam,17:00,"PVRForumMallNH47Kochi|3162",Classic,₹190,28,10,Malayalam,2D
+Ernakulam,17:00,"PVRForumMallNH47Kochi|3162",Elite,₹210,111,5,Malayalam,2D
+Ernakulam,17:00,"PVRForumMallNH47Kochi|3162",Recliner,₹450,8,2,Malayalam,2D
+Kannur,17:10,"CinepolisSecuraCentreKannur|be9c",Normal,₹160,12,0,Malayalam,2D
+Kannur,17:10,"CinepolisSecuraCentreKannur|be9c",Executive,₹180,36,0,Malayalam,2D
+Kannur,17:10,"CinepolisSecuraCentreKannur|be9c",Premium,₹200,85,5,Malayalam,2D
+Kannur,17:10,"CinepolisSecuraCentreKannur|be9c",PremiumPlus,₹220,26,2,Malayalam,2D
+Kannur,17:10,"CinepolisSecuraCentreKannur|be9c",PremiumXl,₹240,17,0,Malayalam,2D
+Ernakulam,20:05,"CinepolisCentreSquareMallErnakulamKochi|700a",Normal,₹200,13,10,Malayalam,2D
+Ernakulam,20:05,"CinepolisCentreSquareMallErnakulamKochi|700a",Executive,₹220,26,0,Malayalam,2D
+Ernakulam,20:05,"CinepolisCentreSquareMallErnakulamKochi|700a",Premium,₹240,67,0,Malayalam,2D
