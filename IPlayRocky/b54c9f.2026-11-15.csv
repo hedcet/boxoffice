@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,14:15,"PVRLuluLuluInternationalShoppingMallKochi|424c",ClassicRows,₹160,39,4,English,2D
+Ernakulam,14:15,"PVRLuluLuluInternationalShoppingMallKochi|424c",ClassicPlusRows,₹180,91,49,English,2D
+Ernakulam,14:15,"PVRLuluLuluInternationalShoppingMallKochi|424c",PrimeRows,₹200,51,30,English,2D
+Ernakulam,14:15,"PVRLuluLuluInternationalShoppingMallKochi|424c",ExtraLegroomRows,₹230,17,15,English,2D
+Ernakulam,14:15,"PVRLuluLuluInternationalShoppingMallKochi|424c",ReclinerRows,₹420,10,7,English,2D
+Ernakulam,17:10,"PVRMymoonKochi|a81e",ClassicRows,₹200,15,0,English,2D
+Ernakulam,17:10,"PVRMymoonKochi|a81e",ClassicPlusRows,₹210,36,7,English,2D
+Ernakulam,17:10,"PVRMymoonKochi|a81e",PrimeRows,₹230,18,16,English,2D
+Ernakulam,17:10,"PVRMymoonKochi|a81e",ExtraLegroomRows,₹250,12,8,English,2D
+Ernakulam,17:10,"PVRMymoonKochi|a81e",ReclinerRows,₹430,10,3,English,2D
+Ernakulam,18:45,"PVRForumMallNH47Kochi|966f",Classic,₹170,22,3,English,2D
+Ernakulam,18:45,"PVRForumMallNH47Kochi|966f",Elite,₹210,85,76,English,2D
+Trivandrum,19:35,"PVRLULULuluInternationalShoppingMallTrivandrum|f602",Classic,₹220,66,27,English,2D
+Trivandrum,19:35,"PVRLULULuluInternationalShoppingMallTrivandrum|f602",Prime,₹250,51,27,English,2D
+Trivandrum,19:35,"PVRLULULuluInternationalShoppingMallTrivandrum|f602",Recliner,₹500,7,7,English,2D
