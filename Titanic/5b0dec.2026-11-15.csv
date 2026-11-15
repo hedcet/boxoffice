@@ -1,0 +1,14 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kottayam,11:00,"DhanyaRemyaKottayam|63bd",Remya,₹135,251,0,Tamil,2D
+Kollam,11:00,"DhanyaRemyaKollam|cbdb",Platinum,₹135,200,0,Tamil,2D
+Trivandrum,11:00,"SreeKaleeswarySreeSaraswathy2K3DKaliyikkav|c040",RoyalCircle,₹160,415,43,Tamil,2D
+Pathanamthitta,11:00,"DhanyaRemyaPathanamthitta|e96e",RemyaCircle,₹135,197,0,Tamil,2D
+Palakkad,14:00,"RavirajComplexACKozhinjampara|a7fc",Recliner,₹300,31,6,Tamil,2D
+Palakkad,14:00,"RavirajComplexACKozhinjampara|a7fc",FirstClass,₹129.8,247,39,Tamil,2D
+Kottayam,21:00,"DhanyaRemyaKottayam|267b",Remya,₹135,251,0,Tamil,2D
+Kollam,21:00,"DhanyaRemyaKollam|2b1e",Platinum,₹135,200,0,Tamil,2D
+Pathanamthitta,21:00,"DhanyaRemyaPathanamthitta|5efa",RemyaCircle,₹135,197,0,Tamil,2D
+Malappuram,11:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|8f0b",DiamondCircle,₹105,143,0,Tamil,2D
+Malappuram,14:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|e40c",DiamondCircle,₹105,143,0,Tamil,2D
+Malappuram,18:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|9f64",DiamondCircle,₹105,143,1,Tamil,2D
+Malappuram,21:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|c9d4",DiamondCircle,₹105,143,0,Tamil,2D
