@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,10:30,"JayaKeralaTheatreParappanangadi|e522",Standard,₹80,0,0,Tamil,2D
+Malappuram,10:30,"JayaKeralaTheatreParappanangadi|e522",Executive,₹90,100,0,Tamil,2D
+Malappuram,11:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|a06a",DiamondCircle,₹105,181,0,Tamil,2D
+Malappuram,14:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|6d81",DiamondCircle,₹105,181,0,Tamil,2D
+Malappuram,18:00,"JayaKeralaTheatreParappanangadi|34be",Standard,₹80,0,0,Tamil,2D
+Malappuram,18:00,"JayaKeralaTheatreParappanangadi|34be",Executive,₹90,100,0,Tamil,2D
