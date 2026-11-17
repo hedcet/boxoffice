@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kannur,14:00,"CinepolisSecuraCentreKannur|ad82",Normal,₹99,10,0,Malayalam,2D
+Kannur,14:00,"CinepolisSecuraCentreKannur|ad82",Executive,₹99,33,0,Malayalam,2D
+Kannur,14:00,"CinepolisSecuraCentreKannur|ad82",Premium,₹99,67,2,Malayalam,2D
+Ernakulam,15:40,"PVRForumMallNH47Kochi|1f26",Classic,₹170,24,0,Malayalam,2D
+Ernakulam,15:40,"PVRForumMallNH47Kochi|1f26",Elite,₹210,111,5,Malayalam,2D
+Ernakulam,15:40,"PVRForumMallNH47Kochi|1f26",Recliner,₹450,10,0,Malayalam,2D
+Kannur,16:40,"CinepolisSecuraCentreKannur|6c89",Normal,₹99,10,0,Malayalam,2D
+Kannur,16:40,"CinepolisSecuraCentreKannur|6c89",Executive,₹99,33,0,Malayalam,2D
+Kannur,16:40,"CinepolisSecuraCentreKannur|6c89",Premium,₹99,62,0,Malayalam,2D
+Ernakulam,19:20,"CinepolisCentreSquareMallErnakulamKochi|6ee1",Normal,₹200,13,0,Malayalam,2D
+Ernakulam,19:20,"CinepolisCentreSquareMallErnakulamKochi|6ee1",Executive,₹220,26,0,Malayalam,2D
+Ernakulam,19:20,"CinepolisCentreSquareMallErnakulamKochi|6ee1",Premium,₹240,61,0,Malayalam,2D
