@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Pathanamthitta,11:00,"DhanyaRemyaPathanamthitta|005a",RemyaCircle,₹135,197,0,Tamil,2D
+Pathanamthitta,21:00,"DhanyaRemyaPathanamthitta|2215",RemyaCircle,₹135,197,0,Tamil,2D
+Malappuram,11:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|d273",DiamondCircle,₹105,143,0,Tamil,2D
+Malappuram,14:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|ec4e",DiamondCircle,₹105,143,0,Tamil,2D
+Malappuram,18:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|5d4e",DiamondCircle,₹105,143,0,Tamil,2D
+Malappuram,21:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|c49a",DiamondCircle,₹105,143,0,Tamil,2D
