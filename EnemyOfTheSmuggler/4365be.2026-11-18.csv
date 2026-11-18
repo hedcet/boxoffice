@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,11:30,"EVMCinemaAC4KRGBLaser3DPerumbavoor|8ac1",Executive1,₹200,14,0,Tamil,2D
+Ernakulam,11:30,"EVMCinemaAC4KRGBLaser3DPerumbavoor|8ac1",Deluxe,₹180,128,0,Tamil,2D
+Malappuram,10:30,"JayaKeralaTheatreParappanangadi|42cc",Standard,₹80,0,0,Tamil,2D
+Malappuram,10:30,"JayaKeralaTheatreParappanangadi|42cc",Executive,₹90,100,0,Tamil,2D
+Malappuram,11:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|2236",DiamondCircle,₹105,181,0,Tamil,2D
+Malappuram,14:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|46fc",DiamondCircle,₹105,181,0,Tamil,2D
+Malappuram,18:00,"JayaKeralaTheatreParappanangadi|aa4f",Standard,₹80,0,0,Tamil,2D
+Malappuram,18:00,"JayaKeralaTheatreParappanangadi|aa4f",Executive,₹90,100,0,Tamil,2D
