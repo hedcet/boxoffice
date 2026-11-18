@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Wayanad,11:30,"VeenaVarnaTheatreMananthavadyAC2K3D|4fc0",Diamond,₹129.8,224,224,Malayalam,2D
+Idukki,16:30,"AashirvadCineplexxThodupuzha|cf01",Gold,₹185,10,1,Malayalam,2D
+Idukki,16:30,"AashirvadCineplexxThodupuzha|cf01",Silver,₹155,90,0,Malayalam,2D
+Trivandrum,17:00,"KairaliSreeNilaRGBLaser4KDolbyAtmos|5764",Platinum,₹140,254,0,Malayalam,2D
+Kottayam,18:00,"DhanyaRemyaKottayam|502d",Remya,₹135,251,13,Malayalam,2D
+Pathanamthitta,18:00,"DhanyaRemyaPathanamthitta|18d9",RemyaCircle,₹135,197,0,Malayalam,2D
