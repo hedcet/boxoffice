@@ -1,0 +1,8 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Malappuram,09:30,"PalaxiCinemasPerinthalmanna|03aa",Slider,₹290,10,0,Tamil,2D
+Malappuram,09:30,"PalaxiCinemasPerinthalmanna|03aa",Premium,₹150,117,13,Tamil,2D
+Malappuram,09:30,"PalaxiCinemasPerinthalmanna|03aa",Executive,₹99,13,0,Tamil,2D
+Malappuram,10:30,"JayaKeralaTheatreParappanangadi|1ef4",Executive,₹90,100,0,Tamil,2D
+Malappuram,10:30,"JayaKeralaTheatreParappanangadi|1ef4",Standard,₹80,0,0,Tamil,2D
+Malappuram,18:00,"JayaKeralaTheatreParappanangadi|b792",Executive,₹90,100,0,Tamil,2D
+Malappuram,18:00,"JayaKeralaTheatreParappanangadi|b792",Standard,₹80,0,0,Tamil,2D
