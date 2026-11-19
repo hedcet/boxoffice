@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Thrissur,14:30,"PalaxiCinemasHiLITEMallThrissur|514a",Recliner,₹450,14,0,Tamil,2D
+Thrissur,14:30,"PalaxiCinemasHiLITEMallThrissur|514a",Premium,₹220,96,10,Tamil,2D
+Thrissur,14:30,"PalaxiCinemasHiLITEMallThrissur|514a",Executive,₹140,20,0,Tamil,2D
+Trivandrum,11:10,"PVRLULULuluInternationalShoppingMallTrivandrum|faee",Classic,₹170,66,0,Tamil,2D
+Trivandrum,11:10,"PVRLULULuluInternationalShoppingMallTrivandrum|faee",Prime,₹190,51,2,Tamil,2D
+Trivandrum,11:10,"PVRLULULuluInternationalShoppingMallTrivandrum|faee",Recliner,₹350,4,0,Tamil,2D
+Ernakulam,21:30,"PVRForumMallNH47Kochi|4d86",Classic,₹170,22,0,Tamil,2D
+Ernakulam,21:30,"PVRForumMallNH47Kochi|4d86",Elite,₹210,85,21,Tamil,2D
