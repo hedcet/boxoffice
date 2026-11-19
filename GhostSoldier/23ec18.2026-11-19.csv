@@ -1,0 +1,7 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,16:20,"PVRLULULuluInternationalShoppingMallTrivandrum|e158",ReclinerRows,₹450,7,0,English,2D
+Trivandrum,16:20,"PVRLULULuluInternationalShoppingMallTrivandrum|e158",ClassicRows,₹190,73,1,English,2D
+Trivandrum,16:20,"PVRLULULuluInternationalShoppingMallTrivandrum|e158",ExtraLegroomRows,₹240,13,3,English,2D
+Trivandrum,16:20,"PVRLULULuluInternationalShoppingMallTrivandrum|e158",PrimeRows,₹210,45,18,English,2D
+Trivandrum,22:55,"CinepolisMOTEanchakkalThiruvananthapuram|a17e",PlatinumExecutive,₹200,32,0,English,2D
+Trivandrum,22:55,"CinepolisMOTEanchakkalThiruvananthapuram|a17e",PlatinumPremium,₹250,25,0,English,2D
