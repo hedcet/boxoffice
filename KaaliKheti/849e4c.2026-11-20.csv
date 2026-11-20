@@ -1,0 +1,9 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,17:00,"AriesplexSLCinemasCinionicDolbyAtmos|1b09",Executive,₹105,70,0,Hindi,2D
+Ernakulam,13:55,"PVRForumMallNH47Kochi|3bf0",LuxePrime,₹600,42,0,Hindi,2D
+Ernakulam,13:55,"PVRForumMallNH47Kochi|3bf0",Luxe,₹500,16,0,Hindi,2D
+Ernakulam,19:00,"PVRForumMallNH47Kochi|5caa",Classic,₹170,22,0,Hindi,2D
+Ernakulam,19:00,"PVRForumMallNH47Kochi|5caa",Elite,₹230,85,11,Hindi,2D
+Trivandrum,19:05,"PVRLULULuluInternationalShoppingMallTrivandrum|93e3",Classic,₹180,56,0,Hindi,2D
+Trivandrum,19:05,"PVRLULULuluInternationalShoppingMallTrivandrum|93e3",Prime,₹210,36,7,Hindi,2D
+Trivandrum,19:05,"PVRLULULuluInternationalShoppingMallTrivandrum|93e3",Recliner,₹400,8,1,Hindi,2D
