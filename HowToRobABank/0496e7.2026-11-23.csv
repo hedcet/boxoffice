@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Ernakulam,14:20,"PVRLuluLuluInternationalShoppingMallKochi|8d1f",Classic,₹350,116,18,English,4DX2D
+Trivandrum,16:25,"PVRLULULuluInternationalShoppingMallTrivandrum|d0d4",Classic,₹400,48,0,English,4DX2D
+Trivandrum,16:25,"PVRLULULuluInternationalShoppingMallTrivandrum|d0d4",Prime,₹450,32,0,English,4DX2D
+Trivandrum,19:45,"CinepolisMOTEanchakkalThiruvananthapuram|1446",PlatinumPremium,₹250,25,0,English,2D
+Trivandrum,19:45,"CinepolisMOTEanchakkalThiruvananthapuram|1446",PlatinumExecutive,₹200,32,0,English,2D
