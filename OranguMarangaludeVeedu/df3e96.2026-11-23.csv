@@ -1,0 +1,12 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,11:00,"One2OnePlusFilmCity4K3DDolbyAtmosVadakara|3105",Screen2,₹129.8,164,0,Malayalam,2D
+Kozhikode,11:30,"KairaliSreeTheatreKozhikode|4448",SreeGold,₹165,263,0,Malayalam,2D
+Trivandrum,18:00,"KairaliSreeNilaRGBLaser4KDolbyAtmos|c31e",Platinum,₹140,254,4,Malayalam,2D
+Alappuzha,18:30,"CherthalaKairaliSreeTheatre|58df",Platinum,₹140,270,1,Malayalam,2D
+Ernakulam,19:00,"KairaliSreeTheaterNorthParvur|6187",Platinum,₹120,195,2,Malayalam,2D
+Kozhikode,19:10,"KairaliSreeTheatreKozhikode|2a13",Platinum,₹200,131,4,Malayalam,2D
+Kozhikode,19:10,"KairaliSreeTheatreKozhikode|2a13",Gold,₹165,359,1,Malayalam,2D
+Thrissur,19:30,"KairaliSreeRGBLaser4KDolbyAtmosThrissur|accd",Platinum,₹200,38,2,Malayalam,2D
+Thrissur,19:30,"KairaliSreeRGBLaser4KDolbyAtmosThrissur|accd",Executive,₹125,230,5,Malayalam,2D
+Trivandrum,20:00,"CinepolisMOTEanchakkalThiruvananthapuram|eb97",VipPremium,₹300,12,0,Malayalam,2D
+Trivandrum,20:00,"CinepolisMOTEanchakkalThiruvananthapuram|eb97",VipExecutive,₹250,18,0,Malayalam,2D
