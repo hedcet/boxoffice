@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,13:10,"PVRLULULuluInternationalShoppingMallTrivandrum|8890",ReclinerRows,₹400,8,0,English,2D
+Trivandrum,13:10,"PVRLULULuluInternationalShoppingMallTrivandrum|8890",ClassicRows,₹180,65,9,English,2D
+Trivandrum,13:10,"PVRLULULuluInternationalShoppingMallTrivandrum|8890",PrimeRows,₹210,34,6,English,2D
+Ernakulam,15:55,"PVRForumMallNH47Kochi|46ef",Classic,₹170,22,0,English,2D
+Ernakulam,15:55,"PVRForumMallNH47Kochi|46ef",Elite,₹210,85,12,English,2D
