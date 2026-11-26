@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,14:10,"CinepolisMOTEanchakkalThiruvananthapuram|435d",VipPremium,₹300,18,7,Telugu,2D
+Trivandrum,14:10,"CinepolisMOTEanchakkalThiruvananthapuram|435d",VipExecutive,₹250,18,0,Telugu,2D
+Ernakulam,16:25,"CinepolisCentreSquareMallErnakulamKochi|3396",Normal,₹210,13,0,Telugu,2D
+Ernakulam,16:25,"CinepolisCentreSquareMallErnakulamKochi|3396",Executive,₹230,26,0,Telugu,2D
+Ernakulam,16:25,"CinepolisCentreSquareMallErnakulamKochi|3396",Premium,₹250,67,10,Telugu,2D
