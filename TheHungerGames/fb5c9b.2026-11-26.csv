@@ -1,0 +1,16 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kozhikode,13:30,"PalaxiCinemasHiLITEMALLKozhikode|2ee8",Recliner,₹480,18,1,English,2D
+Kozhikode,13:30,"PalaxiCinemasHiLITEMALLKozhikode|2ee8",Premium,₹260,136,4,English,2D
+Kozhikode,13:30,"PalaxiCinemasHiLITEMALLKozhikode|2ee8",Executive,₹180,15,2,English,2D
+Kozhikode,13:30,"PalaxiCinemasHiLITEMALLKozhikode|2ee8",Lounger,₹280,12,0,English,2D
+Ernakulam,13:40,"CinepolisCentreSquareMallErnakulamKochi|afa7",Normal,₹300,10,0,English,IMAX2D
+Ernakulam,13:40,"CinepolisCentreSquareMallErnakulamKochi|afa7",Executive,₹300,54,1,English,IMAX2D
+Ernakulam,13:40,"CinepolisCentreSquareMallErnakulamKochi|afa7",Premium,₹300,58,10,English,IMAX2D
+Ernakulam,13:40,"CinepolisCentreSquareMallErnakulamKochi|afa7",PremiumXl,₹300,18,5,English,IMAX2D
+Ernakulam,13:40,"CinepolisCentreSquareMallErnakulamKochi|afa7",PremiumPlus,₹300,86,26,English,IMAX2D
+Ernakulam,14:55,"PVRLuluLuluInternationalShoppingMallKochi|b0ff",Classic,₹300,116,26,English,4DX2D
+Trivandrum,16:05,"PVRLULULuluInternationalShoppingMallTrivandrum|efe6",ReclinerRows,₹500,8,5,English,2D
+Trivandrum,16:05,"PVRLULULuluInternationalShoppingMallTrivandrum|efe6",ClassicRows,₹180,65,14,English,2D
+Trivandrum,16:05,"PVRLULULuluInternationalShoppingMallTrivandrum|efe6",PrimeRows,₹250,34,12,English,2D
+Trivandrum,18:50,"PVRLULULuluInternationalShoppingMallTrivandrum|6809",Classic,₹500,48,14,English,4DX2D
+Trivandrum,18:50,"PVRLULULuluInternationalShoppingMallTrivandrum|6809",Prime,₹450,32,15,English,4DX2D
