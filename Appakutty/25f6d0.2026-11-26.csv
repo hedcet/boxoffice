@@ -1,0 +1,10 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,"VrindavanTheatreKozhinjampara|f147",FirstClass,₹129.8,185,10,Tamil,2D
+Palakkad,11:30,"AromaScreen2Palakkad|01f7",KingCircle,₹129.8,235,235,Tamil,2D
+Palakkad,14:00,"VrindavanTheatreKozhinjampara|5377",FirstClass,₹129.8,185,6,Tamil,2D
+Palakkad,21:00,"VrindavanTheatreKozhinjampara|8e31",FirstClass,₹129.8,185,9,Tamil,2D
+Malappuram,11:00,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|25e0",DiamondCircle,₹105,143,0,Tamil,2D
+Palakkad,14:00,"GowryMovieHouseKollengode|c594",FirstClass,₹120,129,1,Tamil,2D
+Malappuram,14:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|1465",DiamondCircle,₹105,143,0,Tamil,2D
+Malappuram,18:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|f939",DiamondCircle,₹105,143,0,Tamil,2D
+Malappuram,21:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|c132",DiamondCircle,₹105,143,0,Tamil,2D
