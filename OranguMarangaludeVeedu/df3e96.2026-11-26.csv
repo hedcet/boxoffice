@@ -1,0 +1,4 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,18:00,"KairaliSreeNilaRGBLaser4KDolbyAtmos|5fb7",Platinum,₹140,254,4,Malayalam,2D
+Thrissur,19:30,"KairaliSreeRGBLaser4KDolbyAtmosThrissur|1950",Platinum,₹200,38,0,Malayalam,2D
+Thrissur,19:30,"KairaliSreeRGBLaser4KDolbyAtmosThrissur|1950",Executive,₹125,230,0,Malayalam,2D
