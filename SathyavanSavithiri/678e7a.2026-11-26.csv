@@ -1,0 +1,13 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Palakkad,11:00,"VrindavanTheatreKozhinjampara|94d2",Balcony,₹150,33,33,Tamil,2D
+Palakkad,11:00,"VrindavanTheatreKozhinjampara|94d2",FirstClass,₹120,152,5,Tamil,2D
+Palakkad,14:00,"VrindavanTheatreKozhinjampara|1536",Balcony,₹150,33,33,Tamil,2D
+Palakkad,14:00,"VrindavanTheatreKozhinjampara|1536",FirstClass,₹120,152,7,Tamil,2D
+Palakkad,14:30,"AromaScreen2Palakkad|8df2",KingCircle,₹129.8,235,0,Tamil,2D
+Palakkad,18:00,"VrindavanTheatreKozhinjampara|b97e",Balcony,₹150,33,33,Tamil,2D
+Palakkad,18:00,"VrindavanTheatreKozhinjampara|b97e",FirstClass,₹120,152,7,Tamil,2D
+Palakkad,21:00,"VrindavanTheatreKozhinjampara|2cc4",Balcony,₹150,33,33,Tamil,2D
+Palakkad,21:00,"VrindavanTheatreKozhinjampara|2cc4",FirstClass,₹120,152,7,Tamil,2D
+Trivandrum,19:25,"PVRLULULuluInternationalShoppingMallTrivandrum|73b4",Classic,₹190,70,7,Tamil,2D
+Trivandrum,19:25,"PVRLULULuluInternationalShoppingMallTrivandrum|73b4",Prime,₹250,51,17,Tamil,2D
+Trivandrum,19:25,"PVRLULULuluInternationalShoppingMallTrivandrum|73b4",Recliner,₹500,7,7,Tamil,2D
