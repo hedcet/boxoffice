@@ -1,0 +1,11 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Kasaragod,10:30,"MagicFramesMehboobTheatreComplex4KKasaragod|0b79",Executive,₹129.7,121,16,Tamil,2D
+Trivandrum,11:00,"SriKalidasMPlex4KRGBLaserAtmosKattakkada|26e2",Sofa,₹200,4,0,Tamil,2D
+Trivandrum,11:00,"SriKalidasMPlex4KRGBLaserAtmosKattakkada|26e2",Gold,₹180,173,0,Tamil,2D
+Trivandrum,11:00,"SreeKaleeswarySreeSaraswathy2K3DKaliyikkav|c54f",RoyalCircle,₹160,161,0,Tamil,2D
+Palakkad,11:00,"VrindavanTheatreKozhinjampara|2921",Balcony,₹150,33,8,Tamil,2D
+Palakkad,11:00,"VrindavanTheatreKozhinjampara|2921",FirstClass,₹120,152,0,Tamil,2D
+Palakkad,11:30,"VCinemasSreeDeviDurga4KRGBLaserDolbyAtmos|71eb",Standard,₹129.8,126,0,Tamil,2D
+Trivandrum,23:00,"AriesplexSLCinemasCinionicDolbyAtmos|1d41",Executive,₹105,70,10,Tamil,2D
+Malappuram,11:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|6821",DiamondCircle,₹105,181,0,Tamil,2D
+Malappuram,14:30,"NaxaPopularFilmCity4K3DDolbyAtmosPerinthalmannaRoadValanchery|1686",DiamondCircle,₹105,181,0,Tamil,2D
