@@ -1,0 +1,6 @@
+City,Time(IST),Name,Area,Price,Capacity,Booked,Language,Format
+Trivandrum,18:00,"IMPBigScreenRGBLaser3DATMOSPadanthalumoodu|f634",UniqueCircle,₹150,370,28,Tamil,2D
+Trivandrum,21:00,"IMPBigScreenRGBLaser3DATMOSPadanthalumoodu|16c6",UniqueCircle,₹150,370,25,Tamil,2D
+Trivandrum,13:15,"PVRLULULuluInternationalShoppingMallTrivandrum|8d09",ReclinerRows,₹450,8,0,Tamil,2D
+Trivandrum,13:15,"PVRLULULuluInternationalShoppingMallTrivandrum|8d09",ClassicRows,₹220,65,25,Tamil,2D
+Trivandrum,13:15,"PVRLULULuluInternationalShoppingMallTrivandrum|8d09",PrimeRows,₹250,34,32,Tamil,2D
